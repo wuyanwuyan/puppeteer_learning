@@ -592,9 +592,7 @@
     ]
   },
   {
-    "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Bloodlust_icon.png/16px-Bloodlust_icon.png?version=1d19488e9f64d3306fb93a4af0ce7df1",
-    "skillName": "Bloodlust",
-    "type": "skill"
+    "voices": []
   },
   {
     "text": "On cast",
@@ -1552,30 +1550,6 @@
       },
       {
         "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Ogmag_blink_03.mp3"
-        ],
-        "mp3Text": "Maybe now we can get out of each other's way.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Ogmag_blink_04.mp3"
-        ],
-        "mp3Text": "Maybe now we can get out of each other's way.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Ogmag_scepter_01.mp3"
         ],
         "mp3Text": "Scepter! Yes!",
@@ -1909,12 +1883,6 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Ogmag_bottle_03.mp3"
         ],
         "mp3Text": "My bottle. My cork."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Ogmag_bottle_04.mp3"
-        ],
-        "mp3Text": "Was that a rune? Not telling."
       }
     ]
   },
@@ -2602,124 +2570,6 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ogmag_happy_02.mp3"
         ],
         "mp3Text": "Ah!"
-      }
-    ]
-  },
-  {
-    "headTitle": "Misc",
-    "type": "title"
-  },
-  {
-    "text": "Failure",
-    "type": "subTitle"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Ogmag_ability_failure_01.mp3"
-        ],
-        "mp3Text": "Hey! Oh…what?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Ogmag_ability_failure_02.mp3"
-        ],
-        "mp3Text": "What did you do? Me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Ogmag_ability_failure_03.mp3"
-        ],
-        "mp3Text": "What did you do? Me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_ability_failure_04.mp3"
-        ],
-        "mp3Text": "That was your fault. Mine?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Ogmag_ability_failure_05.mp3"
-        ],
-        "mp3Text": "That was your fault. Mine?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Ogmag_ability_failure_06.mp3"
-        ],
-        "mp3Text": "That was all your fault. I guess."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Ogmag_ability_failure_07.mp3"
-        ],
-        "mp3Text": "That was all your fault. I--I guess."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Ogmag_ability_failure_08.mp3"
-        ],
-        "mp3Text": "Double damn it! Now now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Ogmag_ability_failure_09.mp3"
-        ],
-        "mp3Text": "Double damn it! Now now."
-      }
-    ]
-  },
-  {
-    "text": "Wizard",
-    "type": "subTitle"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Ogmag_shitwiz_01.mp3"
-        ],
-        "mp3Text": "!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Ogmag_crumwiz_01.mp3"
-        ],
-        "mp3Text": "Crummy wizard!"
-      }
-    ]
-  },
-  {
-    "text": "Anger",
-    "type": "subTitle"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Ogmag_anger_01.mp3"
-        ],
-        "mp3Text": "Arrh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Ogmag_anger_02.mp3"
-        ],
-        "mp3Text": "Ack ack ach! No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_anger_03.mp3"
-        ],
-        "mp3Text": "Arrurrruh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Ogmag_anger_05.mp3"
-        ],
-        "mp3Text": "Arrrrggghhh!"
       }
     ]
   }
