@@ -1,5 +1,15 @@
 [
   {
+    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6f/Michael_Gregory.jpg/100px-Michael_Gregory.jpg?version=127fa67fd9097dae45a356f3e38a315c",
+    "actor": "Michael Gregory",
+    "actorUrl": "http://en.wikipedia.org/wiki/Michael_Gregory_(actor)",
+    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/20px-Bounty_Hunter_minimap_icon.png?version=cef46bdaa1f50f27f06ddf4634eccccc",
+    "heroName": "Bounty Hunter",
+    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Bounty_Hunter_icon.png?version=c253ae6a233da5048627e5e844a64b05",
+    "primaryAttribute": "Agility",
+    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/bountyhunter.png"
+  },
+  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -182,10 +192,6 @@
     "type": "title"
   },
   {
-    "text": "6 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -286,10 +292,6 @@
     ]
   },
   {
-    "text": "2% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -314,10 +316,6 @@
   {
     "headTitle": "Attacking",
     "type": "title"
-  },
-  {
-    "text": "6 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -396,10 +394,6 @@
     ]
   },
   {
-    "text": "2% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -418,10 +412,6 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
-  },
-  {
-    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -459,10 +449,6 @@
     "type": "middle"
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -486,10 +472,6 @@
   {
     "text": "On cast",
     "type": "middle"
-  },
-  {
-    "text": "75% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -612,10 +594,6 @@
     "type": "middle"
   },
   {
-    "text": "10% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -730,10 +708,6 @@
         "mp3Text": "Ah ha ha ha ha ha ha ha ha!"
       }
     ]
-  },
-  {
-    "text": "2% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -934,10 +908,6 @@
     ]
   },
   {
-    "text": "2% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -964,286 +934,190 @@
     "type": "subTitle"
   },
   {
-    "text": "20% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bount_rival_02.mp3"
         ],
         "mp3Text": "See, Huskar, no need to rush it.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Huskar_minimap_icon.png/16px-Huskar_minimap_icon.png?version=51d08f00c3c75931bef5c49588ae9cc2",
-            "name": "Huskar"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Huskar_minimap_icon.png/16px-Huskar_minimap_icon.png?version=51d08f00c3c75931bef5c49588ae9cc2",
+        "name": "Huskar"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Bount_rival_03.mp3"
         ],
         "mp3Text": "My blades made you sing.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-            "name": "Queen of Pain"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+        "name": "Queen of Pain"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Bount_rival_04.mp3"
         ],
         "mp3Text": "Only cowards hunt from a distance.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-            "name": "Sniper"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+        "name": "Sniper"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bount_rival_05.mp3"
         ],
         "mp3Text": "The price on a god's head is immeasurable.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
-            "name": "Zeus"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
+        "name": "Zeus"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bount_rival_06.mp3"
         ],
         "mp3Text": "Alive or dead, Skeleton King. Pick one.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
-            "name": "Skeleton King"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
+        "name": "Skeleton King"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Bount_rival_07.mp3"
         ],
         "mp3Text": "You're wanted dead or alive. I don't know which you are but I'll collect your bounty all the same.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Bount_rival_08.mp3"
         ],
         "mp3Text": "No more hiding behind your friends, Vengeful.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Bount_rival_09.mp3"
         ],
         "mp3Text": "I'll cut your bowstring, Drow.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
-            "name": "Drow Ranger"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
+        "name": "Drow Ranger"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Bount_rival_10.mp3"
         ],
         "mp3Text": "Ah, Spectre, my toughest bounty.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Spectre_minimap_icon.png/16px-Spectre_minimap_icon.png?version=b11f82f2497b72456bd0dbf72512c527",
-            "name": "Spectre"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Spectre_minimap_icon.png/16px-Spectre_minimap_icon.png?version=b11f82f2497b72456bd0dbf72512c527",
+        "name": "Spectre"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Bount_rival_11.mp3"
         ],
         "mp3Text": "Two bounties for one!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-            "name": "Alchemist"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+        "name": "Alchemist"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Bount_rival_12.mp3"
         ],
         "mp3Text": "Assassin, your ways have earned you a bounty on your head.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Phantom_Assassin_minimap_icon.png/16px-Phantom_Assassin_minimap_icon.png?version=83f09a1d264b361dd9f2403f86ca7594",
-            "name": "Phantom Assassin"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Phantom_Assassin_minimap_icon.png/16px-Phantom_Assassin_minimap_icon.png?version=83f09a1d264b361dd9f2403f86ca7594",
+        "name": "Phantom Assassin"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Bount_rival_13.mp3"
         ],
         "mp3Text": "Nyx, you've disposed of your last victim.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
-            "name": "Nyx Assassin"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
+        "name": "Nyx Assassin"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Bount_rival_01.mp3"
         ],
         "mp3Text": "I've collected all five bounties!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
-            "name": "Meepo"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
+        "name": "Meepo"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Bount_rival_14.mp3"
         ],
         "mp3Text": "Hold still, Geomancer!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
-            "name": "Meepo"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
+        "name": "Meepo"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bount_rival_15.mp3"
         ],
         "mp3Text": "How many of you do I have to kill?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
-            "name": "Phantom Lancer"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
+        "name": "Phantom Lancer"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Bount_rival_16.mp3"
         ],
         "mp3Text": "You may fool others, but not me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Bount_rival_17.mp3"
         ],
         "mp3Text": "Riki, I've always known you were a backstabber.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Bount_rival_18.mp3"
         ],
         "mp3Text": "Impressive technique, Riki, but not enough.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Bount_rival_23.mp3"
         ],
         "mp3Text": "See, two can play at that game.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bount_rival_19.mp3"
         ],
         "mp3Text": "Not stealthy enough, Mirana.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Bount_rival_20.mp3"
         ],
         "mp3Text": "The Tidehunter becomes the hunted.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-            "name": "Tidehunter"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+        "name": "Tidehunter"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Bount_rival_22.mp3"
         ],
         "mp3Text": "You can't hide in your web forever.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
-            "name": "Broodmother"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+        "name": "Broodmother"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Bount_rival_21.mp3"
         ],
         "mp3Text": "Let me do that for you, Phoenix.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
       }
     ]
   },
@@ -1276,106 +1150,70 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Bount_ally_01.mp3"
         ],
         "mp3Text": "Ah, subtle Mirana.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Bount_ally_02.mp3"
         ],
         "mp3Text": "Help me seek them out, Drow.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
-            "name": "Drow Ranger"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
+        "name": "Drow Ranger"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Bount_ally_03.mp3"
         ],
         "mp3Text": "Tidehunter, let us hunt together.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-            "name": "Tidehunter"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+        "name": "Tidehunter"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bount_ally_04.mp3"
         ],
         "mp3Text": "Rikimaru, I didn't see you join us.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bount_ally_05.mp3"
         ],
         "mp3Text": "Riki, let's sneak up on them together.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Bount_ally_06.mp3"
         ],
         "mp3Text": "Cover me, Sniper.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-            "name": "Sniper"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+        "name": "Sniper"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bount_ally_07.mp3"
         ],
         "mp3Text": "Lay the trap, Templar Assassin.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Templar_Assassin_minimap_icon.png/16px-Templar_Assassin_minimap_icon.png?version=c2d82254929a226400f5b402a365324b",
-            "name": "Templar Assassin"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Templar_Assassin_minimap_icon.png/16px-Templar_Assassin_minimap_icon.png?version=c2d82254929a226400f5b402a365324b",
+        "name": "Templar Assassin"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Bount_ally_08.mp3"
         ],
         "mp3Text": "Nyx, show me what you can do.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
-            "name": "Nyx Assassin"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
+        "name": "Nyx Assassin"
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
-  },
-  {
-    "text": "60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -1436,10 +1274,6 @@
     ]
   },
   {
-    "text": "2% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1452,10 +1286,6 @@
   {
     "headTitle": "Denying",
     "type": "title"
-  },
-  {
-    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -1534,10 +1364,6 @@
     ]
   },
   {
-    "text": "2% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1584,180 +1410,120 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Bount_blink_01.mp3"
         ],
         "mp3Text": "Ah, Blink Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Bount_blink_02.mp3"
         ],
         "mp3Text": "Another blade for my repertoire.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Bount_blink_03.mp3"
         ],
         "mp3Text": "Now there's nowhere left to hide.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Bount_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Bount_scepter_02.mp3"
         ],
         "mp3Text": "Worth every penny.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Bount_item_01.mp3"
         ],
         "mp3Text": "Black King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bount_item_02.mp3"
         ],
         "mp3Text": "Sange and Yasha!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
-            "name": "Sange and Yasha (4300)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
+        "name": "Sange and Yasha (4300)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Bount_item_03.mp3"
         ],
         "mp3Text": "Butterfly!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Bount_item_04.mp3"
         ],
         "mp3Text": "Monkey King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-            "name": "Monkey King Bar (4175)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+        "name": "Monkey King Bar (4175)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Bount_item_05.mp3"
         ],
         "mp3Text": "Desolator!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-            "name": "Desolator (3500)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+        "name": "Desolator (3500)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Bount_item_06.mp3"
         ],
         "mp3Text": "Vladmir!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
-            "name": "Vladmir's Offering (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
+        "name": "Vladmir's Offering (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Bount_item_07.mp3"
         ],
         "mp3Text": "Demon Edge! Another edge for my collection.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/ba/Demon_Edge_icon.png/20px-Demon_Edge_icon.png?version=39af92d9ed42d7a979438c5a314c8340",
-            "name": "Demon Edge (2200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/ba/Demon_Edge_icon.png/20px-Demon_Edge_icon.png?version=39af92d9ed42d7a979438c5a314c8340",
+        "name": "Demon Edge (2200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Bount_item_08.mp3"
         ],
         "mp3Text": "Divine Rapier.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
-            "name": "Divine Rapier (6000)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
+        "name": "Divine Rapier (6000)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bount_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Bount_immort_02.mp3"
         ],
         "mp3Text": "Good luck stopping me now.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1828,10 +1594,6 @@
         "mp3Text": "I had it coming."
       }
     ]
-  },
-  {
-    "text": "2% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2043,10 +1805,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2099,10 +1857,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2134,10 +1888,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2161,10 +1911,6 @@
         "mp3Text": "Regeneration!"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2345,10 +2091,6 @@
     "type": "title"
   },
   {
-    "text": "3 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2413,10 +2155,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2453,10 +2191,6 @@
     "type": "subTitle"
   },
   {
-    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2475,10 +2209,6 @@
   {
     "text": "Laughing",
     "type": "subTitle"
-  },
-  {
-    "text": "/laugh, haha, lol, 15 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [

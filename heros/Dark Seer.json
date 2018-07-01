@@ -1,5 +1,15 @@
 [
   {
+    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/de/John_Patrick_Lowrie.jpg/100px-John_Patrick_Lowrie.jpg?version=b180f403ec1d0e3c44d907dcdcde7cb3",
+    "actor": "John Patrick Lowrie",
+    "actorUrl": "http://en.wikipedia.org/wiki/John_Patrick_Lowrie",
+    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/20px-Dark_Seer_minimap_icon.png?version=0ec0e696d2c614e170c07c47713ba40f",
+    "heroName": "Dark Seer",
+    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Dark_Seer_icon.png?version=7dd1426c0aa707c5f83fd09dda780f75",
+    "primaryAttribute": "Intelligence",
+    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/darkseer.png"
+  },
+  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -188,10 +198,6 @@
     "type": "title"
   },
   {
-    "text": "6 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -302,10 +308,6 @@
     "type": "title"
   },
   {
-    "text": "6 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -392,80 +394,52 @@
     "type": "subTitle"
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Dkseer_rival_06.mp3"
         ],
         "mp3Text": "Phantom Lancer, I've seen your end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
-            "name": "Phantom Lancer"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
+        "name": "Phantom Lancer"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Dkseer_rival_07.mp3"
         ],
         "mp3Text": "Axe, I've seen your end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Dkseer_rival_08.mp3"
         ],
         "mp3Text": "Viper, I've seen your end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
-            "name": "Viper"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
+        "name": "Viper"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Dkseer_rival_09.mp3"
         ],
         "mp3Text": "Shadow Shaman, I've seen your end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
-            "name": "Shadow Shaman"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
+        "name": "Shadow Shaman"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Dkseer_rival_10.mp3"
         ],
         "mp3Text": "Slithice, I've seen your end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
-            "name": "Naga Siren"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
+        "name": "Naga Siren"
       }
     ]
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
-  },
-  {
-    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -528,10 +502,6 @@
   {
     "text": "On cast",
     "type": "middle"
-  },
-  {
-    "text": "50% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -774,44 +744,28 @@
     "type": "subTitle"
   },
   {
-    "text": "50% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Dkseer_rival_03.mp3"
         ],
         "mp3Text": "Tiny, I'll build a wall from your stones.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Dkseer_rival_04.mp3"
         ],
         "mp3Text": "Faceless, now lifeless.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
       }
     ]
   },
   {
     "text": "First Blood",
     "type": "subTitle"
-  },
-  {
-    "text": "80% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -822,10 +776,6 @@
         "mp3Text": "I cannot believe that worked."
       }
     ]
-  },
-  {
-    "text": "20% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -840,10 +790,6 @@
   {
     "headTitle": "Last hitting",
     "type": "title"
-  },
-  {
-    "text": "60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -906,10 +852,6 @@
   {
     "headTitle": "Denying",
     "type": "title"
-  },
-  {
-    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -1000,132 +942,88 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Dkseer_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Dkseer_blink_02.mp3"
         ],
         "mp3Text": "Ah, the deadly dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Dkseer_blink_03.mp3"
         ],
         "mp3Text": "A weapon worth having.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Dkseer_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Dkseer_scepter_02.mp3"
         ],
         "mp3Text": "Exceptional scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Dkseer_item_01.mp3"
         ],
         "mp3Text": "Vanguard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-            "name": "Vanguard (2150)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+        "name": "Vanguard (2150)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Dkseer_item_02.mp3"
         ],
         "mp3Text": "Ah, Shiva's guard at last.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Dkseer_item_03.mp3"
         ],
         "mp3Text": "Sheepstick.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Dkseer_item_04.mp3"
         ],
         "mp3Text": "Ah, radiance.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-            "name": "Radiance (5150)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+        "name": "Radiance (5150)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Dkseer_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Dkseer_immort_02.mp3"
         ],
         "mp3Text": "Long live the darkling seer.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1214,28 +1112,16 @@
     "type": "subTitle"
   },
   {
-    "text": "35% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Dkseer_rival_01.mp3"
         ],
         "mp3Text": "Couldn't see the forest…for the trees.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
       }
     ]
-  },
-  {
-    "text": "20% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1244,12 +1130,8 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Dkseer_rival_02.mp3"
         ],
         "mp3Text": "Shot in the…dark.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-            "name": "Sniper"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+        "name": "Sniper"
       }
     ]
   },
@@ -1411,10 +1293,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1482,10 +1360,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1509,10 +1383,6 @@
         "mp3Text": "Regeneration!"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1693,10 +1563,6 @@
     "type": "title"
   },
   {
-    "text": "3 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1767,10 +1633,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1837,10 +1699,6 @@
     "type": "subTitle"
   },
   {
-    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1859,10 +1717,6 @@
   {
     "text": "Laughing",
     "type": "subTitle"
-  },
-  {
-    "text": "/laugh, haha, lol, 15 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [

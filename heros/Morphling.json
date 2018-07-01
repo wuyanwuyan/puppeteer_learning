@@ -1,5 +1,15 @@
 [
   {
+    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e4/David_Scully.jpg/100px-David_Scully.jpg?version=81a86b1130f2a8a0e1b03732100efad2",
+    "actor": "David Scully",
+    "actorUrl": "http://en.wikipedia.org/wiki/David_Scully_(actor)",
+    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/20px-Morphling_minimap_icon.png?version=df552b0e833e70a436586ab6f4a5f046",
+    "heroName": "Morphling",
+    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Morphling_icon.png?version=e3fb6a35e9420dff83b5bcf3015a816c",
+    "primaryAttribute": "Agility",
+    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/morphling.png"
+  },
+  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -176,10 +186,6 @@
     "type": "title"
   },
   {
-    "text": "6 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -278,10 +284,6 @@
     "type": "title"
   },
   {
-    "text": "6 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -348,10 +350,6 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
-  },
-  {
-    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -641,70 +639,46 @@
     "type": "subTitle"
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Mrph_rival_01.mp3"
         ],
         "mp3Text": "Necrolyte, you're all washed up!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
-            "name": "Necrophos"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
+        "name": "Necrophos"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Mrph_rival_02.mp3"
         ],
         "mp3Text": "Lina, how I love to quench your flames!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Mrph_rival_03.mp3"
         ],
         "mp3Text": "You'll never freeze me, Crystal Maiden!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-            "name": "Crystal Maiden"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+        "name": "Crystal Maiden"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Mrph_rival_04.mp3"
         ],
         "mp3Text": "I know where you live, Tidehunter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-            "name": "Tidehunter"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+        "name": "Tidehunter"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Mrph_rival_05.mp3"
         ],
         "mp3Text": "Back to the deeps with you, Slardar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-            "name": "Slardar"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+        "name": "Slardar"
       }
     ]
   },
@@ -731,10 +705,6 @@
   {
     "headTitle": "Last hitting",
     "type": "title"
-  },
-  {
-    "text": "60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -791,10 +761,6 @@
   {
     "headTitle": "Denying",
     "type": "title"
-  },
-  {
-    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -921,114 +887,74 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Mrph_scepter_01.mp3"
         ],
         "mp3Text": "Ah, Scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Mrph_scepter_02.mp3"
         ],
         "mp3Text": "Heh, Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Mrph_blink_01.mp3"
         ],
         "mp3Text": "Blink Dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Mrph_blink_02.mp3"
         ],
         "mp3Text": "Dagger swifter than a spring torrent.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Mrph_item_01.mp3"
         ],
         "mp3Text": "Ethereal Blade!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
-            "name": "Ethereal Blade (4700)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
+        "name": "Ethereal Blade (4700)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Mrph_item_02.mp3"
         ],
         "mp3Text": "Butterfly!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Mrph_item_03.mp3"
         ],
         "mp3Text": "Manta!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-            "name": "Manta Style (4800)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+        "name": "Manta Style (4800)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Mrph_item_04.mp3"
         ],
         "mp3Text": "Linken's sphere.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Mrph_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1037,12 +963,8 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Mrph_immort_02.mp3"
         ],
         "mp3Text": "Life springs eternal!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1272,10 +1194,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1343,10 +1261,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1370,10 +1284,6 @@
         "mp3Text": "Regeneration!"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1554,10 +1464,6 @@
     "type": "title"
   },
   {
-    "text": "3 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1628,10 +1534,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1674,10 +1576,6 @@
     "type": "subTitle"
   },
   {
-    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1696,10 +1594,6 @@
   {
     "text": "Laughing",
     "type": "subTitle"
-  },
-  {
-    "text": "/laugh, haha, lol, 15 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
