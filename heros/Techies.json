@@ -1,5 +1,25 @@
 [
   {
+    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/de/Dee_Bradley_Baker.jpg/100px-Dee_Bradley_Baker.jpg?version=03f3e77125c98811813ffd759385f254",
+    "actor": "Dee Bradley Baker",
+    "actorUrl": "http://en.wikipedia.org/wiki/Dee_Bradley_Baker",
+    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/20px-Techies_minimap_icon.png?version=61ef8b8ada60931c434fc1f5a0af4e44",
+    "heroName": "Techies",
+    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Techies_icon.png?version=d569a7a603435cef0701433b337010f4",
+    "primaryAttribute": "Intelligence",
+    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/techies.png"
+  },
+  {
+    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/de/Dee_Bradley_Baker.jpg/100px-Dee_Bradley_Baker.jpg?version=03f3e77125c98811813ffd759385f254",
+    "actor": "Dee Bradley Baker",
+    "actorUrl": "http://en.wikipedia.org/wiki/Dee_Bradley_Baker",
+    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/20px-Techies_minimap_icon.png?version=61ef8b8ada60931c434fc1f5a0af4e44",
+    "heroName": "Techies",
+    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Techies_icon.png?version=d569a7a603435cef0701433b337010f4",
+    "primaryAttribute": "Intelligence",
+    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/techies.png"
+  },
+  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -192,10 +212,6 @@
   {
     "headTitle": "Moving",
     "type": "title"
-  },
-  {
-    "text": "6 seconds cooldown",
-    "type": "small"
   },
   {
     "text": "Squee",
@@ -512,10 +528,6 @@
   {
     "headTitle": "Attacking",
     "type": "title"
-  },
-  {
-    "text": "6 seconds cooldown",
-    "type": "small"
   },
   {
     "text": "Squee",
@@ -981,10 +993,6 @@
     "type": "middle"
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1062,10 +1070,6 @@
   {
     "text": "On cast",
     "type": "middle"
-  },
-  {
-    "text": "75% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1237,10 +1241,6 @@
     ]
   },
   {
-    "text": "15% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1275,10 +1275,6 @@
         "mp3Text": "Oh crap!"
       }
     ]
-  },
-  {
-    "text": "15% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1416,10 +1412,6 @@
     ]
   },
   {
-    "text": "1% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1499,10 +1491,6 @@
   {
     "text": "Killing enemy",
     "type": "middle"
-  },
-  {
-    "text": "15% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1609,10 +1597,6 @@
         "mp3Text": "And that is why I wake up in the morning!"
       }
     ]
-  },
-  {
-    "text": "5% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1733,10 +1717,6 @@
         "mp3Text": "Ha ha ha ha ha ha!"
       }
     ]
-  },
-  {
-    "text": "5% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -1883,10 +1863,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -1911,10 +1887,6 @@
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
-  },
-  {
-    "text": "20% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2017,10 +1989,6 @@
     ]
   },
   {
-    "text": "3% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2055,10 +2023,6 @@
         "mp3Text": "First blood! Start with a bang!"
       }
     ]
-  },
-  {
-    "text": "10% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2171,10 +2135,6 @@
     "type": "title"
   },
   {
-    "text": "60 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2281,10 +2241,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2297,10 +2253,6 @@
   {
     "headTitle": "Denying",
     "type": "title"
-  },
-  {
-    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
-    "type": "small"
   },
   {
     "voices": [
@@ -2701,10 +2653,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -2719,10 +2667,6 @@
         ]
       }
     ]
-  },
-  {
-    "text": "20% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2787,10 +2731,6 @@
         ]
       }
     ]
-  },
-  {
-    "text": "15% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -2961,10 +2901,6 @@
         "mp3Text": "Welcome back, guys."
       }
     ]
-  },
-  {
-    "text": "75% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -3156,10 +3092,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -3189,10 +3121,6 @@
         "mp3Text": "Haste!"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -3232,10 +3160,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -3273,10 +3197,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -3306,10 +3226,6 @@
         "mp3Text": "Regeneration!"
       }
     ]
-  },
-  {
-    "text": "25% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -3598,10 +3514,6 @@
     "type": "title"
   },
   {
-    "text": "3 seconds cooldown",
-    "type": "small"
-  },
-  {
     "text": "Squee",
     "type": "middle"
   },
@@ -3884,10 +3796,6 @@
     ]
   },
   {
-    "text": "25% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -3992,10 +3900,6 @@
     "type": "subTitle"
   },
   {
-    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -4036,10 +3940,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -4064,10 +3964,6 @@
   {
     "text": "Laughing",
     "type": "subTitle"
-  },
-  {
-    "text": "/laugh, haha, lol, 15 seconds cooldown",
-    "type": "small"
   },
   {
     "text": "Squee",
@@ -4286,10 +4182,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -4338,10 +4230,6 @@
     ]
   },
   {
-    "text": "5% chance",
-    "type": "small"
-  },
-  {
     "voices": [
       {
         "mp3Url": [
@@ -4362,10 +4250,6 @@
         "mp3Text": "Phooey."
       }
     ]
-  },
-  {
-    "text": "3% chance",
-    "type": "small"
   },
   {
     "voices": [
@@ -4408,10 +4292,6 @@
         "mp3Text": "Is that for me? It's for all of us!"
       }
     ]
-  },
-  {
-    "text": "10% chance",
-    "type": "small"
   },
   {
     "voices": [
