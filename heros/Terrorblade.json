@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d9/David_Sobolov.png/100px-David_Sobolov.png.jpeg?version=0eb09a6076c6f33754b28f93cc6c311f",
-    "actor": "David Sobolov",
-    "actorUrl": "http://en.wikipedia.org/wiki/David_Sobolov",
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/20px-Terrorblade_minimap_icon.png?version=eaefe54a9c5d9716534363712b6faafc",
-    "heroName": "Terrorblade",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Terrorblade_icon.png?version=6a01419d3d254998577f10dd3de949cf",
-    "primaryAttribute": "Agility",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/terrorblade.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -224,6 +214,10 @@
   {
     "headTitle": "Moving",
     "type": "title"
+  },
+  {
+    "text": "6 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -653,6 +647,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -968,6 +966,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1007,6 +1009,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "20% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1053,6 +1059,10 @@
     ]
   },
   {
+    "text": "3% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1063,6 +1073,10 @@
         "mp3Text": "Your own worst enemy."
       }
     ]
+  },
+  {
+    "text": "1% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1084,6 +1098,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "20% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1122,6 +1140,10 @@
     ]
   },
   {
+    "text": "3% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1132,6 +1154,10 @@
         "mp3Text": "I'm beside myself."
       }
     ]
+  },
+  {
+    "text": "2% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1406,6 +1432,10 @@
         "mp3Text": "Sundered."
       }
     ]
+  },
+  {
+    "text": "3% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1712,6 +1742,10 @@
     "type": "subTitle"
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1720,8 +1754,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Terr_shards_rival_01.mp3"
         ],
         "mp3Text": "You sleep to dream; die to live again.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-        "name": "Bane"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+            "name": "Bane"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1730,8 +1768,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Terr_shards_rival_02.mp3"
         ],
         "mp3Text": "The devil's in the details.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1740,8 +1782,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Terr_shards_rival_03.mp3"
         ],
         "mp3Text": "He that burns, burns no more.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1750,8 +1796,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Terr_shards_rival_04.mp3"
         ],
         "mp3Text": "Your tongue is the only meat you'll eat.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1760,8 +1810,16 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Terr_shards_rival_05.mp3"
         ],
         "mp3Text": "The blood of martyrs bleeds just as red.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-        "name": "Omniknight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+            "name": "Omniknight"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1770,8 +1828,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Terr_shards_rival_10.mp3"
         ],
         "mp3Text": "Healer, your hypocrisy knew no bounds.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-        "name": "Omniknight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+            "name": "Omniknight"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1780,8 +1842,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Terr_shards_rival_11.mp3"
         ],
         "mp3Text": "Chen, I wearied of your sanctimony.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1790,8 +1856,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Terr_shards_rival_12.mp3"
         ],
         "mp3Text": "Chen, your beloved creatures shall feast on your corpse.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1800,8 +1870,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Terr_shards_rival_06.mp3"
         ],
         "mp3Text": "Down with false prophets.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-        "name": "Nature's Prophet"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+            "name": "Nature's Prophet"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1810,8 +1884,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Terr_shards_rival_07.mp3"
         ],
         "mp3Text": "You'll imprison no more in your ring of trees.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-        "name": "Nature's Prophet"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+            "name": "Nature's Prophet"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1820,8 +1898,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Terr_shards_rival_08.mp3"
         ],
         "mp3Text": "Slardar, time to cut bait.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1830,8 +1912,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Terr_shards_rival_09.mp3"
         ],
         "mp3Text": "All thieves hate the moon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8c/Luna_minimap_icon.png/16px-Luna_minimap_icon.png?version=193ed610bdb4b5ecd117b32f9719f3ec",
-        "name": "Luna"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8c/Luna_minimap_icon.png/16px-Luna_minimap_icon.png?version=193ed610bdb4b5ecd117b32f9719f3ec",
+            "name": "Luna"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1840,8 +1926,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Terr_shards_rival_13.mp3"
         ],
         "mp3Text": "Stillness is beauty; I render you beautiful.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
-        "name": "Medusa"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
+            "name": "Medusa"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1850,8 +1940,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Terr_shards_rival_27.mp3"
         ],
         "mp3Text": "Medusa, I always knew you'd turn tail.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
-        "name": "Medusa"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
+            "name": "Medusa"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1860,8 +1954,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Terr_shards_rival_14.mp3"
         ],
         "mp3Text": "I was the devil on your shoulder.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1870,8 +1968,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Terr_shards_rival_15.mp3"
         ],
         "mp3Text": "An angel falls.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1880,8 +1982,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Terr_shards_rival_16.mp3"
         ],
         "mp3Text": "Little keen, consider yourself hell bent.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
-        "name": "Clockwerk"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
+            "name": "Clockwerk"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1890,8 +1996,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Terr_shards_rival_17.mp3"
         ],
         "mp3Text": "Now you're the very soul of discretion.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1900,8 +2010,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Terr_shards_rival_18.mp3"
         ],
         "mp3Text": "Look who lost their soul.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1910,8 +2024,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Terr_shards_rival_19.mp3"
         ],
         "mp3Text": "Shadow Fiend, to lowest hell with you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1920,8 +2038,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Terr_shards_rival_20.mp3"
         ],
         "mp3Text": "You were a lost soul.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
-        "name": "Undying"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
+            "name": "Undying"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1930,8 +2052,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Terr_shards_rival_23.mp3"
         ],
         "mp3Text": "Stole your thunder.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
-        "name": "Zeus"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
+            "name": "Zeus"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1940,8 +2066,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Terr_shards_rival_24.mp3"
         ],
         "mp3Text": "I stalk all hours, not just the night.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-        "name": "Night Stalker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+            "name": "Night Stalker"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1950,8 +2080,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Terr_shards_rival_25.mp3"
         ],
         "mp3Text": "Your blood runs cold.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/57/Bloodseeker_minimap_icon.png/16px-Bloodseeker_minimap_icon.png?version=5a32a73c4ca5ad162ecbab42081acad2",
-        "name": "Bloodseeker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/57/Bloodseeker_minimap_icon.png/16px-Bloodseeker_minimap_icon.png?version=5a32a73c4ca5ad162ecbab42081acad2",
+            "name": "Bloodseeker"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1960,8 +2094,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Terr_shards_rival_26.mp3"
         ],
         "mp3Text": "Necrophos, your disease has run its course.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
-        "name": "Necrophos"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
+            "name": "Necrophos"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1970,8 +2108,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Terr_shards_rival_28.mp3"
         ],
         "mp3Text": "A lesser demon, you were.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
-        "name": "Shadow Demon"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
+            "name": "Shadow Demon"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1980,8 +2122,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Terr_shards_rival_29.mp3"
         ],
         "mp3Text": "You were quick Windranger, but not quick enough.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Windranger_minimap_icon.png/16px-Windranger_minimap_icon.png?version=fd41655eb4a848d263c42e723582a0ea",
-        "name": "Windranger"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Windranger_minimap_icon.png/16px-Windranger_minimap_icon.png?version=fd41655eb4a848d263c42e723582a0ea",
+            "name": "Windranger"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1990,8 +2136,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Terr_shards_rival_30.mp3"
         ],
         "mp3Text": "Did you see that coming, Oracle?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Oracle_minimap_icon.png/16px-Oracle_minimap_icon.png?version=e390a0a578043181ed2a222e375628eb",
-        "name": "Oracle"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Oracle_minimap_icon.png/16px-Oracle_minimap_icon.png?version=e390a0a578043181ed2a222e375628eb",
+            "name": "Oracle"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2000,8 +2150,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Terr_shards_rival_31.mp3"
         ],
         "mp3Text": "Spirit, you ran your mouth; I ran you through.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-        "name": "Storm Spirit"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+            "name": "Storm Spirit"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2010,8 +2164,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Terr_shards_rival_32.mp3"
         ],
         "mp3Text": "Not so glib now, eh Storm Spirit?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-        "name": "Storm Spirit"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+            "name": "Storm Spirit"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2020,8 +2178,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Terr_shards_rival_33.mp3"
         ],
         "mp3Text": "Timbersaw, I put an end to your madness.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2030,8 +2192,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Terr_shards_rival_34.mp3"
         ],
         "mp3Text": "I return you to the Earth from whence you came.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1f/Earth_Spirit_minimap_icon.png/16px-Earth_Spirit_minimap_icon.png?version=dcb900bc5636c975f6f6bd6de21b3c97",
-        "name": "Earth Spirit"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1f/Earth_Spirit_minimap_icon.png/16px-Earth_Spirit_minimap_icon.png?version=dcb900bc5636c975f6f6bd6de21b3c97",
+            "name": "Earth Spirit"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2040,8 +2206,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Terr_shards_rival_35.mp3"
         ],
         "mp3Text": "Wyvern, Winter has come to your soul.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
-        "name": "Winter Wyvern"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+            "name": "Winter Wyvern"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2050,8 +2220,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Terr_shards_rival_38.mp3"
         ],
         "mp3Text": "Warlock, now the mages can summon you from hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2060,8 +2234,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Terr_shards_rival_39.mp3"
         ],
         "mp3Text": "Warlock, you've summoned your last demon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2070,8 +2248,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Terr_shards_rival_42.mp3"
         ],
         "mp3Text": "Warlock, you've enslaved your last demon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2080,8 +2262,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Terr_shards_rival_40.mp3"
         ],
         "mp3Text": "Your voice captivates no more, Siren.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
-        "name": "Naga Siren"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
+            "name": "Naga Siren"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2090,8 +2276,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Terr_shards_rival_41.mp3"
         ],
         "mp3Text": "I ruled in the hell of Foulfell. Why did you think I'd bow to you?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-        "name": "Wraith King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+            "name": "Wraith King"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2100,8 +2290,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Terr_shards_rival_43.mp3"
         ],
         "mp3Text": "You are no king of mine.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
-        "name": "Sand King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
+            "name": "Sand King"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2110,10 +2304,18 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Terr_shards_rival_44.mp3"
         ],
         "mp3Text": "Always so doom and gloom.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Unknown_icon.png/16px-Unknown_icon.png?version=e80fb7bd753289af97aa869be2ee676e",
-        "name": ""
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Unknown_icon.png/16px-Unknown_icon.png?version=e80fb7bd753289af97aa869be2ee676e",
+            "name": ""
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2124,10 +2326,26 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Terr_shards_demon_18.mp3"
         ],
         "mp3Text": "Sof izh.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
+            "name": "Shadow Demon"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "5% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2138,8 +2356,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Terr_shards_rival_21.mp3"
         ],
         "mp3Text": "For a thing named Undying, you look awfully dead.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
-        "name": "Undying"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
+            "name": "Undying"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2148,8 +2370,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Terr_shards_rival_22.mp3"
         ],
         "mp3Text": "Undying? More likes Keeps-dying.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
-        "name": "Undying"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
+            "name": "Undying"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2158,8 +2384,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Terr_shards_rival_36.mp3"
         ],
         "mp3Text": "You've been to hell and back, and back to hell, and back, and now back again.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2168,8 +2398,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Terr_shards_rival_37.mp3"
         ],
         "mp3Text": "Stay in hell this time, would you?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       }
     ]
   },
@@ -2229,16 +2463,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Terr_shards_ally_04.mp3"
         ],
         "mp3Text": "Timbersaw, what the hell is wrong with you anyway.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Terr_morph_ally_04.mp3"
         ],
         "mp3Text": "Timbersaw, what the hell is wrong with you anyway.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2246,16 +2488,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Terr_shards_ally_05.mp3"
         ],
         "mp3Text": "Techies. It has to be Techies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
-        "name": "Techies"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
+            "name": "Techies"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Terr_morph_ally_05.mp3"
         ],
         "mp3Text": "Techies. It has to be Techies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
-        "name": "Techies"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
+            "name": "Techies"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2263,16 +2513,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Terr_shards_ally_07.mp3"
         ],
         "mp3Text": "Skywrath, your form disquiets me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Terr_morph_ally_07.mp3"
         ],
         "mp3Text": "Skywrath, your form disquiets me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2280,16 +2538,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Terr_shards_ally_09.mp3"
         ],
         "mp3Text": "Come Doom, these fools have hell to pay.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Terr_morph_ally_09.mp3"
         ],
         "mp3Text": "Come Doom, these fools have hell to pay.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2298,8 +2564,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Terr_shards_ally_10.mp3"
         ],
         "mp3Text": "Doom, let's give them hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2308,8 +2578,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Terr_shards_ally_11.mp3"
         ],
         "mp3Text": "Doom, let's swing wide the gates of hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2318,8 +2592,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Terr_shards_ally_12.mp3"
         ],
         "mp3Text": "Doom, we'll unleash hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2327,16 +2605,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Terr_shards_ally_13.mp3"
         ],
         "mp3Text": "We demons shall take them.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
-        "name": "Shadow Demon"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
+            "name": "Shadow Demon"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Terr_morph_ally_13.mp3"
         ],
         "mp3Text": "We demons shall take them.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
-        "name": "Shadow Demon"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/16px-Shadow_Demon_minimap_icon.png?version=31a07b2e66571809a83d35e20c3b7ad8",
+            "name": "Shadow Demon"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2344,16 +2630,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Terr_shards_ally_14.mp3"
         ],
         "mp3Text": "Lion, you are no demon, though you bear the mark.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Terr_morph_ally_14.mp3"
         ],
         "mp3Text": "Lion, you are no demon, though you bear the mark.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2361,16 +2655,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Terr_shards_ally_15.mp3"
         ],
         "mp3Text": "Spirit Breaker, your horns are worthy of a demon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
-        "name": "Spirit Breaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
+            "name": "Spirit Breaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Terr_morph_ally_15.mp3"
         ],
         "mp3Text": "Spirit Breaker, your horns are worthy of a demon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
-        "name": "Spirit Breaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
+            "name": "Spirit Breaker"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2378,16 +2680,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Terr_shards_ally_16.mp3"
         ],
         "mp3Text": "Warlock, I know your demon well.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Terr_morph_ally_16.mp3"
         ],
         "mp3Text": "Warlock, I know your demon well.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2395,16 +2705,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Terr_shards_ally_17.mp3"
         ],
         "mp3Text": "Shadow Fiend, let's give them hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Terr_morph_ally_17.mp3"
         ],
         "mp3Text": "Shadow Fiend, let's give them hell.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2412,16 +2730,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Terr_shards_ally_18.mp3"
         ],
         "mp3Text": "Chaos Knight, let's ride them down.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Terr_morph_ally_18.mp3"
         ],
         "mp3Text": "Chaos Knight, let's ride them down.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2429,16 +2755,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Terr_shards_ally_19.mp3"
         ],
         "mp3Text": "Clinkz, our horns shall run them through.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Terr_morph_ally_19.mp3"
         ],
         "mp3Text": "Clinkz, our horns shall run them through.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2446,18 +2780,30 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Terr_shards_ally_23.mp3"
         ],
         "mp3Text": "Phoenix, what kind of being are you?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-        "name": "Phoenix"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+            "name": "Phoenix"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Terr_morph_ally_23.mp3"
         ],
         "mp3Text": "Phoenix, what kind of being are you?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-        "name": "Phoenix"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+            "name": "Phoenix"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "30% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2467,18 +2813,46 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Terr_shards_ally_03.mp3"
         ],
         "mp3Text": "I'm always glad to have a dragon by my side.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-        "name": "Dragon Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+            "name": "Dragon Knight"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+            "name": "Jakiro"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+            "name": "Winter Wyvern"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Terr_morph_ally_03.mp3"
         ],
         "mp3Text": "I'm always glad to have a dragon by my side.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-        "name": "Dragon Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+            "name": "Dragon Knight"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+            "name": "Jakiro"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+            "name": "Winter Wyvern"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2488,16 +2862,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Terr_shards_ally_20.mp3"
         ],
         "mp3Text": "Come Centaur, our horns shall run them through.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
-        "name": "Centaur Warrunner"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
+            "name": "Centaur Warrunner"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Terr_morph_ally_20.mp3"
         ],
         "mp3Text": "Come Centaur, our horns shall run them through.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
-        "name": "Centaur Warrunner"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
+            "name": "Centaur Warrunner"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2505,18 +2887,30 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Terr_shards_ally_21.mp3"
         ],
         "mp3Text": "Come Centaur, this lane will run red.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
-        "name": "Centaur Warrunner"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
+            "name": "Centaur Warrunner"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Terr_morph_ally_21.mp3"
         ],
         "mp3Text": "Come Centaur, this lane will run red.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
-        "name": "Centaur Warrunner"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
+            "name": "Centaur Warrunner"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2526,18 +2920,30 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Terr_shards_ally_22.mp3"
         ],
         "mp3Text": "I'm every demon's worst nightmare, but I'm your best friend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Terr_morph_ally_22.mp3"
         ],
         "mp3Text": "I'm every demon's worst nightmare, but I'm your best friend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "5% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2547,16 +2953,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Terr_shards_ally_02.mp3"
         ],
         "mp3Text": "Hey Timbersaw, look out, a tree! Heyah, heh, hah.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Terr_morph_ally_02.mp3"
         ],
         "mp3Text": "Hey Timbersaw, look out, a tree! Heyah, heh, hah.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2564,16 +2978,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Terr_shards_ally_06.mp3"
         ],
         "mp3Text": "Are you an angel?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Terr_morph_ally_06.mp3"
         ],
         "mp3Text": "Are you an angel?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2581,18 +3003,30 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Terr_shards_ally_08.mp3"
         ],
         "mp3Text": "Skywrath, what a fine demon you would make.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Terr_morph_ally_08.mp3"
         ],
         "mp3Text": "Skywrath, what a fine demon you would make.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "1% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2602,22 +3036,34 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Terr_shards_ally_01.mp3"
         ],
         "mp3Text": "Timbersaw, please shut up about the trees. Seriously, you need help.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Terr_morph_ally_01.mp3"
         ],
         "mp3Text": "Timbersaw, please shut up about the trees. Seriously, you need help.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-        "name": "Timbersaw"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+            "name": "Timbersaw"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -2706,6 +3152,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -2948,8 +3398,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Terr_shards_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2958,8 +3412,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Terr_shards_scepter_02.mp3"
         ],
         "mp3Text": "This scepter shall not depart.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2968,8 +3426,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Terr_shards_scepter_03.mp3"
         ],
         "mp3Text": "My scepter at last.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2978,8 +3440,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Terr_shards_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2988,8 +3454,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Terr_shards_blink_02.mp3"
         ],
         "mp3Text": "The dagger of last judgment.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -2998,8 +3468,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Terr_shards_blink_03.mp3"
         ],
         "mp3Text": "The quickest blade of all.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3008,8 +3482,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Terr_shards_items_01.mp3"
         ],
         "mp3Text": "Heart of Tarrasque. Heart and soul.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-        "name": "Heart of Tarrasque (5200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+            "name": "Heart of Tarrasque (5200)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3017,16 +3495,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Terr_shards_items_02.mp3"
         ],
         "mp3Text": "Mask of Madness.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-        "name": "Mask of Madness (1975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+            "name": "Mask of Madness (1975)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Terr_morph_items_02.mp3"
         ],
         "mp3Text": "Mask of Madness.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-        "name": "Mask of Madness (1975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+            "name": "Mask of Madness (1975)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3034,16 +3520,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Terr_shards_items_03.mp3"
         ],
         "mp3Text": "Mask of Madness. Yet another way to steal their lives.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-        "name": "Mask of Madness (1975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+            "name": "Mask of Madness (1975)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Terr_morph_items_03.mp3"
         ],
         "mp3Text": "Mask of Madness. Yet another way to steal their lives.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-        "name": "Mask of Madness (1975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+            "name": "Mask of Madness (1975)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3052,8 +3546,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Terr_shards_items_04.mp3"
         ],
         "mp3Text": "Black King Bar.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-        "name": "Black King Bar (3975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+            "name": "Black King Bar (3975)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3061,16 +3559,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Terr_shards_items_05.mp3"
         ],
         "mp3Text": "Satanic. Of course I am.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-        "name": "Satanic (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+            "name": "Satanic (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Terr_morph_items_05.mp3"
         ],
         "mp3Text": "Satanic. Of course I am.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-        "name": "Satanic (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+            "name": "Satanic (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3078,16 +3584,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Terr_shards_items_06.mp3"
         ],
         "mp3Text": "Satanic.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-        "name": "Satanic (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+            "name": "Satanic (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Terr_morph_items_06.mp3"
         ],
         "mp3Text": "Satanic.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-        "name": "Satanic (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+            "name": "Satanic (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3096,16 +3610,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Terr_shards_items_07.mp3"
         ],
         "mp3Text": "Monkey King Bar.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-        "name": "Monkey King Bar (4175)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+            "name": "Monkey King Bar (4175)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Terr_morph_items_08.mp3"
         ],
         "mp3Text": "Soul Ring for the Soul Keeper.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
-        "name": "Soul Ring (770)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
+            "name": "Soul Ring (770)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3114,8 +3636,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Terr_shards_items_09.mp3"
         ],
         "mp3Text": "Butterfly.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-        "name": "Butterfly (5475)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+            "name": "Butterfly (5475)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3124,8 +3650,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Terr_shards_items_10.mp3"
         ],
         "mp3Text": "Sange and Yasha.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
-        "name": "Sange and Yasha (4300)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
+            "name": "Sange and Yasha (4300)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3134,8 +3664,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Terr_shards_items_11.mp3"
         ],
         "mp3Text": "Assault Cuirass.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-        "name": "Assault Cuirass (5250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+            "name": "Assault Cuirass (5250)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3144,8 +3678,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Terr_shards_items_12.mp3"
         ],
         "mp3Text": "Manta Style.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-        "name": "Manta Style (4800)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+            "name": "Manta Style (4800)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3153,16 +3691,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Terr_shards_items_13.mp3"
         ],
         "mp3Text": "Desolator.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-        "name": "Desolator (3500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+            "name": "Desolator (3500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Terr_morph_items_13.mp3"
         ],
         "mp3Text": "Desolator.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-        "name": "Desolator (3500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+            "name": "Desolator (3500)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3170,16 +3716,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Terr_shards_items_14.mp3"
         ],
         "mp3Text": "Desolator. With this blade, I will lay their souls to waste.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-        "name": "Desolator (3500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+            "name": "Desolator (3500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Terr_morph_items_14.mp3"
         ],
         "mp3Text": "Desolator. With this blade, I will lay their souls to waste.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-        "name": "Desolator (3500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+            "name": "Desolator (3500)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3188,8 +3742,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Terr_shards_items_15.mp3"
         ],
         "mp3Text": "Radiance.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-        "name": "Radiance (5150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+            "name": "Radiance (5150)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3198,8 +3756,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Terr_shards_items_16.mp3"
         ],
         "mp3Text": "Shiva's Guard.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-        "name": "Shiva's Guard (4750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+            "name": "Shiva's Guard (4750)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3208,8 +3770,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Terr_shards_items_17.mp3"
         ],
         "mp3Text": "Blade Mail.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
-        "name": "Blade Mail (2200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
+            "name": "Blade Mail (2200)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3217,16 +3783,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Terr_shards_items_18.mp3"
         ],
         "mp3Text": "Heaven's Halberd. The irony does not escape me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-        "name": "Heaven's Halberd (3550)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+            "name": "Heaven's Halberd (3550)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Terr_morph_items_18.mp3"
         ],
         "mp3Text": "Heaven's Halberd. The irony does not escape me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-        "name": "Heaven's Halberd (3550)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+            "name": "Heaven's Halberd (3550)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3234,16 +3808,24 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Terr_shards_items_19.mp3"
         ],
         "mp3Text": "Heaven's Halberd.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-        "name": "Heaven's Halberd (3550)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+            "name": "Heaven's Halberd (3550)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Terr_morph_items_19.mp3"
         ],
         "mp3Text": "Heaven's Halberd.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-        "name": "Heaven's Halberd (3550)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+            "name": "Heaven's Halberd (3550)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3252,8 +3834,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Terr_shards_items_20.mp3"
         ],
         "mp3Text": "Vanguard.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-        "name": "Vanguard (2150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+            "name": "Vanguard (2150)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3262,8 +3848,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Terr_shards_items_21.mp3"
         ],
         "mp3Text": "Eye of Skadi.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
-        "name": "Eye of Skadi (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
+            "name": "Eye of Skadi (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3272,8 +3862,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Terr_shards_items_22.mp3"
         ],
         "mp3Text": "Daedalus.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
-        "name": "Daedalus (5330)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
+            "name": "Daedalus (5330)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3282,8 +3876,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Terr_shards_items_23.mp3"
         ],
         "mp3Text": "Drums of Endurance.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-        "name": "Drum of Endurance (1615)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+            "name": "Drum of Endurance (1615)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3292,8 +3890,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Terr_shards_items_24.mp3"
         ],
         "mp3Text": "Linken's Sphere.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-        "name": "Linken's Sphere (5050)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+            "name": "Linken's Sphere (5050)"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -3302,10 +3904,18 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Terr_shards_immort_01.mp3"
         ],
         "mp3Text": "Immortality.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -3316,10 +3926,18 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Terr_shards_immort_02.mp3"
         ],
         "mp3Text": "A true demon can never die.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -3329,8 +3947,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Terr_shards_items_08.mp3"
         ],
         "mp3Text": "Soul Ring for the Soul Keeper.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
-        "name": "Soul Ring (770)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
+            "name": "Soul Ring (770)"
+          }
+        ]
       }
     ]
   },
@@ -3651,6 +4273,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -3696,6 +4322,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -3723,6 +4353,10 @@
         "mp3Text": "Illusion."
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -3754,6 +4388,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -3781,6 +4419,10 @@
         "mp3Text": "Regeneration."
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -3999,6 +4641,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -4115,6 +4761,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -4124,6 +4774,10 @@
         "mp3Text": "I'm under attack!"
       }
     ]
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -4212,6 +4866,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -4242,6 +4900,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

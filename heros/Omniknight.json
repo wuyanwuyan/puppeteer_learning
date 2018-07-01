@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Bruce_Miles.jpg/100px-Bruce_Miles.jpg?version=286efe51fbadc398a430cc409984fccb",
-    "actor": "Bruce Miles",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/20px-Omniknight_minimap_icon.png?version=a1c022cf579042a6c1ad51af1297013d",
-    "heroName": "Omniknight",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Omniknight_icon.png?version=4e782031e4def29119c4eb5d74d2c014",
-    "primaryAttribute": "Strength",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/omniknight.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -198,6 +188,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -362,6 +356,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -436,6 +434,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -469,6 +471,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "50% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -517,6 +523,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -529,6 +539,10 @@
   {
     "text": "On cast, target is Omniknight",
     "type": "middle"
+  },
+  {
+    "text": "50% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -988,158 +1002,238 @@
     "type": "subTitle"
   },
   {
+    "text": "50% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Omni_ability_degaura_03.mp3"
         ],
         "mp3Text": "There's no eluding judgment.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
-        "name": "Terrorblade"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
+            "name": "Terrorblade"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Omni_ability_degaura_08.mp3"
         ],
         "mp3Text": "Those who atone walk freely.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
-        "name": "Techies"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
+            "name": "Techies"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Omni_rival_01.mp3"
         ],
         "mp3Text": "Your congregation of squirrels and chipmunks cannot save you, Chen.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Omni_rival_02.mp3"
         ],
         "mp3Text": "Chen, faith is a tool, not a bludgeon. You would have done well to learn this.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Omni_rival_03.mp3"
         ],
         "mp3Text": "In you I have bested the inferno itself.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Omni_rival_04.mp3"
         ],
         "mp3Text": "Skeleton King, your lordship is at an end.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
-        "name": "Skeleton King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
+            "name": "Skeleton King"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Omni_rival_05.mp3"
         ],
         "mp3Text": "Lifestealer, I will find what did this to you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/74/Lifestealer_minimap_icon.png/16px-Lifestealer_minimap_icon.png?version=dacc265e791acb553a5d3338c6a0c457",
-        "name": "Lifestealer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/74/Lifestealer_minimap_icon.png/16px-Lifestealer_minimap_icon.png?version=dacc265e791acb553a5d3338c6a0c457",
+            "name": "Lifestealer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Omni_rival_06.mp3"
         ],
         "mp3Text": "Reality is no longer your plaything, Weaver.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
-        "name": "Weaver"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
+            "name": "Weaver"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Omni_rival_07.mp3"
         ],
         "mp3Text": "The prophecies seem to have overestimated you, Bane.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-        "name": "Bane"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+            "name": "Bane"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Omni_rival_08.mp3"
         ],
         "mp3Text": "Tinker, your science meddles where mortals should not.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Omni_rival_09.mp3"
         ],
         "mp3Text": "Dragon Knight, an impure body is an impure soul.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-        "name": "Dragon Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+            "name": "Dragon Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Omni_rival_10.mp3"
         ],
         "mp3Text": "The Omniscience would like a word with you, Zeus.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
-        "name": "Zeus"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
+            "name": "Zeus"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Omni_rival_11.mp3"
         ],
         "mp3Text": "Those souls were not yours to claim, Shadow Fiend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Omni_rival_12.mp3"
         ],
         "mp3Text": "Such power, Warlock, is kept secret for a reason.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Omni_rival_13.mp3"
         ],
         "mp3Text": "Faceless Void, return to your realm and trouble us no further.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-        "name": "Faceless Void"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+            "name": "Faceless Void"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Omni_rival_14.mp3"
         ],
         "mp3Text": "The silencer now resting in silence.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-        "name": "Silencer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+            "name": "Silencer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Omni_rival_15.mp3"
         ],
         "mp3Text": "You would have been a powerful follower Sven.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-        "name": "Sven"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+            "name": "Sven"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Omni_rival_16.mp3"
         ],
         "mp3Text": "True healing does not come from darkness, Dazzle.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
-        "name": "Dazzle"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
+            "name": "Dazzle"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Omni_rival_17.mp3"
         ],
         "mp3Text": "The Omniscience sees all of you, Chaos Knight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       }
     ]
   },
@@ -1178,46 +1272,70 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Omni_rival_18.mp3"
         ],
         "mp3Text": "Bring the forest to our aid, Chen.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Omni_rival_19.mp3"
         ],
         "mp3Text": "Help us tip the scales, Dragon Knight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-        "name": "Dragon Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+            "name": "Dragon Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Omni_rival_20.mp3"
         ],
         "mp3Text": "What's the good word, Silencer?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-        "name": "Silencer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+            "name": "Silencer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Omni_rival_21.mp3"
         ],
         "mp3Text": "Sven, your dedication honors us.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-        "name": "Sven"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+            "name": "Sven"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Omni_rival_22.mp3"
         ],
         "mp3Text": "It's good to see all of you, Chaos Knight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1286,6 +1404,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1406,122 +1528,186 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Omni_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Omni_blink_02.mp3"
         ],
         "mp3Text": "Omnipresent.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Omni_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Omni_scepter_02.mp3"
         ],
         "mp3Text": "Such a holy relic.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Omni_item_01.mp3"
         ],
         "mp3Text": "Arcane boots.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/be/Arcane_Boots_icon.png/20px-Arcane_Boots_icon.png?version=12bc51fcad4c3b6c5c6c638de89e1a1e",
-        "name": "Arcane Boots (1400)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/be/Arcane_Boots_icon.png/20px-Arcane_Boots_icon.png?version=12bc51fcad4c3b6c5c6c638de89e1a1e",
+            "name": "Arcane Boots (1400)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Omni_item_02.mp3"
         ],
         "mp3Text": "Soul ring.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
-        "name": "Soul Ring (770)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a6/Soul_Ring_icon.png/20px-Soul_Ring_icon.png?version=2509174a000bf26d7eb1fb6705025134",
+            "name": "Soul Ring (770)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Omni_item_03.mp3"
         ],
         "mp3Text": "Scythe of Vyse!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-        "name": "Scythe of Vyse (5700)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+            "name": "Scythe of Vyse (5700)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Omni_item_04.mp3"
         ],
         "mp3Text": "Assault Cuirass!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-        "name": "Assault Cuirass (5250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+            "name": "Assault Cuirass (5250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Omni_item_05.mp3"
         ],
         "mp3Text": "Shiva's guard.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-        "name": "Shiva's Guard (4750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+            "name": "Shiva's Guard (4750)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Omni_item_06.mp3"
         ],
         "mp3Text": "I march to the Drums of Endurance.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-        "name": "Drum of Endurance (1615)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+            "name": "Drum of Endurance (1615)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Omni_item_07.mp3"
         ],
         "mp3Text": "Mekansm.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-        "name": "Mekansm (2350)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+            "name": "Mekansm (2350)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Omni_item_08.mp3"
         ],
         "mp3Text": "Necronomicon!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
-        "name": "Necronomicon (2400)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
+            "name": "Necronomicon (2400)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Omni_item_09.mp3"
         ],
         "mp3Text": "Necronomicon? I would rather not have to use this.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
-        "name": "Necronomicon (2400)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
+            "name": "Necronomicon (2400)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Omni_item_10.mp3"
         ],
         "mp3Text": "Force staff!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-        "name": "Force Staff (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+            "name": "Force Staff (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Omni_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1530,8 +1716,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Omni_immort_02.mp3"
         ],
         "mp3Text": "The eye of light shall never blink.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1854,6 +2044,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2053,6 +2247,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2105,6 +2303,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2147,6 +2349,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2165,6 +2371,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

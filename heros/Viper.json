@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/45/Tony_Todd.jpg/100px-Tony_Todd.jpg?version=622242a3a39bb02afaa7160c223eed1a",
-    "actor": "Tony Todd",
-    "actorUrl": "http://en.wikipedia.org/wiki/Tony_Todd",
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/20px-Viper_minimap_icon.png?version=498aa5945b2f2d474fa7e5b08754ffc9",
-    "heroName": "Viper",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Viper_icon.png?version=9c9575a665fff952ae7265dbb0c7a509",
-    "primaryAttribute": "Agility",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/viper.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -154,6 +144,10 @@
     ]
   },
   {
+    "text": "1% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -194,6 +188,10 @@
   {
     "headTitle": "Moving",
     "type": "title"
+  },
+  {
+    "text": "6 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -288,6 +286,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -356,6 +358,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -416,6 +422,10 @@
   {
     "text": "Killing enemy",
     "type": "middle"
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -640,48 +650,76 @@
     "type": "subTitle"
   },
   {
+    "text": "20% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Vipe_killspecial_venomancer_01.mp3"
         ],
         "mp3Text": "You call that poison, Venomancer?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
-        "name": "Venomancer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
+            "name": "Venomancer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Vipe_killspecial_venomancer_02.mp3"
         ],
         "mp3Text": "Your venom was no match for my poison.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
-        "name": "Venomancer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
+            "name": "Venomancer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Vipe_killspecial_visage_01.mp3"
         ],
         "mp3Text": "Your flight is over, Visage.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2f/Visage_minimap_icon.png/16px-Visage_minimap_icon.png?version=373e8ae0da86c891b2e4d0cfb9f038dc",
-        "name": "Visage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2f/Visage_minimap_icon.png/16px-Visage_minimap_icon.png?version=373e8ae0da86c891b2e4d0cfb9f038dc",
+            "name": "Visage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Vipe_rare_02.mp3"
         ],
         "mp3Text": "Feathers are for the weak.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-        "name": "Skywrath Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Vipe_killspecial_batrider_01.mp3"
         ],
         "mp3Text": "Sorry bat, there was something on your back.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -690,8 +728,40 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Vipe_killspecial_batrider_02.mp3"
         ],
         "mp3Text": "Clipped your wings.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cf/Puck_minimap_icon.png/16px-Puck_minimap_icon.png?version=e385acef7c5ecb963b0eb94a3eeec067",
+            "name": "Puck"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+            "name": "Jakiro"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+            "name": "Skywrath Mage"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+            "name": "Winter Wyvern"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+            "name": "Phoenix"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2f/Visage_minimap_icon.png/16px-Visage_minimap_icon.png?version=373e8ae0da86c891b2e4d0cfb9f038dc",
+            "name": "Visage"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
+            "name": "Outworld Devourer"
+          }
+        ]
       }
     ]
   },
@@ -718,6 +788,10 @@
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -774,6 +848,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -864,74 +942,114 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Vipe_blink_01.mp3"
         ],
         "mp3Text": "Aha, blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Vipe_blink_02.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Vipe_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Vipe_scepter_02.mp3"
         ],
         "mp3Text": "Scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Vipe_manta_01.mp3"
         ],
         "mp3Text": "Manta!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-        "name": "Manta Style (4800)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+            "name": "Manta Style (4800)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Vipe_manta_02.mp3"
         ],
         "mp3Text": "A squadron of vipers.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-        "name": "Manta Style (4800)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+            "name": "Manta Style (4800)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Vipe_butterfly_01.mp3"
         ],
         "mp3Text": "Butterfly!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-        "name": "Butterfly (5475)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+            "name": "Butterfly (5475)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Vipe_orbofvenome_01.mp3"
         ],
         "mp3Text": "Orb of venom. I need this why?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Orb_of_Venom_icon.png/20px-Orb_of_Venom_icon.png?version=a28e8798322d0acc0037c809c6d654a7",
-        "name": "Orb of Venom (275)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Orb_of_Venom_icon.png/20px-Orb_of_Venom_icon.png?version=a28e8798322d0acc0037c809c6d654a7",
+            "name": "Orb of Venom (275)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Vipe_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -940,8 +1058,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Vipe_immort_02.mp3"
         ],
         "mp3Text": "Now they'll never bring me down.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1036,30 +1158,46 @@
     "type": "subTitle"
   },
   {
+    "text": "20% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Vipe_death_03.mp3"
         ],
         "mp3Text": "Scatter my ashes.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
-        "name": "Ember Spirit"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
+            "name": "Ember Spirit"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Vipe_death_14.mp3"
         ],
         "mp3Text": "Lead… poisoning.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Vipe_death_15.mp3"
         ],
         "mp3Text": "Crash and burn.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-        "name": "Lina"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+            "name": "Lina"
+          }
+        ]
       }
     ]
   },
@@ -1227,6 +1365,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1252,6 +1394,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1275,6 +1421,10 @@
         "mp3Text": "Illusion!"
       }
     ]
+  },
+  {
+    "text": "5% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1497,6 +1647,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1535,6 +1689,10 @@
         "mp3Text": "Achhhe."
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1579,6 +1737,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1597,6 +1759,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

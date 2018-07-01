@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4e/Gin_Hammond.jpg/100px-Gin_Hammond.jpg?version=1e3c8ff55dcd2751cae336f69de3cfcd",
-    "actor": "Gin Hammond",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Spectre_minimap_icon.png/20px-Spectre_minimap_icon.png?version=c3ffcda53f62f1989a558ba6698f0bf6",
-    "heroName": "Spectre",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Spectre_icon.png?version=f7fd13060fc362bac2845b93658477a6",
-    "primaryAttribute": "Agility",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/spectre.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -186,6 +176,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -236,6 +230,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -284,6 +282,10 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
+  },
+  {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -511,6 +513,10 @@
     "type": "title"
   },
   {
+    "text": "60 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -591,6 +597,10 @@
     "type": "title"
   },
   {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -667,26 +677,42 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Spec_blink_01.mp3"
         ],
         "mp3Text": "The weapon that blinks.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Spec_scepter_01.mp3"
         ],
         "mp3Text": "Scepter of Ascendant power.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Spec_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -695,8 +721,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Spec_immort_02.mp3"
         ],
         "mp3Text": "Immutable energies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1058,6 +1088,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1096,6 +1130,10 @@
         "mp3Text": "Pain"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1160,6 +1198,10 @@
     "type": "middle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1178,6 +1220,10 @@
   {
     "text": "Laughing",
     "type": "middle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

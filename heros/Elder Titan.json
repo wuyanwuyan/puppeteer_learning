@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Jim_French.jpg/100px-Jim_French.jpg.png?version=cda5c22909db257eacb937977a2c5a5b",
-    "actor": "Jim French",
-    "actorUrl": "http://en.wikipedia.org/wiki/Jim_French_(radio)",
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/20px-Elder_Titan_minimap_icon.png?version=32119f4cc73510aa21d94d3538ffd902",
-    "heroName": "Elder Titan",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Elder_Titan_icon.png?version=f0745adcd3791a474d5ed71077323304",
-    "primaryAttribute": "Strength",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/eldertitan.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -234,6 +224,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -356,6 +350,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -448,6 +446,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -495,6 +497,10 @@
     "type": "middle"
   },
   {
+    "text": "75% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -515,6 +521,10 @@
         "mp3Text": "Arh!"
       }
     ]
+  },
+  {
+    "text": "50% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -582,6 +592,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "75% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -715,6 +729,10 @@
         "mp3Text": "Arh!"
       }
     ]
+  },
+  {
+    "text": "75% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1029,142 +1047,214 @@
     "type": "subTitle"
   },
   {
+    "text": "35% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Elder_rival_01.mp3"
         ],
         "mp3Text": "I have reduced you to pulp.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Elder_rival_02.mp3"
         ],
         "mp3Text": "I remember when you were but a sapling.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Elder_rival_03.mp3"
         ],
         "mp3Text": "I spread ashes on the Lone Druid's grave.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-        "name": "Lone Druid"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+            "name": "Lone Druid"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Elder_rival_04.mp3"
         ],
         "mp3Text": "A dark matter is laid to rest.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-        "name": "Shadow Fiend"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+            "name": "Shadow Fiend"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Elder_rival_05.mp3"
         ],
         "mp3Text": "You forget your true nature, Earthshaker.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Elder_rival_06.mp3"
         ],
         "mp3Text": "Shaper of continents, you have forgotten me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Elder_rival_07.mp3"
         ],
         "mp3Text": "The stone that lives is a stone that dies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-        "name": "Tiny"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+            "name": "Tiny"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Elder_rival_08.mp3"
         ],
         "mp3Text": "Go rejoin the bedrock, Tiny.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-        "name": "Tiny"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+            "name": "Tiny"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Elder_rival_09.mp3"
         ],
         "mp3Text": "Across the Seven Planes, I have never seen your like.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Elder_rival_10.mp3"
         ],
         "mp3Text": "Return to Unity, old friend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Elder_rival_11.mp3"
         ],
         "mp3Text": "A strong force you were, but no match for your Elder.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Elder_rival_12.mp3"
         ],
         "mp3Text": "Child of the Schism, Io returns to Unity.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-        "name": "Io"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+            "name": "Io"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Elder_rival_13.mp3"
         ],
         "mp3Text": "Rejoin your kin on the Fundamental plane.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-        "name": "Io"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+            "name": "Io"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Elder_rival_14.mp3"
         ],
         "mp3Text": "That which I divided, returns to Unity.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Elder_rival_15.mp3"
         ],
         "mp3Text": "So dies the spark of ancient suns.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Elder_rival_16.mp3"
         ],
         "mp3Text": "Born in the Schism, died in the forge.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-        "name": "Enigma"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+            "name": "Enigma"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Elder_rival_17.mp3"
         ],
         "mp3Text": "Return to the Fundamental plane.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-        "name": "Enigma"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+            "name": "Enigma"
+          }
+        ]
       }
     ]
   },
@@ -1203,94 +1293,142 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Elder_ally_01.mp3"
         ],
         "mp3Text": "Ride with me, o Knight Fundamental.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Elder_ally_02.mp3"
         ],
         "mp3Text": "Chaos Knight, a strong force you are.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-        "name": "Chaos Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+            "name": "Chaos Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Elder_ally_03.mp3"
         ],
         "mp3Text": "Io, my old friend, we are far from your plane.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-        "name": "Io"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+            "name": "Io"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Elder_ally_04.mp3"
         ],
         "mp3Text": "Sing, Io, of what Schism hath wrought upon this world.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-        "name": "Io"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+            "name": "Io"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Elder_ally_05.mp3"
         ],
         "mp3Text": "Great age has dissolved the differences between us, Keeper.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Elder_ally_06.mp3"
         ],
         "mp3Text": "Greetings, Enigma. You and I have crossed many planes to fight this war.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Elder_ally_07.mp3"
         ],
         "mp3Text": "Ah, Enigma, I haven't seen you since the Shattering.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-        "name": "Enigma"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+            "name": "Enigma"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Elder_ally_08.mp3"
         ],
         "mp3Text": "Walk with me, Treant, and we'll teach these fools to fear.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Elder_ally_09.mp3"
         ],
         "mp3Text": "Come, Druid, you are alone no more.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-        "name": "Lone Druid"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+            "name": "Lone Druid"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Elder_ally_10.mp3"
         ],
         "mp3Text": "We shall mold this fight to our advantage, Earthshaker.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Elder_ally_11.mp3"
         ],
         "mp3Text": "Tiny, the artisans knew not what they created in you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-        "name": "Tiny"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+            "name": "Tiny"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1371,6 +1509,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1497,120 +1639,180 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Elder_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Elder_scepter_02.mp3"
         ],
         "mp3Text": "Scepter of the Titans!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Elder_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Elder_blink_02.mp3"
         ],
         "mp3Text": "A blade for the ages.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Elder_items_01.mp3"
         ],
         "mp3Text": "Drum of Endurance.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-        "name": "Drum of Endurance (1615)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+            "name": "Drum of Endurance (1615)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Elder_items_02.mp3"
         ],
         "mp3Text": "Assault Cuirass.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-        "name": "Assault Cuirass (5250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+            "name": "Assault Cuirass (5250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Elder_items_03.mp3"
         ],
         "mp3Text": "Shiva's Guard.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-        "name": "Shiva's Guard (4750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+            "name": "Shiva's Guard (4750)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Elder_items_04.mp3"
         ],
         "mp3Text": "Black King Bar.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-        "name": "Black King Bar (3975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+            "name": "Black King Bar (3975)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Elder_items_05.mp3"
         ],
         "mp3Text": "Mekansm.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-        "name": "Mekansm (2350)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+            "name": "Mekansm (2350)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Elder_items_06.mp3"
         ],
         "mp3Text": "Shadow Blade.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
-        "name": "Shadow Blade (2800)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
+            "name": "Shadow Blade (2800)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Elder_items_07.mp3"
         ],
         "mp3Text": "Heaven's Halberd.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-        "name": "Heaven's Halberd (3550)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+            "name": "Heaven's Halberd (3550)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Elder_items_08.mp3"
         ],
         "mp3Text": "Refresher.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
-        "name": "Refresher Orb (5100)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
+            "name": "Refresher Orb (5100)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Elder_items_09.mp3"
         ],
         "mp3Text": "Veil of Discord.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
-        "name": "Veil of Discord (2330)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
+            "name": "Veil of Discord (2330)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Elder_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Elder_immort_02.mp3"
         ],
         "mp3Text": "Great unity is eternal.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -2152,6 +2354,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2222,6 +2428,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2284,6 +2494,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2308,6 +2522,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

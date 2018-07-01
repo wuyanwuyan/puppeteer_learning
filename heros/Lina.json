@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ea/Jen_Taylor.jpg/100px-Jen_Taylor.jpg?version=f376f6991299b4c5a4f8ddefd4ff4632",
-    "actor": "Jen Taylor",
-    "actorUrl": "http://en.wikipedia.org/wiki/Jen_Taylor",
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/20px-Lina_minimap_icon.png?version=5148c45864ceae371ff5bee0a56c6bd5",
-    "heroName": "Lina",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Lina_icon.png?version=712909a8ef75fb8eec8610d4a1122608",
-    "primaryAttribute": "Intelligence",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/lina.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -216,6 +206,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -296,6 +290,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -364,36 +362,56 @@
     "type": "subTitle"
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lina_cm_02.mp3"
         ],
         "mp3Text": "This is one bridge I don't mind burning.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lina_cm_03.mp3"
         ],
         "mp3Text": "Cold-hearted bitch.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lina_cm_09.mp3"
         ],
         "mp3Text": "Get ready to thaw.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
+  },
+  {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -451,6 +469,10 @@
   {
     "text": "Killing enemy",
     "type": "middle"
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -669,26 +691,42 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Lina_cm_06.mp3"
         ],
         "mp3Text": "Sorry sister, but you needed thawing.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Lina_cm_08.mp3"
         ],
         "mp3Text": "Burned you in effigy already. Now for real.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Lina_cm_12.mp3"
         ],
         "mp3Text": "Crystal Maiden? More like Crystal Melting.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -697,26 +735,42 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Lina_cm_01.mp3"
         ],
         "mp3Text": "Ice is not nice.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Lina_cm_07.mp3"
         ],
         "mp3Text": "We always did run hot and cold.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Lina_cm_10.mp3"
         ],
         "mp3Text": "Oh sister, I kept the home fires burning.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "20% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -725,168 +779,252 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Lina_killspecial_01.mp3"
         ],
         "mp3Text": "Fat on the fire!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Lina_rival_01.mp3"
         ],
         "mp3Text": "And that's how you start a forest fire.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Lina_rival_02.mp3"
         ],
         "mp3Text": "Half a dragon, all aflame.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-        "name": "Dragon Knight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+            "name": "Dragon Knight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Lina_rival_03.mp3"
         ],
         "mp3Text": "Cooked you in your armor.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-        "name": "Sven"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+            "name": "Sven"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Lina_rival_04.mp3"
         ],
         "mp3Text": "Who would have thought a dragon wouldn't be fireproof.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-        "name": "Jakiro"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+            "name": "Jakiro"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Lina_rival_05.mp3"
         ],
         "mp3Text": "And now you're steam.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Lina_rival_06.mp3"
         ],
         "mp3Text": "I love steam.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Lina_rival_07.mp3"
         ],
         "mp3Text": "Ah, a sauna.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Lina_rival_08.mp3"
         ],
         "mp3Text": "That one had a steamy ending.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Lina_rival_09.mp3"
         ],
         "mp3Text": "Aw, I thought we were steam friends.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lina_rival_10.mp3"
         ],
         "mp3Text": "Should have thrown you on the pyre sooner.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-        "name": "Lich"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+            "name": "Lich"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Lina_rival_11.mp3"
         ],
         "mp3Text": "Sorry, I burned your book.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Lina_rival_12.mp3"
         ],
         "mp3Text": "Was that a cookbook? Cause I cooked it.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Lina_rival_13.mp3"
         ],
         "mp3Text": "Drow, I think you're warming up to me.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
-        "name": "Drow Ranger"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
+            "name": "Drow Ranger"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Lina_rival_14.mp3"
         ],
         "mp3Text": "I made fish sticks. Who wants one?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-        "name": "Tidehunter"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+            "name": "Tidehunter"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Lina_rival_15.mp3"
         ],
         "mp3Text": "Flames like that should make you feel right at home, Lion.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Lina_rival_16.mp3"
         ],
         "mp3Text": "Not even the fires of hell are a match for my flame.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Lina_rival_17.mp3"
         ],
         "mp3Text": "Got a light?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Lina_rival_18.mp3"
         ],
         "mp3Text": "Old.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-        "name": "Keeper of the Light"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+            "name": "Keeper of the Light"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Lina_rival_19.mp3"
         ],
         "mp3Text": "Why'd you stop? This isn't Batrider country.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Lina_rival_20.mp3"
         ],
         "mp3Text": "I'll show you how fire flies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          }
+        ]
       }
     ]
   },
@@ -919,78 +1057,118 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Lina_cm_13.mp3"
         ],
         "mp3Text": "Fire and Ice, together again.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Lina_ally_05.mp3"
         ],
         "mp3Text": "Come on, sis, let's get this over with.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Lina_ally_06.mp3"
         ],
         "mp3Text": "Well, I suppose ice has got to be good for something.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Lina_ally_07.mp3"
         ],
         "mp3Text": "We're sisters, so let's make the best of it.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Lina_ally_01.mp3"
         ],
         "mp3Text": "Clinkz! A skeleton after my own heart.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Lina_ally_02.mp3"
         ],
         "mp3Text": "Ah, Jakiro, I hope that icy head of yours hasn't cooled your temper.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-        "name": "Jakiro"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+            "name": "Jakiro"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Lina_ally_03.mp3"
         ],
         "mp3Text": "Come on, Batrider, let's set the world on fire.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Lina_ally_04.mp3"
         ],
         "mp3Text": "Let's see what hell has paid you, Lion.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Lina_ally_08.mp3"
         ],
         "mp3Text": "Beware of forest fires, Treant.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1047,6 +1225,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1191,114 +1373,174 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Lina_purch_04.mp3"
         ],
         "mp3Text": "Ooh, Bloodstone!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-        "name": "Bloodstone (4900)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+            "name": "Bloodstone (4900)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Lina_purch_05.mp3"
         ],
         "mp3Text": "Ooh, Scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Lina_scepter_01.mp3"
         ],
         "mp3Text": "Scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Lina_scepter_02.mp3"
         ],
         "mp3Text": "Scepter to set things blazing!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Lina_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lina_blink_02.mp3"
         ],
         "mp3Text": "Ooh, blinkage!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Lina_item_01.mp3"
         ],
         "mp3Text": "Scythe of Vyse!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-        "name": "Scythe of Vyse (5700)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+            "name": "Scythe of Vyse (5700)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Lina_item_02.mp3"
         ],
         "mp3Text": "Linken's Sphere!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-        "name": "Linken's Sphere (5050)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+            "name": "Linken's Sphere (5050)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Lina_item_03.mp3"
         ],
         "mp3Text": "Dagon!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
-        "name": "Dagon (2715)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
+            "name": "Dagon (2715)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Lina_item_04.mp3"
         ],
         "mp3Text": "Divine Scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-        "name": "Eul's Scepter of Divinity (2750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+            "name": "Eul's Scepter of Divinity (2750)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lina_item_05.mp3"
         ],
         "mp3Text": "Orchid Malevolence!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
-        "name": "Orchid Malevolence (4075)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
+            "name": "Orchid Malevolence (4075)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Lina_item_06.mp3"
         ],
         "mp3Text": "Shiva's Guard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-        "name": "Shiva's Guard (4750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+            "name": "Shiva's Guard (4750)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Lina_item_07.mp3"
         ],
         "mp3Text": "Force Staff!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-        "name": "Force Staff (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+            "name": "Force Staff (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Lina_immort_01.mp3"
         ],
         "mp3Text": "Ha ha ha! Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1307,8 +1549,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Lina_immort_02.mp3"
         ],
         "mp3Text": "This fire will never go out!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1403,40 +1649,60 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Lina_cm_04.mp3"
         ],
         "mp3Text": "You always were a cold one.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Lina_cm_05.mp3"
         ],
         "mp3Text": "Crystal Maiden, you are cold.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Lina_cm_11.mp3"
         ],
         "mp3Text": "That's cold, Crystal.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Lina_cm_14.mp3"
         ],
         "mp3Text": "Talk about sibling rivalry!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Lina_cm_15.mp3"
         ],
         "mp3Text": "You were adopted!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       }
     ]
   },
@@ -1616,6 +1882,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1641,6 +1911,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1664,6 +1938,10 @@
         "mp3Text": "Illusion!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1892,6 +2170,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1942,6 +2224,10 @@
         "mp3Text": "Ah!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2024,6 +2310,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2048,6 +2338,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -2324,16 +2618,6 @@
   {
     "headTitle": "Rylai's Battle Blessing",
     "type": "title"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [],
-        "mp3Text": "in many of these responses.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/20px-Crystal_Maiden_minimap_icon.png?version=0c3b58be258d06e8e1526a76e3fd5e92",
-        "name": "Crystal Maiden"
-      }
-    ]
   },
   {
     "text": "Welcome",

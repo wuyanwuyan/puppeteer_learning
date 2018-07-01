@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Linda_K._Morris.jpg/100px-Linda_K._Morris.jpg?version=728f2e24474fee33ae018ef8a8ce769a",
-    "actor": "Linda K. Morris",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/20px-Queen_of_Pain_minimap_icon.png?version=bbb676a18432c1b1ec17229d98fc7462",
-    "heroName": "Queen of Pain",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Queen_of_Pain_icon.png?version=dde1723cf1fde90087940f25a46c6ebb",
-    "primaryAttribute": "Intelligence",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/queenofpain.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -186,6 +176,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -272,6 +266,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -352,6 +350,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -385,6 +387,10 @@
   {
     "text": "Killing enemy",
     "type": "middle"
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -424,6 +430,10 @@
     "type": "middle"
   },
   {
+    "text": "15% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -459,6 +469,10 @@
   {
     "text": "Killing enemy",
     "type": "middle"
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -713,136 +727,208 @@
     "type": "subTitle"
   },
   {
+    "text": "20% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Pain_rival_01.mp3"
         ],
         "mp3Text": "Night Stalker, you aren't the only thing that goes bump in the night.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-        "name": "Night Stalker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+            "name": "Night Stalker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Pain_rival_02.mp3"
         ],
         "mp3Text": "Night Stalker, you're only a little pain.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-        "name": "Night Stalker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+            "name": "Night Stalker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Pain_rival_03.mp3"
         ],
         "mp3Text": "Maybe now you'll stop blinking around, Anti-Mage?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-        "name": "Anti-Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+            "name": "Anti-Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Pain_rival_04.mp3"
         ],
         "mp3Text": "Oh, Anti-Mage, I'll make you break your vows.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-        "name": "Anti-Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+            "name": "Anti-Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Pain_rival_05.mp3"
         ],
         "mp3Text": "It's all about discipline, Anti-Mage.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-        "name": "Anti-Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+            "name": "Anti-Mage"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Pain_rival_06.mp3"
         ],
         "mp3Text": "Enchantress, such an innocent creature.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Pain_rival_07.mp3"
         ],
         "mp3Text": "Enchantress, how little you know, you poor plain thing.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Pain_rival_08.mp3"
         ],
         "mp3Text": "Oh, Enchantress, what I could do with those hooves.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Pain_rival_09.mp3"
         ],
         "mp3Text": "Didn't know you could be broken, Enchantress.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-        "name": "Enchantress"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+            "name": "Enchantress"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Pain_rival_10.mp3"
         ],
         "mp3Text": "Crystal Maiden… are you really, I wonder?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Pain_rival_11.mp3"
         ],
         "mp3Text": "Silencer? I'd prefer a screamer.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-        "name": "Silencer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+            "name": "Silencer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Pain_rival_12.mp3"
         ],
         "mp3Text": "Skeleton King, could you feel something for me?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
-        "name": "Skeleton King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
+            "name": "Skeleton King"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Pain_rival_13.mp3"
         ],
         "mp3Text": "King for a day… Queen for eternity.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-        "name": "Wraith King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+            "name": "Wraith King"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Pain_rival_14.mp3"
         ],
         "mp3Text": "Bones and no flesh? Where's the pleasure in that?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Pain_rival_15.mp3"
         ],
         "mp3Text": "I like them with a little more meat on their bones.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Pain_specialcase_01.mp3"
         ],
         "mp3Text": "That's why I'm queen, and you're nothing.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
-        "name": "Legion Commander"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
+            "name": "Legion Commander"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -857,16 +943,36 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Pain_specialcase_03.mp3"
         ],
         "mp3Text": "Submit to your lady, little girl.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Templar_Assassin_minimap_icon.png/16px-Templar_Assassin_minimap_icon.png?version=c2d82254929a226400f5b402a365324b",
-        "name": "Templar Assassin"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6b/Templar_Assassin_minimap_icon.png/16px-Templar_Assassin_minimap_icon.png?version=c2d82254929a226400f5b402a365324b",
+            "name": "Templar Assassin"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Windranger_minimap_icon.png/16px-Windranger_minimap_icon.png?version=fd41655eb4a848d263c42e723582a0ea",
+            "name": "Windranger"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Pain_specialcase_04.mp3"
         ],
         "mp3Text": "Blink! You're dead.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-        "name": "Anti-Mage"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+            "name": "Anti-Mage"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+            "name": "Riki"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Phantom_Assassin_minimap_icon.png/16px-Phantom_Assassin_minimap_icon.png?version=83f09a1d264b361dd9f2403f86ca7594",
+            "name": "Phantom Assassin"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -879,8 +985,28 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Pain_specialcase_06.mp3"
         ],
         "mp3Text": "Oh! I almost missed you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-        "name": "Riki"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+            "name": "Riki"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+            "name": "Broodmother"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
+            "name": "Nyx Assassin"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
+            "name": "Weaver"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
+            "name": "Bounty Hunter"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -893,16 +1019,32 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Pain_taunt_02.mp3"
         ],
         "mp3Text": "It feels so good to be bad.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-        "name": "Omniknight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+            "name": "Omniknight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Pain_taunt_04.mp3"
         ],
         "mp3Text": "You can look but don't touch. Come to think of it, don't look either.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
-        "name": "Undying"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
+            "name": "Undying"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/74/Lifestealer_minimap_icon.png/16px-Lifestealer_minimap_icon.png?version=dacc265e791acb553a5d3338c6a0c457",
+            "name": "Lifestealer"
+          },
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
+            "name": "Medusa"
+          }
+        ]
       }
     ]
   },
@@ -923,6 +1065,10 @@
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -979,6 +1125,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1111,90 +1261,138 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Pain_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger? That was quite unnecessary.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Pain_blink_02.mp3"
         ],
         "mp3Text": "What need have I for this?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Pain_scepter_01.mp3"
         ],
         "mp3Text": "A scepter for the Queen!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Pain_scepter_02.mp3"
         ],
         "mp3Text": "So much sweeter with scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Pain_scepter_03.mp3"
         ],
         "mp3Text": "Scepter shock!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Pain_scepter_04.mp3"
         ],
         "mp3Text": "Sonic scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Pain_relic_01.mp3"
         ],
         "mp3Text": "Scythe of Vyse.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-        "name": "Scythe of Vyse (5700)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+            "name": "Scythe of Vyse (5700)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Pain_relic_02.mp3"
         ],
         "mp3Text": "Linken's Sphere!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-        "name": "Linken's Sphere (5050)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+            "name": "Linken's Sphere (5050)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Pain_relic_03.mp3"
         ],
         "mp3Text": "Skadi!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
-        "name": "Eye of Skadi (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
+            "name": "Eye of Skadi (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Pain_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Pain_immort_02.mp3"
         ],
         "mp3Text": "My voice carries forever!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1203,8 +1401,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Pain_bottle_02.mp3"
         ],
         "mp3Text": "Something for the pain.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fa/Bottle_%28Full%29_icon.png/20px-Bottle_%28Full%29_icon.png?version=b77e2e2da07b2d15385142265a97f790",
-        "name": "Bottle (650)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fa/Bottle_%28Full%29_icon.png/20px-Bottle_%28Full%29_icon.png?version=b77e2e2da07b2d15385142265a97f790",
+            "name": "Bottle (650)"
+          }
+        ]
       }
     ]
   },
@@ -1494,6 +1696,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1538,6 +1744,10 @@
         "mp3Text": "Regeneration!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1716,6 +1926,10 @@
   {
     "headTitle": "Taking damage",
     "type": "title"
+  },
+  {
+    "text": "3 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1916,6 +2130,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1934,6 +2152,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

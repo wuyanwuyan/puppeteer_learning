@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Bruce_Miles.jpg/100px-Bruce_Miles.jpg?version=286efe51fbadc398a430cc409984fccb",
-    "actor": "Bruce Miles",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/20px-Alchemist_minimap_icon.png?version=4558cf2b0ea1c3c5e83807db929c964d",
-    "heroName": "Alchemist",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Alchemist_icon.png?version=108f6e99df319b8fc8a704c3c8b55d6d",
-    "primaryAttribute": "Strength",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/alchemist.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -202,6 +192,10 @@
   {
     "headTitle": "Moving",
     "type": "title"
+  },
+  {
+    "text": "6 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -458,6 +452,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -578,6 +576,10 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
+  },
+  {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -862,6 +864,10 @@
     "type": "middle"
   },
   {
+    "text": "50% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1069,14 +1075,6 @@
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
     "skillName": "Aghanim's Scepter",
     "type": "skill"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [],
-        "mp3Text": "Infusing Aghanim's Scepter into an ally triggers their \"thanks\" response."
-      }
-    ]
   },
   {
     "headTitle": "Leveling up",
@@ -1339,166 +1337,250 @@
     "type": "subTitle"
   },
   {
+    "text": "35% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Alch_rival_01.mp3"
         ],
         "mp3Text": "Damn, was gonna ask Batrider if he wanted to trade mounts. Hey!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-        "name": "Batrider"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+            "name": "Batrider"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Alch_rival_02.mp3"
         ],
         "mp3Text": "You don't think Pudge will mind if we salvage him for fluids, do ya?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Alch_rival_03.mp3"
         ],
         "mp3Text": "Pudge, were you tapping methane? Yikes!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Alch_rival_04.mp3"
         ],
         "mp3Text": "I always wondered what you'd get if you melted Apparition down.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-        "name": "Ancient Apparition"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+            "name": "Ancient Apparition"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Alch_rival_05.mp3"
         ],
         "mp3Text": "All right! Fairy dragon blood is hard to come by.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cf/Puck_minimap_icon.png/16px-Puck_minimap_icon.png?version=e385acef7c5ecb963b0eb94a3eeec067",
-        "name": "Puck"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cf/Puck_minimap_icon.png/16px-Puck_minimap_icon.png?version=e385acef7c5ecb963b0eb94a3eeec067",
+            "name": "Puck"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Alch_rival_06.mp3"
         ],
         "mp3Text": "Hey, you think Kunkka knew I stole his rum?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
-        "name": "Kunkka"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
+            "name": "Kunkka"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Alch_rival_07.mp3"
         ],
         "mp3Text": "Morphling, if I could have shoved you in a beaker…",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Alch_rival_08.mp3"
         ],
         "mp3Text": "One Skeleton King provides a day's requirement of calcium.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
-        "name": "Skeleton King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
+            "name": "Skeleton King"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Alch_rival_09.mp3"
         ],
         "mp3Text": "Calcium nitrate? He, that explains a lot about Skeleton King.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
-        "name": "Skeleton King"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ae/Skeleton_King_minimap_icon.png/16px-Skeleton_King_minimap_icon.png?version=1f3536314dad867e3468d3d5e0384edd",
+            "name": "Skeleton King"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Alch_rival_10.mp3"
         ],
         "mp3Text": "Clinkz, your bones were brittle. Shoulda eaten more spinach.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Alch_rival_11.mp3"
         ],
         "mp3Text": "Pugna's full of phosphorus? That makes sense.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-        "name": "Pugna"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+            "name": "Pugna"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Alch_rival_12.mp3"
         ],
         "mp3Text": "Well Doom Bringer, if you keep that up, I won't want for sulfur.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Alch_rival_13.mp3"
         ],
         "mp3Text": "A little mercury goes a long way, eh, Slardar?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Alch_rival_14.mp3"
         ],
         "mp3Text": "Thanks to Slardar I can rig up an excellent mercury switch.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Alch_rival_15.mp3"
         ],
         "mp3Text": "Get out the siphon. Clockwerk's full of gasoline!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
-        "name": "Clockwerk"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
+            "name": "Clockwerk"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Alch_rival_16.mp3"
         ],
         "mp3Text": "Sniper, if you're done with all that gunpowder, I can use it.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Alch_rival_17.mp3"
         ],
         "mp3Text": "I didn't need a tree trunk to knock you out, Earthshaker.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Alch_rival_18.mp3"
         ],
         "mp3Text": "My fists beat your axe, Axe.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-        "name": "Axe"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+            "name": "Axe"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Alch_rival_20.mp3"
         ],
         "mp3Text": "Paper scissors axe fist!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-        "name": "Axe"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+            "name": "Axe"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Alch_rival_19.mp3"
         ],
         "mp3Text": "You made my knuckles bleed, Spirit Breaker.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
-        "name": "Spirit Breaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
+            "name": "Spirit Breaker"
+          }
+        ]
       }
     ]
   },
@@ -1519,6 +1601,10 @@
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1623,6 +1709,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1797,106 +1887,162 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Alch_scepter_01.mp3"
         ],
         "mp3Text": "Oh ho! Scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Alch_scepter_02.mp3"
         ],
         "mp3Text": "Everything's better with scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Alch_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger! Less walking is good!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Alch_blink_02.mp3"
         ],
         "mp3Text": "We're gonna have some fun with this!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Alch_item_01.mp3"
         ],
         "mp3Text": "Vanguard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-        "name": "Vanguard (2150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+            "name": "Vanguard (2150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Alch_item_02.mp3"
         ],
         "mp3Text": "Satanic!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-        "name": "Satanic (5500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+            "name": "Satanic (5500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Alch_item_03.mp3"
         ],
         "mp3Text": "Hood of Defiance!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Hood_of_Defiance_icon.png/20px-Hood_of_Defiance_icon.png?version=7b77e69ddfc3b5fc3d3d7d2ee57cc151",
-        "name": "Hood of Defiance (1700)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Hood_of_Defiance_icon.png/20px-Hood_of_Defiance_icon.png?version=7b77e69ddfc3b5fc3d3d7d2ee57cc151",
+            "name": "Hood of Defiance (1700)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Alch_item_04.mp3"
         ],
         "mp3Text": "Heart of Tarrasque!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-        "name": "Heart of Tarrasque (5200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+            "name": "Heart of Tarrasque (5200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Alch_item_05.mp3"
         ],
         "mp3Text": "Assault Cuirass! Boss, that's not gonna fit on you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-        "name": "Assault Cuirass (5250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+            "name": "Assault Cuirass (5250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Alch_item_06.mp3"
         ],
         "mp3Text": "Radiance!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-        "name": "Radiance (5150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+            "name": "Radiance (5150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Alch_item_07.mp3"
         ],
         "mp3Text": "Phase Boots! Finally, new shoes!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/98/Phase_Boots_icon.png/20px-Phase_Boots_icon.png?version=ac6e39e8bf015bb67fc75cce3bf468bc",
-        "name": "Phase Boots (1360)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/98/Phase_Boots_icon.png/20px-Phase_Boots_icon.png?version=ac6e39e8bf015bb67fc75cce3bf468bc",
+            "name": "Phase Boots (1360)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Alch_item_08.mp3"
         ],
         "mp3Text": "Mask of Madness!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-        "name": "Mask of Madness (1975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+            "name": "Mask of Madness (1975)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Alch_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "5% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1905,8 +2051,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Alch_immort_02.mp3"
         ],
         "mp3Text": "Does Immortality work for both of us? It better!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -2166,6 +2316,10 @@
     ]
   },
   {
+    "text": "10% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2227,6 +2381,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2256,6 +2414,10 @@
         "mp3Text": "I don't think I have enough bottles for all of us!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2296,6 +2458,10 @@
         "mp3Text": "Regeneration!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2476,6 +2642,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2546,6 +2716,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2600,6 +2774,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2618,6 +2796,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

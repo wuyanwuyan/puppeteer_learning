@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c8/Jon_St._John_.jpg/100px-Jon_St._John_.jpg?version=9d321ed9e717332de025bc24e6e902e4",
-    "actor": "Jon St. John",
-    "actorUrl": "http://en.wikipedia.org/wiki/Jon_St._John",
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/20px-Axe_minimap_icon.png?version=40544a4de930fc9198eca9338cf48c86",
-    "heroName": "Axe",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Axe_icon.png?version=2e5863c038d81ddef209c68b3e840d2c",
-    "primaryAttribute": "Strength",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/axe.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -222,6 +212,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -296,6 +290,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -362,6 +360,10 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
+  },
+  {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -517,6 +519,10 @@
     "type": "middle"
   },
   {
+    "text": "30% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -547,6 +553,10 @@
   {
     "text": "Killing enemy, within 2 seconds after blink",
     "type": "middle"
+  },
+  {
+    "text": "30% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -819,254 +829,382 @@
     "type": "subTitle"
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Axe_killspecial_01.mp3"
         ],
         "mp3Text": "Cold cut!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-        "name": "Crystal Maiden"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+            "name": "Crystal Maiden"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Axe_killspecial_02.mp3"
         ],
         "mp3Text": "Cut and dried!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Axe_killspecial_03.mp3"
         ],
         "mp3Text": "Catch some Z's!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
-        "name": "Zeus"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
+            "name": "Zeus"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Axe_rival_17.mp3"
         ],
         "mp3Text": "You might have been a fancyman in Heaven, but down here you are nothing next to Axe.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
-        "name": "Zeus"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/16px-Zeus_minimap_icon.png?version=6339f10b8c238da42b64fe4180377672",
+            "name": "Zeus"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Axe_killspecial_04.mp3"
         ],
         "mp3Text": "You call that an axe?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5c/Beastmaster_minimap_icon.png/16px-Beastmaster_minimap_icon.png?version=63ad89be49d1b262a443f200c6eaea1f",
-        "name": "Beastmaster"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5c/Beastmaster_minimap_icon.png/16px-Beastmaster_minimap_icon.png?version=63ad89be49d1b262a443f200c6eaea1f",
+            "name": "Beastmaster"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Axe_rival_01.mp3"
         ],
         "mp3Text": "Axe has no time for all this jibber jabber.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Axe_rival_02.mp3"
         ],
         "mp3Text": "Blade versus book. Blade wins.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Axe_rival_03.mp3"
         ],
         "mp3Text": "Warlock, you should have picked a sharper weapon.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Axe_rival_04.mp3"
         ],
         "mp3Text": "Warlock, who is the smart one now?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Axe_rival_05.mp3"
         ],
         "mp3Text": "Axe hates to kill Oglodi, but it must be done.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Axe_rival_06.mp3"
         ],
         "mp3Text": "Even kin must die.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Axe_rival_07.mp3"
         ],
         "mp3Text": "We are blood, true. But most of yours came out.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Axe_rival_08.mp3"
         ],
         "mp3Text": "You were handsome like Axe. Axe doesn't like that.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Axe_rival_09.mp3"
         ],
         "mp3Text": "Too much talking, not enough fighting.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-        "name": "Invoker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+            "name": "Invoker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Axe_rival_10.mp3"
         ],
         "mp3Text": "Big words cannot keep you safe from Axe.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-        "name": "Invoker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+            "name": "Invoker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Axe_rival_11.mp3"
         ],
         "mp3Text": "The Treant brought much wood for Axe to chop.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Axe_rival_20.mp3"
         ],
         "mp3Text": "More things for Axe to chop!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Axe_rival_12.mp3"
         ],
         "mp3Text": "Who said Axe fears spiders? Axe wants to know their name.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
-        "name": "Broodmother"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+            "name": "Broodmother"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Axe_rival_13.mp3"
         ],
         "mp3Text": "Doom Bringer brings doom. Axe brings axe!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-        "name": "Doom"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+            "name": "Doom"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Axe_rival_14.mp3"
         ],
         "mp3Text": "Taste the Axe. Not this Axe, that axe!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Axe_rival_15.mp3"
         ],
         "mp3Text": "Your name is not Axe-world Destroyer!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
-        "name": "Outworld Devourer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
+            "name": "Outworld Devourer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Axe_rival_16.mp3"
         ],
         "mp3Text": "What is a tiny razor to a mighty Axe?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
-        "name": "Razor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
+            "name": "Razor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Axe_rival_18.mp3"
         ],
         "mp3Text": "Each of Ursa's claws is like a little axe. Axe reluctantly approves.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
-        "name": "Ursa"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
+            "name": "Ursa"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Axe_rival_19.mp3"
         ],
         "mp3Text": "Axe has no time for such nonsense!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Spectre_minimap_icon.png/16px-Spectre_minimap_icon.png?version=b11f82f2497b72456bd0dbf72512c527",
-        "name": "Spectre"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Spectre_minimap_icon.png/16px-Spectre_minimap_icon.png?version=b11f82f2497b72456bd0dbf72512c527",
+            "name": "Spectre"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Axe_rival_21.mp3"
         ],
         "mp3Text": "I said good night stalker!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-        "name": "Night Stalker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+            "name": "Night Stalker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Axe_rival_24.mp3"
         ],
         "mp3Text": "Axe knows you not, fiend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-        "name": "Lion"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+            "name": "Lion"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Axe_rival_25.mp3"
         ],
         "mp3Text": "Your free ride is over.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-        "name": "Alchemist"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+            "name": "Alchemist"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Axe_rival_26.mp3"
         ],
         "mp3Text": "Ride no more, smallkeen!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-        "name": "Alchemist"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+            "name": "Alchemist"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Axe_rival_29.mp3"
         ],
         "mp3Text": "Smallkeens should be scoured from the land!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-        "name": "Alchemist"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+            "name": "Alchemist"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Axe_rival_27.mp3"
         ],
         "mp3Text": "A Keen worthy to fight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Axe_rival_28.mp3"
         ],
         "mp3Text": "For the Keenfolk, you weren't half bad.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1141,110 +1279,166 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Axe_ally_01.mp3"
         ],
         "mp3Text": "Axe has a cousin?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Axe_ally_02.mp3"
         ],
         "mp3Text": "You look like Axe, only slightly less.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Axe_ally_03.mp3"
         ],
         "mp3Text": "Oglodi fight side by side.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Axe_ally_04.mp3"
         ],
         "mp3Text": "That is a fearsome creature you ride, Disruptor.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-        "name": "Disruptor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+            "name": "Disruptor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Axe_ally_05.mp3"
         ],
         "mp3Text": "Side by side, the Oglodi fight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Axe_ally_06.mp3"
         ],
         "mp3Text": "The Oglodi shall take this fight.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Axe_ally_07.mp3"
         ],
         "mp3Text": "Warlock brings a book. Axe brings an axe.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-        "name": "Warlock"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+            "name": "Warlock"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Axe_ally_08.mp3"
         ],
         "mp3Text": "Nice choppers! Axe approves!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-        "name": "Faceless Void"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+            "name": "Faceless Void"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_ally_09.mp3"
         ],
         "mp3Text": "Axe is curious. Where did your face go?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-        "name": "Faceless Void"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+            "name": "Faceless Void"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Axe_ally_10.mp3"
         ],
         "mp3Text": "Undying, don't order Axe around and we'll get along just fine.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
-        "name": "Undying"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Undying_minimap_icon.png/16px-Undying_minimap_icon.png?version=1e56b220d6f8e42a758fe4510f85d775",
+            "name": "Undying"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Axe_ally_11.mp3"
         ],
         "mp3Text": "Don't worry, Treant, Axe does not come to chop you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-        "name": "Treant Protector"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+            "name": "Treant Protector"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Axe_ally_12.mp3"
         ],
         "mp3Text": "Witch doctor, our enemies are in need of Axe-amination!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Witch_Doctor_minimap_icon.png/16px-Witch_Doctor_minimap_icon.png?version=ffbada7366abe90497e17be0246f029b",
-        "name": "Witch Doctor"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Witch_Doctor_minimap_icon.png/16px-Witch_Doctor_minimap_icon.png?version=ffbada7366abe90497e17be0246f029b",
+            "name": "Witch Doctor"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Axe_ally_13.mp3"
         ],
         "mp3Text": "Tinker, eh? War is an Axe-act science!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1289,6 +1483,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1415,138 +1613,210 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_purch_04.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_purch_04.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_purch_04.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_purch_04.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Axe_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Axe_blink_02.mp3"
         ],
         "mp3Text": "Don't worry, precious axe. Blink Dagger does not come to chop.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Axe_happy_01.mp3"
         ],
         "mp3Text": "Oooh!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-        "name": "Heart of Tarrasque (5200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+            "name": "Heart of Tarrasque (5200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Axe_item_04.mp3"
         ],
         "mp3Text": "Heart of Tarrasque!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-        "name": "Heart of Tarrasque (5200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+            "name": "Heart of Tarrasque (5200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Axe_item_01.mp3"
         ],
         "mp3Text": "Vanguard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-        "name": "Vanguard (2150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+            "name": "Vanguard (2150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Axe_item_02.mp3"
         ],
         "mp3Text": "Blade Mail!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
-        "name": "Blade Mail (2200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
+            "name": "Blade Mail (2200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Axe_item_03.mp3"
         ],
         "mp3Text": "Black King Bar!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-        "name": "Black King Bar (3975)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+            "name": "Black King Bar (3975)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Axe_item_05.mp3"
         ],
         "mp3Text": "Urn of Shadows!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/58/Urn_of_Shadows_icon.png/20px-Urn_of_Shadows_icon.png?version=ce440a46be302d8c920bebab4b4cb16e",
-        "name": "Urn of Shadows (875)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/58/Urn_of_Shadows_icon.png/20px-Urn_of_Shadows_icon.png?version=ce440a46be302d8c920bebab4b4cb16e",
+            "name": "Urn of Shadows (875)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Axe_item_06.mp3"
         ],
         "mp3Text": "Assault Cuirass!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-        "name": "Assault Cuirass (5250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+            "name": "Assault Cuirass (5250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Axe_item_07.mp3"
         ],
         "mp3Text": "Hood of Defiance!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Hood_of_Defiance_icon.png/20px-Hood_of_Defiance_icon.png?version=7b77e69ddfc3b5fc3d3d7d2ee57cc151",
-        "name": "Hood of Defiance (1700)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Hood_of_Defiance_icon.png/20px-Hood_of_Defiance_icon.png?version=7b77e69ddfc3b5fc3d3d7d2ee57cc151",
+            "name": "Hood of Defiance (1700)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Axe_item_08.mp3"
         ],
         "mp3Text": "Radiance!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-        "name": "Radiance (5150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+            "name": "Radiance (5150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Axe_item_09.mp3"
         ],
         "mp3Text": "Shiva's Guard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-        "name": "Shiva's Guard (4750)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+            "name": "Shiva's Guard (4750)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Axe_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1555,8 +1825,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Axe_immort_02.mp3"
         ],
         "mp3Text": "The Axe's edge will never dull!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1804,6 +2078,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1829,6 +2107,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1852,6 +2134,10 @@
         "mp3Text": "Illusion!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1883,6 +2169,10 @@
         "mp3Text": "Invisibility!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2084,6 +2374,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2128,6 +2422,10 @@
         "mp3Text": "Chhh!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2204,6 +2502,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2234,6 +2536,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

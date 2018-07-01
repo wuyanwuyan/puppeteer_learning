@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Sam_A._Mowry.jpg/100px-Sam_A._Mowry.jpg?version=97d4761024fec88ce1832b08754b0e9d",
-    "actor": "Sam A. Mowry",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/20px-Clockwerk_minimap_icon.png?version=c754754b5d3d0c80ac3d744aa0bf4509",
-    "heroName": "Clockwerk",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Clockwerk_icon.png?version=c3a83e037e572a3e05feae076a3f3272",
-    "primaryAttribute": "Strength",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/clockwerk.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -186,6 +176,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -350,60 +344,92 @@
     "type": "subTitle"
   },
   {
+    "text": "10% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Ratt_cuz_12.mp3"
         ],
         "mp3Text": "Hey, us little guys gotta stick together, allright, Sniper?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Ratt_cuz_15.mp3"
         ],
         "mp3Text": "Sniper! Got your back, cousin!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Ratt_cuz_16.mp3"
         ],
         "mp3Text": "Tanks, cuz!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Ratt_cuz_13.mp3"
         ],
         "mp3Text": "Hey, cousin!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Ratt_cuz_14.mp3"
         ],
         "mp3Text": "Tinker, simpatico!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Ratt_cuz_17.mp3"
         ],
         "mp3Text": "Tinker, you're a credit to our race!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Attacking",
     "type": "title"
+  },
+  {
+    "text": "6 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -492,46 +518,70 @@
     "type": "subTitle"
   },
   {
+    "text": "15% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Ratt_cuz_01.mp3"
         ],
         "mp3Text": "Tinker, this'll gum your gears!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Ratt_cuz_02.mp3"
         ],
         "mp3Text": "Tinker, prepare for repairs.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Ratt_cuz_05.mp3"
         ],
         "mp3Text": "Tinker!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Ratt_cuz_03.mp3"
         ],
         "mp3Text": "Coming for you, Sniper!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Ratt_cuz_04.mp3"
         ],
         "mp3Text": "Sniper!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -556,6 +606,10 @@
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
+  },
+  {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -694,6 +748,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "50% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -954,14 +1012,22 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Ratt_ability_hook_07.mp3"
         ],
         "mp3Text": "You stay there, Pudge, I'll come to you!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       }
     ]
   },
   {
     "text": "Reaching target",
     "type": "middle"
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -990,46 +1056,70 @@
     "type": "middle"
   },
   {
+    "text": "15% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Ratt_ability_hook_08.mp3"
         ],
         "mp3Text": "Like my hook, Pudge?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Ratt_ability_hook_09.mp3"
         ],
         "mp3Text": "Your place or mine, Pudge?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ratt_ability_hook_11.mp3"
         ],
         "mp3Text": "Oh hey, Pudge!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Ratt_ability_hook_12.mp3"
         ],
         "mp3Text": "Hey, Pudge!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Ratt_ability_hook_13.mp3"
         ],
         "mp3Text": "Hook, line and Tinker!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       }
     ]
   },
@@ -1312,54 +1402,82 @@
     "type": "subTitle"
   },
   {
+    "text": "35% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Ratt_cuz_09.mp3"
         ],
         "mp3Text": "Who sniped who?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Ratt_cuz_25.mp3"
         ],
         "mp3Text": "Sniper, calm your beard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Ratt_cuz_10.mp3"
         ],
         "mp3Text": "Tinker's been tanked.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ratt_cuz_11.mp3"
         ],
         "mp3Text": "Look who tanked Tinker!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ratt_cuz_24.mp3"
         ],
         "mp3Text": "Tinker, calm your beard!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Ratt_cuz_18.mp3"
         ],
         "mp3Text": "Pick on somebody your own size!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
-        "name": "Centaur Warrunner"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5e/Centaur_Warrunner_minimap_icon.png/16px-Centaur_Warrunner_minimap_icon.png?version=4c16a00959faa2d71d384efdc369e264",
+            "name": "Centaur Warrunner"
+          }
+        ]
       }
     ]
   },
@@ -1392,30 +1510,46 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Ratt_ability_hook_10.mp3"
         ],
         "mp3Text": "Hey, I got one of those too, Pudge!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-        "name": "Pudge"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+            "name": "Pudge"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Ratt_cuz_19.mp3"
         ],
         "mp3Text": "Leave Tinker alone!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ratt_cuz_20.mp3"
         ],
         "mp3Text": "Leave Sniper alone!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1484,6 +1618,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1616,58 +1754,90 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Ratt_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Ratt_blink_02.mp3"
         ],
         "mp3Text": "Beware the blade of blink!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Ratt_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Ratt_scepter_02.mp3"
         ],
         "mp3Text": "Scepter!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Ratt_scepter_03.mp3"
         ],
         "mp3Text": "Scepter! Just what my hook needed!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Ratt_scepter_04.mp3"
         ],
         "mp3Text": "Scepter! The perfect accessory for my hookshot!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Ratt_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "5% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1676,8 +1846,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Ratt_immort_02.mp3"
         ],
         "mp3Text": "Lifetime warranty!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1790,24 +1964,40 @@
     "type": "subTitle"
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Ratt_cuz_21.mp3"
         ],
         "mp3Text": "Tinker, you were like a brother to me!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Ratt_cuz_23.mp3"
         ],
         "mp3Text": "Tinker, where'd you get those wonderful toys?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-        "name": "Tinker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+            "name": "Tinker"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "20% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1816,8 +2006,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Ratt_cuz_22.mp3"
         ],
         "mp3Text": "Sniper, you? There's one in every family.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-        "name": "Sniper"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+            "name": "Sniper"
+          }
+        ]
       }
     ]
   },
@@ -2033,6 +2227,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2058,6 +2256,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2081,6 +2283,10 @@
         "mp3Text": "Illusion!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2127,6 +2333,10 @@
         "mp3Text": "Regeneration!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2307,6 +2517,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2371,6 +2585,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2413,6 +2631,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2431,6 +2653,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [

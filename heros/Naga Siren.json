@@ -1,15 +1,5 @@
 [
   {
-    "actorImg": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Linda_K._Morris.jpg/100px-Linda_K._Morris.jpg?version=728f2e24474fee33ae018ef8a8ce769a",
-    "actor": "Linda K. Morris",
-    "actorUrl": null,
-    "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/20px-Naga_Siren_minimap_icon.png?version=460c268a7ecf8b54b2e5c476d94db930",
-    "heroName": "Naga Siren",
-    "avaterMain": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Naga_Siren_icon.png?version=7a878ecc9710512d6ecde0d8fd804962",
-    "primaryAttribute": "Agility",
-    "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/nagasiren.png"
-  },
-  {
     "headTitle": "Loadout",
     "type": "title"
   },
@@ -186,6 +176,10 @@
     "type": "title"
   },
   {
+    "text": "6 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -280,6 +274,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -292,6 +290,10 @@
   {
     "headTitle": "Attacking",
     "type": "title"
+  },
+  {
+    "text": "6 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -386,6 +388,10 @@
     "type": "title"
   },
   {
+    "text": "Only when distance is at least 2x the cast range, 4 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -425,6 +431,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "30% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -470,6 +480,10 @@
     "type": "middle"
   },
   {
+    "text": "50% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -505,6 +519,10 @@
   {
     "text": "On cast",
     "type": "middle"
+  },
+  {
+    "text": "50% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -551,6 +569,10 @@
     "type": "middle"
   },
   {
+    "text": "10% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -576,14 +598,6 @@
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ed/Song_of_the_Siren_icon.png/16px-Song_of_the_Siren_icon.png?version=9c1253ef3fd1e31c3651518887da0ab8",
     "skillName": "Song of the Siren",
     "type": "skill"
-  },
-  {
-    "voices": [
-      {
-        "mp3Url": [],
-        "mp3Text": "While Song of the Siren is active, Naga Siren does not say anything."
-      }
-    ]
   },
   {
     "voices": [
@@ -790,112 +804,172 @@
     "type": "subTitle"
   },
   {
+    "text": "35% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Naga_rival_01.mp3"
         ],
         "mp3Text": "The lampreys will pick your bones.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-        "name": "Clinkz"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+            "name": "Clinkz"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Naga_rival_03.mp3"
         ],
         "mp3Text": "Wave goodbye, Morphling.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Naga_rival_07.mp3"
         ],
         "mp3Text": "What will your friends do without you, Omniknight?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-        "name": "Omniknight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+            "name": "Omniknight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Naga_rival_08.mp3"
         ],
         "mp3Text": "Venomancer, you were neither fish nor fowl.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
-        "name": "Venomancer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
+            "name": "Venomancer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Naga_rival_10.mp3"
         ],
         "mp3Text": "You were a fish out of water.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Naga_rival_11.mp3"
         ],
         "mp3Text": "You'll make a fine fillet.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Naga_rival_19.mp3"
         ],
         "mp3Text": "Where is your Abyssal god now, Tidehunter?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-        "name": "Tidehunter"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+            "name": "Tidehunter"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Naga_rival_20.mp3"
         ],
         "mp3Text": "Have you my chalice, drunkard?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-        "name": "Brewmaster"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+            "name": "Brewmaster"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Naga_rival_22.mp3"
         ],
         "mp3Text": "There's not enough alcohol in the world.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-        "name": "Brewmaster"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+            "name": "Brewmaster"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Naga_rival_25.mp3"
         ],
         "mp3Text": "I never did like your voice.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-        "name": "Queen of Pain"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+            "name": "Queen of Pain"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Naga_rival_26.mp3"
         ],
         "mp3Text": "What a diva.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-        "name": "Queen of Pain"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+            "name": "Queen of Pain"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Naga_rival_28.mp3"
         ],
         "mp3Text": "Even on land, I beat you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Naga_rival_30.mp3"
         ],
         "mp3Text": "You and what navy, Kunkka?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
-        "name": "Kunkka"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
+            "name": "Kunkka"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -904,50 +978,78 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Naga_rival_05.mp3"
         ],
         "mp3Text": "Your minions can't help you now.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-        "name": "Chen"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+            "name": "Chen"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Naga_rival_13.mp3"
         ],
         "mp3Text": "Slardar, I hated to kill you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Naga_rival_16.mp3"
         ],
         "mp3Text": "In other times, we might have been allies.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Naga_rival_17.mp3"
         ],
         "mp3Text": "Tidehunter, you were a fine kettle of fish.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-        "name": "Tidehunter"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+            "name": "Tidehunter"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Naga_rival_23.mp3"
         ],
         "mp3Text": "I watered your drink.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-        "name": "Brewmaster"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+            "name": "Brewmaster"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Naga_rival_24.mp3"
         ],
         "mp3Text": "Your song was no match for mine.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-        "name": "Queen of Pain"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+            "name": "Queen of Pain"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "15% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -956,88 +1058,132 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Naga_rival_02.mp3"
         ],
         "mp3Text": "What a strange creature you were.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Naga_rival_04.mp3"
         ],
         "mp3Text": "You pass, like water under the bridge.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Naga_rival_06.mp3"
         ],
         "mp3Text": "What will your friends do without you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-        "name": "Omniknight"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+            "name": "Omniknight"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Naga_rival_09.mp3"
         ],
         "mp3Text": "You were neither fish nor fowl.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
-        "name": "Venomancer"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
+            "name": "Venomancer"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Naga_rival_12.mp3"
         ],
         "mp3Text": "I hated to kill you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Naga_rival_14.mp3"
         ],
         "mp3Text": "It had to be.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Naga_rival_15.mp3"
         ],
         "mp3Text": "You die with honor intact.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Naga_rival_18.mp3"
         ],
         "mp3Text": "Where is your Abyssal god when you need him?",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-        "name": "Tidehunter"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+            "name": "Tidehunter"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Naga_rival_21.mp3"
         ],
         "mp3Text": "That's enough out of you.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-        "name": "Brewmaster"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+            "name": "Brewmaster"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Naga_rival_27.mp3"
         ],
         "mp3Text": "I hate you, sincerely.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-        "name": "Earthshaker"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+            "name": "Earthshaker"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Naga_rival_29.mp3"
         ],
         "mp3Text": "More for the drowning.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
-        "name": "Kunkka"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Kunkka_minimap_icon.png/16px-Kunkka_minimap_icon.png?version=d9a2b68bc42117bcf1ceaecfae5eee46",
+            "name": "Kunkka"
+          }
+        ]
       }
     ]
   },
@@ -1076,24 +1222,36 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Naga_ally_01.mp3"
         ],
         "mp3Text": "Slardar, let's teach the landlings a lesson.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-        "name": "Slardar"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+            "name": "Slardar"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Naga_ally_02.mp3"
         ],
         "mp3Text": "Shadow Shaman, my old friend.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
-        "name": "Shadow Shaman"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
+            "name": "Shadow Shaman"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Naga_ally_03.mp3"
         ],
         "mp3Text": "Shaman, we shall lay our enemies low.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
-        "name": "Shadow Shaman"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
+            "name": "Shadow Shaman"
+          }
+        ]
       },
       {
         "mp3Url": [
@@ -1106,54 +1264,82 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Naga_ally_05.mp3"
         ],
         "mp3Text": "You're a great addition to my guard, Pugna.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-        "name": "Pugna"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+            "name": "Pugna"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Naga_ally_06.mp3"
         ],
         "mp3Text": "Juggernaut, I'll catch them, you gut them.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Juggernaut_minimap_icon.png/16px-Juggernaut_minimap_icon.png?version=53939255f6c52699cd3865179b5ecfbc",
-        "name": "Juggernaut"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Juggernaut_minimap_icon.png/16px-Juggernaut_minimap_icon.png?version=53939255f6c52699cd3865179b5ecfbc",
+            "name": "Juggernaut"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Naga_ally_07.mp3"
         ],
         "mp3Text": "Bane, I'll sing them to sleep, and you can give them nightmares.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-        "name": "Bane"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+            "name": "Bane"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Naga_ally_08.mp3"
         ],
         "mp3Text": "Let's make these landlings pay.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Slark_minimap_icon.png/16px-Slark_minimap_icon.png?version=b583f1b66c719b3b613aeed5c0ba97b7",
-        "name": "Slark"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Slark_minimap_icon.png/16px-Slark_minimap_icon.png?version=b583f1b66c719b3b613aeed5c0ba97b7",
+            "name": "Slark"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Naga_ally_09.mp3"
         ],
         "mp3Text": "Tidehunter, let's make these landlings pay.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-        "name": "Tidehunter"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+            "name": "Tidehunter"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Naga_ally_10.mp3"
         ],
         "mp3Text": "Morphling, if I get short of breath, splash a little of yourself on my gills.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
-        "name": "Morphling"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Morphling_minimap_icon.png/16px-Morphling_minimap_icon.png?version=a5b7a069e98b58fd4acdd1da4de8d224",
+            "name": "Morphling"
+          }
+        ]
       }
     ]
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
+  },
+  {
+    "text": "60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1216,6 +1402,10 @@
   {
     "headTitle": "Denying",
     "type": "title"
+  },
+  {
+    "text": "Requires visible enemy player within 1000 radius, 60 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
@@ -1300,6 +1490,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1346,122 +1540,186 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Naga_scepter_01.mp3"
         ],
         "mp3Text": "Ah, scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Naga_scepter_02.mp3"
         ],
         "mp3Text": "Slithereen scepter.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Naga_scepter_03.mp3"
         ],
         "mp3Text": "Conductor's baton.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-        "name": "Aghanim's Scepter (4200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+            "name": "Aghanim's Scepter (4200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Naga_blink_01.mp3"
         ],
         "mp3Text": "Blink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Naga_blink_02.mp3"
         ],
         "mp3Text": "Slink dagger.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-        "name": "Blink Dagger (2250)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+            "name": "Blink Dagger (2250)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Naga_items_01.mp3"
         ],
         "mp3Text": "Butterfly.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-        "name": "Butterfly (5475)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+            "name": "Butterfly (5475)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Naga_items_02.mp3"
         ],
         "mp3Text": "Manta Style.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-        "name": "Manta Style (4800)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+            "name": "Manta Style (4800)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Naga_items_03.mp3"
         ],
         "mp3Text": "Diffusal Blade.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Diffusal_Blade_1_icon.png/20px-Diffusal_Blade_1_icon.png?version=6383f6f085ff2897b51cf5da7b4b5a76",
-        "name": "Diffusal Blade (3150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Diffusal_Blade_1_icon.png/20px-Diffusal_Blade_1_icon.png?version=6383f6f085ff2897b51cf5da7b4b5a76",
+            "name": "Diffusal Blade (3150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Naga_items_04.mp3"
         ],
         "mp3Text": "Heart of Tarrasque.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-        "name": "Heart of Tarrasque (5200)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+            "name": "Heart of Tarrasque (5200)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Naga_items_05.mp3"
         ],
         "mp3Text": "Linken's Sphere.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-        "name": "Linken's Sphere (5050)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+            "name": "Linken's Sphere (5050)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Naga_items_06.mp3"
         ],
         "mp3Text": "Monkey King Bar.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-        "name": "Monkey King Bar (4175)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+            "name": "Monkey King Bar (4175)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Naga_items_07.mp3"
         ],
         "mp3Text": "Yasha.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d1/Yasha_icon.png/20px-Yasha_icon.png?version=f97ba51c9a6c86860e9b7c286b2d4659",
-        "name": "Yasha (2150)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d1/Yasha_icon.png/20px-Yasha_icon.png?version=f97ba51c9a6c86860e9b7c286b2d4659",
+            "name": "Yasha (2150)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Naga_items_08.mp3"
         ],
         "mp3Text": "Desolator.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-        "name": "Desolator (3500)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+            "name": "Desolator (3500)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Naga_items_09.mp3"
         ],
         "mp3Text": "Daedalus.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
-        "name": "Daedalus (5330)"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
+            "name": "Daedalus (5330)"
+          }
+        ]
       },
       {
         "mp3Url": [
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Naga_immort_01.mp3"
         ],
         "mp3Text": "Immortality!",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1470,8 +1728,12 @@
           "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Naga_immort_02.mp3"
         ],
         "mp3Text": "Ageless song.",
-        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-        "name": "Aegis of the Immortal"
+        "imgs": [
+          {
+            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+            "name": "Aegis of the Immortal"
+          }
+        ]
       }
     ]
   },
@@ -1654,6 +1916,10 @@
     ]
   },
   {
+    "text": "5% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1786,6 +2052,10 @@
     ]
   },
   {
+    "text": "25% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1809,6 +2079,10 @@
         "mp3Text": "Illusion!"
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -1836,6 +2110,10 @@
     ]
   },
   {
+    "text": "35% chance",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -1859,6 +2137,10 @@
         "mp3Text": "Regeneration!"
       }
     ]
+  },
+  {
+    "text": "10% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2039,6 +2321,10 @@
     "type": "title"
   },
   {
+    "text": "3 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2119,6 +2405,10 @@
         "mp3Text": "Ach."
       }
     ]
+  },
+  {
+    "text": "25% chance",
+    "type": "small"
   },
   {
     "voices": [
@@ -2213,6 +2503,10 @@
     "type": "subTitle"
   },
   {
+    "text": "thx, thanks, ty, or ally casts certain spell on player, 30 seconds cooldown",
+    "type": "small"
+  },
+  {
     "voices": [
       {
         "mp3Url": [
@@ -2231,6 +2525,10 @@
   {
     "text": "Laughing",
     "type": "subTitle"
+  },
+  {
+    "text": "/laugh, haha, lol, 15 seconds cooldown",
+    "type": "small"
   },
   {
     "voices": [
