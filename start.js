@@ -22,7 +22,7 @@ const baseInfo = require('./save/index.json');
 
 
     one = baseInfo.find(v => v.heroName == 'Spectre');
-    one.bannerImg = 'https://edge.alluremedia.com.au/m/k/2017/03/juggernaut.jpg';
+    one.bannerImg = 'http://img-www.pcgames.com.cn//html/viewpic_pcgames.htm?http://img0.pcgames.com.cn/pcgames/1308/21/2961342_7.jpg&channel=4793';
     if (!fs.existsSync(`./heros/spectremercurial.json`))
         await crawHeroVoice('https://dota2.gamepedia.com/Mercurial%27s_Call', 'spectremercurial', one);
 
