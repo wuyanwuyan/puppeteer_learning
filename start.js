@@ -24,6 +24,6 @@ const baseInfo = require('./save/index.json');
     one = baseInfo.find(v => v.heroName == 'Spectre');
     one.bannerImg = 'https://dota2.gamepedia.com/File:Cosmetic_icon_Mercurial%27s_Call.png';
     if (!fs.existsSync(`./heros/Mercurial.json`))
-        await crawHeroVoice('https://dota2.gamepedia.com/Mercurial%27s_Call', 'Mercurial', one);
+        await crawHeroVoice('https://dota2.gamepedia.com/Mercurial%27s_Call', 'spectremercurial', one);
 
 })();
