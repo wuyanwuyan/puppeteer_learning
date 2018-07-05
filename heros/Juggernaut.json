@@ -17,92 +17,100 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Jug_spawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jugsc_arc_spawn_01.mp3"
-        ],
-        "mp3Text": "Yurnero here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jug_spawn_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Jugsc_arc_spawn_02.mp3"
-        ],
-        "mp3Text": "I am Yurnero."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_spawn_03.mp3"
-        ],
-        "mp3Text": "Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jug_spawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_spawn_04.mp3"
-        ],
-        "mp3Text": "Call me Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jug_spawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jugsc_arc_spawn_05.mp3"
-        ],
-        "mp3Text": "Juggernaut stands ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_spawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Jugsc_arc_spawn_06.mp3"
-        ],
-        "mp3Text": "You have summoned Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_spawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_spawn_07.mp3"
-        ],
-        "mp3Text": "Oh, it's the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_spawn_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_spawn_08.mp3"
-        ],
-        "mp3Text": "Oh, it's the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_move_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_move_15.mp3"
-        ],
-        "mp3Text": "I bring my blade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jug_attack_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_attack_08.mp3"
-        ],
-        "mp3Text": "Stand and face me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_kill_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jugsc_arc_kill_03.mp3"
-        ],
-        "mp3Text": "To die at my hand is an honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_rare_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_rare_02.mp3"
-        ],
-        "mp3Text": "Each blow sharpens my blade!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Jug_spawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jugsc_arc_spawn_01.mp3"
+    ],
+    "mp3Text": "Yurnero here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jug_spawn_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Jugsc_arc_spawn_02.mp3"
+    ],
+    "mp3Text": "I am Yurnero."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_spawn_03.mp3"
+    ],
+    "mp3Text": "Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jug_spawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_spawn_04.mp3"
+    ],
+    "mp3Text": "Call me Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jug_spawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jugsc_arc_spawn_05.mp3"
+    ],
+    "mp3Text": "Juggernaut stands ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_spawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Jugsc_arc_spawn_06.mp3"
+    ],
+    "mp3Text": "You have summoned Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_spawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_spawn_07.mp3"
+    ],
+    "mp3Text": "Oh, it's the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_spawn_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_spawn_08.mp3"
+    ],
+    "mp3Text": "Oh, it's the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_move_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_move_15.mp3"
+    ],
+    "mp3Text": "I bring my blade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jug_attack_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_attack_08.mp3"
+    ],
+    "mp3Text": "Stand and face me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_kill_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jugsc_arc_kill_03.mp3"
+    ],
+    "mp3Text": "To die at my hand is an honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_rare_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_rare_02.mp3"
+    ],
+    "mp3Text": "Each blow sharpens my blade!"
   },
   {
     "headTitle": "Drafting",
@@ -113,412 +121,430 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3"
-        ],
-        "mp3Text": "Juggernaut."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3"
+    ],
+    "mp3Text": "Juggernaut."
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Jug_anger_04.mp3"
-        ],
-        "mp3Text": "Hmmm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Jug_anger_04.mp3"
+    ],
+    "mp3Text": "Hmmm."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_spawn_03.mp3"
-        ],
-        "mp3Text": "Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jug_spawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_spawn_04.mp3"
-        ],
-        "mp3Text": "Call me Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jug_spawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jugsc_arc_spawn_05.mp3"
-        ],
-        "mp3Text": "Juggernaut stands ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_spawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Jugsc_arc_spawn_06.mp3"
-        ],
-        "mp3Text": "You have summoned Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_spawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_spawn_07.mp3"
-        ],
-        "mp3Text": "Oh, it's the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_spawn_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_spawn_08.mp3"
-        ],
-        "mp3Text": "Oh, it's the Juggernaut."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Jug_spawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_spawn_03.mp3"
+    ],
+    "mp3Text": "Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jug_spawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_spawn_04.mp3"
+    ],
+    "mp3Text": "Call me Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jug_spawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jugsc_arc_spawn_05.mp3"
+    ],
+    "mp3Text": "Juggernaut stands ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_spawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Jugsc_arc_spawn_06.mp3"
+    ],
+    "mp3Text": "You have summoned Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_spawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_spawn_07.mp3"
+    ],
+    "mp3Text": "Oh, it's the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_spawn_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_spawn_08.mp3"
+    ],
+    "mp3Text": "Oh, it's the Juggernaut."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jug_inthebag_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Jugsc_arc_inthebag_01.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jug_inthebag_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jugsc_arc_inthebag_02.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Jug_inthebag_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Jugsc_arc_inthebag_03.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jug_inthebag_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Jugsc_arc_inthebag_01.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jug_inthebag_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jugsc_arc_inthebag_02.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Jug_inthebag_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Jugsc_arc_inthebag_03.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Jug_cast_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugsc_arc_cast_03.mp3"
-        ],
-        "mp3Text": "The time is upon us!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Jugg_battlebegins_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Put me in the vanguard."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Jug_cast_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugsc_arc_cast_03.mp3"
+    ],
+    "mp3Text": "The time is upon us!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Jugg_battlebegins_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Put me in the vanguard."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jug_move_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Jugsc_arc_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Jug_move_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugsc_arc_move_02.mp3"
-        ],
-        "mp3Text": "As you wish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Jug_move_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Jugsc_arc_move_03.mp3"
-        ],
-        "mp3Text": "It's an honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_move_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_move_04.mp3"
-        ],
-        "mp3Text": "Onward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jugsc_arc_move_05.mp3"
-        ],
-        "mp3Text": "Swiftly now!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Jug_move_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_move_06.mp3"
-        ],
-        "mp3Text": "Forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jug_move_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_move_07.mp3"
-        ],
-        "mp3Text": "Of course."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jug_move_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Jugsc_arc_move_09.mp3"
-        ],
-        "mp3Text": "To battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Jug_move_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_move_10.mp3"
-        ],
-        "mp3Text": "Agreed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_move_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_move_11.mp3"
-        ],
-        "mp3Text": "A fine idea."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_move_12.mp3"
-        ],
-        "mp3Text": "As you wish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_move_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Jugsc_arc_move_13.mp3"
-        ],
-        "mp3Text": "I go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jug_move_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jugsc_arc_move_14.mp3"
-        ],
-        "mp3Text": "I fight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_move_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_move_15.mp3"
-        ],
-        "mp3Text": "I bring my blade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_16.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_move_16.mp3"
-        ],
-        "mp3Text": "So you say."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jug_move_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Jugsc_arc_move_17.mp3"
-        ],
-        "mp3Text": "Very well."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jug_move_18.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_move_18.mp3"
-        ],
-        "mp3Text": "On it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Jug_move_19.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Jugsc_arc_move_19.mp3"
-        ],
-        "mp3Text": "Already moving."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jug_acknow_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jugsc_arc_acknow_01.mp3"
-        ],
-        "mp3Text": "Mmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_acknow_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jugsc_arc_acknow_02.mp3"
-        ],
-        "mp3Text": "Uh huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jug_acknow_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_acknow_03.mp3"
-        ],
-        "mp3Text": "Yeah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_acknow_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugsc_arc_acknow_04.mp3"
-        ],
-        "mp3Text": "Mmhmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_acknow_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jugsc_arc_acknow_05.mp3"
-        ],
-        "mp3Text": "Yah, yah, yah yah yah yah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jug_move_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Jugsc_arc_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Jug_move_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugsc_arc_move_02.mp3"
+    ],
+    "mp3Text": "As you wish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Jug_move_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Jugsc_arc_move_03.mp3"
+    ],
+    "mp3Text": "It's an honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_move_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_move_04.mp3"
+    ],
+    "mp3Text": "Onward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jugsc_arc_move_05.mp3"
+    ],
+    "mp3Text": "Swiftly now!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Jug_move_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_move_06.mp3"
+    ],
+    "mp3Text": "Forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jug_move_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_move_07.mp3"
+    ],
+    "mp3Text": "Of course."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jug_move_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Jugsc_arc_move_09.mp3"
+    ],
+    "mp3Text": "To battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Jug_move_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_move_10.mp3"
+    ],
+    "mp3Text": "Agreed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_move_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_move_11.mp3"
+    ],
+    "mp3Text": "A fine idea."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_move_12.mp3"
+    ],
+    "mp3Text": "As you wish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_move_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Jugsc_arc_move_13.mp3"
+    ],
+    "mp3Text": "I go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Jug_move_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jugsc_arc_move_14.mp3"
+    ],
+    "mp3Text": "I fight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_move_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_move_15.mp3"
+    ],
+    "mp3Text": "I bring my blade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_move_16.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_move_16.mp3"
+    ],
+    "mp3Text": "So you say."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jug_move_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Jugsc_arc_move_17.mp3"
+    ],
+    "mp3Text": "Very well."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jug_move_18.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_move_18.mp3"
+    ],
+    "mp3Text": "On it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Jug_move_19.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Jugsc_arc_move_19.mp3"
+    ],
+    "mp3Text": "Already moving."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jug_acknow_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jugsc_arc_acknow_01.mp3"
+    ],
+    "mp3Text": "Mmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jug_acknow_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jugsc_arc_acknow_02.mp3"
+    ],
+    "mp3Text": "Uh huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jug_acknow_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_acknow_03.mp3"
+    ],
+    "mp3Text": "Yeah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_acknow_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugsc_arc_acknow_04.mp3"
+    ],
+    "mp3Text": "Mmhmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_acknow_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jugsc_arc_acknow_05.mp3"
+    ],
+    "mp3Text": "Yah, yah, yah yah yah yah."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_attack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jugsc_arc_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Jug_attack_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_attack_02.mp3"
-        ],
-        "mp3Text": "Your death approaches."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jug_attack_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jugsc_arc_attack_03.mp3"
-        ],
-        "mp3Text": "You are mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jug_attack_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jugsc_arc_attack_04.mp3"
-        ],
-        "mp3Text": "At last!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Jug_attack_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Jugsc_arc_attack_05.mp3"
-        ],
-        "mp3Text": "You die!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Jug_attack_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_attack_06.mp3"
-        ],
-        "mp3Text": "Run if you can!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Jug_attack_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jugsc_arc_attack_07.mp3"
-        ],
-        "mp3Text": "Look me in the eye!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jug_attack_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_attack_08.mp3"
-        ],
-        "mp3Text": "Stand and face me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Jug_attack_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Jugsc_arc_attack_09.mp3"
-        ],
-        "mp3Text": "What coward runs?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_attack_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Jugsc_arc_attack_10.mp3"
-        ],
-        "mp3Text": "You cannot hide!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jug_attack_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Jugsc_arc_attack_12.mp3"
-        ],
-        "mp3Text": "Death-dealer!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Jug_attack_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_attack_13.mp3"
-        ],
-        "mp3Text": "Attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_attack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jugsc_arc_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Jug_attack_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_attack_02.mp3"
+    ],
+    "mp3Text": "Your death approaches."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jug_attack_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jugsc_arc_attack_03.mp3"
+    ],
+    "mp3Text": "You are mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jug_attack_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jugsc_arc_attack_04.mp3"
+    ],
+    "mp3Text": "At last!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Jug_attack_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Jugsc_arc_attack_05.mp3"
+    ],
+    "mp3Text": "You die!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Jug_attack_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_attack_06.mp3"
+    ],
+    "mp3Text": "Run if you can!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Jug_attack_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jugsc_arc_attack_07.mp3"
+    ],
+    "mp3Text": "Look me in the eye!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jug_attack_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_attack_08.mp3"
+    ],
+    "mp3Text": "Stand and face me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Jug_attack_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Jugsc_arc_attack_09.mp3"
+    ],
+    "mp3Text": "What coward runs?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_attack_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Jugsc_arc_attack_10.mp3"
+    ],
+    "mp3Text": "You cannot hide!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jug_attack_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Jugsc_arc_attack_12.mp3"
+    ],
+    "mp3Text": "Death-dealer!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Jug_attack_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_attack_13.mp3"
+    ],
+    "mp3Text": "Attack!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_cast_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Jugsc_arc_cast_01.mp3"
-        ],
-        "mp3Text": "Now is time!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jug_cast_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Jugsc_arc_cast_02.mp3"
-        ],
-        "mp3Text": "You ask and I will answer."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_cast_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Jugsc_arc_cast_01.mp3"
+    ],
+    "mp3Text": "Now is time!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jug_cast_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Jugsc_arc_cast_02.mp3"
+    ],
+    "mp3Text": "You ask and I will answer."
   },
   {
     "headTitle": "Abilities",
@@ -534,152 +560,154 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Jug_ability_bladefury_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Jugsc_arc_ability_bladefury_02.mp3"
-        ],
-        "mp3Text": "Haaaaaaaaaaaaaaaaaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Jug_ability_bladefury_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jugsc_arc_ability_bladefury_03.mp3"
-        ],
-        "mp3Text": "Coming through!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_ability_bladefury_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_ability_bladefury_05.mp3"
-        ],
-        "mp3Text": "Juggernaaaaaaaaut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Jug_ability_bladefury_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Jugsc_arc_ability_bladefury_09.mp3"
-        ],
-        "mp3Text": "Yaaaaaaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jugg_ability_bladefury_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Jugsc_arc_ability_bladefury_19.mp3"
-        ],
-        "mp3Text": "Juggernaaaaaaaaut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Jugg_ability_bladefury_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Jugsc_arc_ability_bladefury_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jugg_ability_bladefury_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugsc_arc_ability_bladefury_12.mp3"
-        ],
-        "mp3Text": "Haaaaaaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jugg_ability_bladefury_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jugsc_arc_ability_bladefury_13.mp3"
-        ],
-        "mp3Text": "Battlefury!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugg_ability_bladefury_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Jugsc_arc_ability_bladefury_14.mp3"
-        ],
-        "mp3Text": "Juggernaaaaaaaaut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Jugg_ability_bladefury_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Jugsc_arc_ability_bladefury_15.mp3"
-        ],
-        "mp3Text": "Fury!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Jugg_ability_bladefury_16.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_ability_bladefury_16.mp3"
-        ],
-        "mp3Text": "Hyaaaaaaaaaaaaaaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Jugg_ability_bladefury_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Jugsc_arc_ability_bladefury_17.mp3"
-        ],
-        "mp3Text": "Juggernaaaaaaaaut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Jugg_ability_bladefury_18.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Jugsc_arc_ability_bladefury_18.mp3"
-        ],
-        "mp3Text": "Rrraaaaaaaaaaaaaa!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Jug_ability_bladefury_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Jugsc_arc_ability_bladefury_02.mp3"
+    ],
+    "mp3Text": "Haaaaaaaaaaaaaaaaaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Jug_ability_bladefury_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jugsc_arc_ability_bladefury_03.mp3"
+    ],
+    "mp3Text": "Coming through!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_ability_bladefury_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_ability_bladefury_05.mp3"
+    ],
+    "mp3Text": "Juggernaaaaaaaaut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Jug_ability_bladefury_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Jugsc_arc_ability_bladefury_09.mp3"
+    ],
+    "mp3Text": "Yaaaaaaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jugg_ability_bladefury_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Jugsc_arc_ability_bladefury_19.mp3"
+    ],
+    "mp3Text": "Juggernaaaaaaaaut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Jugg_ability_bladefury_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Jugsc_arc_ability_bladefury_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jugg_ability_bladefury_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugsc_arc_ability_bladefury_12.mp3"
+    ],
+    "mp3Text": "Haaaaaaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jugg_ability_bladefury_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jugsc_arc_ability_bladefury_13.mp3"
+    ],
+    "mp3Text": "Battlefury!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugg_ability_bladefury_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Jugsc_arc_ability_bladefury_14.mp3"
+    ],
+    "mp3Text": "Juggernaaaaaaaaut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Jugg_ability_bladefury_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Jugsc_arc_ability_bladefury_15.mp3"
+    ],
+    "mp3Text": "Fury!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Jugg_ability_bladefury_16.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_ability_bladefury_16.mp3"
+    ],
+    "mp3Text": "Hyaaaaaaaaaaaaaaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Jugg_ability_bladefury_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Jugsc_arc_ability_bladefury_17.mp3"
+    ],
+    "mp3Text": "Juggernaaaaaaaaut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Jugg_ability_bladefury_18.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Jugsc_arc_ability_bladefury_18.mp3"
+    ],
+    "mp3Text": "Rrraaaaaaaaaaaaaa!"
   },
   {
     "text": "Using  Town Portal Scroll or  Boots of Travel, enemy hero visible within 1200 range",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jug_ability_stunteleport_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_ability_stunteleport_01.mp3"
-        ],
-        "mp3Text": "I'm out of here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jug_ability_stunteleport_02.mp3"
-        ],
-        "mp3Text": "Hate to hit and run."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_ability_stunteleport_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Jugsc_arc_ability_stunteleport_03.mp3"
-        ],
-        "mp3Text": "I'll be back to finish this later."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jug_ability_stunteleport_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_ability_stunteleport_01.mp3"
+    ],
+    "mp3Text": "I'm out of here."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_ability_stunteleport_02.mp3"
-        ],
-        "mp3Text": "Hate to hit and run."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jug_ability_stunteleport_02.mp3"
+    ],
+    "mp3Text": "Hate to hit and run."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jug_ability_stunteleport_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Jugsc_arc_ability_stunteleport_03.mp3"
+    ],
+    "mp3Text": "I'll be back to finish this later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_ability_stunteleport_02.mp3"
+    ],
+    "mp3Text": "Hate to hit and run."
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_ability_bladefury_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Jugsc_arc_ability_bladefury_07.mp3"
-        ],
-        "mp3Text": "Mown-ed!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_ability_bladefury_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Jugsc_arc_ability_bladefury_07.mp3"
+    ],
+    "mp3Text": "Mown-ed!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/39/Omnislash_icon.png/16px-Omnislash_icon.png?version=696bb4c34806044b192a65169cef15a6",
@@ -691,29 +719,28 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jug_ability_omnislash_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jugsc_arc_ability_omnislash_01.mp3"
-        ],
-        "mp3Text": "Looks like it's just you and me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jug_ability_omnislash_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_ability_omnislash_02.mp3"
-        ],
-        "mp3Text": "Fancy beating you here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Jug_ability_omnislash_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jugsc_arc_ability_omnislash_03.mp3"
-        ],
-        "mp3Text": "May I cut in?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jug_ability_omnislash_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Jugsc_arc_ability_omnislash_01.mp3"
+    ],
+    "mp3Text": "Looks like it's just you and me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jug_ability_omnislash_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_ability_omnislash_02.mp3"
+    ],
+    "mp3Text": "Fancy beating you here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Jug_ability_omnislash_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Jugsc_arc_ability_omnislash_03.mp3"
+    ],
+    "mp3Text": "May I cut in?"
   },
   {
     "text": "On each slash",
@@ -724,601 +751,644 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jug_ability_omnislash_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Jugsc_arc_ability_omnislash_04.mp3"
-        ],
-        "mp3Text": "Hu!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jug_ability_omnislash_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jugsc_arc_ability_omnislash_05.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Jug_ability_omnislash_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jugsc_arc_ability_omnislash_06.mp3"
-        ],
-        "mp3Text": "Hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jug_ability_omnislash_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_ability_omnislash_07.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Jug_ability_omnislash_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_ability_omnislash_08.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Jug_ability_omnislash_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jugsc_arc_ability_omnislash_09.mp3"
-        ],
-        "mp3Text": "Eh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jug_ability_omnislash_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Jugsc_arc_ability_omnislash_10.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_ability_omnislash_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_ability_omnislash_11.mp3"
-        ],
-        "mp3Text": "Ya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jug_ability_omnislash_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jugsc_arc_ability_omnislash_12.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_ability_omnislash_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jugsc_arc_ability_omnislash_13.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jug_ability_omnislash_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jugsc_arc_ability_omnislash_14.mp3"
-        ],
-        "mp3Text": "Hu!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jug_ability_omnislash_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugsc_arc_ability_omnislash_15.mp3"
-        ],
-        "mp3Text": "Hu!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jug_ability_omnislash_16.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_ability_omnislash_16.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jug_ability_omnislash_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_ability_omnislash_17.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jug_ability_omnislash_18.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_ability_omnislash_18.mp3"
-        ],
-        "mp3Text": "Ya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Jug_ability_omnislash_19.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_ability_omnislash_19.mp3"
-        ],
-        "mp3Text": "Hu!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Jug_ability_omnislash_20.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jugsc_arc_ability_omnislash_20.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_ability_omnislash_21.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_ability_omnislash_21.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Jug_ability_omnislash_22.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugsc_arc_ability_omnislash_22.mp3"
-        ],
-        "mp3Text": "Yu!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Jug_ability_omnislash_23.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jugsc_arc_ability_omnislash_23.mp3"
-        ],
-        "mp3Text": "Ya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jug_ability_omnislash_24.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Jugsc_arc_ability_omnislash_24.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Jug_ability_omnislash_25.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Jugsc_arc_ability_omnislash_25.mp3"
-        ],
-        "mp3Text": "Hya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jug_ability_omnislash_26.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_ability_omnislash_26.mp3"
-        ],
-        "mp3Text": "Hiya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jug_ability_omnislash_27.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_ability_omnislash_27.mp3"
-        ],
-        "mp3Text": "Uhh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Jug_ability_omnislash_28.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugsc_arc_ability_omnislash_28.mp3"
-        ],
-        "mp3Text": "Rah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jug_ability_omnislash_29.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Jugsc_arc_ability_omnislash_29.mp3"
-        ],
-        "mp3Text": "Ruh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Jug_ability_omnislash_30.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_ability_omnislash_30.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Jug_ability_omnislash_31.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jugsc_arc_ability_omnislash_31.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Jug_ability_omnislash_32.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Jugsc_arc_ability_omnislash_32.mp3"
-        ],
-        "mp3Text": "Hya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jug_ability_omnislash_33.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugsc_arc_ability_omnislash_33.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_ability_omnislash_34.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jugsc_arc_ability_omnislash_34.mp3"
-        ],
-        "mp3Text": "Eh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jug_ability_omnislash_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Jugsc_arc_ability_omnislash_04.mp3"
+    ],
+    "mp3Text": "Hu!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jug_ability_omnislash_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jugsc_arc_ability_omnislash_05.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Jug_ability_omnislash_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jugsc_arc_ability_omnislash_06.mp3"
+    ],
+    "mp3Text": "Hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jug_ability_omnislash_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_ability_omnislash_07.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Jug_ability_omnislash_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_ability_omnislash_08.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Jug_ability_omnislash_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jugsc_arc_ability_omnislash_09.mp3"
+    ],
+    "mp3Text": "Eh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jug_ability_omnislash_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Jugsc_arc_ability_omnislash_10.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_ability_omnislash_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_ability_omnislash_11.mp3"
+    ],
+    "mp3Text": "Ya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jug_ability_omnislash_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jugsc_arc_ability_omnislash_12.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_ability_omnislash_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Jugsc_arc_ability_omnislash_13.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jug_ability_omnislash_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jugsc_arc_ability_omnislash_14.mp3"
+    ],
+    "mp3Text": "Hu!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jug_ability_omnislash_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugsc_arc_ability_omnislash_15.mp3"
+    ],
+    "mp3Text": "Hu!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jug_ability_omnislash_16.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_ability_omnislash_16.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jug_ability_omnislash_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_ability_omnislash_17.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jug_ability_omnislash_18.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_ability_omnislash_18.mp3"
+    ],
+    "mp3Text": "Ya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Jug_ability_omnislash_19.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_ability_omnislash_19.mp3"
+    ],
+    "mp3Text": "Hu!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Jug_ability_omnislash_20.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jugsc_arc_ability_omnislash_20.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_ability_omnislash_21.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_ability_omnislash_21.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Jug_ability_omnislash_22.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugsc_arc_ability_omnislash_22.mp3"
+    ],
+    "mp3Text": "Yu!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Jug_ability_omnislash_23.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jugsc_arc_ability_omnislash_23.mp3"
+    ],
+    "mp3Text": "Ya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jug_ability_omnislash_24.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Jugsc_arc_ability_omnislash_24.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Jug_ability_omnislash_25.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Jugsc_arc_ability_omnislash_25.mp3"
+    ],
+    "mp3Text": "Hya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jug_ability_omnislash_26.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugsc_arc_ability_omnislash_26.mp3"
+    ],
+    "mp3Text": "Hiya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jug_ability_omnislash_27.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_ability_omnislash_27.mp3"
+    ],
+    "mp3Text": "Uhh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Jug_ability_omnislash_28.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugsc_arc_ability_omnislash_28.mp3"
+    ],
+    "mp3Text": "Rah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jug_ability_omnislash_29.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Jugsc_arc_ability_omnislash_29.mp3"
+    ],
+    "mp3Text": "Ruh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Jug_ability_omnislash_30.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_ability_omnislash_30.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Jug_ability_omnislash_31.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jugsc_arc_ability_omnislash_31.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Jug_ability_omnislash_32.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Jugsc_arc_ability_omnislash_32.mp3"
+    ],
+    "mp3Text": "Hya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jug_ability_omnislash_33.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugsc_arc_ability_omnislash_33.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_ability_omnislash_34.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jugsc_arc_ability_omnislash_34.mp3"
+    ],
+    "mp3Text": "Eh!"
   },
   {
     "text": "Upon ending, 40% of total damage not dealt to heroes",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_ability_waste_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugsc_arc_ability_waste_01.mp3"
-        ],
-        "mp3Text": "What a waste!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jug_ability_waste_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Jugsc_arc_ability_waste_02.mp3"
-        ],
-        "mp3Text": "Argh, I had such plans…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_ability_waste_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugsc_arc_ability_waste_01.mp3"
+    ],
+    "mp3Text": "What a waste!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jug_ability_waste_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Jugsc_arc_ability_waste_02.mp3"
+    ],
+    "mp3Text": "Argh, I had such plans…"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jug_level_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jugsc_arc_level_02.mp3"
-        ],
-        "mp3Text": "My power increases!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jug_level_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_level_03.mp3"
-        ],
-        "mp3Text": "Strength is mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_level_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jugsc_arc_level_04.mp3"
-        ],
-        "mp3Text": "The fruits of discipline."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Jug_level_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Jugsc_arc_level_05.mp3"
-        ],
-        "mp3Text": "With practice comes strength."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jug_level_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Jugsc_arc_level_06.mp3"
-        ],
-        "mp3Text": "I grow!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jug_level_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jugsc_arc_level_02.mp3"
+    ],
+    "mp3Text": "My power increases!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jug_level_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_level_03.mp3"
+    ],
+    "mp3Text": "Strength is mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_level_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jugsc_arc_level_04.mp3"
+    ],
+    "mp3Text": "The fruits of discipline."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Jug_level_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Jugsc_arc_level_05.mp3"
+    ],
+    "mp3Text": "With practice comes strength."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jug_level_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Jugsc_arc_level_06.mp3"
+    ],
+    "mp3Text": "I grow!"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Jug_kill_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_kill_01.mp3"
-        ],
-        "mp3Text": "My finest work!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Jug_kill_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Jugsc_arc_kill_02.mp3"
-        ],
-        "mp3Text": "You should be honored."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_kill_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jugsc_arc_kill_03.mp3"
-        ],
-        "mp3Text": "To die at my hand is an honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_kill_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jugsc_arc_kill_04.mp3"
-        ],
-        "mp3Text": "An honor for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jug_kill_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jugsc_arc_kill_05.mp3"
-        ],
-        "mp3Text": "Face your death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Jug_kill_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_kill_06.mp3"
-        ],
-        "mp3Text": "A worthy foe."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_kill_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jugsc_arc_kill_07.mp3"
-        ],
-        "mp3Text": "Blame my blade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Jug_kill_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jugsc_arc_kill_08.mp3"
-        ],
-        "mp3Text": "My blade has tasted better."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jug_kill_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Jugsc_arc_kill_09.mp3"
-        ],
-        "mp3Text": "There's a fine line between bravery and stupidity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_kill_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jugsc_arc_kill_10.mp3"
-        ],
-        "mp3Text": "Never will you see my face."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jug_kill_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_kill_11.mp3"
-        ],
-        "mp3Text": "Surgical."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Jug_kill_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Jugsc_arc_kill_12.mp3"
-        ],
-        "mp3Text": "Perfect."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jug_lasthit_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Jugsc_arc_lasthit_06.mp3"
-        ],
-        "mp3Text": "I accept your death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Jug_lasthit_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Jugsc_arc_lasthit_09.mp3"
-        ],
-        "mp3Text": "See what you've done?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Jug_kill_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_kill_01.mp3"
+    ],
+    "mp3Text": "My finest work!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Jug_kill_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Jugsc_arc_kill_02.mp3"
+    ],
+    "mp3Text": "You should be honored."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Jug_kill_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jugsc_arc_kill_03.mp3"
+    ],
+    "mp3Text": "To die at my hand is an honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_kill_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jugsc_arc_kill_04.mp3"
+    ],
+    "mp3Text": "An honor for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jug_kill_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Jugsc_arc_kill_05.mp3"
+    ],
+    "mp3Text": "Face your death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Jug_kill_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_kill_06.mp3"
+    ],
+    "mp3Text": "A worthy foe."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_kill_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jugsc_arc_kill_07.mp3"
+    ],
+    "mp3Text": "Blame my blade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Jug_kill_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Jugsc_arc_kill_08.mp3"
+    ],
+    "mp3Text": "My blade has tasted better."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jug_kill_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Jugsc_arc_kill_09.mp3"
+    ],
+    "mp3Text": "There's a fine line between bravery and stupidity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Jug_kill_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Jugsc_arc_kill_10.mp3"
+    ],
+    "mp3Text": "Never will you see my face."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jug_kill_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_kill_11.mp3"
+    ],
+    "mp3Text": "Surgical."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Jug_kill_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Jugsc_arc_kill_12.mp3"
+    ],
+    "mp3Text": "Perfect."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jug_lasthit_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Jugsc_arc_lasthit_06.mp3"
+    ],
+    "mp3Text": "I accept your death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Jug_lasthit_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Jugsc_arc_lasthit_09.mp3"
+    ],
+    "mp3Text": "See what you've done?"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Jugg_rival_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Jugsc_arc_rival_01.mp3"
+    ],
+    "mp3Text": "It's not the size of the sword, Sven, it's how you use it.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Jugg_rival_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Jugsc_arc_rival_01.mp3"
-        ],
-        "mp3Text": "It's not the size of the sword, Sven, it's how you use it.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jugg_rival_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_rival_02.mp3"
-        ],
-        "mp3Text": "Size means nothing when your blade carries no weight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jugg_rival_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugsc_arc_rival_03.mp3"
-        ],
-        "mp3Text": "I will fit you for your deathmask now.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugg_rival_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Jugsc_arc_rival_04.mp3"
-        ],
-        "mp3Text": "An honorable foe stands to fight before he dies.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugg_rival_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Jugsc_arc_rival_05.mp3"
-        ],
-        "mp3Text": "Did you think with all of your jumping you could elude me?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugg_rival_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jugsc_arc_rival_06.mp3"
-        ],
-        "mp3Text": "Your bubble deserved to be popped.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugg_rival_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugsc_arc_rival_07.mp3"
-        ],
-        "mp3Text": "Now you are truly a spirit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugg_rival_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jugsc_arc_rival_09.mp3"
-        ],
-        "mp3Text": "You brought a rock to a sword fight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jugg_rival_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_rival_10.mp3"
-        ],
-        "mp3Text": "Through all of your snares, Blade Fury cuts like silk.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
-            "name": "Broodmother"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jugg_rival_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jugsc_arc_rival_11.mp3"
-        ],
-        "mp3Text": "You are not the king of me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
-            "name": "Sand King"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Jugg_rival_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugsc_arc_rival_12.mp3"
-        ],
-        "mp3Text": "Hide all you like, my fury calls you out!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
-            "name": "Sand King"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugg_rival_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugsc_arc_rival_13.mp3"
-        ],
-        "mp3Text": "The dragon hid behind a shield and still it did not save him.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugg_rival_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_rival_14.mp3"
-        ],
-        "mp3Text": "Cask, meet jug.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Witch_Doctor_minimap_icon.png/16px-Witch_Doctor_minimap_icon.png?version=ffbada7366abe90497e17be0246f029b",
-            "name": "Witch Doctor"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Jugg_rival_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Jugsc_arc_rival_15.mp3"
-        ],
-        "mp3Text": "I bow to no king.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jugg_rival_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_rival_02.mp3"
+    ],
+    "mp3Text": "Size means nothing when your blade carries no weight.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jug_rare_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_rare_17.mp3"
-        ],
-        "mp3Text": "I'm the Juggernaut, Lich!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jugg_rival_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugsc_arc_rival_03.mp3"
+    ],
+    "mp3Text": "I will fit you for your deathmask now.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugg_rival_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Jugsc_arc_rival_04.mp3"
+    ],
+    "mp3Text": "An honorable foe stands to fight before he dies.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugg_rival_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Jugsc_arc_rival_05.mp3"
+    ],
+    "mp3Text": "Did you think with all of your jumping you could elude me?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugg_rival_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jugsc_arc_rival_06.mp3"
+    ],
+    "mp3Text": "Your bubble deserved to be popped.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugg_rival_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugsc_arc_rival_07.mp3"
+    ],
+    "mp3Text": "Now you are truly a spirit.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugg_rival_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Jugsc_arc_rival_09.mp3"
+    ],
+    "mp3Text": "You brought a rock to a sword fight.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Jugg_rival_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_rival_10.mp3"
+    ],
+    "mp3Text": "Through all of your snares, Blade Fury cuts like silk.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+        "name": "Broodmother"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Jugg_rival_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jugsc_arc_rival_11.mp3"
+    ],
+    "mp3Text": "You are not the king of me.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
+        "name": "Sand King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Jugg_rival_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugsc_arc_rival_12.mp3"
+    ],
+    "mp3Text": "Hide all you like, my fury calls you out!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
+        "name": "Sand King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jugg_rival_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugsc_arc_rival_13.mp3"
+    ],
+    "mp3Text": "The dragon hid behind a shield and still it did not save him.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugg_rival_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_rival_14.mp3"
+    ],
+    "mp3Text": "Cask, meet jug.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Witch_Doctor_minimap_icon.png/16px-Witch_Doctor_minimap_icon.png?version=ffbada7366abe90497e17be0246f029b",
+        "name": "Witch Doctor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Jugg_rival_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Jugsc_arc_rival_15.mp3"
+    ],
+    "mp3Text": "I bow to no king.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jug_rare_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_rare_17.mp3"
+    ],
+    "mp3Text": "I'm the Juggernaut, Lich!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
       }
     ]
   },
@@ -1327,365 +1397,372 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugg_firstblood_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_firstblood_01.mp3"
-        ],
-        "mp3Text": "Last of my kind but first in this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugg_firstblood_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_firstblood_01.mp3"
+    ],
+    "mp3Text": "Last of my kind but first in this."
   },
   {
     "text": "Bladeform Legacy taunt",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_ability_bladefury_05.mp3"
-        ],
-        "mp3Text": "Juggernaaaaaaaaut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Jugsc_arc_ability_bladefury_09.mp3"
-        ],
-        "mp3Text": "Yaaaaaaa!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Jugsc_arc_ability_bladefury_05.mp3"
+    ],
+    "mp3Text": "Juggernaaaaaaaaut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Jugsc_arc_ability_bladefury_09.mp3"
+    ],
+    "mp3Text": "Yaaaaaaa!"
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jug_lasthit_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jugsc_arc_lasthit_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jug_lasthit_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_lasthit_02.mp3"
-        ],
-        "mp3Text": "All mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Jug_lasthit_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Jugsc_arc_lasthit_03.mp3"
-        ],
-        "mp3Text": "No less than I deserve!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_lasthit_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jugsc_arc_lasthit_04.mp3"
-        ],
-        "mp3Text": "Payday!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_lasthit_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_lasthit_05.mp3"
-        ],
-        "mp3Text": "I'll take that as tribute."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Jug_lasthit_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Jugsc_arc_lasthit_07.mp3"
-        ],
-        "mp3Text": "Paid in kind."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jug_lasthit_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Jugsc_arc_lasthit_08.mp3"
-        ],
-        "mp3Text": "Paid in full."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jug_lasthit_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jugsc_arc_lasthit_10.mp3"
-        ],
-        "mp3Text": "Seems fair."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Jug_lasthit_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_lasthit_11.mp3"
-        ],
-        "mp3Text": "Slim pickings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jug_lasthit_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Jugsc_arc_lasthit_12.mp3"
-        ],
-        "mp3Text": "Easy money."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Jug_lasthit_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jugsc_arc_lasthit_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jug_lasthit_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Jugsc_arc_lasthit_02.mp3"
+    ],
+    "mp3Text": "All mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Jug_lasthit_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Jugsc_arc_lasthit_03.mp3"
+    ],
+    "mp3Text": "No less than I deserve!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_lasthit_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jugsc_arc_lasthit_04.mp3"
+    ],
+    "mp3Text": "Payday!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_lasthit_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_lasthit_05.mp3"
+    ],
+    "mp3Text": "I'll take that as tribute."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Jug_lasthit_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Jugsc_arc_lasthit_07.mp3"
+    ],
+    "mp3Text": "Paid in kind."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jug_lasthit_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Jugsc_arc_lasthit_08.mp3"
+    ],
+    "mp3Text": "Paid in full."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jug_lasthit_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jugsc_arc_lasthit_10.mp3"
+    ],
+    "mp3Text": "Seems fair."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Jug_lasthit_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_lasthit_11.mp3"
+    ],
+    "mp3Text": "Slim pickings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jug_lasthit_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Jugsc_arc_lasthit_12.mp3"
+    ],
+    "mp3Text": "Easy money."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jug_deny_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Jugsc_arc_deny_01.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Jug_deny_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Jugsc_arc_deny_02.mp3"
-        ],
-        "mp3Text": "Face it, you're a loser!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jug_deny_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jugsc_arc_deny_03.mp3"
-        ],
-        "mp3Text": "My blade is swifter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_deny_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Jugsc_arc_deny_04.mp3"
-        ],
-        "mp3Text": "Mmm mmmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jug_deny_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jugsc_arc_deny_05.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_deny_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_deny_06.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_deny_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_deny_07.mp3"
-        ],
-        "mp3Text": "Denied!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Jug_deny_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Jugsc_arc_deny_01.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Jug_deny_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Jugsc_arc_deny_02.mp3"
+    ],
+    "mp3Text": "Face it, you're a loser!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jug_deny_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Jugsc_arc_deny_03.mp3"
+    ],
+    "mp3Text": "My blade is swifter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_deny_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Jugsc_arc_deny_04.mp3"
+    ],
+    "mp3Text": "Mmm mmmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jug_deny_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jugsc_arc_deny_05.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_deny_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_deny_06.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_deny_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_deny_07.mp3"
+    ],
+    "mp3Text": "Denied!"
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jug_purch_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Jugsc_arc_purch_01.mp3"
-        ],
-        "mp3Text": "Mine at last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jug_purch_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jugsc_arc_purch_02.mp3"
-        ],
-        "mp3Text": "This is worth an empty coin purse!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jug_purch_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Jugsc_arc_purch_03.mp3"
-        ],
-        "mp3Text": "I'll empty my pouch for this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jug_purch_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Jugsc_arc_purch_01.mp3"
+    ],
+    "mp3Text": "Mine at last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jug_purch_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jugsc_arc_purch_02.mp3"
+    ],
+    "mp3Text": "This is worth an empty coin purse!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jug_purch_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Jugsc_arc_purch_03.mp3"
+    ],
+    "mp3Text": "I'll empty my pouch for this."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jug_ability_bladefury_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jugsc_arc_ability_bladefury_10.mp3"
+    ],
+    "mp3Text": "Battle Fury, meet Blade Fury.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jug_ability_bladefury_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jugsc_arc_ability_bladefury_10.mp3"
-        ],
-        "mp3Text": "Battle Fury, meet Blade Fury.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
-            "name": "Battle Fury (4400)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Jugg_item_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jugsc_arc_item_01.mp3"
-        ],
-        "mp3Text": "Battle Fury.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
-            "name": "Battle Fury (4400)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jugg_item_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugsc_arc_item_02.mp3"
-        ],
-        "mp3Text": "Butterfly.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jugg_item_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jugsc_arc_item_03.mp3"
-        ],
-        "mp3Text": "Satanic!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-            "name": "Satanic (5500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jugg_item_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_item_04.mp3"
-        ],
-        "mp3Text": "Vladmir!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
-            "name": "Vladmir's Offering (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Jugg_blink_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jugsc_arc_blink_01.mp3"
-        ],
-        "mp3Text": "Blink Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugg_blink_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Jugsc_arc_blink_02.mp3"
-        ],
-        "mp3Text": "The small blade strikes swiftly.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugg_scepter_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jugsc_arc_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, Scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jugg_scepter_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_scepter_03.mp3"
-        ],
-        "mp3Text": "Ah, Scepter, relic of a fallen race.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Jug_immort_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Jugsc_arc_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jug_immort_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jugsc_arc_immort_03.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
+        "name": "Battle Fury (4400)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Jugg_item_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jugsc_arc_item_01.mp3"
+    ],
+    "mp3Text": "Battle Fury.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_immort_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_immort_02.mp3"
-        ],
-        "mp3Text": "No more need I trouble with death.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
+        "name": "Battle Fury (4400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jugg_item_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugsc_arc_item_02.mp3"
+    ],
+    "mp3Text": "Butterfly.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jugg_item_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jugsc_arc_item_03.mp3"
+    ],
+    "mp3Text": "Satanic!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+        "name": "Satanic (5500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jugg_item_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Jugsc_arc_item_04.mp3"
+    ],
+    "mp3Text": "Vladmir!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
+        "name": "Vladmir's Offering (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Jugg_blink_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Jugsc_arc_blink_01.mp3"
+    ],
+    "mp3Text": "Blink Dagger.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jugg_blink_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Jugsc_arc_blink_02.mp3"
+    ],
+    "mp3Text": "The small blade strikes swiftly.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugg_scepter_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Jugsc_arc_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, Scepter.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jugg_scepter_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_scepter_03.mp3"
+    ],
+    "mp3Text": "Ah, Scepter, relic of a fallen race.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Jug_immort_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Jugsc_arc_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jug_immort_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jugsc_arc_immort_03.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_immort_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_immort_02.mp3"
+    ],
+    "mp3Text": "No more need I trouble with death.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1694,208 +1771,208 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jug_death_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugsc_arc_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Jug_death_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_death_03.mp3"
-        ],
-        "mp3Text": "Not possible…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_death_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Jugsc_arc_death_04.mp3"
-        ],
-        "mp3Text": "To see…beneath…the mask…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jug_death_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Jugsc_arc_death_05.mp3"
-        ],
-        "mp3Text": "I face…my fate…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Jug_death_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jugsc_arc_death_06.mp3"
-        ],
-        "mp3Text": "Unmasked…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jug_death_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugsc_arc_death_07.mp3"
-        ],
-        "mp3Text": "Is this my fate?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jug_death_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_death_08.mp3"
-        ],
-        "mp3Text": "What's this?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_death_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Jugsc_arc_death_09.mp3"
-        ],
-        "mp3Text": "I was the last of my kind…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_death_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Jugsc_arc_death_10.mp3"
-        ],
-        "mp3Text": "Extinction…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jug_death_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jugsc_arc_death_11.mp3"
-        ],
-        "mp3Text": "And then…there were none…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Jug_death_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_death_12.mp3"
-        ],
-        "mp3Text": "My true face…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jug_death_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jugsc_arc_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Jug_death_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_death_03.mp3"
+    ],
+    "mp3Text": "Not possible…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_death_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Jugsc_arc_death_04.mp3"
+    ],
+    "mp3Text": "To see…beneath…the mask…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jug_death_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Jugsc_arc_death_05.mp3"
+    ],
+    "mp3Text": "I face…my fate…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Jug_death_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jugsc_arc_death_06.mp3"
+    ],
+    "mp3Text": "Unmasked…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jug_death_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugsc_arc_death_07.mp3"
+    ],
+    "mp3Text": "Is this my fate?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jug_death_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_death_08.mp3"
+    ],
+    "mp3Text": "What's this?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_death_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Jugsc_arc_death_09.mp3"
+    ],
+    "mp3Text": "I was the last of my kind…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_death_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Jugsc_arc_death_10.mp3"
+    ],
+    "mp3Text": "Extinction…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Jug_death_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jugsc_arc_death_11.mp3"
+    ],
+    "mp3Text": "And then…there were none…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Jug_death_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Jugsc_arc_death_12.mp3"
+    ],
+    "mp3Text": "My true face…"
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_respawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jugsc_arc_respawn_01.mp3"
-        ],
-        "mp3Text": "Here again?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_respawn_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jugsc_arc_respawn_02.mp3"
-        ],
-        "mp3Text": "Juggernaut returns."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_respawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jugsc_arc_respawn_03.mp3"
-        ],
-        "mp3Text": "Down but not defeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Jug_respawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jugsc_arc_respawn_04.mp3"
-        ],
-        "mp3Text": "A minor setback."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Jug_respawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Jugsc_arc_respawn_05.mp3"
-        ],
-        "mp3Text": "I may have lost face but I haven't lost heart."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_respawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Jugsc_arc_respawn_06.mp3"
-        ],
-        "mp3Text": "One battle is hardly the war."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Jug_respawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Jugsc_arc_respawn_07.mp3"
-        ],
-        "mp3Text": "Back from the brink of extinction."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_respawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jugsc_arc_respawn_01.mp3"
+    ],
+    "mp3Text": "Here again?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Jug_respawn_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jugsc_arc_respawn_02.mp3"
+    ],
+    "mp3Text": "Juggernaut returns."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Jug_respawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Jugsc_arc_respawn_03.mp3"
+    ],
+    "mp3Text": "Down but not defeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Jug_respawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jugsc_arc_respawn_04.mp3"
+    ],
+    "mp3Text": "A minor setback."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Jug_respawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Jugsc_arc_respawn_05.mp3"
+    ],
+    "mp3Text": "I may have lost face but I haven't lost heart."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jug_respawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Jugsc_arc_respawn_06.mp3"
+    ],
+    "mp3Text": "One battle is hardly the war."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Jug_respawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Jugsc_arc_respawn_07.mp3"
+    ],
+    "mp3Text": "Back from the brink of extinction."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jug_laugh_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha, haaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugg_fastres_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jugsc_arc_fastres_01.mp3"
-        ],
-        "mp3Text": "Ha ha, you thought me gone, did you not?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jug_laugh_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha, haaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Jugg_fastres_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Jugsc_arc_fastres_01.mp3"
+    ],
+    "mp3Text": "Ha ha, you thought me gone, did you not?"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Jug_bottle_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_bottle_01.mp3"
-        ],
-        "mp3Text": "I'll save this for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jug_bottle_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_bottle_02.mp3"
-        ],
-        "mp3Text": "Best put this aside for now."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Jug_bottle_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Jugsc_arc_bottle_01.mp3"
+    ],
+    "mp3Text": "I'll save this for later."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_bottle_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Jugsc_arc_bottle_03.mp3"
-        ],
-        "mp3Text": "Does it matter if I put this in my jug or not? Get it? Jug or not?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Jug_bottle_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Jugsc_arc_bottle_02.mp3"
+    ],
+    "mp3Text": "Best put this aside for now."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jug_bottle_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Jugsc_arc_bottle_04.mp3"
-        ],
-        "mp3Text": "How do you guys feel about jugs?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Jug_bottle_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Jugsc_arc_bottle_03.mp3"
+    ],
+    "mp3Text": "Does it matter if I put this in my jug or not? Get it? Jug or not?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jug_bottle_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Jugsc_arc_bottle_04.mp3"
+    ],
+    "mp3Text": "How do you guys feel about jugs?"
   },
   {
     "headTitle": "Activating runes",
@@ -1907,15 +1984,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Jugg_set_complete_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_set_complete_06.mp3"
-        ],
-        "mp3Text": "Oh.. that's nice."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Jugg_set_complete_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jugsc_arc_set_complete_06.mp3"
+    ],
+    "mp3Text": "Oh.. that's nice."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1923,15 +1997,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_lasthit_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_lasthit_05.mp3"
-        ],
-        "mp3Text": "I'll take that as tribute."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Jug_lasthit_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Jugsc_arc_lasthit_05.mp3"
+    ],
+    "mp3Text": "I'll take that as tribute."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1939,15 +2010,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Jug_doubdam_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Jugsc_arc_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double Damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Jug_doubdam_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Jugsc_arc_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double Damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1955,26 +2023,20 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jug_haste_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jugsc_arc_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jug_haste_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jugsc_arc_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_haste_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_haste_02.mp3"
-        ],
-        "mp3Text": "To the swift, the spoils!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_haste_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Jugsc_arc_haste_02.mp3"
+    ],
+    "mp3Text": "To the swift, the spoils!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1982,33 +2044,28 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jug_illus_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugsc_arc_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jug_illus_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jugsc_arc_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jug_illus_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_illus_02.mp3"
-        ],
-        "mp3Text": "All is confusion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Jug_illus_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Jugsc_arc_illus_03.mp3"
-        ],
-        "mp3Text": "How many blades am I holding up?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jug_illus_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_illus_02.mp3"
+    ],
+    "mp3Text": "All is confusion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Jug_illus_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Jugsc_arc_illus_03.mp3"
+    ],
+    "mp3Text": "How many blades am I holding up?"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2016,26 +2073,20 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jug_invis_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jug_invis_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Jug_invis_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jugsc_arc_invis_02.mp3"
-        ],
-        "mp3Text": "You won't be seeing me around."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Jug_invis_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Jugsc_arc_invis_02.mp3"
+    ],
+    "mp3Text": "You won't be seeing me around."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2043,26 +2094,20 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jug_regen_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Jugsc_arc_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Jug_regen_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Jugsc_arc_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jug_regen_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_regen_02.mp3"
-        ],
-        "mp3Text": "There is no dishonor in regeneration."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jug_regen_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Jugsc_arc_regen_02.mp3"
+    ],
+    "mp3Text": "There is no dishonor in regeneration."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2073,87 +2118,84 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jug_notyet_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Jugsc_arc_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Jug_notyet_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_notyet_02.mp3"
-        ],
-        "mp3Text": "It is not time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jug_notyet_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Jugsc_arc_notyet_03.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jug_notyet_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Jugsc_arc_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Jug_notyet_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Jugsc_arc_notyet_02.mp3"
+    ],
+    "mp3Text": "It is not time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jug_notyet_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Jugsc_arc_notyet_03.mp3"
+    ],
+    "mp3Text": "I'm not ready."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jug_notyet_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Jug_notyet_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jugsc_arc_notyet_05.mp3"
-        ],
-        "mp3Text": "It is not time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Jug_notyet_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_notyet_06.mp3"
-        ],
-        "mp3Text": "I am not ready."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jug_notyet_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Jug_notyet_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Jugsc_arc_notyet_05.mp3"
+    ],
+    "mp3Text": "It is not time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Jug_notyet_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_notyet_06.mp3"
+    ],
+    "mp3Text": "I am not ready."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_notyet_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_notyet_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_notyet_08.mp3"
-        ],
-        "mp3Text": "It is not time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_notyet_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Jugsc_arc_notyet_09.mp3"
-        ],
-        "mp3Text": "I am not ready."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Jug_notyet_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_notyet_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_notyet_08.mp3"
+    ],
+    "mp3Text": "It is not time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jug_notyet_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Jugsc_arc_notyet_09.mp3"
+    ],
+    "mp3Text": "I am not ready."
   },
   {
     "headTitle": "Not enough mana",
@@ -2164,176 +2206,176 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jug_nomana_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugsc_arc_nomana_01.mp3"
-        ],
-        "mp3Text": "I need mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Jug_nomana_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Jugsc_arc_nomana_02.mp3"
-        ],
-        "mp3Text": "I have no mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Jug_nomana_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jugsc_arc_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Jug_nomana_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugsc_arc_nomana_01.mp3"
+    ],
+    "mp3Text": "I need mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Jug_nomana_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Jugsc_arc_nomana_02.mp3"
+    ],
+    "mp3Text": "I have no mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Jug_nomana_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Jugsc_arc_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Jug_nomana_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jugsc_arc_nomana_04.mp3"
-        ],
-        "mp3Text": "I need mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_nomana_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jugsc_arc_nomana_05.mp3"
-        ],
-        "mp3Text": "I have no mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jug_nomana_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Jugsc_arc_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Jug_nomana_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Jugsc_arc_nomana_04.mp3"
+    ],
+    "mp3Text": "I need mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_nomana_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Jugsc_arc_nomana_05.mp3"
+    ],
+    "mp3Text": "I have no mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Jug_nomana_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Jugsc_arc_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_nomana_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_nomana_07.mp3"
-        ],
-        "mp3Text": "I need mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Jug_nomana_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_nomana_08.mp3"
-        ],
-        "mp3Text": "I have no mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jug_nomana_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jugsc_arc_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Jug_nomana_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_nomana_07.mp3"
+    ],
+    "mp3Text": "I need mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Jug_nomana_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_nomana_08.mp3"
+    ],
+    "mp3Text": "I have no mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jug_nomana_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Jugsc_arc_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jug_pain_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jugsc_arc_pain_01.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_pain_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Jugsc_arc_pain_02.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_pain_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_pain_03.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Jug_pain_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugsc_arc_pain_04.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_pain_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_pain_05.mp3"
-        ],
-        "mp3Text": "Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jug_pain_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_pain_06.mp3"
-        ],
-        "mp3Text": "Hhah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Jug_pain_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_pain_07.mp3"
-        ],
-        "mp3Text": "Oo!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Jug_pain_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Jugsc_arc_pain_08.mp3"
-        ],
-        "mp3Text": "Oof!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_pain_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_pain_09.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jug_pain_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jugsc_arc_pain_10.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Jug_pain_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Jugsc_arc_pain_01.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jugg_underattack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Jug_pain_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Jugsc_arc_pain_02.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_pain_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Jugsc_arc_pain_03.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Jug_pain_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugsc_arc_pain_04.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Jug_pain_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_pain_05.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Jug_pain_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_pain_06.mp3"
+    ],
+    "mp3Text": "Hhah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Jug_pain_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Jugsc_arc_pain_07.mp3"
+    ],
+    "mp3Text": "Oo!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Jug_pain_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Jugsc_arc_pain_08.mp3"
+    ],
+    "mp3Text": "Oof!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_pain_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_pain_09.mp3"
+    ],
+    "mp3Text": "Oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Jug_pain_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Jugsc_arc_pain_10.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Jugg_underattack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugsc_arc_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2344,71 +2386,76 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jug_rare_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jugsc_arc_rare_01.mp3"
-        ],
-        "mp3Text": "If only I could scratch my nose…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_rare_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_rare_02.mp3"
-        ],
-        "mp3Text": "Each blow sharpens my blade!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Jug_rare_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_rare_03.mp3"
-        ],
-        "mp3Text": "All enemies fall at the whim of my blade!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jug_rare_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_rare_04.mp3"
-        ],
-        "mp3Text": "Nice mask, they said. What mask?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jug_rare_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jugsc_arc_rare_05.mp3"
-        ],
-        "mp3Text": "Although I don't fear dying, I still would rather not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Jug_rare_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jugsc_arc_rare_06.mp3"
-        ],
-        "mp3Text": "I'm the Juggernaut, bitch!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Jug_rare_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Jugsc_arc_rare_07.mp3"
-        ],
-        "mp3Text": "Oh Maker of Masks, accept this prayer for your sole surviving child!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Jug_rare_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_rare_08.mp3"
-        ],
-        "mp3Text": "Screw it, I'm going to five blades!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_rare_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Jugsc_arc_rare_09.mp3"
-        ],
-        "mp3Text": "By the Visage of Vengeance, which drowned in the Isle of Masks, I will carry on the rites of the Faceless Ones."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jug_rare_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Jugsc_arc_rare_01.mp3"
+    ],
+    "mp3Text": "If only I could scratch my nose…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Jug_rare_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Jugsc_arc_rare_02.mp3"
+    ],
+    "mp3Text": "Each blow sharpens my blade!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Jug_rare_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Jugsc_arc_rare_03.mp3"
+    ],
+    "mp3Text": "All enemies fall at the whim of my blade!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Jug_rare_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Jugsc_arc_rare_04.mp3"
+    ],
+    "mp3Text": "Nice mask, they said. What mask?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jug_rare_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Jugsc_arc_rare_05.mp3"
+    ],
+    "mp3Text": "Although I don't fear dying, I still would rather not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Jug_rare_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Jugsc_arc_rare_06.mp3"
+    ],
+    "mp3Text": "I'm the Juggernaut, bitch!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Jug_rare_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Jugsc_arc_rare_07.mp3"
+    ],
+    "mp3Text": "Oh Maker of Masks, accept this prayer for your sole surviving child!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Jug_rare_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Jugsc_arc_rare_08.mp3"
+    ],
+    "mp3Text": "Screw it, I'm going to five blades!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Jug_rare_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Jugsc_arc_rare_09.mp3"
+    ],
+    "mp3Text": "By the Visage of Vengeance, which drowned in the Isle of Masks, I will carry on the rites of the Faceless Ones."
   },
   {
     "headTitle": "Chat responses",
@@ -2419,115 +2466,116 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jugg_missing_lane_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_missing_lane_01.mp3"
-        ],
-        "mp3Text": "Missing top."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Jugg_missing_lane_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Jugsc_arc_missing_lane_02.mp3"
-        ],
-        "mp3Text": "Missing middle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugg_missing_lane_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Jugsc_arc_missing_lane_03.mp3"
-        ],
-        "mp3Text": "Missing bottom."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jugg_missing_lane_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Jugsc_arc_missing_lane_01.mp3"
+    ],
+    "mp3Text": "Missing top."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Jugg_missing_lane_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Jugsc_arc_missing_lane_02.mp3"
+    ],
+    "mp3Text": "Missing middle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Jugg_missing_lane_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Jugsc_arc_missing_lane_03.mp3"
+    ],
+    "mp3Text": "Missing bottom."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jugg_thanks_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Jugsc_arc_thanks_01.mp3"
-        ],
-        "mp3Text": "I will not forget this."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Jugg_thanks_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_thanks_02.mp3"
-        ],
-        "mp3Text": "My thanks."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Jugg_thanks_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Jugsc_arc_thanks_01.mp3"
+    ],
+    "mp3Text": "I will not forget this."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Jugg_thanks_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Jugsc_arc_thanks_02.mp3"
+    ],
+    "mp3Text": "My thanks."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Jug_laugh_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Jugsc_arc_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jug_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_laugh_02.mp3"
-        ],
-        "mp3Text": "Heh ho ho."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_laugh_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Jugsc_arc_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jug_laugh_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugsc_arc_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jug_laugh_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha, haaa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jug_laugh_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_laugh_06.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jug_laugh_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Jugsc_arc_laugh_07.mp3"
-        ],
-        "mp3Text": "Ahh, ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jug_laugh_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jugsc_arc_laugh_08.mp3"
-        ],
-        "mp3Text": "Hehehe ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Jug_laugh_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Jugsc_arc_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jug_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_laugh_02.mp3"
+    ],
+    "mp3Text": "Heh ho ho."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Jug_laugh_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Jugsc_arc_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Jug_laugh_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Jugsc_arc_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Jug_laugh_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Jugsc_arc_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha, haaa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jug_laugh_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Jugsc_arc_laugh_06.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jug_laugh_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Jugsc_arc_laugh_07.mp3"
+    ],
+    "mp3Text": "Ahh, ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jug_laugh_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jugsc_arc_laugh_08.mp3"
+    ],
+    "mp3Text": "Hehehe ha ha ha!"
   },
   {
     "headTitle": "Match end",
@@ -2538,58 +2586,56 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Jug_win_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Jugsc_arc_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_win_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Jugsc_arc_win_03.mp3"
-        ],
-        "mp3Text": "In victory is great honor!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Jug_win_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Jugsc_arc_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Jug_win_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Jugsc_arc_win_03.mp3"
+    ],
+    "mp3Text": "In victory is great honor!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jug_lose_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jug_lose_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jug_lose_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jugsc_arc_lose_03.mp3"
-        ],
-        "mp3Text": "There is no honor in defeat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_lose_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jugsc_arc_lose_04.mp3"
-        ],
-        "mp3Text": "There is no honor in defeat."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Jug_lose_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Jugsc_arc_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Jug_lose_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Jugsc_arc_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Jug_lose_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Jugsc_arc_lose_03.mp3"
+    ],
+    "mp3Text": "There is no honor in defeat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jug_lose_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Jugsc_arc_lose_04.mp3"
+    ],
+    "mp3Text": "There is no honor in defeat."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2600,73 +2646,68 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Jug_happy_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_happy_01.mp3"
-        ],
-        "mp3Text": "Yeeesss."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jug_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_laugh_02.mp3"
-        ],
-        "mp3Text": "Heh ho ho."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Jugg_drop_common.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_drop_common.mp3"
-        ],
-        "mp3Text": "Well, I won't say no to it."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Jug_happy_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Jugsc_arc_happy_01.mp3"
+    ],
+    "mp3Text": "Yeeesss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Jug_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Jugsc_arc_laugh_02.mp3"
+    ],
+    "mp3Text": "Heh ho ho."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Jugg_drop_common.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Jugsc_arc_drop_common.mp3"
+    ],
+    "mp3Text": "Well, I won't say no to it."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Jug_happy_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jugsc_arc_happy_03.mp3"
-        ],
-        "mp3Text": "Ahhhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jug_laugh_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jugsc_arc_laugh_08.mp3"
-        ],
-        "mp3Text": "Hehehe ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugg_drop_medium.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Jugsc_arc_drop_medium.mp3"
-        ],
-        "mp3Text": "I lucked out."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Jug_happy_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Jugsc_arc_happy_03.mp3"
+    ],
+    "mp3Text": "Ahhhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Jug_laugh_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Jugsc_arc_laugh_08.mp3"
+    ],
+    "mp3Text": "Hehehe ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Jugg_drop_medium.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Jugsc_arc_drop_medium.mp3"
+    ],
+    "mp3Text": "I lucked out."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugg_drop_rare.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Jugsc_arc_drop_rare.mp3"
-        ],
-        "mp3Text": "A glorious treasure."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Jugg_drop_rare.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Jugsc_arc_drop_rare.mp3"
+    ],
+    "mp3Text": "A glorious treasure."
   },
   {
     "headTitle": "Misc",
@@ -2680,63 +2721,67 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jugg_taunt_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_taunt_01.mp3"
-        ],
-        "mp3Text": "The Juggernaut is here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugg_taunt_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jugsc_arc_taunt_02.mp3"
-        ],
-        "mp3Text": "No one defies the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugg_taunt_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Jugsc_arc_taunt_03.mp3"
-        ],
-        "mp3Text": "I stand alone but at least I stand."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jugg_taunt_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jugsc_arc_taunt_04.mp3"
-        ],
-        "mp3Text": "Fear the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugg_taunt_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_taunt_05.mp3"
-        ],
-        "mp3Text": "The day belongs to Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugg_taunt_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jugsc_arc_taunt_06.mp3"
-        ],
-        "mp3Text": "You will be forever alone."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugg_taunt_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jugsc_arc_taunt_07.mp3"
-        ],
-        "mp3Text": "Crushed by the Juggernaut."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Jugg_taunt_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Jugsc_arc_taunt_08.mp3"
-        ],
-        "mp3Text": "Ready or not…Juggernaut."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Jugg_taunt_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Jugsc_arc_taunt_01.mp3"
+    ],
+    "mp3Text": "The Juggernaut is here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Jugg_taunt_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Jugsc_arc_taunt_02.mp3"
+    ],
+    "mp3Text": "No one defies the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Jugg_taunt_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Jugsc_arc_taunt_03.mp3"
+    ],
+    "mp3Text": "I stand alone but at least I stand."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Jugg_taunt_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Jugsc_arc_taunt_04.mp3"
+    ],
+    "mp3Text": "Fear the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Jugg_taunt_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Jugsc_arc_taunt_05.mp3"
+    ],
+    "mp3Text": "The day belongs to Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Jugg_taunt_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Jugsc_arc_taunt_06.mp3"
+    ],
+    "mp3Text": "You will be forever alone."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Jugg_taunt_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Jugsc_arc_taunt_07.mp3"
+    ],
+    "mp3Text": "Crushed by the Juggernaut."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Jugg_taunt_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Jugsc_arc_taunt_08.mp3"
+    ],
+    "mp3Text": "Ready or not…Juggernaut."
   }
 ]

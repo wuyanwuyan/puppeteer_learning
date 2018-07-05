@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Jon_St._John",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/20px-Enigma_minimap_icon.png?version=e625d68e8407c1ee290b7ec3f7e99100",
     "heroName": "Enigma",
-    "href": "https://dota2.gamepedia.com/Enigma/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/enigma_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/enigma.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
-        ],
-        "mp3Text": "Enigma."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Enig_spawn_02.mp3"
-        ],
-        "mp3Text": "I am the Enigma."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Enig_spawn_03.mp3"
-        ],
-        "mp3Text": "My current incarnation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Enig_spawn_04.mp3"
-        ],
-        "mp3Text": "My form collapses into being."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Enig_spawn_05.mp3"
-        ],
-        "mp3Text": "My pattern emerges."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Enig_spawn_06.mp3"
-        ],
-        "mp3Text": "I take form, consumer of worlds."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_spawn_07.mp3"
-        ],
-        "mp3Text": "Void made flesh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_spawn_08.mp3"
-        ],
-        "mp3Text": "From void and shadow, I assemble."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Enig_spawn_09.mp3"
-        ],
-        "mp3Text": "I am."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_move_13.mp3"
-        ],
-        "mp3Text": "Reality is illusion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Enig_attack_08.mp3"
-        ],
-        "mp3Text": "I stare also into you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_respawn_03.mp3"
-        ],
-        "mp3Text": "I am a universal constant."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
+    ],
+    "mp3Text": "Enigma."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Enig_spawn_02.mp3"
+    ],
+    "mp3Text": "I am the Enigma."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Enig_spawn_03.mp3"
+    ],
+    "mp3Text": "My current incarnation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Enig_spawn_04.mp3"
+    ],
+    "mp3Text": "My form collapses into being."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Enig_spawn_05.mp3"
+    ],
+    "mp3Text": "My pattern emerges."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Enig_spawn_06.mp3"
+    ],
+    "mp3Text": "I take form, consumer of worlds."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_spawn_07.mp3"
+    ],
+    "mp3Text": "Void made flesh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_spawn_08.mp3"
+    ],
+    "mp3Text": "From void and shadow, I assemble."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Enig_spawn_09.mp3"
+    ],
+    "mp3Text": "I am."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_move_13.mp3"
+    ],
+    "mp3Text": "Reality is illusion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Enig_attack_08.mp3"
+    ],
+    "mp3Text": "I stare also into you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_respawn_03.mp3"
+    ],
+    "mp3Text": "I am a universal constant."
   },
   {
     "headTitle": "Drafting",
@@ -101,286 +108,291 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
-        ],
-        "mp3Text": "Enigma."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
+    ],
+    "mp3Text": "Enigma."
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Enig_anger_01.mp3"
-        ],
-        "mp3Text": "Ehhhhhh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Enig_anger_01.mp3"
+    ],
+    "mp3Text": "Ehhhhhh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
-        ],
-        "mp3Text": "Enigma."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Enig_spawn_04.mp3"
-        ],
-        "mp3Text": "My form collapses into being."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Enig_spawn_05.mp3"
-        ],
-        "mp3Text": "My pattern emerges."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Enig_spawn_06.mp3"
-        ],
-        "mp3Text": "I take form, consumer of worlds."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_spawn_07.mp3"
-        ],
-        "mp3Text": "Void made flesh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_spawn_08.mp3"
-        ],
-        "mp3Text": "From void and shadow, I assemble."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Enig_spawn_09.mp3"
-        ],
-        "mp3Text": "I am."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Enig_spawn_01.mp3"
+    ],
+    "mp3Text": "Enigma."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Enig_spawn_04.mp3"
+    ],
+    "mp3Text": "My form collapses into being."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Enig_spawn_05.mp3"
+    ],
+    "mp3Text": "My pattern emerges."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Enig_spawn_06.mp3"
+    ],
+    "mp3Text": "I take form, consumer of worlds."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_spawn_07.mp3"
+    ],
+    "mp3Text": "Void made flesh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_spawn_08.mp3"
+    ],
+    "mp3Text": "From void and shadow, I assemble."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Enig_spawn_09.mp3"
+    ],
+    "mp3Text": "I am."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Enig_inthebag_01.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Enig_inthebag_02.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Enig_inthebag_03.mp3"
-        ],
-        "mp3Text": "This is in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Enig_inthebag_01.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Enig_inthebag_02.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Enig_inthebag_03.mp3"
+    ],
+    "mp3Text": "This is in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Enig_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Conflict is eternal. No less so am I."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Enig_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Conflict is eternal. No less so am I."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Enig_move_01.mp3"
-        ],
-        "mp3Text": "Yes"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_move_02.mp3"
-        ],
-        "mp3Text": "A new location."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_move_03.mp3"
-        ],
-        "mp3Text": "A path integral to victory."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Enig_move_04.mp3"
-        ],
-        "mp3Text": "Acceleration."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Enig_move_05.mp3"
-        ],
-        "mp3Text": "As you suggest."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_move_06.mp3"
-        ],
-        "mp3Text": "I go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Enig_move_07.mp3"
-        ],
-        "mp3Text": "My pattern changes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Enig_move_09.mp3"
-        ],
-        "mp3Text": "I flow on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Enig_move_10.mp3"
-        ],
-        "mp3Text": "My wave advances."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Enig_move_11.mp3"
-        ],
-        "mp3Text": "I propagate forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_move_12.mp3"
-        ],
-        "mp3Text": "As you wish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_move_13.mp3"
-        ],
-        "mp3Text": "Reality is illusion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Enig_move_14.mp3"
-        ],
-        "mp3Text": "Action principle."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Enig_move_01.mp3"
+    ],
+    "mp3Text": "Yes"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_move_02.mp3"
+    ],
+    "mp3Text": "A new location."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_move_03.mp3"
+    ],
+    "mp3Text": "A path integral to victory."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Enig_move_04.mp3"
+    ],
+    "mp3Text": "Acceleration."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Enig_move_05.mp3"
+    ],
+    "mp3Text": "As you suggest."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_move_06.mp3"
+    ],
+    "mp3Text": "I go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Enig_move_07.mp3"
+    ],
+    "mp3Text": "My pattern changes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Enig_move_09.mp3"
+    ],
+    "mp3Text": "I flow on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Enig_move_10.mp3"
+    ],
+    "mp3Text": "My wave advances."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Enig_move_11.mp3"
+    ],
+    "mp3Text": "I propagate forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_move_12.mp3"
+    ],
+    "mp3Text": "As you wish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_move_13.mp3"
+    ],
+    "mp3Text": "Reality is illusion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Enig_move_14.mp3"
+    ],
+    "mp3Text": "Action principle."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Enig_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Enig_attack_02.mp3"
-        ],
-        "mp3Text": "We entangle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Enig_attack_03.mp3"
-        ],
-        "mp3Text": "Shooting star."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Enig_attack_04.mp3"
-        ],
-        "mp3Text": "We fight!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Enig_attack_05.mp3"
-        ],
-        "mp3Text": "Comet strike!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Enig_attack_06.mp3"
-        ],
-        "mp3Text": "Big bang."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Enig_attack_07.mp3"
-        ],
-        "mp3Text": "I smash you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Enig_attack_08.mp3"
-        ],
-        "mp3Text": "I stare also into you."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Enig_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Enig_attack_02.mp3"
+    ],
+    "mp3Text": "We entangle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Enig_attack_03.mp3"
+    ],
+    "mp3Text": "Shooting star."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Enig_attack_04.mp3"
+    ],
+    "mp3Text": "We fight!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Enig_attack_05.mp3"
+    ],
+    "mp3Text": "Comet strike!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Enig_attack_06.mp3"
+    ],
+    "mp3Text": "Big bang."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Enig_attack_07.mp3"
+    ],
+    "mp3Text": "I smash you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Enig_attack_08.mp3"
+    ],
+    "mp3Text": "I stare also into you."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Enig_cast_01.mp3"
-        ],
-        "mp3Text": "Quickly now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Enig_cast_02.mp3"
-        ],
-        "mp3Text": "Inexorable advance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Enig_cast_03.mp3"
-        ],
-        "mp3Text": "In gravity's well…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Enig_cast_01.mp3"
+    ],
+    "mp3Text": "Quickly now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Enig_cast_02.mp3"
+    ],
+    "mp3Text": "Inexorable advance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Enig_cast_03.mp3"
+    ],
+    "mp3Text": "In gravity's well…"
   },
   {
     "headTitle": "Abilities",
@@ -396,20 +408,18 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Enig_ability_demon_01.mp3"
-        ],
-        "mp3Text": "Control is mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Enig_ability_demon_02.mp3"
-        ],
-        "mp3Text": "Serve the void."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Enig_ability_demon_01.mp3"
+    ],
+    "mp3Text": "Control is mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Enig_ability_demon_02.mp3"
+    ],
+    "mp3Text": "Serve the void."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b8/Black_Hole_icon.png/16px-Black_Hole_icon.png?version=e1153456f3fecfff36bb9354ff2acf10",
@@ -421,568 +431,589 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Enig_ability_black_01.mp3"
-        ],
-        "mp3Text": "If light cannot escape me, what hope have you?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Enig_ability_black_02.mp3"
-        ],
-        "mp3Text": "Crushing void."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Enig_ability_black_03.mp3"
-        ],
-        "mp3Text": "Stare into the abyss."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Enig_ability_black_01.mp3"
+    ],
+    "mp3Text": "If light cannot escape me, what hope have you?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Enig_ability_black_02.mp3"
+    ],
+    "mp3Text": "Crushing void."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Enig_ability_black_03.mp3"
+    ],
+    "mp3Text": "Stare into the abyss."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Enig_level_01.mp3"
-        ],
-        "mp3Text": "A higher order of being."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Enig_level_02.mp3"
-        ],
-        "mp3Text": "Deeper understanding."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_level_03.mp3"
-        ],
-        "mp3Text": "My influence grows."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Enig_level_04.mp3"
-        ],
-        "mp3Text": "My orbit widens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Enig_level_05.mp3"
-        ],
-        "mp3Text": "My nihilism increases."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Enig_level_06.mp3"
-        ],
-        "mp3Text": "My horizon expands."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Enig_level_01.mp3"
+    ],
+    "mp3Text": "A higher order of being."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Enig_level_02.mp3"
+    ],
+    "mp3Text": "Deeper understanding."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_level_03.mp3"
+    ],
+    "mp3Text": "My influence grows."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Enig_level_04.mp3"
+    ],
+    "mp3Text": "My orbit widens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Enig_level_05.mp3"
+    ],
+    "mp3Text": "My nihilism increases."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Enig_level_06.mp3"
+    ],
+    "mp3Text": "My horizon expands."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Enig_kill_01.mp3"
-        ],
-        "mp3Text": "Released from your corporeal prison."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Enig_kill_02.mp3"
-        ],
-        "mp3Text": "Materiality is fleeting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Enig_kill_03.mp3"
-        ],
-        "mp3Text": "Returned to unity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_kill_04.mp3"
-        ],
-        "mp3Text": "Your spirit achieves final harmony."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Enig_kill_05.mp3"
-        ],
-        "mp3Text": "Your journey ends."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Enig_kill_06.mp3"
-        ],
-        "mp3Text": "Welcome to the abyss."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Enig_kill_07.mp3"
-        ],
-        "mp3Text": "Void takes you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_kill_08.mp3"
-        ],
-        "mp3Text": "Pain of the ecliptic."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_kill_09.mp3"
-        ],
-        "mp3Text": "I consume you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_kill_10.mp3"
-        ],
-        "mp3Text": "You've entered a decaying orbit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Enig_kill_11.mp3"
-        ],
-        "mp3Text": "Go to your next incarnation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Enig_kill_12.mp3"
-        ],
-        "mp3Text": "A dark matter indeed."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Enig_kill_01.mp3"
+    ],
+    "mp3Text": "Released from your corporeal prison."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Enig_kill_02.mp3"
+    ],
+    "mp3Text": "Materiality is fleeting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Enig_kill_03.mp3"
+    ],
+    "mp3Text": "Returned to unity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_kill_04.mp3"
+    ],
+    "mp3Text": "Your spirit achieves final harmony."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Enig_kill_05.mp3"
+    ],
+    "mp3Text": "Your journey ends."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Enig_kill_06.mp3"
+    ],
+    "mp3Text": "Welcome to the abyss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Enig_kill_07.mp3"
+    ],
+    "mp3Text": "Void takes you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_kill_08.mp3"
+    ],
+    "mp3Text": "Pain of the ecliptic."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_kill_09.mp3"
+    ],
+    "mp3Text": "I consume you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_kill_10.mp3"
+    ],
+    "mp3Text": "You've entered a decaying orbit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Enig_kill_11.mp3"
+    ],
+    "mp3Text": "Go to your next incarnation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Enig_kill_12.mp3"
+    ],
+    "mp3Text": "A dark matter indeed."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_rival_01.mp3"
+    ],
+    "mp3Text": "I would not trade places with you, Vengeful Spirit.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_rival_01.mp3"
-        ],
-        "mp3Text": "I would not trade places with you, Vengeful Spirit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Enig_rival_02.mp3"
-        ],
-        "mp3Text": "Though you spark suns to shine, you cannot escape me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_rival_03.mp3"
-        ],
-        "mp3Text": "Ezalor, the weak and infirm.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_rival_04.mp3"
-        ],
-        "mp3Text": "Your weakness was your undoing.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_rival_05.mp3"
-        ],
-        "mp3Text": "Ezalor, your decay is now complete.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Enig_rival_06.mp3"
-        ],
-        "mp3Text": "So dies the spark of endless suns.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Enig_rival_07.mp3"
-        ],
-        "mp3Text": "You forget yourself, Ezalor.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Enig_rival_08.mp3"
-        ],
-        "mp3Text": "Flux you and the horse you rode in on.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Enig_rival_09.mp3"
-        ],
-        "mp3Text": "What you bring to life, I shall bring to death.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Enig_rival_10.mp3"
-        ],
-        "mp3Text": "Your strength could not save you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Enig_rival_11.mp3"
-        ],
-        "mp3Text": "Chaos Knight: so limited by uncertainty.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Enig_rival_12.mp3"
-        ],
-        "mp3Text": "Even the strong may die.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_rival_14.mp3"
-        ],
-        "mp3Text": "Your charge goes out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Enig_rival_15.mp3"
-        ],
-        "mp3Text": "Wisp, you cannot escape my grasp.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_rival_16.mp3"
-        ],
-        "mp3Text": "A Fundamental dies.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Enig_rival_17.mp3"
-        ],
-        "mp3Text": "So dies a Fundamental of the universe.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Enig_rival_13.mp3"
-        ],
-        "mp3Text": "So ends another Fundamental.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Enig_rival_18.mp3"
-        ],
-        "mp3Text": "You have been too long in the cold.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Enig_rival_19.mp3"
-        ],
-        "mp3Text": "You should not fight your betters.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_rival_20.mp3"
-        ],
-        "mp3Text": "You are beneath me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Enig_rival_21.mp3"
-        ],
-        "mp3Text": "Even time may fail in the face of gravity.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_rival_22.mp3"
-        ],
-        "mp3Text": "I crush you into diamond.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Enig_rival_02.mp3"
+    ],
+    "mp3Text": "Though you spark suns to shine, you cannot escape me.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_rival_16.mp3"
-        ],
-        "mp3Text": "A Fundamental dies.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Enig_rival_17.mp3"
-        ],
-        "mp3Text": "So dies a Fundamental of the universe.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_rival_03.mp3"
+    ],
+    "mp3Text": "Ezalor, the weak and infirm.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Enig_killspecial_01.mp3"
-        ],
-        "mp3Text": "Meatier shower.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-            "name": "Pudge"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Enig_rival_23.mp3"
-        ],
-        "mp3Text": "Your armor crumples.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Enig_rival_25.mp3"
-        ],
-        "mp3Text": "Rise from that, Phoenix.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_rival_04.mp3"
+    ],
+    "mp3Text": "Your weakness was your undoing.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_rival_26.mp3"
-        ],
-        "mp3Text": "Gravity brings you down.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
-            "name": "Viper"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cf/Puck_minimap_icon.png/16px-Puck_minimap_icon.png?version=e385acef7c5ecb963b0eb94a3eeec067",
-            "name": "Puck"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2f/Visage_minimap_icon.png/16px-Visage_minimap_icon.png?version=373e8ae0da86c891b2e4d0cfb9f038dc",
-            "name": "Visage"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
-            "name": "Outworld Devourer"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-            "name": "Skywrath Mage"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
-            "name": "Winter Wyvern"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_rival_05.mp3"
+    ],
+    "mp3Text": "Ezalor, your decay is now complete.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Enig_rival_06.mp3"
+    ],
+    "mp3Text": "So dies the spark of endless suns.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Enig_rival_07.mp3"
+    ],
+    "mp3Text": "You forget yourself, Ezalor.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Enig_rival_08.mp3"
+    ],
+    "mp3Text": "Flux you and the horse you rode in on.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Enig_rival_09.mp3"
+    ],
+    "mp3Text": "What you bring to life, I shall bring to death.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Enig_rival_10.mp3"
+    ],
+    "mp3Text": "Your strength could not save you.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Enig_rival_11.mp3"
+    ],
+    "mp3Text": "Chaos Knight: so limited by uncertainty.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Enig_rival_12.mp3"
+    ],
+    "mp3Text": "Even the strong may die.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_rival_14.mp3"
+    ],
+    "mp3Text": "Your charge goes out.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Enig_rival_15.mp3"
+    ],
+    "mp3Text": "Wisp, you cannot escape my grasp.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_rival_16.mp3"
+    ],
+    "mp3Text": "A Fundamental dies.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Enig_rival_17.mp3"
+    ],
+    "mp3Text": "So dies a Fundamental of the universe.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Enig_rival_13.mp3"
+    ],
+    "mp3Text": "So ends another Fundamental.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Enig_rival_18.mp3"
+    ],
+    "mp3Text": "You have been too long in the cold.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Enig_rival_19.mp3"
+    ],
+    "mp3Text": "You should not fight your betters.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_rival_20.mp3"
+    ],
+    "mp3Text": "You are beneath me.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Enig_rival_21.mp3"
+    ],
+    "mp3Text": "Even time may fail in the face of gravity.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_rival_22.mp3"
+    ],
+    "mp3Text": "I crush you into diamond.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Enig_rival_16.mp3"
+    ],
+    "mp3Text": "A Fundamental dies.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Enig_rival_17.mp3"
+    ],
+    "mp3Text": "So dies a Fundamental of the universe.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Enig_killspecial_01.mp3"
+    ],
+    "mp3Text": "Meatier shower.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+        "name": "Pudge"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Enig_rival_23.mp3"
+    ],
+    "mp3Text": "Your armor crumples.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Enig_rival_25.mp3"
+    ],
+    "mp3Text": "Rise from that, Phoenix.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_rival_26.mp3"
+    ],
+    "mp3Text": "Gravity brings you down.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
+        "name": "Viper"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cf/Puck_minimap_icon.png/16px-Puck_minimap_icon.png?version=e385acef7c5ecb963b0eb94a3eeec067",
+        "name": "Puck"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2f/Visage_minimap_icon.png/16px-Visage_minimap_icon.png?version=373e8ae0da86c891b2e4d0cfb9f038dc",
+        "name": "Visage"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
+        "name": "Outworld Devourer"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+        "name": "Skywrath Mage"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+        "name": "Winter Wyvern"
       }
     ]
   },
@@ -991,14 +1022,11 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood, a fundamental principle of warfare."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood, a fundamental principle of warfare."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1009,162 +1037,171 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Enig_ally_01.mp3"
+    ],
+    "mp3Text": "Come, Ezalor. We have endless work to do.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Enig_ally_01.mp3"
-        ],
-        "mp3Text": "Come, Ezalor. We have endless work to do.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Enig_ally_02.mp3"
+    ],
+    "mp3Text": "We Fundamentals shall win this day.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Enig_ally_02.mp3"
-        ],
-        "mp3Text": "We Fundamentals shall win this day.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Enig_ally_03.mp3"
+    ],
+    "mp3Text": "Chaos Knight: the strongest of us all.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Enig_ally_03.mp3"
-        ],
-        "mp3Text": "Chaos Knight: the strongest of us all.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Enig_ally_04.mp3"
+    ],
+    "mp3Text": "The Fundamentals shall win this day.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Enig_ally_04.mp3"
-        ],
-        "mp3Text": "The Fundamentals shall win this day.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Enig_ally_05.mp3"
+    ],
+    "mp3Text": "Wisp, we are familiar, you and I.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Enig_ally_05.mp3"
-        ],
-        "mp3Text": "Wisp, we are familiar, you and I.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Enig_ally_06.mp3"
+    ],
+    "mp3Text": "None can stand before the Fundamentals.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Enig_ally_06.mp3"
-        ],
-        "mp3Text": "None can stand before the Fundamentals.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Enig_ally_07.mp3"
+    ],
+    "mp3Text": "Fundamentals, side by side.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Enig_ally_07.mp3"
-        ],
-        "mp3Text": "Fundamentals, side by side.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Enig_ally_08.mp3"
+    ],
+    "mp3Text": "You mistake me Apparition. I am more than you know.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Enig_ally_08.mp3"
-        ],
-        "mp3Text": "You mistake me Apparition. I am more than you know.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Enig_ally_09.mp3"
+    ],
+    "mp3Text": "Ancient Apparition: an elemental in service to the Fundament.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Enig_ally_09.mp3"
-        ],
-        "mp3Text": "Ancient Apparition: an elemental in service to the Fundament.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Enig_ally_10.mp3"
+    ],
+    "mp3Text": "Let us bring them the pressure of the ocean depths, Tidehunter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Enig_ally_10.mp3"
-        ],
-        "mp3Text": "Let us bring them the pressure of the ocean depths, Tidehunter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
-            "name": "Tidehunter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d4/Tidehunter_minimap_icon.png/16px-Tidehunter_minimap_icon.png?version=e049dd0dfa2434e8d54992809f392c17",
+        "name": "Tidehunter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Enig_ally_11.mp3"
+    ],
+    "mp3Text": "You are a heavy stone, Tiny.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Enig_ally_11.mp3"
-        ],
-        "mp3Text": "You are a heavy stone, Tiny.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Enig_ally_12.mp3"
+    ],
+    "mp3Text": "Flame and gravity make a star, Phoenix.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Enig_ally_12.mp3"
-        ],
-        "mp3Text": "Flame and gravity make a star, Phoenix.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_ally_13.mp3"
+    ],
+    "mp3Text": "Gravity favors he who swings the hammer, Omniknight.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_ally_13.mp3"
-        ],
-        "mp3Text": "Gravity favors he who swings the hammer, Omniknight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
       }
     ]
   },
@@ -1173,306 +1210,322 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_lasthit_02.mp3"
-        ],
-        "mp3Text": "Mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Enig_lasthit_03.mp3"
-        ],
-        "mp3Text": "Tribute."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_lasthit_04.mp3"
-        ],
-        "mp3Text": "Gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_lasthit_05.mp3"
-        ],
-        "mp3Text": "Elemental gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Enig_lasthit_06.mp3"
-        ],
-        "mp3Text": "Kill fee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_lasthit_07.mp3"
-        ],
-        "mp3Text": "Eclipsed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Enig_lasthit_08.mp3"
-        ],
-        "mp3Text": "Transmuted!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_lasthit_02.mp3"
+    ],
+    "mp3Text": "Mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Enig_lasthit_03.mp3"
+    ],
+    "mp3Text": "Tribute."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Enig_lasthit_04.mp3"
+    ],
+    "mp3Text": "Gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_lasthit_05.mp3"
+    ],
+    "mp3Text": "Elemental gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Enig_lasthit_06.mp3"
+    ],
+    "mp3Text": "Kill fee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_lasthit_07.mp3"
+    ],
+    "mp3Text": "Eclipsed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Enig_lasthit_08.mp3"
+    ],
+    "mp3Text": "Transmuted!"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Enig_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Enig_deny_02.mp3"
-        ],
-        "mp3Text": "Uh-uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Enig_deny_03.mp3"
-        ],
-        "mp3Text": "Not for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Enig_deny_05.mp3"
-        ],
-        "mp3Text": "No."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_deny_06.mp3"
-        ],
-        "mp3Text": "I stop you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Enig_deny_07.mp3"
-        ],
-        "mp3Text": "Hem-hm-mmm-hem."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Enig_deny_08.mp3"
-        ],
-        "mp3Text": "Uhh-uhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Enig_deny_09.mp3"
-        ],
-        "mp3Text": "Denied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Enig_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Enig_deny_02.mp3"
+    ],
+    "mp3Text": "Uh-uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Enig_deny_03.mp3"
+    ],
+    "mp3Text": "Not for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Enig_deny_05.mp3"
+    ],
+    "mp3Text": "No."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Enig_deny_06.mp3"
+    ],
+    "mp3Text": "I stop you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Enig_deny_07.mp3"
+    ],
+    "mp3Text": "Hem-hm-mmm-hem."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Enig_deny_08.mp3"
+    ],
+    "mp3Text": "Uhh-uhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Enig_deny_09.mp3"
+    ],
+    "mp3Text": "Denied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_purch_01.mp3"
-        ],
-        "mp3Text": "An astronomical price."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Enig_purch_02.mp3"
-        ],
-        "mp3Text": "Fall into my sphere of influence."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Enig_purch_03.mp3"
-        ],
-        "mp3Text": "The alchemy of gold well spent."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_purch_01.mp3"
+    ],
+    "mp3Text": "An astronomical price."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Enig_purch_02.mp3"
+    ],
+    "mp3Text": "Fall into my sphere of influence."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Enig_purch_03.mp3"
+    ],
+    "mp3Text": "The alchemy of gold well spent."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Enig_scepter_02.mp3"
+    ],
+    "mp3Text": "Scepter is mine.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Enig_scepter_02.mp3"
-        ],
-        "mp3Text": "Scepter is mine.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Enig_blink_01.mp3"
+    ],
+    "mp3Text": "Blink Dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Enig_blink_01.mp3"
-        ],
-        "mp3Text": "Blink Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Enig_blink_02.mp3"
+    ],
+    "mp3Text": "Existence itself may die in a blink.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Enig_blink_02.mp3"
-        ],
-        "mp3Text": "Existence itself may die in a blink.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Enig_item_01.mp3"
+    ],
+    "mp3Text": "Black King Bar!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Enig_item_01.mp3"
-        ],
-        "mp3Text": "Black King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Enig_item_02.mp3"
+    ],
+    "mp3Text": "Yes, Mekansm!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Enig_item_02.mp3"
-        ],
-        "mp3Text": "Yes, Mekansm!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-            "name": "Mekansm (2350)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+        "name": "Mekansm (2350)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Enig_item_03.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Enig_item_03.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Enig_item_04.mp3"
+    ],
+    "mp3Text": "Ah, Refresher Orb!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Enig_item_04.mp3"
-        ],
-        "mp3Text": "Ah, Refresher Orb!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
-            "name": "Refresher Orb (5100)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
+        "name": "Refresher Orb (5100)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_item_05.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_item_05.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Enig_item_06.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Enig_item_06.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Enig_item_07.mp3"
+    ],
+    "mp3Text": "Radiance!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Enig_item_07.mp3"
-        ],
-        "mp3Text": "Radiance!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-            "name": "Radiance (5150)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+        "name": "Radiance (5150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Enig_item_08.mp3"
+    ],
+    "mp3Text": "Necronomicon!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Enig_item_08.mp3"
-        ],
-        "mp3Text": "Necronomicon!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
-            "name": "Necronomicon (2400)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
+        "name": "Necronomicon (2400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Enig_item_09.mp3"
+    ],
+    "mp3Text": "Pipe of Insight!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Enig_item_09.mp3"
-        ],
-        "mp3Text": "Pipe of Insight!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
-            "name": "Pipe of Insight (3150)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
+        "name": "Pipe of Insight (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Enig_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Enig_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1481,182 +1534,191 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_death_02.mp3"
-        ],
-        "mp3Text": "A celestial body."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Enig_death_03.mp3"
-        ],
-        "mp3Text": "Redshifted!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Enig_death_04.mp3"
-        ],
-        "mp3Text": "Is this real? Am I…real?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Enig_death_05.mp3"
-        ],
-        "mp3Text": "My pattern dissolves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Enig_death_06.mp3"
-        ],
-        "mp3Text": "Consciousness is pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Enig_death_07.mp3"
-        ],
-        "mp3Text": "My pattern fades."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Enig_death_08.mp3"
-        ],
-        "mp3Text": "My sojourn ends here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Enig_death_09.mp3"
-        ],
-        "mp3Text": "I achieve final harmony."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Enig_death_10.mp3"
-        ],
-        "mp3Text": "I return to the elemental force."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Enig_death_11.mp3"
-        ],
-        "mp3Text": "What is death? Now I… find out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Enig_death_12.mp3"
-        ],
-        "mp3Text": "To void, I return."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_death_02.mp3"
+    ],
+    "mp3Text": "A celestial body."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Enig_death_03.mp3"
+    ],
+    "mp3Text": "Redshifted!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Enig_death_04.mp3"
+    ],
+    "mp3Text": "Is this real? Am I…real?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Enig_death_05.mp3"
+    ],
+    "mp3Text": "My pattern dissolves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Enig_death_06.mp3"
+    ],
+    "mp3Text": "Consciousness is pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Enig_death_07.mp3"
+    ],
+    "mp3Text": "My pattern fades."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Enig_death_08.mp3"
+    ],
+    "mp3Text": "My sojourn ends here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Enig_death_09.mp3"
+    ],
+    "mp3Text": "I achieve final harmony."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Enig_death_10.mp3"
+    ],
+    "mp3Text": "I return to the elemental force."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Enig_death_11.mp3"
+    ],
+    "mp3Text": "What is death? Now I… find out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Enig_death_12.mp3"
+    ],
+    "mp3Text": "To void, I return."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Enig_respawn_01.mp3"
-        ],
-        "mp3Text": "An eliptical orbit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Enig_respawn_02.mp3"
-        ],
-        "mp3Text": "My pattern reforms."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_respawn_03.mp3"
-        ],
-        "mp3Text": "I am a universal constant."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Enig_respawn_04.mp3"
-        ],
-        "mp3Text": "Ah, my next incarnation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Enig_respawn_05.mp3"
-        ],
-        "mp3Text": "Well, this is a paradox."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Enig_respawn_06.mp3"
-        ],
-        "mp3Text": "Again, my form collapses into being."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Enig_respawn_07.mp3"
-        ],
-        "mp3Text": "Formless expression of self."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Enig_respawn_08.mp3"
-        ],
-        "mp3Text": "Order from chaos."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Enig_respawn_09.mp3"
-        ],
-        "mp3Text": "From a deeper order, I return."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Enig_respawn_10.mp3"
-        ],
-        "mp3Text": "Out of chaos, my pattern reassembles."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Enig_respawn_01.mp3"
+    ],
+    "mp3Text": "An eliptical orbit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Enig_respawn_02.mp3"
+    ],
+    "mp3Text": "My pattern reforms."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_respawn_03.mp3"
+    ],
+    "mp3Text": "I am a universal constant."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Enig_respawn_04.mp3"
+    ],
+    "mp3Text": "Ah, my next incarnation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Enig_respawn_05.mp3"
+    ],
+    "mp3Text": "Well, this is a paradox."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Enig_respawn_06.mp3"
+    ],
+    "mp3Text": "Again, my form collapses into being."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Enig_respawn_07.mp3"
+    ],
+    "mp3Text": "Formless expression of self."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Enig_respawn_08.mp3"
+    ],
+    "mp3Text": "Order from chaos."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Enig_respawn_09.mp3"
+    ],
+    "mp3Text": "From a deeper order, I return."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Enig_respawn_10.mp3"
+    ],
+    "mp3Text": "Out of chaos, my pattern reassembles."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_fastres_01.mp3"
-        ],
-        "mp3Text": "The Enigma remains."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Enig_fastres_01.mp3"
+    ],
+    "mp3Text": "The Enigma remains."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_bottle_02.mp3"
-        ],
-        "mp3Text": "This, like time, can wait."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Enig_bottle_03.mp3"
-        ],
-        "mp3Text": "If there is a future, this will be useful."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_bottle_02.mp3"
+    ],
+    "mp3Text": "This, like time, can wait."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Enig_bottle_03.mp3"
+    ],
+    "mp3Text": "If there is a future, this will be useful."
   },
   {
     "headTitle": "Activating runes",
@@ -1668,14 +1730,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Enig_drop_rare_02.mp3"
-        ],
-        "mp3Text": "From the core of the universe, a treasure."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Enig_drop_rare_02.mp3"
+    ],
+    "mp3Text": "From the core of the universe, a treasure."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1683,14 +1742,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_lasthit_05.mp3"
-        ],
-        "mp3Text": "Elemental gold."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Enig_lasthit_05.mp3"
+    ],
+    "mp3Text": "Elemental gold."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1698,14 +1754,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Enig_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Enig_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1713,24 +1766,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Enig_haste_02.mp3"
-        ],
-        "mp3Text": "Escape velocity."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Enig_haste_02.mp3"
+    ],
+    "mp3Text": "Escape velocity."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1738,14 +1785,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Enig_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Enig_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1753,14 +1797,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Enig_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Enig_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1768,24 +1809,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Enig_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Enig_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Enig_regen_02.mp3"
-        ],
-        "mp3Text": "My form renews!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Enig_regen_02.mp3"
+    ],
+    "mp3Text": "My form renews!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1796,164 +1831,160 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Enig_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not yet time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Enig_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Enig_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Enig_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not yet time."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Enig_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Enig_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Enig_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not yet time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Enig_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Enig_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Enig_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not yet time."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Enig_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Enig_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Enig_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not yet time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Enig_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Enig_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Enig_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not yet time."
   },
   {
     "headTitle": "Not enough mana",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Enig_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Enig_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Enig_pain_01.mp3"
-        ],
-        "mp3Text": "Ahhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Enig_pain_02.mp3"
-        ],
-        "mp3Text": "Ahhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_pain_03.mp3"
-        ],
-        "mp3Text": "Ahhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Enig_pain_04.mp3"
-        ],
-        "mp3Text": "Ohhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Enig_pain_05.mp3"
-        ],
-        "mp3Text": "Erhhh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Enig_pain_06.mp3"
-        ],
-        "mp3Text": "Ohhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Enig_pain_07.mp3"
-        ],
-        "mp3Text": "Mmmm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Enig_pain_01.mp3"
+    ],
+    "mp3Text": "Ahhh."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_underattack_01.mp3"
-        ],
-        "mp3Text": "I am under attack."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Enig_pain_02.mp3"
+    ],
+    "mp3Text": "Ahhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Enig_pain_03.mp3"
+    ],
+    "mp3Text": "Ahhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Enig_pain_04.mp3"
+    ],
+    "mp3Text": "Ohhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Enig_pain_05.mp3"
+    ],
+    "mp3Text": "Erhhh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Enig_pain_06.mp3"
+    ],
+    "mp3Text": "Ohhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Enig_pain_07.mp3"
+    ],
+    "mp3Text": "Mmmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Enig_underattack_01.mp3"
+    ],
+    "mp3Text": "I am under attack."
   },
   {
     "headTitle": "Selecting",
@@ -1964,50 +1995,53 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Enig_rare_01.mp3"
-        ],
-        "mp3Text": "Nothing is safe once it crosses my horizon."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_rare_02.mp3"
-        ],
-        "mp3Text": "I sense an emptiness inside you. Let me fill it with death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_rare_03.mp3"
-        ],
-        "mp3Text": "We are all connected on a deeper plane of existence."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Enig_rare_04.mp3"
-        ],
-        "mp3Text": "A stitch in space-time kills nine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Enig_rare_05.mp3"
-        ],
-        "mp3Text": "Chaos hunts the spark of endless suns, whose light will die in my crushing grasp."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_rare_06.mp3"
-        ],
-        "mp3Text": "That which is fundamental cannot be destroyed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_rare_07.mp3"
-        ],
-        "mp3Text": "That which was torn asunder must be united again."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Enig_rare_01.mp3"
+    ],
+    "mp3Text": "Nothing is safe once it crosses my horizon."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Enig_rare_02.mp3"
+    ],
+    "mp3Text": "I sense an emptiness inside you. Let me fill it with death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Enig_rare_03.mp3"
+    ],
+    "mp3Text": "We are all connected on a deeper plane of existence."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Enig_rare_04.mp3"
+    ],
+    "mp3Text": "A stitch in space-time kills nine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Enig_rare_05.mp3"
+    ],
+    "mp3Text": "Chaos hunts the spark of endless suns, whose light will die in my crushing grasp."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Enig_rare_06.mp3"
+    ],
+    "mp3Text": "That which is fundamental cannot be destroyed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_rare_07.mp3"
+    ],
+    "mp3Text": "That which was torn asunder must be united again."
   },
   {
     "headTitle": "Chat responses",
@@ -2018,102 +2052,103 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Enig_missing_lane_01.mp3"
-        ],
-        "mp3Text": "Missing top!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_missing_lane_02.mp3"
-        ],
-        "mp3Text": "Missing middle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_missing_lane_03.mp3"
-        ],
-        "mp3Text": "Missing bottom!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Enig_missing_lane_01.mp3"
+    ],
+    "mp3Text": "Missing top!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Enig_missing_lane_02.mp3"
+    ],
+    "mp3Text": "Missing middle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Enig_missing_lane_03.mp3"
+    ],
+    "mp3Text": "Missing bottom!"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Enig_thanks_01.mp3"
-        ],
-        "mp3Text": "Enigma's gratitude."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_thanks_02.mp3"
-        ],
-        "mp3Text": "You have the thanks of eternity."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Enig_thanks_01.mp3"
+    ],
+    "mp3Text": "Enigma's gratitude."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Enig_thanks_02.mp3"
+    ],
+    "mp3Text": "You have the thanks of eternity."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Enig_laugh_01.mp3"
-        ],
-        "mp3Text": "Hum-huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Enig_laugh_02.mp3"
-        ],
-        "mp3Text": "Heh-huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Enig_laugh_03.mp3"
-        ],
-        "mp3Text": "He-he-huh-heh-heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_laugh_04.mp3"
-        ],
-        "mp3Text": "Hem-muh-huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_laugh_05.mp3"
-        ],
-        "mp3Text": "Hmm-huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Enig_laugh_06.mp3"
-        ],
-        "mp3Text": "Heh-huh-heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Enig_laugh_07.mp3"
-        ],
-        "mp3Text": "Hehhhhhh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Enig_laugh_08.mp3"
-        ],
-        "mp3Text": "Ahhhmmm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Enig_laugh_01.mp3"
+    ],
+    "mp3Text": "Hum-huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Enig_laugh_02.mp3"
+    ],
+    "mp3Text": "Heh-huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Enig_laugh_03.mp3"
+    ],
+    "mp3Text": "He-he-huh-heh-heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Enig_laugh_04.mp3"
+    ],
+    "mp3Text": "Hem-muh-huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Enig_laugh_05.mp3"
+    ],
+    "mp3Text": "Hmm-huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Enig_laugh_06.mp3"
+    ],
+    "mp3Text": "Heh-huh-heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Enig_laugh_07.mp3"
+    ],
+    "mp3Text": "Hehhhhhh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Enig_laugh_08.mp3"
+    ],
+    "mp3Text": "Ahhhmmm."
   },
   {
     "headTitle": "Match end",
@@ -2124,70 +2159,71 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Enig_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Enig_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Enig_win_03.mp3"
-        ],
-        "mp3Text": "Supernova!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Enig_win_04.mp3"
-        ],
-        "mp3Text": "Victory through void."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Enig_win_05.mp3"
-        ],
-        "mp3Text": "Success through void."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Enig_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Enig_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Enig_win_03.mp3"
+    ],
+    "mp3Text": "Supernova!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Enig_win_04.mp3"
+    ],
+    "mp3Text": "Victory through void."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Enig_win_05.mp3"
+    ],
+    "mp3Text": "Success through void."
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Enig_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Enig_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_lose_03.mp3"
-        ],
-        "mp3Text": "Disharmony reigns."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_lose_04.mp3"
-        ],
-        "mp3Text": "All is void."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Enig_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Enig_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Enig_lose_03.mp3"
+    ],
+    "mp3Text": "Disharmony reigns."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Enig_lose_04.mp3"
+    ],
+    "mp3Text": "All is void."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2198,41 +2234,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Enig_drop_common_01.mp3"
-        ],
-        "mp3Text": "Something appears out of nothing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Enig_drop_common_01.mp3"
+    ],
+    "mp3Text": "Something appears out of nothing."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Enig_drop_medium_01.mp3"
-        ],
-        "mp3Text": "A welcome manifestation of randomness."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Enig_drop_medium_01.mp3"
+    ],
+    "mp3Text": "A welcome manifestation of randomness."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Enig_drop_rare_02.mp3"
-        ],
-        "mp3Text": "From the core of the universe, a treasure."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Enig_drop_rare_02.mp3"
+    ],
+    "mp3Text": "From the core of the universe, a treasure."
   }
 ]

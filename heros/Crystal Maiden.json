@@ -5,7 +5,6 @@
     "actorUrl": null,
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/20px-Crystal_Maiden_minimap_icon.png?version=0c3b58be258d06e8e1526a76e3fd5e92",
     "heroName": "Crystal Maiden",
-    "href": "https://dota2.gamepedia.com/Crystal_Maiden/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/crystal_maiden_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/crystalmaiden.png",
@@ -17,62 +16,67 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
-        ],
-        "mp3Text": "Crystal Maiden!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Cm_spawn_02.mp3"
-        ],
-        "mp3Text": "Who calls the Crystal Maiden?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_spawn_04.mp3"
-        ],
-        "mp3Text": "Ice is nice!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_spawn_05.mp3"
-        ],
-        "mp3Text": "Feel the chill!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Cm_spawn_06.mp3"
-        ],
-        "mp3Text": "Behold the scourge of Icewrack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Cm_spawn_07.mp3"
-        ],
-        "mp3Text": "Let it begin!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_spawn_08.mp3"
-        ],
-        "mp3Text": "The battle begins!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_battlebegins_01.mp3"
-        ],
-        "mp3Text": "It's all fun and games until someone's frozen solid."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_levelup_03.mp3"
-        ],
-        "mp3Text": "Is it cold in here or is it just me?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
+    ],
+    "mp3Text": "Crystal Maiden!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Cm_spawn_02.mp3"
+    ],
+    "mp3Text": "Who calls the Crystal Maiden?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_spawn_04.mp3"
+    ],
+    "mp3Text": "Ice is nice!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_spawn_05.mp3"
+    ],
+    "mp3Text": "Feel the chill!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Cm_spawn_06.mp3"
+    ],
+    "mp3Text": "Behold the scourge of Icewrack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Cm_spawn_07.mp3"
+    ],
+    "mp3Text": "Let it begin!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_spawn_08.mp3"
+    ],
+    "mp3Text": "The battle begins!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_battlebegins_01.mp3"
+    ],
+    "mp3Text": "It's all fun and games until someone's frozen solid."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_levelup_03.mp3"
+    ],
+    "mp3Text": "Is it cold in here or is it just me?"
   },
   {
     "headTitle": "Drafting",
@@ -83,334 +87,333 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
-        ],
-        "mp3Text": "Crystal Maiden!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
+    ],
+    "mp3Text": "Crystal Maiden!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Cm_anger_08.mp3"
-        ],
-        "mp3Text": "Uh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Cm_anger_08.mp3"
+    ],
+    "mp3Text": "Uh!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
-        ],
-        "mp3Text": "Crystal Maiden!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Cm_spawn_02.mp3"
-        ],
-        "mp3Text": "Who calls the Crystal Maiden?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_spawn_04.mp3"
-        ],
-        "mp3Text": "Ice is nice!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_spawn_05.mp3"
-        ],
-        "mp3Text": "Feel the chill!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Cm_spawn_06.mp3"
-        ],
-        "mp3Text": "Behold the scourge of Icewrack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_spawn_08.mp3"
-        ],
-        "mp3Text": "The battle begins!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_spawn_01.mp3"
+    ],
+    "mp3Text": "Crystal Maiden!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Cm_spawn_02.mp3"
+    ],
+    "mp3Text": "Who calls the Crystal Maiden?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_spawn_04.mp3"
+    ],
+    "mp3Text": "Ice is nice!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_spawn_05.mp3"
+    ],
+    "mp3Text": "Feel the chill!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Cm_spawn_06.mp3"
+    ],
+    "mp3Text": "Behold the scourge of Icewrack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_spawn_08.mp3"
+    ],
+    "mp3Text": "The battle begins!"
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Cm_inthebag_01.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Cm_inthebag_01.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_battlebegins_01.mp3"
-        ],
-        "mp3Text": "It's all fun and games until someone's frozen solid."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_battlebegins_01.mp3"
+    ],
+    "mp3Text": "It's all fun and games until someone's frozen solid."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_move_01.mp3"
-        ],
-        "mp3Text": "To battle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Cm_move_02.mp3"
-        ],
-        "mp3Text": "Swiftly!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_move_03.mp3"
-        ],
-        "mp3Text": "I move!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Cm_move_04.mp3"
-        ],
-        "mp3Text": "Forward!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_move_05.mp3"
-        ],
-        "mp3Text": "Agreed!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Cm_move_06.mp3"
-        ],
-        "mp3Text": "I thought as much!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Cm_move_07.mp3"
-        ],
-        "mp3Text": "Let's go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_move_08.mp3"
-        ],
-        "mp3Text": "On!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Cm_move_09.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Cm_move_10.mp3"
-        ],
-        "mp3Text": "Faster!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_move_12.mp3"
-        ],
-        "mp3Text": "Here I come!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Cm_move_13.mp3"
-        ],
-        "mp3Text": "Into the breach!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_move_14.mp3"
-        ],
-        "mp3Text": "I'll not argue."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_move_15.mp3"
-        ],
-        "mp3Text": "Indeed!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_move_01.mp3"
+    ],
+    "mp3Text": "To battle!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_move_11.mp3"
-        ],
-        "mp3Text": "Swift as the wolves of Icewrack…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Cm_move_02.mp3"
+    ],
+    "mp3Text": "Swiftly!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_move_03.mp3"
+    ],
+    "mp3Text": "I move!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Cm_move_04.mp3"
+    ],
+    "mp3Text": "Forward!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_move_05.mp3"
+    ],
+    "mp3Text": "Agreed!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Cm_move_06.mp3"
+    ],
+    "mp3Text": "I thought as much!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Cm_move_07.mp3"
+    ],
+    "mp3Text": "Let's go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_move_08.mp3"
+    ],
+    "mp3Text": "On!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Cm_move_09.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Cm_move_10.mp3"
+    ],
+    "mp3Text": "Faster!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_move_12.mp3"
+    ],
+    "mp3Text": "Here I come!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Cm_move_13.mp3"
+    ],
+    "mp3Text": "Into the breach!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_move_14.mp3"
+    ],
+    "mp3Text": "I'll not argue."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_move_15.mp3"
+    ],
+    "mp3Text": "Indeed!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_move_11.mp3"
+    ],
+    "mp3Text": "Swift as the wolves of Icewrack…"
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Cm_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_attack_02.mp3"
-        ],
-        "mp3Text": "Ice take you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Cm_attack_03.mp3"
-        ],
-        "mp3Text": "My ice bites deep!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Cm_attack_04.mp3"
-        ],
-        "mp3Text": "Here's ice in your eye!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Cm_attack_06.mp3"
-        ],
-        "mp3Text": "The ice wolves bite!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Cm_attack_07.mp3"
-        ],
-        "mp3Text": "Fangs of ice!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Cm_attack_05.mp3"
-        ],
-        "mp3Text": "Die!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Cm_attack_08.mp3"
-        ],
-        "mp3Text": "Down you go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_attack_09.mp3"
-        ],
-        "mp3Text": "I'll freeze you fast!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Cm_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_attack_02.mp3"
+    ],
+    "mp3Text": "Ice take you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Cm_attack_03.mp3"
+    ],
+    "mp3Text": "My ice bites deep!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Cm_attack_04.mp3"
+    ],
+    "mp3Text": "Here's ice in your eye!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Cm_attack_06.mp3"
+    ],
+    "mp3Text": "The ice wolves bite!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Cm_attack_07.mp3"
+    ],
+    "mp3Text": "Fangs of ice!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Cm_attack_05.mp3"
+    ],
+    "mp3Text": "Die!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Cm_attack_08.mp3"
+    ],
+    "mp3Text": "Down you go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_attack_09.mp3"
+    ],
+    "mp3Text": "I'll freeze you fast!"
   },
   {
     "text": "Attacking a specific hero",
     "type": "middle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Cm_lina_02.mp3"
+    ],
+    "mp3Text": "You!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Cm_lina_02.mp3"
-        ],
-        "mp3Text": "You!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Cm_lina_03.mp3"
-        ],
-        "mp3Text": "You again!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Cm_lina_03.mp3"
+    ],
+    "mp3Text": "You again!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_lina_13.mp3"
-        ],
-        "mp3Text": "Lina!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_lina_13.mp3"
+    ],
+    "mp3Text": "Lina!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_lina_14.mp3"
-        ],
-        "mp3Text": "Lina!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_lina_14.mp3"
+    ],
+    "mp3Text": "Lina!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Cm_lina_15.mp3"
-        ],
-        "mp3Text": "Lina!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Cm_lina_15.mp3"
+    ],
+    "mp3Text": "Lina!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
@@ -419,534 +422,574 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_levelup_01.mp3"
-        ],
-        "mp3Text": "My temperature's dropping."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_levelup_02.mp3"
-        ],
-        "mp3Text": "I feel colder already!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_levelup_03.mp3"
-        ],
-        "mp3Text": "Is it cold in here or is it just me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_levelup_04.mp3"
-        ],
-        "mp3Text": "I've got goosebumps!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_levelup_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Cm_levelup_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Cm_levelup_07.mp3"
-        ],
-        "mp3Text": "Brrr, that's nice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_happy_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Cm_happy_03.mp3"
-        ],
-        "mp3Text": "Ah ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Cm_happy_04.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_happy_05.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Cm_happy_06.mp3"
-        ],
-        "mp3Text": "Hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_laugh_03.mp3"
-        ],
-        "mp3Text": "Uh he he he."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_levelup_01.mp3"
+    ],
+    "mp3Text": "My temperature's dropping."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_levelup_02.mp3"
+    ],
+    "mp3Text": "I feel colder already!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_levelup_03.mp3"
+    ],
+    "mp3Text": "Is it cold in here or is it just me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_levelup_04.mp3"
+    ],
+    "mp3Text": "I've got goosebumps!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_levelup_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Cm_levelup_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Cm_levelup_07.mp3"
+    ],
+    "mp3Text": "Brrr, that's nice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_happy_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Cm_happy_03.mp3"
+    ],
+    "mp3Text": "Ah ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Cm_happy_04.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_happy_05.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Cm_happy_06.mp3"
+    ],
+    "mp3Text": "Hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_laugh_03.mp3"
+    ],
+    "mp3Text": "Uh he he he."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Cm_kill_01.mp3"
-        ],
-        "mp3Text": "Down into the deepfreeze…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Cm_kill_02.mp3"
-        ],
-        "mp3Text": "Frostfire take you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Cm_kill_03.mp3"
-        ],
-        "mp3Text": "Burns, doesn't it?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_kill_04.mp3"
-        ],
-        "mp3Text": "To the Frozen Waste with you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Cm_kill_05.mp3"
-        ],
-        "mp3Text": "You move like a Blueheart Glacier!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Cm_kill_06.mp3"
-        ],
-        "mp3Text": "Cool it!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_kill_07.mp3"
-        ],
-        "mp3Text": "Guess you didn't know a little game of freeze tag could turn lethal."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_kill_08.mp3"
-        ],
-        "mp3Text": "Ice is not always nice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_kill_09.mp3"
-        ],
-        "mp3Text": "You'll make a nice snow angel."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Cm_kill_10.mp3"
-        ],
-        "mp3Text": "I can't see your breath anymore."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Cm_kill_11.mp3"
-        ],
-        "mp3Text": "Your fate was always crystal clear."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Cm_kill_12.mp3"
-        ],
-        "mp3Text": "Dress warmer next time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_kill_13.mp3"
-        ],
-        "mp3Text": "You're dead and that's a cold hard fact."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Cm_kill_14.mp3"
-        ],
-        "mp3Text": "Your blood froze."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Cm_kill_15.mp3"
-        ],
-        "mp3Text": "Cold hand in mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Cm_kill_16.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Cm_kill_17.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_kill_18.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Cm_kill_19.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Cm_kill_20.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh heh heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_laugh_05.mp3"
-        ],
-        "mp3Text": "Uh hu ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_laugh_08.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Cm_kill_01.mp3"
+    ],
+    "mp3Text": "Down into the deepfreeze…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Cm_kill_02.mp3"
+    ],
+    "mp3Text": "Frostfire take you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Cm_kill_03.mp3"
+    ],
+    "mp3Text": "Burns, doesn't it?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_kill_04.mp3"
+    ],
+    "mp3Text": "To the Frozen Waste with you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Cm_kill_05.mp3"
+    ],
+    "mp3Text": "You move like a Blueheart Glacier!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Cm_kill_06.mp3"
+    ],
+    "mp3Text": "Cool it!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_kill_07.mp3"
+    ],
+    "mp3Text": "Guess you didn't know a little game of freeze tag could turn lethal."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_kill_08.mp3"
+    ],
+    "mp3Text": "Ice is not always nice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_kill_09.mp3"
+    ],
+    "mp3Text": "You'll make a nice snow angel."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Cm_kill_10.mp3"
+    ],
+    "mp3Text": "I can't see your breath anymore."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Cm_kill_11.mp3"
+    ],
+    "mp3Text": "Your fate was always crystal clear."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Cm_kill_12.mp3"
+    ],
+    "mp3Text": "Dress warmer next time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_kill_13.mp3"
+    ],
+    "mp3Text": "You're dead and that's a cold hard fact."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Cm_kill_14.mp3"
+    ],
+    "mp3Text": "Your blood froze."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Cm_kill_15.mp3"
+    ],
+    "mp3Text": "Cold hand in mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Cm_kill_16.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Cm_kill_17.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_kill_18.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Cm_kill_19.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Cm_kill_20.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh heh heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_laugh_05.mp3"
+    ],
+    "mp3Text": "Uh hu ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_laugh_08.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_lina_04.mp3"
+    ],
+    "mp3Text": "Ice trumps fire!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_lina_04.mp3"
-        ],
-        "mp3Text": "Ice trumps fire!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Cm_lina_09.mp3"
-        ],
-        "mp3Text": "Lina, you hellfire bitch!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_lina_11.mp3"
-        ],
-        "mp3Text": "I'm sorry, Sister. I always was the good one.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Cm_lina_12.mp3"
-        ],
-        "mp3Text": "Sorry, Sis.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Cm_lina_09.mp3"
+    ],
+    "mp3Text": "Lina, you hellfire bitch!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Cm_rival_01.mp3"
-        ],
-        "mp3Text": "Frost beats fire.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_rival_02.mp3"
-        ],
-        "mp3Text": "That's enough, Lina, you're melting my stuff.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Cm_rival_03.mp3"
-        ],
-        "mp3Text": "This time, Lina, it ends in ice.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Cm_rival_04.mp3"
-        ],
-        "mp3Text": "Such an old grouch.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_rival_05.mp3"
-        ],
-        "mp3Text": "You'd think all that ice would make him nice.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Cm_rival_06.mp3"
-        ],
-        "mp3Text": "Sorry, Lich, you're doing it wrong.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_rival_07.mp3"
-        ],
-        "mp3Text": "You think you can snow me?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Cm_rival_08.mp3"
-        ],
-        "mp3Text": "Your wind was messing up my snowflakes.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Cm_rival_09.mp3"
-        ],
-        "mp3Text": "Too much bluster, not enough snow.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Cm_rival_10.mp3"
-        ],
-        "mp3Text": "That storm sort of fizzled out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Cm_rival_11.mp3"
-        ],
-        "mp3Text": "That was a test, Tinker. And you failed.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Cm_rival_12.mp3"
-        ],
-        "mp3Text": "Tinker, your equations aren't half as cold as they could be.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Cm_rival_13.mp3"
-        ],
-        "mp3Text": "Take your own temperature next time.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Cm_rival_14.mp3"
-        ],
-        "mp3Text": "No more hoofin' it in my snow.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-            "name": "Enchantress"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Cm_rival_15.mp3"
-        ],
-        "mp3Text": "Hey, Queenie, you might wanna put a little ice on that.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-            "name": "Queen of Pain"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Cm_rival_16.mp3"
-        ],
-        "mp3Text": "Queen of Pain? She left me numb.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-            "name": "Queen of Pain"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Cm_rival_17.mp3"
-        ],
-        "mp3Text": "I almost liked half of you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_rival_18.mp3"
-        ],
-        "mp3Text": "Old, cold and busted.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Cm_rival_21.mp3"
-        ],
-        "mp3Text": "I miss our snowball fights, Ymir.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_lina_11.mp3"
+    ],
+    "mp3Text": "I'm sorry, Sister. I always was the good one.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_lina_10.mp3"
-        ],
-        "mp3Text": "Lina, you hellfire hellbitch!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Cm_lina_12.mp3"
+    ],
+    "mp3Text": "Sorry, Sis.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Cm_rival_01.mp3"
+    ],
+    "mp3Text": "Frost beats fire.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_rival_02.mp3"
+    ],
+    "mp3Text": "That's enough, Lina, you're melting my stuff.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Cm_rival_03.mp3"
+    ],
+    "mp3Text": "This time, Lina, it ends in ice.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Cm_rival_04.mp3"
+    ],
+    "mp3Text": "Such an old grouch.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_rival_05.mp3"
+    ],
+    "mp3Text": "You'd think all that ice would make him nice.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Cm_rival_06.mp3"
+    ],
+    "mp3Text": "Sorry, Lich, you're doing it wrong.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_rival_07.mp3"
+    ],
+    "mp3Text": "You think you can snow me?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Cm_rival_08.mp3"
+    ],
+    "mp3Text": "Your wind was messing up my snowflakes.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Cm_rival_09.mp3"
+    ],
+    "mp3Text": "Too much bluster, not enough snow.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Cm_rival_10.mp3"
+    ],
+    "mp3Text": "That storm sort of fizzled out.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Cm_rival_11.mp3"
+    ],
+    "mp3Text": "That was a test, Tinker. And you failed.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Cm_rival_12.mp3"
+    ],
+    "mp3Text": "Tinker, your equations aren't half as cold as they could be.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Cm_rival_13.mp3"
+    ],
+    "mp3Text": "Take your own temperature next time.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Cm_rival_14.mp3"
+    ],
+    "mp3Text": "No more hoofin' it in my snow.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+        "name": "Enchantress"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Cm_rival_15.mp3"
+    ],
+    "mp3Text": "Hey, Queenie, you might wanna put a little ice on that.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+        "name": "Queen of Pain"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Cm_rival_16.mp3"
+    ],
+    "mp3Text": "Queen of Pain? She left me numb.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+        "name": "Queen of Pain"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Cm_rival_17.mp3"
+    ],
+    "mp3Text": "I almost liked half of you.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_rival_18.mp3"
+    ],
+    "mp3Text": "Old, cold and busted.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Cm_rival_21.mp3"
+    ],
+    "mp3Text": "I miss our snowball fights, Ymir.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_lina_10.mp3"
+    ],
+    "mp3Text": "Lina, you hellfire hellbitch!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
@@ -955,14 +998,11 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_firstblood_01.mp3"
-        ],
-        "mp3Text": "First Blood, and it's already icing over!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_firstblood_01.mp3"
+    ],
+    "mp3Text": "First Blood, and it's already icing over!"
   },
   {
     "headTitle": "Meeting an ally",
@@ -973,78 +1013,80 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Cm_ally_01.mp3"
+    ],
+    "mp3Text": "See if you can keep up, sis!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Cm_ally_01.mp3"
-        ],
-        "mp3Text": "See if you can keep up, sis!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_ally_02.mp3"
+    ],
+    "mp3Text": "I'll freeze them and you shatter, Phoenix.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_ally_02.mp3"
-        ],
-        "mp3Text": "I'll freeze them and you shatter, Phoenix.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Cm_ally_04.mp3"
+    ],
+    "mp3Text": "This'll be like old times, Ymir.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Cm_ally_04.mp3"
-        ],
-        "mp3Text": "This'll be like old times, Ymir.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_ally_05.mp3"
+    ],
+    "mp3Text": "That's a lovely shade of blue, Sven.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_ally_05.mp3"
-        ],
-        "mp3Text": "That's a lovely shade of blue, Sven.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_ally_06.mp3"
+    ],
+    "mp3Text": "Sven, are you still so blue under that armor?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_ally_06.mp3"
-        ],
-        "mp3Text": "Sven, are you still so blue under that armor?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Cm_ally_07.mp3"
+    ],
+    "mp3Text": "Juggernaut, let them feel the cool of your blade!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Cm_ally_07.mp3"
-        ],
-        "mp3Text": "Juggernaut, let them feel the cool of your blade!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Juggernaut_minimap_icon.png/16px-Juggernaut_minimap_icon.png?version=53939255f6c52699cd3865179b5ecfbc",
-            "name": "Juggernaut"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Juggernaut_minimap_icon.png/16px-Juggernaut_minimap_icon.png?version=53939255f6c52699cd3865179b5ecfbc",
+        "name": "Juggernaut"
       }
     ]
   },
@@ -1053,406 +1095,435 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_spawn_03.mp3"
-        ],
-        "mp3Text": "Ice Maiden!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Cm_lasthit_01.mp3"
-        ],
-        "mp3Text": "This one is all mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Cm_lasthit_02.mp3"
-        ],
-        "mp3Text": "What could be better?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Cm_lasthit_03.mp3"
-        ],
-        "mp3Text": "Mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Cm_lasthit_04.mp3"
-        ],
-        "mp3Text": "Ooh, frosty."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_lasthit_05.mp3"
-        ],
-        "mp3Text": "Nice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_lasthit_06.mp3"
-        ],
-        "mp3Text": "Nice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Cm_lasthit_07.mp3"
-        ],
-        "mp3Text": "Aren't you nice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Cm_lasthit_08.mp3"
-        ],
-        "mp3Text": "That's cold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Cm_lasthit_09.mp3"
-        ],
-        "mp3Text": "Cold cash."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Cm_lasthit_10.mp3"
-        ],
-        "mp3Text": "Drop it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_lasthit_11.mp3"
-        ],
-        "mp3Text": "Drop it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Cm_lasthit_12.mp3"
-        ],
-        "mp3Text": "Claimed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Cm_lasthit_13.mp3"
-        ],
-        "mp3Text": "Frost bites."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_spawn_03.mp3"
+    ],
+    "mp3Text": "Ice Maiden!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Cm_lasthit_01.mp3"
+    ],
+    "mp3Text": "This one is all mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Cm_lasthit_02.mp3"
+    ],
+    "mp3Text": "What could be better?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Cm_lasthit_03.mp3"
+    ],
+    "mp3Text": "Mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Cm_lasthit_04.mp3"
+    ],
+    "mp3Text": "Ooh, frosty."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_lasthit_05.mp3"
+    ],
+    "mp3Text": "Nice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_lasthit_06.mp3"
+    ],
+    "mp3Text": "Nice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Cm_lasthit_07.mp3"
+    ],
+    "mp3Text": "Aren't you nice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Cm_lasthit_08.mp3"
+    ],
+    "mp3Text": "That's cold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Cm_lasthit_09.mp3"
+    ],
+    "mp3Text": "Cold cash."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Cm_lasthit_10.mp3"
+    ],
+    "mp3Text": "Drop it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Cm_lasthit_11.mp3"
+    ],
+    "mp3Text": "Drop it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Cm_lasthit_12.mp3"
+    ],
+    "mp3Text": "Claimed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Cm_lasthit_13.mp3"
+    ],
+    "mp3Text": "Frost bites."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_deny_01.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Cm_deny_02.mp3"
-        ],
-        "mp3Text": "Now nobody wins!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_deny_03.mp3"
-        ],
-        "mp3Text": "I won't give them the satisfaction…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_deny_04.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Cm_deny_05.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Cm_deny_06.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Cm_deny_07.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Cm_deny_08.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_deny_09.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Cm_deny_10.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_deny_11.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Cm_deny_12.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_deny_13.mp3"
-        ],
-        "mp3Text": "No way!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Cm_deny_14.mp3"
-        ],
-        "mp3Text": "No way."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_deny_15.mp3"
-        ],
-        "mp3Text": "Frozen out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Cm_deny_16.mp3"
-        ],
-        "mp3Text": "I'm cold, I know."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_deny_17.mp3"
-        ],
-        "mp3Text": "Mm mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Cm_deny_18.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Cm_deny_19.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_deny_01.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Cm_deny_02.mp3"
+    ],
+    "mp3Text": "Now nobody wins!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_deny_03.mp3"
+    ],
+    "mp3Text": "I won't give them the satisfaction…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_deny_04.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Cm_deny_05.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Cm_deny_06.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Cm_deny_07.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Cm_deny_08.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_deny_09.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Cm_deny_10.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_deny_11.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Cm_deny_12.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_deny_13.mp3"
+    ],
+    "mp3Text": "No way!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Cm_deny_14.mp3"
+    ],
+    "mp3Text": "No way."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_deny_15.mp3"
+    ],
+    "mp3Text": "Frozen out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Cm_deny_16.mp3"
+    ],
+    "mp3Text": "I'm cold, I know."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_deny_17.mp3"
+    ],
+    "mp3Text": "Mm mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Cm_deny_18.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Cm_deny_19.mp3"
+    ],
+    "mp3Text": "Ha ha!"
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Cm_purch_01.mp3"
-        ],
-        "mp3Text": "Finally, it's mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_purch_02.mp3"
-        ],
-        "mp3Text": "Sometimes you just have to splurge…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Cm_purch_03.mp3"
-        ],
-        "mp3Text": "Worth every copper."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Cm_purch_01.mp3"
+    ],
+    "mp3Text": "Finally, it's mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_purch_02.mp3"
+    ],
+    "mp3Text": "Sometimes you just have to splurge…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Cm_purch_03.mp3"
+    ],
+    "mp3Text": "Worth every copper."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Cm_sceptor_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Cm_sceptor_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_sceptor_02.mp3"
-        ],
-        "mp3Text": "A nice, icy scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Cm_blink_02.mp3"
-        ],
-        "mp3Text": "Oh the cold, how it cuts.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_item_01.mp3"
-        ],
-        "mp3Text": "Black King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Cm_item_02.mp3"
-        ],
-        "mp3Text": "Mekansm!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-            "name": "Mekansm (2350)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Cm_item_03.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_item_04.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_item_05.mp3"
-        ],
-        "mp3Text": "Force Staff!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Cm_item_06.mp3"
-        ],
-        "mp3Text": "Divine Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Cm_item_07.mp3"
-        ],
-        "mp3Text": "Veil of Discord!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
-            "name": "Veil of Discord (2330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_sceptor_02.mp3"
+    ],
+    "mp3Text": "A nice, icy scepter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Cm_immort_02.mp3"
-        ],
-        "mp3Text": "No grave can hold me!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Cm_blink_02.mp3"
+    ],
+    "mp3Text": "Oh the cold, how it cuts.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_item_01.mp3"
+    ],
+    "mp3Text": "Black King Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Cm_item_02.mp3"
+    ],
+    "mp3Text": "Mekansm!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+        "name": "Mekansm (2350)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Cm_item_03.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_item_04.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Cm_item_05.mp3"
+    ],
+    "mp3Text": "Force Staff!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Cm_item_06.mp3"
+    ],
+    "mp3Text": "Divine Scepter!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Cm_item_07.mp3"
+    ],
+    "mp3Text": "Veil of Discord!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
+        "name": "Veil of Discord (2330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Cm_immort_02.mp3"
+    ],
+    "mp3Text": "No grave can hold me!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1461,92 +1532,94 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Cm_death_01.mp3"
-        ],
-        "mp3Text": "Cold as death…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Cm_death_02.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Cm_death_03.mp3"
-        ],
-        "mp3Text": "Can't…feel…a thing…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_death_04.mp3"
-        ],
-        "mp3Text": "I'm burning up!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Cm_death_05.mp3"
-        ],
-        "mp3Text": "Burned…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Cm_death_06.mp3"
-        ],
-        "mp3Text": "My heart…thaws…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_death_07.mp3"
-        ],
-        "mp3Text": "No!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Cm_death_01.mp3"
+    ],
+    "mp3Text": "Cold as death…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Cm_death_02.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Cm_death_03.mp3"
+    ],
+    "mp3Text": "Can't…feel…a thing…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_death_04.mp3"
+    ],
+    "mp3Text": "I'm burning up!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Cm_death_05.mp3"
+    ],
+    "mp3Text": "Burned…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Cm_death_06.mp3"
+    ],
+    "mp3Text": "My heart…thaws…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Cm_death_07.mp3"
+    ],
+    "mp3Text": "No!"
   },
   {
     "text": "Dying to a specific hero",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Cm_lina_16.mp3"
+    ],
+    "mp3Text": "Lina!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Cm_lina_16.mp3"
-        ],
-        "mp3Text": "Lina!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_lina_17.mp3"
+    ],
+    "mp3Text": "Lina!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_lina_17.mp3"
-        ],
-        "mp3Text": "Lina!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_lina_18.mp3"
+    ],
+    "mp3Text": "I always was the good one.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_lina_18.mp3"
-        ],
-        "mp3Text": "I always was the good one.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
@@ -1555,90 +1628,89 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Cm_respawn_01.mp3"
-        ],
-        "mp3Text": "Miss me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_respawn_02.mp3"
-        ],
-        "mp3Text": "Ice never dies."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_respawn_03.mp3"
-        ],
-        "mp3Text": "You only live ice…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Cm_respawn_04.mp3"
-        ],
-        "mp3Text": "Once burned, ice shy…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Cm_respawn_05.mp3"
-        ],
-        "mp3Text": "I didn't see that coming."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_respawn_06.mp3"
-        ],
-        "mp3Text": "It just keeps getting better."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_respawn_07.mp3"
-        ],
-        "mp3Text": "Nothing like a little cool down…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Cm_respawn_01.mp3"
+    ],
+    "mp3Text": "Miss me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_respawn_02.mp3"
+    ],
+    "mp3Text": "Ice never dies."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_respawn_03.mp3"
+    ],
+    "mp3Text": "You only live ice…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Cm_respawn_04.mp3"
+    ],
+    "mp3Text": "Once burned, ice shy…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Cm_respawn_05.mp3"
+    ],
+    "mp3Text": "I didn't see that coming."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_respawn_06.mp3"
+    ],
+    "mp3Text": "It just keeps getting better."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_respawn_07.mp3"
+    ],
+    "mp3Text": "Nothing like a little cool down…"
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Cm_fastres_01.mp3"
-        ],
-        "mp3Text": "I hope you weren't waiting for a thaw!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Cm_fastres_01.mp3"
+    ],
+    "mp3Text": "I hope you weren't waiting for a thaw!"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Cm_bottle_01.mp3"
-        ],
-        "mp3Text": "This will keep."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Cm_bottle_02.mp3"
-        ],
-        "mp3Text": "I'll put this aside for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_bottle_03.mp3"
-        ],
-        "mp3Text": "This'll come in handy."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Cm_bottle_01.mp3"
+    ],
+    "mp3Text": "This will keep."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Cm_bottle_02.mp3"
+    ],
+    "mp3Text": "I'll put this aside for later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_bottle_03.mp3"
+    ],
+    "mp3Text": "This'll come in handy."
   },
   {
     "headTitle": "Activating runes",
@@ -1650,14 +1722,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Cm_acknow_04.mp3"
-        ],
-        "mp3Text": "Huh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Cm_acknow_04.mp3"
+    ],
+    "mp3Text": "Huh."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1665,14 +1734,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_bottle_03.mp3"
-        ],
-        "mp3Text": "This'll come in handy."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_bottle_03.mp3"
+    ],
+    "mp3Text": "This'll come in handy."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1680,24 +1746,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double Damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Cm_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double Damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Cm_doubdam_02.mp3"
-        ],
-        "mp3Text": "Twice the harm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Cm_doubdam_02.mp3"
+    ],
+    "mp3Text": "Twice the harm!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1705,24 +1765,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Cm_haste_02.mp3"
-        ],
-        "mp3Text": "Pour on the speed!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Cm_haste_02.mp3"
+    ],
+    "mp3Text": "Pour on the speed!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1730,24 +1784,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_illus_02.mp3"
-        ],
-        "mp3Text": "One to many, many to one!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Cm_illus_02.mp3"
+    ],
+    "mp3Text": "One to many, many to one!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1755,24 +1803,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Cm_invis_03.mp3"
-        ],
-        "mp3Text": "I'm going into hiding!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Cm_invis_03.mp3"
+    ],
+    "mp3Text": "I'm going into hiding!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1780,14 +1822,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Cm_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Cm_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1798,78 +1837,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Cm_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Cm_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Cm_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Cm_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Cm_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Cm_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Cm_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Cm_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Cm_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Cm_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Cm_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Cm_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "headTitle": "Not enough mana",
@@ -1880,132 +1916,128 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Cm_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Cm_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Cm_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Cm_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Cm_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Cm_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Cm_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Cm_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Cm_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Cm_pain_01.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Cm_anger_03.mp3"
-        ],
-        "mp3Text": "Huh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Cm_anger_04.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Cm_anger_05.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_anger_14.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_scream_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Cm_pain_01.mp3"
+    ],
+    "mp3Text": "Oh!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Cm_anger_03.mp3"
+    ],
+    "mp3Text": "Huh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Cm_anger_04.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Cm_anger_05.mp3"
+    ],
+    "mp3Text": "Oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_anger_14.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_scream_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2016,32 +2048,32 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Cm_rare_01.mp3"
-        ],
-        "mp3Text": "When Hell freezes over, I'll start calling it Heaven."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Cm_rare_02.mp3"
-        ],
-        "mp3Text": "Can you guess my favorite poet?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Cm_rare_03.mp3"
-        ],
-        "mp3Text": "Someday I'll return to the Blueheart Glacier and sleep for a thousand years."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Cm_rare_04.mp3"
-        ],
-        "mp3Text": "You can burn my body but you'll never thaw my soul."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Cm_rare_01.mp3"
+    ],
+    "mp3Text": "When Hell freezes over, I'll start calling it Heaven."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Cm_rare_02.mp3"
+    ],
+    "mp3Text": "Can you guess my favorite poet?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Cm_rare_03.mp3"
+    ],
+    "mp3Text": "Someday I'll return to the Blueheart Glacier and sleep for a thousand years."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Cm_rare_04.mp3"
+    ],
+    "mp3Text": "You can burn my body but you'll never thaw my soul."
   },
   {
     "headTitle": "Chat responses",
@@ -2052,144 +2084,152 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_missing_lane_01.mp3"
-        ],
-        "mp3Text": "Missing Top!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_missing_lane_02.mp3"
-        ],
-        "mp3Text": "Missing Middle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Cm_missing_lane_03.mp3"
-        ],
-        "mp3Text": "Missing Bottom!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_missing_lane_01.mp3"
+    ],
+    "mp3Text": "Missing Top!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_missing_lane_02.mp3"
+    ],
+    "mp3Text": "Missing Middle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Cm_missing_lane_03.mp3"
+    ],
+    "mp3Text": "Missing Bottom!"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_thanks_01.mp3"
-        ],
-        "mp3Text": "Hey, thanks!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Cm_thanks_02.mp3"
-        ],
-        "mp3Text": "Very cool of you!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_thanks_01.mp3"
+    ],
+    "mp3Text": "Hey, thanks!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Cm_thanks_02.mp3"
+    ],
+    "mp3Text": "Very cool of you!"
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Cm_laugh_01.mp3"
-        ],
-        "mp3Text": "Ah he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_laugh_03.mp3"
-        ],
-        "mp3Text": "Uh he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_laugh_04.mp3"
-        ],
-        "mp3Text": "Hm hm hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_laugh_05.mp3"
-        ],
-        "mp3Text": "Uh hu ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Cm_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_laugh_07.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_laugh_08.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Cm_laugh_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_laugh_10.mp3"
-        ],
-        "mp3Text": "Uh ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Cm_laugh_12.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_laugh_13.mp3"
-        ],
-        "mp3Text": "Ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Cm_laugh_14.mp3"
-        ],
-        "mp3Text": "Hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_laugh_15.mp3"
-        ],
-        "mp3Text": "Oh ho ho."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Cm_laugh_01.mp3"
+    ],
+    "mp3Text": "Ah he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Cm_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_laugh_03.mp3"
+    ],
+    "mp3Text": "Uh he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_laugh_04.mp3"
+    ],
+    "mp3Text": "Hm hm hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Cm_laugh_05.mp3"
+    ],
+    "mp3Text": "Uh hu ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Cm_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_laugh_07.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_laugh_08.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Cm_laugh_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Cm_laugh_10.mp3"
+    ],
+    "mp3Text": "Uh ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Cm_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Cm_laugh_12.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_laugh_13.mp3"
+    ],
+    "mp3Text": "Ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Cm_laugh_14.mp3"
+    ],
+    "mp3Text": "Hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Cm_laugh_15.mp3"
+    ],
+    "mp3Text": "Oh ho ho."
   },
   {
     "headTitle": "Match end",
@@ -2200,76 +2240,78 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_win_01.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Cm_win_02.mp3"
-        ],
-        "mp3Text": "Victory is ours!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Cm_win_03.mp3"
-        ],
-        "mp3Text": "Of course we won! How could it be otherwise?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Cm_win_04.mp3"
-        ],
-        "mp3Text": "A winner is me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Cm_win_05.mp3"
-        ],
-        "mp3Text": "We won! We won!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Cm_win_01.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Cm_win_02.mp3"
+    ],
+    "mp3Text": "Victory is ours!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Cm_win_03.mp3"
+    ],
+    "mp3Text": "Of course we won! How could it be otherwise?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Cm_win_04.mp3"
+    ],
+    "mp3Text": "A winner is me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Cm_win_05.mp3"
+    ],
+    "mp3Text": "We won! We won!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Cm_lose_01.mp3"
-        ],
-        "mp3Text": "Nooo!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_lose_02.mp3"
-        ],
-        "mp3Text": "This can't be happening…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_lose_03.mp3"
-        ],
-        "mp3Text": "What happened?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Cm_lose_04.mp3"
-        ],
-        "mp3Text": "I don't believe it!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_lose_05.mp3"
-        ],
-        "mp3Text": "Nooo!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Cm_lose_01.mp3"
+    ],
+    "mp3Text": "Nooo!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_lose_02.mp3"
+    ],
+    "mp3Text": "This can't be happening…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Cm_lose_03.mp3"
+    ],
+    "mp3Text": "What happened?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Cm_lose_04.mp3"
+    ],
+    "mp3Text": "I don't believe it!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Cm_lose_05.mp3"
+    ],
+    "mp3Text": "Nooo!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2280,48 +2322,40 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_drop_common_01.mp3"
-        ],
-        "mp3Text": "Sweet as icicles."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Cm_drop_common_01.mp3"
+    ],
+    "mp3Text": "Sweet as icicles."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_drop_medium_01.mp3"
-        ],
-        "mp3Text": "This'll keep me cool on a hot day."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Cm_drop_medium_01.mp3"
+    ],
+    "mp3Text": "This'll keep me cool on a hot day."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Cm_cast_01.mp3"
-        ],
-        "mp3Text": "This will be a blast!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Cm_drop_rare_01.mp3"
-        ],
-        "mp3Text": "A treasure rare as a glacier's heart!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Cm_cast_01.mp3"
+    ],
+    "mp3Text": "This will be a blast!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Cm_drop_rare_01.mp3"
+    ],
+    "mp3Text": "A treasure rare as a glacier's heart!"
   },
   {
     "headTitle": "Rylai's Battle Blessing",
@@ -2335,264 +2369,292 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Cm_cmgame_wel_01.mp3"
-        ],
-        "mp3Text": "Welcome to Rylai's Wishing-It-Were-Winter Blessing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Cm_cmgame_wel_02.mp3"
-        ],
-        "mp3Text": "Welcome to Rylai's Winter Blessing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Cm_cmgame_wel_03.mp3"
-        ],
-        "mp3Text": "Welcome to the wheel of random rewards!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Cm_cmgame_wel_04.mp3"
-        ],
-        "mp3Text": "Welcome to the crystal wheel of random rewards!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_cmgame_wel_05.mp3"
-        ],
-        "mp3Text": "Step right up! Maybe it's your lucky day!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Cm_cmgame_wel_06.mp3"
-        ],
-        "mp3Text": "Step right up! The greatest attraction in all of Icewrack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_cmgame_wel_07.mp3"
-        ],
-        "mp3Text": "Welcome to our–safely nondescript–Wheel of Random Rewards!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Cm_cmgame_wel_08.mp3"
-        ],
-        "mp3Text": "Spin the wheel for an avalanche of prizes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_cmgame_wel_09.mp3"
-        ],
-        "mp3Text": "Behold! The crystal wheel!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Cm_cmgame_wel_10.mp3"
-        ],
-        "mp3Text": "Today's theme is... cool treats!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Cm_cmgame_wel_11.mp3"
-        ],
-        "mp3Text": "A flurry of rewards awaits you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Cm_cmgame_wel_12.mp3"
-        ],
-        "mp3Text": "Lina!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Cm_cmgame_wel_01.mp3"
+    ],
+    "mp3Text": "Welcome to Rylai's Wishing-It-Were-Winter Blessing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Cm_cmgame_wel_02.mp3"
+    ],
+    "mp3Text": "Welcome to Rylai's Winter Blessing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Cm_cmgame_wel_03.mp3"
+    ],
+    "mp3Text": "Welcome to the wheel of random rewards!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Cm_cmgame_wel_04.mp3"
+    ],
+    "mp3Text": "Welcome to the crystal wheel of random rewards!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Cm_cmgame_wel_05.mp3"
+    ],
+    "mp3Text": "Step right up! Maybe it's your lucky day!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Cm_cmgame_wel_06.mp3"
+    ],
+    "mp3Text": "Step right up! The greatest attraction in all of Icewrack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Cm_cmgame_wel_07.mp3"
+    ],
+    "mp3Text": "Welcome to our–safely nondescript–Wheel of Random Rewards!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Cm_cmgame_wel_08.mp3"
+    ],
+    "mp3Text": "Spin the wheel for an avalanche of prizes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_cmgame_wel_09.mp3"
+    ],
+    "mp3Text": "Behold! The crystal wheel!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Cm_cmgame_wel_10.mp3"
+    ],
+    "mp3Text": "Today's theme is... cool treats!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Cm_cmgame_wel_11.mp3"
+    ],
+    "mp3Text": "A flurry of rewards awaits you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Cm_cmgame_wel_12.mp3"
+    ],
+    "mp3Text": "Lina!"
   },
   {
     "text": "Spin",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Cm_cmgame_spin_01.mp3"
-        ],
-        "mp3Text": "This is gonna be a blast!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_cmgame_spin_02.mp3"
-        ],
-        "mp3Text": "Well whose fault was that?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_cmgame_spin_03.mp3"
-        ],
-        "mp3Text": "Spin to win!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Cm_cmgame_spin_04.mp3"
-        ],
-        "mp3Text": "Stoppit! This was supposed to be my thing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Cm_cmgame_spin_05.mp3"
-        ],
-        "mp3Text": "Maybe the wheel got frosted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Cm_cmgame_spin_06.mp3"
-        ],
-        "mp3Text": "I like it this way."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_cmgame_spin_07.mp3"
-        ],
-        "mp3Text": "I reinvented this wheel personally."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Cm_cmgame_spin_08.mp3"
-        ],
-        "mp3Text": "It's my turn to say it!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Cm_cmgame_spin_09.mp3"
-        ],
-        "mp3Text": "Let's spin the wheel!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_cmgame_spin_10.mp3"
-        ],
-        "mp3Text": "Do you ever have deja vu?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Cm_cmgame_spin_12.mp3"
-        ],
-        "mp3Text": "Swift as the Blueheart glacier!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Cm_cmgame_spin_13.mp3"
-        ],
-        "mp3Text": "*Gasp* It's talking now?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_cmgame_spin_14.mp3"
-        ],
-        "mp3Text": "Magic talking wheel?!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Cm_cmgame_spin_01.mp3"
+    ],
+    "mp3Text": "This is gonna be a blast!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_cmgame_spin_02.mp3"
+    ],
+    "mp3Text": "Well whose fault was that?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Cm_cmgame_spin_03.mp3"
+    ],
+    "mp3Text": "Spin to win!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Cm_cmgame_spin_04.mp3"
+    ],
+    "mp3Text": "Stoppit! This was supposed to be my thing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Cm_cmgame_spin_05.mp3"
+    ],
+    "mp3Text": "Maybe the wheel got frosted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Cm_cmgame_spin_06.mp3"
+    ],
+    "mp3Text": "I like it this way."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Cm_cmgame_spin_07.mp3"
+    ],
+    "mp3Text": "I reinvented this wheel personally."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Cm_cmgame_spin_08.mp3"
+    ],
+    "mp3Text": "It's my turn to say it!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Cm_cmgame_spin_09.mp3"
+    ],
+    "mp3Text": "Let's spin the wheel!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_cmgame_spin_10.mp3"
+    ],
+    "mp3Text": "Do you ever have deja vu?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Cm_cmgame_spin_12.mp3"
+    ],
+    "mp3Text": "Swift as the Blueheart glacier!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Cm_cmgame_spin_13.mp3"
+    ],
+    "mp3Text": "*Gasp* It's talking now?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Cm_cmgame_spin_14.mp3"
+    ],
+    "mp3Text": "Magic talking wheel?!"
   },
   {
     "text": "Reward",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_cmgame_rew_01.mp3"
-        ],
-        "mp3Text": "Could you repeat that? I was thinking of all the sisters I've plotted to kill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Cm_cmgame_rew_02.mp3"
-        ],
-        "mp3Text": "Could you repeat that? I was thinking of all the Slayers I've plotted to kill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Cm_cmgame_rew_04.mp3"
-        ],
-        "mp3Text": "Congratulations! You won!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Cm_cmgame_rew_05.mp3"
-        ],
-        "mp3Text": "You did it!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_cmgame_rew_06.mp3"
-        ],
-        "mp3Text": "You won!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_cmgame_rew_07.mp3"
-        ],
-        "mp3Text": "Cool!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Cm_cmgame_rew_08.mp3"
-        ],
-        "mp3Text": "Frosty!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Cm_cmgame_rew_09.mp3"
-        ],
-        "mp3Text": "Jackpot!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_cmgame_rew_10.mp3"
-        ],
-        "mp3Text": "All the wards in the world didn't see that coming!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_cmgame_rew_11.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_cmgame_rew_12.mp3"
-        ],
-        "mp3Text": "Hey! This is a family show!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_cmgame_rew_13.mp3"
-        ],
-        "mp3Text": "It's perfect!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Cm_cmgame_rew_14.mp3"
-        ],
-        "mp3Text": "Time to go find a wheel salesman."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_cmgame_rew_15.mp3"
-        ],
-        "mp3Text": "Like your face."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_cmgame_rew_16.mp3"
-        ],
-        "mp3Text": "Hm. That's not supposed to happen."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Cm_cmgame_rew_01.mp3"
+    ],
+    "mp3Text": "Could you repeat that? I was thinking of all the sisters I've plotted to kill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Cm_cmgame_rew_02.mp3"
+    ],
+    "mp3Text": "Could you repeat that? I was thinking of all the Slayers I've plotted to kill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Cm_cmgame_rew_04.mp3"
+    ],
+    "mp3Text": "Congratulations! You won!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Cm_cmgame_rew_05.mp3"
+    ],
+    "mp3Text": "You did it!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Cm_cmgame_rew_06.mp3"
+    ],
+    "mp3Text": "You won!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Cm_cmgame_rew_07.mp3"
+    ],
+    "mp3Text": "Cool!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Cm_cmgame_rew_08.mp3"
+    ],
+    "mp3Text": "Frosty!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Cm_cmgame_rew_09.mp3"
+    ],
+    "mp3Text": "Jackpot!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Cm_cmgame_rew_10.mp3"
+    ],
+    "mp3Text": "All the wards in the world didn't see that coming!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_cmgame_rew_11.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Cm_cmgame_rew_12.mp3"
+    ],
+    "mp3Text": "Hey! This is a family show!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Cm_cmgame_rew_13.mp3"
+    ],
+    "mp3Text": "It's perfect!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Cm_cmgame_rew_14.mp3"
+    ],
+    "mp3Text": "Time to go find a wheel salesman."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Cm_cmgame_rew_15.mp3"
+    ],
+    "mp3Text": "Like your face."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Cm_cmgame_rew_16.mp3"
+    ],
+    "mp3Text": "Hm. That's not supposed to happen."
   },
   {
     "headTitle": "Lina's Battle Blaze",
@@ -2603,235 +2665,237 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_lngame_wel_res_03.mp3"
-        ],
-        "mp3Text": "I like my wheel!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Cm_lngame_wel_res_03.mp3"
+    ],
+    "mp3Text": "I like my wheel!"
   },
   {
     "text": "Spin",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Cm_lngame_spin_01.mp3"
-        ],
-        "mp3Text": "Ew. I'd rather not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Cm_lngame_spin_02.mp3"
-        ],
-        "mp3Text": "Melting expectations as always, sis."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Cm_lngame_spin_03.mp3"
-        ],
-        "mp3Text": "Didn't you just ask me that?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Cm_lngame_spin_01.mp3"
+    ],
+    "mp3Text": "Ew. I'd rather not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Cm_lngame_spin_02.mp3"
+    ],
+    "mp3Text": "Melting expectations as always, sis."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Cm_lngame_spin_03.mp3"
+    ],
+    "mp3Text": "Didn't you just ask me that?"
   },
   {
     "text": "Problem",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Cm_lngame_prob_01.mp3"
-        ],
-        "mp3Text": "I think it's busted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Cm_lngame_prob_02.mp3"
-        ],
-        "mp3Text": "Tilt!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_lngame_prob_03.mp3"
-        ],
-        "mp3Text": "What?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Cm_lngame_prob_04.mp3"
-        ],
-        "mp3Text": "It wasn't me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Cm_lngame_prob_01.mp3"
+    ],
+    "mp3Text": "I think it's busted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Cm_lngame_prob_02.mp3"
+    ],
+    "mp3Text": "Tilt!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Cm_lngame_prob_03.mp3"
+    ],
+    "mp3Text": "What?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Cm_lngame_prob_04.mp3"
+    ],
+    "mp3Text": "It wasn't me."
   },
   {
     "text": "Reward",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_lngame_rew_01.mp3"
-        ],
-        "mp3Text": "You're the only one who thinks human combustion is fun, Lina."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Cm_lngame_rew_02.mp3"
-        ],
-        "mp3Text": "Why would I want that?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_lngame_rew_03.mp3"
-        ],
-        "mp3Text": "Is that supposed to be a good thing?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_lngame_rew_04.mp3"
-        ],
-        "mp3Text": "That's not so bad!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Cm_lngame_rew_05.mp3"
-        ],
-        "mp3Text": "Do you think they'll like it?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Cm_lngame_rew_06.mp3"
-        ],
-        "mp3Text": "What a terrible phrase!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Cm_lngame_rew_07.mp3"
-        ],
-        "mp3Text": "I think it's great!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Cm_lngame_rew_08.mp3"
-        ],
-        "mp3Text": "You don't even mean it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Cm_lngame_rew_09.mp3"
-        ],
-        "mp3Text": "It was supposed to be your lucky day."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_lngame_rew_10.mp3"
-        ],
-        "mp3Text": "You're too generous."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Cm_lngame_rew_01.mp3"
+    ],
+    "mp3Text": "You're the only one who thinks human combustion is fun, Lina."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Cm_lngame_rew_02.mp3"
+    ],
+    "mp3Text": "Why would I want that?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Cm_lngame_rew_03.mp3"
+    ],
+    "mp3Text": "Is that supposed to be a good thing?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Cm_lngame_rew_04.mp3"
+    ],
+    "mp3Text": "That's not so bad!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Cm_lngame_rew_05.mp3"
+    ],
+    "mp3Text": "Do you think they'll like it?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Cm_lngame_rew_06.mp3"
+    ],
+    "mp3Text": "What a terrible phrase!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Cm_lngame_rew_07.mp3"
+    ],
+    "mp3Text": "I think it's great!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Cm_lngame_rew_08.mp3"
+    ],
+    "mp3Text": "You don't even mean it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Cm_lngame_rew_09.mp3"
+    ],
+    "mp3Text": "It was supposed to be your lucky day."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Cm_lngame_rew_10.mp3"
+    ],
+    "mp3Text": "You're too generous."
   },
   {
     "text": "Welcome",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Cm_bpgame_wel_01.mp3"
-        ],
-        "mp3Text": "Fire and ice play nice!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Cm_bpgame_wel_05.mp3"
-        ],
-        "mp3Text": "Double the fun!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Cm_bpgame_wel_06.mp3"
-        ],
-        "mp3Text": "Just don't screw it up."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Cm_bpgame_wel_01.mp3"
+    ],
+    "mp3Text": "Fire and ice play nice!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Cm_bpgame_wel_05.mp3"
+    ],
+    "mp3Text": "Double the fun!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Cm_bpgame_wel_06.mp3"
+    ],
+    "mp3Text": "Just don't screw it up."
   },
   {
     "text": "Reward",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Cm_bpgame_rew_01.mp3"
-        ],
-        "mp3Text": "Freeze!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Cm_bpgame_rew_02.mp3"
-        ],
-        "mp3Text": "What's it going to be...?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_bpgame_rew_03.mp3"
-        ],
-        "mp3Text": "Almost there!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Cm_bpgame_rew_04.mp3"
-        ],
-        "mp3Text": "I can't believe it!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Cm_bpgame_rew_01.mp3"
+    ],
+    "mp3Text": "Freeze!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Cm_bpgame_rew_02.mp3"
+    ],
+    "mp3Text": "What's it going to be...?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Cm_bpgame_rew_03.mp3"
+    ],
+    "mp3Text": "Almost there!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Cm_bpgame_rew_04.mp3"
+    ],
+    "mp3Text": "I can't believe it!"
   },
   {
     "text": "Goodbye",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Cm_bpgame_bye_01.mp3"
-        ],
-        "mp3Text": "That's all the time we have. Turn in next time when you could be the big winner!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Cm_bpgame_bye_03.mp3"
-        ],
-        "mp3Text": "Remember, help control the creep population. Farm efficiently, and have your creep slain or dominated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Cm_bpgame_bye_04.mp3"
-        ],
-        "mp3Text": "Your... what?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_bpgame_bye_05.mp3"
-        ],
-        "mp3Text": "Trail who where now?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_bpgame_bye_06.mp3"
-        ],
-        "mp3Text": "*Gasp* No!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Cm_bpgame_bye_01.mp3"
+    ],
+    "mp3Text": "That's all the time we have. Turn in next time when you could be the big winner!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Cm_bpgame_bye_03.mp3"
+    ],
+    "mp3Text": "Remember, help control the creep population. Farm efficiently, and have your creep slain or dominated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Cm_bpgame_bye_04.mp3"
+    ],
+    "mp3Text": "Your... what?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Cm_bpgame_bye_05.mp3"
+    ],
+    "mp3Text": "Trail who where now?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Cm_bpgame_bye_06.mp3"
+    ],
+    "mp3Text": "*Gasp* No!"
   }
 ]

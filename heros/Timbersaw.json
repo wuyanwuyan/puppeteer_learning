@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/TJ_Ramini",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/20px-Timbersaw_minimap_icon.png?version=c98ce7e70f060faf5f578abd4d9265f3",
     "heroName": "Timbersaw",
-    "href": "https://dota2.gamepedia.com/Timbersaw/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/shredder_full.png",
     "primaryAttribute": "Strength",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/timbersaw.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
-        ],
-        "mp3Text": "Timbersaw!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_spawn_02.mp3"
-        ],
-        "mp3Text": "I'm Rizzrack. Don't touch me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_spawn_03.mp3"
-        ],
-        "mp3Text": "I cut things. It's what I do. What else would I do?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_spawn_04.mp3"
-        ],
-        "mp3Text": "Trees? What do you mean there's trees out there?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_spawn_05.mp3"
-        ],
-        "mp3Text": "I'm not a lumberjack. This. This is personal."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Timb_begin_01.mp3"
-        ],
-        "mp3Text": "There are trees everywhere!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_move_08.mp3"
-        ],
-        "mp3Text": "That one looks angry!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Timb_attack_04.mp3"
-        ],
-        "mp3Text": "Ha ha! Chop chop!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
-        ],
-        "mp3Text": "It is dangerous out there."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Timb_levelup_05.mp3"
-        ],
-        "mp3Text": "Wait till they get a load of me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_06.mp3"
-        ],
-        "mp3Text": "They can try to stop me. They can try!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_kill_14.mp3"
-        ],
-        "mp3Text": "Nobody takes me seriously."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
+    ],
+    "mp3Text": "Timbersaw!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_spawn_02.mp3"
+    ],
+    "mp3Text": "I'm Rizzrack. Don't touch me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_spawn_03.mp3"
+    ],
+    "mp3Text": "I cut things. It's what I do. What else would I do?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_spawn_04.mp3"
+    ],
+    "mp3Text": "Trees? What do you mean there's trees out there?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_spawn_05.mp3"
+    ],
+    "mp3Text": "I'm not a lumberjack. This. This is personal."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Timb_begin_01.mp3"
+    ],
+    "mp3Text": "There are trees everywhere!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_move_08.mp3"
+    ],
+    "mp3Text": "That one looks angry!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Timb_attack_04.mp3"
+    ],
+    "mp3Text": "Ha ha! Chop chop!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
+    ],
+    "mp3Text": "It is dangerous out there."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Timb_levelup_05.mp3"
+    ],
+    "mp3Text": "Wait till they get a load of me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_06.mp3"
+    ],
+    "mp3Text": "They can try to stop me. They can try!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_kill_14.mp3"
+    ],
+    "mp3Text": "Nobody takes me seriously."
   },
   {
     "headTitle": "Drafting",
@@ -101,298 +108,305 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
-        ],
-        "mp3Text": "Timbersaw!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
+    ],
+    "mp3Text": "Timbersaw!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_anger_02.mp3"
-        ],
-        "mp3Text": "Nyahkuh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_anger_02.mp3"
+    ],
+    "mp3Text": "Nyahkuh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
-        ],
-        "mp3Text": "Timbersaw!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_spawn_02.mp3"
-        ],
-        "mp3Text": "I'm Rizzrack. Don't touch me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_spawn_03.mp3"
-        ],
-        "mp3Text": "I cut things. It's what I do. What else would I do?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_spawn_04.mp3"
-        ],
-        "mp3Text": "Trees? What do you mean there's trees out there?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_spawn_05.mp3"
-        ],
-        "mp3Text": "I'm not a lumberjack. This. This is personal."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Timb_spawn_01.mp3"
+    ],
+    "mp3Text": "Timbersaw!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_spawn_02.mp3"
+    ],
+    "mp3Text": "I'm Rizzrack. Don't touch me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_spawn_03.mp3"
+    ],
+    "mp3Text": "I cut things. It's what I do. What else would I do?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_spawn_04.mp3"
+    ],
+    "mp3Text": "Trees? What do you mean there's trees out there?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_spawn_05.mp3"
+    ],
+    "mp3Text": "I'm not a lumberjack. This. This is personal."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_inthebag_01.mp3"
-        ],
-        "mp3Text": "This one is in the bag. And that one is too. And that one! They are all in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_inthebag_01.mp3"
+    ],
+    "mp3Text": "This one is in the bag. And that one is too. And that one! They are all in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Timb_begin_01.mp3"
-        ],
-        "mp3Text": "There are trees everywhere!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Timb_begin_01.mp3"
+    ],
+    "mp3Text": "There are trees everywhere!"
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Timb_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Timb_move_02.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_move_03.mp3"
-        ],
-        "mp3Text": "Breathe."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Timb_move_04.mp3"
-        ],
-        "mp3Text": "Uh, if you say so."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Timb_move_05.mp3"
-        ],
-        "mp3Text": "Are you sure about this?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_move_06.mp3"
-        ],
-        "mp3Text": "I don't know."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Timb_move_07.mp3"
-        ],
-        "mp3Text": "What if they get me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_move_08.mp3"
-        ],
-        "mp3Text": "That one looks angry!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Timb_move_09.mp3"
-        ],
-        "mp3Text": "Yeah yeah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Timb_move_10.mp3"
-        ],
-        "mp3Text": "Yeah yeah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Timb_move_11.mp3"
-        ],
-        "mp3Text": "Okay. Okay."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_move_12.mp3"
-        ],
-        "mp3Text": "Courage!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Timb_move_13.mp3"
-        ],
-        "mp3Text": "What was that sound?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_move_14.mp3"
-        ],
-        "mp3Text": "Why me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Timb_move_15.mp3"
-        ],
-        "mp3Text": "Running!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Timb_move_16.mp3"
-        ],
-        "mp3Text": "Oooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Timb_move_17.mp3"
-        ],
-        "mp3Text": "Do I have to?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Timb_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Timb_move_02.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_move_03.mp3"
+    ],
+    "mp3Text": "Breathe."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Timb_move_04.mp3"
+    ],
+    "mp3Text": "Uh, if you say so."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Timb_move_05.mp3"
+    ],
+    "mp3Text": "Are you sure about this?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_move_06.mp3"
+    ],
+    "mp3Text": "I don't know."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Timb_move_07.mp3"
+    ],
+    "mp3Text": "What if they get me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_move_08.mp3"
+    ],
+    "mp3Text": "That one looks angry!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Timb_move_09.mp3"
+    ],
+    "mp3Text": "Yeah yeah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Timb_move_10.mp3"
+    ],
+    "mp3Text": "Yeah yeah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Timb_move_11.mp3"
+    ],
+    "mp3Text": "Okay. Okay."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_move_12.mp3"
+    ],
+    "mp3Text": "Courage!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Timb_move_13.mp3"
+    ],
+    "mp3Text": "What was that sound?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_move_14.mp3"
+    ],
+    "mp3Text": "Why me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Timb_move_15.mp3"
+    ],
+    "mp3Text": "Running!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Timb_move_16.mp3"
+    ],
+    "mp3Text": "Oooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Timb_move_17.mp3"
+    ],
+    "mp3Text": "Do I have to?"
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Timb_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Timb_attack_02.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Timb_attack_04.mp3"
-        ],
-        "mp3Text": "Ha ha! Chop chop!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Timb_attack_05.mp3"
-        ],
-        "mp3Text": "Stay back!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Timb_attack_06.mp3"
-        ],
-        "mp3Text": "Cut cut cut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_attack_07.mp3"
-        ],
-        "mp3Text": "Yeah I'm gonna cut ya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Timb_attack_08.mp3"
-        ],
-        "mp3Text": "You're with the trees aren't you?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Timb_attack_09.mp3"
-        ],
-        "mp3Text": "I'm warning you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Timb_attack_10.mp3"
-        ],
-        "mp3Text": "I'll get you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Timb_attack_11.mp3"
-        ],
-        "mp3Text": "I only need a clipping!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Timb_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Timb_attack_02.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Timb_attack_04.mp3"
+    ],
+    "mp3Text": "Ha ha! Chop chop!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Timb_attack_05.mp3"
+    ],
+    "mp3Text": "Stay back!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Timb_attack_06.mp3"
+    ],
+    "mp3Text": "Cut cut cut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_attack_07.mp3"
+    ],
+    "mp3Text": "Yeah I'm gonna cut ya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Timb_attack_08.mp3"
+    ],
+    "mp3Text": "You're with the trees aren't you?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Timb_attack_09.mp3"
+    ],
+    "mp3Text": "I'm warning you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Timb_attack_10.mp3"
+    ],
+    "mp3Text": "I'll get you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Timb_attack_11.mp3"
+    ],
+    "mp3Text": "I only need a clipping!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Timb_cast_01.mp3"
-        ],
-        "mp3Text": "I'll show you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Timb_cast_02.mp3"
-        ],
-        "mp3Text": "Finally!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Timb_cast_03.mp3"
-        ],
-        "mp3Text": "Gogogo!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Timb_cast_01.mp3"
+    ],
+    "mp3Text": "I'll show you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Timb_cast_02.mp3"
+    ],
+    "mp3Text": "Finally!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Timb_cast_03.mp3"
+    ],
+    "mp3Text": "Gogogo!"
   },
   {
     "headTitle": "Abilities",
@@ -408,26 +422,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_whirlingdeath_03.mp3"
-        ],
-        "mp3Text": "Spin! Cut! Shred!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Timb_whirlingdeath_04.mp3"
-        ],
-        "mp3Text": "Stay away from me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Timb_whirlingdeath_06.mp3"
-        ],
-        "mp3Text": "Look at me go!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_whirlingdeath_03.mp3"
+    ],
+    "mp3Text": "Spin! Cut! Shred!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Timb_whirlingdeath_04.mp3"
+    ],
+    "mp3Text": "Stay away from me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Timb_whirlingdeath_06.mp3"
+    ],
+    "mp3Text": "Look at me go!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4e/Timber_Chain_icon.png/16px-Timber_Chain_icon.png?version=117121b0e5d0c4b6892b04328b2c28ea",
@@ -439,70 +452,71 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Timb_timberchain_02.mp3"
-        ],
-        "mp3Text": "Whoa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_timberchain_04.mp3"
-        ],
-        "mp3Text": "Away!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_timberchain_05.mp3"
-        ],
-        "mp3Text": "Whee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_timberchain_07.mp3"
-        ],
-        "mp3Text": "Whoo!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Timb_timberchain_08.mp3"
-        ],
-        "mp3Text": "Yoink!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_timberchain_09.mp3"
-        ],
-        "mp3Text": "Yoink!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Timb_timberchain_02.mp3"
+    ],
+    "mp3Text": "Whoa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_timberchain_04.mp3"
+    ],
+    "mp3Text": "Away!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_timberchain_05.mp3"
+    ],
+    "mp3Text": "Whee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Timb_timberchain_07.mp3"
+    ],
+    "mp3Text": "Whoo!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Timb_timberchain_08.mp3"
+    ],
+    "mp3Text": "Yoink!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_timberchain_09.mp3"
+    ],
+    "mp3Text": "Yoink!"
   },
   {
     "text": "Missing",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Timb_failure_01.mp3"
-        ],
-        "mp3Text": "They're gonna get me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_failure_02.mp3"
-        ],
-        "mp3Text": "Oh no, no no now what?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Timb_failure_03.mp3"
-        ],
-        "mp3Text": "I'm trapped. Trapped!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Timb_failure_01.mp3"
+    ],
+    "mp3Text": "They're gonna get me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_failure_02.mp3"
+    ],
+    "mp3Text": "Oh no, no no now what?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Timb_failure_03.mp3"
+    ],
+    "mp3Text": "I'm trapped. Trapped!"
   },
   {
     "voices": []
@@ -517,70 +531,71 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Timb_chakram_02.mp3"
-        ],
-        "mp3Text": "I'll cut everyone!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Timb_chakram_03.mp3"
-        ],
-        "mp3Text": "Spin blade, spin!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Timb_chakram_06.mp3"
-        ],
-        "mp3Text": "He ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Timb_chakram_07.mp3"
-        ],
-        "mp3Text": "Eh ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Timb_chakram_08.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Timb_chakram_02.mp3"
+    ],
+    "mp3Text": "I'll cut everyone!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Timb_chakram_03.mp3"
+    ],
+    "mp3Text": "Spin blade, spin!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Timb_chakram_06.mp3"
+    ],
+    "mp3Text": "He ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Timb_chakram_07.mp3"
+    ],
+    "mp3Text": "Eh ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Timb_chakram_08.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_chakram_01.mp3"
-        ],
-        "mp3Text": "Timber!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_chakram_04.mp3"
-        ],
-        "mp3Text": "It slices, it dices!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_chakramreturn_02.mp3"
-        ],
-        "mp3Text": "Much better."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Timb_kill_04.mp3"
-        ],
-        "mp3Text": "Timber!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_chakram_01.mp3"
+    ],
+    "mp3Text": "Timber!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_chakram_04.mp3"
+    ],
+    "mp3Text": "It slices, it dices!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_chakramreturn_02.mp3"
+    ],
+    "mp3Text": "Much better."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Timb_kill_04.mp3"
+    ],
+    "mp3Text": "Timber!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Return_Chakram_icon.png/16px-Return_Chakram_icon.png?version=ad5a224d63702fb30b0746b4bb5fa1a2",
@@ -592,48 +607,46 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Timb_chakramreturn_03.mp3"
-        ],
-        "mp3Text": "To me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Timb_chakramreturn_04.mp3"
-        ],
-        "mp3Text": "Here boy!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Timb_chakramreturn_05.mp3"
-        ],
-        "mp3Text": "To me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Timb_chakramreturn_03.mp3"
+    ],
+    "mp3Text": "To me!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Timb_chakramreturn_01.mp3"
-        ],
-        "mp3Text": "Ah! Well, that was fun."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_chakramreturn_08.mp3"
-        ],
-        "mp3Text": "Good blade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_chakramreturn_09.mp3"
-        ],
-        "mp3Text": "Enough."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Timb_chakramreturn_04.mp3"
+    ],
+    "mp3Text": "Here boy!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Timb_chakramreturn_05.mp3"
+    ],
+    "mp3Text": "To me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Timb_chakramreturn_01.mp3"
+    ],
+    "mp3Text": "Ah! Well, that was fun."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Timb_chakramreturn_08.mp3"
+    ],
+    "mp3Text": "Good blade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_chakramreturn_09.mp3"
+    ],
+    "mp3Text": "Enough."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fd/Tango_icon.png/20px-Tango_icon.png?version=108713a90ab0fcc014a4581adb8d2653",
@@ -645,48 +658,46 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Timb_tango_02.mp3"
-        ],
-        "mp3Text": "Another tree down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Timb_tango_03.mp3"
-        ],
-        "mp3Text": "Mmm splinters!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Timb_tango_04.mp3"
-        ],
-        "mp3Text": "Delicious."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_tango_06.mp3"
-        ],
-        "mp3Text": "Won't need a toothpick."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Timb_tango_02.mp3"
+    ],
+    "mp3Text": "Another tree down."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Timb_tango_01.mp3"
-        ],
-        "mp3Text": "Mm god I hate trees."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Timb_tango_05.mp3"
-        ],
-        "mp3Text": "De-li-cious."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Timb_tango_03.mp3"
+    ],
+    "mp3Text": "Mmm splinters!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Timb_tango_04.mp3"
+    ],
+    "mp3Text": "Delicious."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_tango_06.mp3"
+    ],
+    "mp3Text": "Won't need a toothpick."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Timb_tango_01.mp3"
+    ],
+    "mp3Text": "Mm god I hate trees."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Timb_tango_05.mp3"
+    ],
+    "mp3Text": "De-li-cious."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a3/Iron_Branch_icon.png/20px-Iron_Branch_icon.png?version=a568ed33af4fb919b3c9b0826eacb5cd",
@@ -698,458 +709,480 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Timb_whirlingdeath_05.mp3"
-        ],
-        "mp3Text": "Oh God I think I'm going to be sick."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Timb_whirlingdeath_05.mp3"
+    ],
+    "mp3Text": "Oh God I think I'm going to be sick."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Timb_levelup_02.mp3"
-        ],
-        "mp3Text": "They won't know what cut 'em!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Timb_levelup_03.mp3"
-        ],
-        "mp3Text": "Sawblades still not sharp enough!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Timb_levelup_04.mp3"
-        ],
-        "mp3Text": "Looking sharp. Crazy sharp."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Timb_levelup_05.mp3"
-        ],
-        "mp3Text": "Wait till they get a load of me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_06.mp3"
-        ],
-        "mp3Text": "They can try to stop me. They can try!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Timb_levelup_07.mp3"
-        ],
-        "mp3Text": "I'll cut 'em all down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_levelup_08.mp3"
-        ],
-        "mp3Text": "Oh! Got a buzz out of that!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Timb_levelup_09.mp3"
-        ],
-        "mp3Text": "He he he he he!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_levelup_10.mp3"
-        ],
-        "mp3Text": "Oh ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Timb_levelup_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_12.mp3"
-        ],
-        "mp3Text": "No forest is safe from me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Timb_levelup_02.mp3"
+    ],
+    "mp3Text": "They won't know what cut 'em!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Timb_levelup_03.mp3"
+    ],
+    "mp3Text": "Sawblades still not sharp enough!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Timb_levelup_04.mp3"
+    ],
+    "mp3Text": "Looking sharp. Crazy sharp."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Timb_levelup_05.mp3"
+    ],
+    "mp3Text": "Wait till they get a load of me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_06.mp3"
+    ],
+    "mp3Text": "They can try to stop me. They can try!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Timb_levelup_07.mp3"
+    ],
+    "mp3Text": "I'll cut 'em all down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_levelup_08.mp3"
+    ],
+    "mp3Text": "Oh! Got a buzz out of that!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Timb_levelup_09.mp3"
+    ],
+    "mp3Text": "He he he he he!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_levelup_10.mp3"
+    ],
+    "mp3Text": "Oh ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Timb_levelup_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Timb_levelup_12.mp3"
+    ],
+    "mp3Text": "No forest is safe from me!"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Timb_attack_03.mp3"
-        ],
-        "mp3Text": "Chop chop chop chop chop chop chop!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_kill_01.mp3"
-        ],
-        "mp3Text": "Cut cut cutcutcutcutcutcutcutcutcutcutcutcutcutcut!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Timb_kill_02.mp3"
-        ],
-        "mp3Text": "Ah ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Timb_kill_03.mp3"
-        ],
-        "mp3Text": "Out of my way!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Timb_kill_05.mp3"
-        ],
-        "mp3Text": "I'd hack you down again if I could!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_kill_06.mp3"
-        ],
-        "mp3Text": "Chop chop!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Timb_kill_07.mp3"
-        ],
-        "mp3Text": "Chop chop chopchopchopchopchop!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Timb_kill_08.mp3"
-        ],
-        "mp3Text": "You don't get to win. I get to win!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Timb_kill_09.mp3"
-        ],
-        "mp3Text": "Mulch!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Timb_kill_11.mp3"
-        ],
-        "mp3Text": "Hilarious."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Timb_kill_12.mp3"
-        ],
-        "mp3Text": "I told you to stop getting blood on my blades!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Timb_kill_13.mp3"
-        ],
-        "mp3Text": "Mm! That is one less voice in my head."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_kill_14.mp3"
-        ],
-        "mp3Text": "Nobody takes me seriously."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Timb_kill_15.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Timb_kill_16.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Timb_deny_13.mp3"
-        ],
-        "mp3Text": "Ha ha ha-ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_laugh_02.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_laugh_03.mp3"
-        ],
-        "mp3Text": "He he he he!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_laugh_04.mp3"
-        ],
-        "mp3Text": "He he he he he!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Timb_laugh_05.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho ho ho ho ho ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Timb_attack_03.mp3"
+    ],
+    "mp3Text": "Chop chop chop chop chop chop chop!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_kill_01.mp3"
+    ],
+    "mp3Text": "Cut cut cutcutcutcutcutcutcutcutcutcutcutcutcutcut!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Timb_kill_02.mp3"
+    ],
+    "mp3Text": "Ah ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Timb_kill_03.mp3"
+    ],
+    "mp3Text": "Out of my way!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Timb_kill_05.mp3"
+    ],
+    "mp3Text": "I'd hack you down again if I could!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_kill_06.mp3"
+    ],
+    "mp3Text": "Chop chop!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Timb_kill_07.mp3"
+    ],
+    "mp3Text": "Chop chop chopchopchopchopchop!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Timb_kill_08.mp3"
+    ],
+    "mp3Text": "You don't get to win. I get to win!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Timb_kill_09.mp3"
+    ],
+    "mp3Text": "Mulch!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Timb_kill_11.mp3"
+    ],
+    "mp3Text": "Hilarious."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Timb_kill_12.mp3"
+    ],
+    "mp3Text": "I told you to stop getting blood on my blades!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Timb_kill_13.mp3"
+    ],
+    "mp3Text": "Mm! That is one less voice in my head."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_kill_14.mp3"
+    ],
+    "mp3Text": "Nobody takes me seriously."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Timb_kill_15.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Timb_kill_16.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Timb_deny_13.mp3"
+    ],
+    "mp3Text": "Ha ha ha-ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_laugh_02.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_laugh_03.mp3"
+    ],
+    "mp3Text": "He he he he!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_laugh_04.mp3"
+    ],
+    "mp3Text": "He he he he he!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Timb_laugh_05.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho ho ho ho ho ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Timb_kill_10.mp3"
+    ],
+    "mp3Text": "You mad? Cuz I am! Hahah!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Timb_kill_10.mp3"
-        ],
-        "mp3Text": "You mad? Cuz I am! Hahah!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
-            "name": "Troll Warlord"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_rival_01.mp3"
-        ],
-        "mp3Text": "I got you. I got you! I chopped you down.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_rival_02.mp3"
-        ],
-        "mp3Text": "Ha! You're sawdust!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Timb_rival_03.mp3"
-        ],
-        "mp3Text": "Oh you gave me a splinter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Timb_rival_04.mp3"
-        ],
-        "mp3Text": "If you fall in the woods, and I laugh, will anyone hear me?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Timb_rival_07.mp3"
-        ],
-        "mp3Text": "Trees do have a way of dying around me!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Timb_rival_05.mp3"
-        ],
-        "mp3Text": "Your friends are next, Prophet!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_rival_06.mp3"
-        ],
-        "mp3Text": "Oh don't die yet. I'm not finished with you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Timb_rival_09.mp3"
-        ],
-        "mp3Text": "Saw that coming.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Timb_rival_10.mp3"
-        ],
-        "mp3Text": "Finally, I haven't slept in weeks.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-            "name": "Bane"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_rival_13.mp3"
-        ],
-        "mp3Text": "So much for your delusions of grandeur.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Timb_rival_15.mp3"
-        ],
-        "mp3Text": "Treehugger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-            "name": "Enchantress"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
+        "name": "Troll Warlord"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_rival_01.mp3"
+    ],
+    "mp3Text": "I got you. I got you! I chopped you down.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Timb_rival_12.mp3"
-        ],
-        "mp3Text": "Not listening. Not listening. Not listening.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-            "name": "Queen of Pain"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
-            "name": "Naga Siren"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_rival_02.mp3"
+    ],
+    "mp3Text": "Ha! You're sawdust!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_rival_14.mp3"
-        ],
-        "mp3Text": "Not so tough without your friends, are you?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
-            "name": "Phantom Lancer"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
-            "name": "Meepo"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Timb_rival_03.mp3"
+    ],
+    "mp3Text": "Oh you gave me a splinter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_rival_08.mp3"
-        ],
-        "mp3Text": "Saw that coming. Ha! Get it?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Timb_rival_04.mp3"
+    ],
+    "mp3Text": "If you fall in the woods, and I laugh, will anyone hear me?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Timb_rival_07.mp3"
+    ],
+    "mp3Text": "Trees do have a way of dying around me!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Timb_rival_11.mp3"
-        ],
-        "mp3Text": "I was never really interested in fire, I don't know why.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Timb_rival_05.mp3"
+    ],
+    "mp3Text": "Your friends are next, Prophet!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_rival_06.mp3"
+    ],
+    "mp3Text": "Oh don't die yet. I'm not finished with you.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Timb_rival_09.mp3"
+    ],
+    "mp3Text": "Saw that coming.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Timb_rival_10.mp3"
+    ],
+    "mp3Text": "Finally, I haven't slept in weeks.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+        "name": "Bane"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_rival_13.mp3"
+    ],
+    "mp3Text": "So much for your delusions of grandeur.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Timb_rival_15.mp3"
+    ],
+    "mp3Text": "Treehugger.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+        "name": "Enchantress"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Timb_rival_12.mp3"
+    ],
+    "mp3Text": "Not listening. Not listening. Not listening.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+        "name": "Queen of Pain"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6c/Naga_Siren_minimap_icon.png/16px-Naga_Siren_minimap_icon.png?version=a37fcd30628a75766334122503c34be1",
+        "name": "Naga Siren"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_rival_14.mp3"
+    ],
+    "mp3Text": "Not so tough without your friends, are you?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
+        "name": "Phantom Lancer"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/17/Meepo_minimap_icon.png/16px-Meepo_minimap_icon.png?version=ce453116990f06c85e704baf00b11fca",
+        "name": "Meepo"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_rival_08.mp3"
+    ],
+    "mp3Text": "Saw that coming. Ha! Get it?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Timb_rival_11.mp3"
+    ],
+    "mp3Text": "I was never really interested in fire, I don't know why.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       }
     ]
   },
@@ -1158,14 +1191,11 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Timb_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood! I cut you, and I split you, and I killed you! Ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Timb_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood! I cut you, and I split you, and I killed you! Ha ha ha ha ha ha!"
   },
   {
     "headTitle": "Meeting an ally",
@@ -1176,114 +1206,119 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Timb_ally_01.mp3"
+    ],
+    "mp3Text": "There's…a giant…tree-person…right next to me. Stay calm. Ha ha ha ha. Just stay calm.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Timb_ally_01.mp3"
-        ],
-        "mp3Text": "There's…a giant…tree-person…right next to me. Stay calm. Ha ha ha ha. Just stay calm.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Timb_ally_02.mp3"
+    ],
+    "mp3Text": "You.. make.. tree-people… Okay P-prophet, I don't think we can be friends.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Timb_ally_02.mp3"
-        ],
-        "mp3Text": "You.. make.. tree-people… Okay P-prophet, I don't think we can be friends.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Timb_ally_03.mp3"
+    ],
+    "mp3Text": "An axe to grind. Oh good! Ye-good good good we'll need that!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Timb_ally_03.mp3"
-        ],
-        "mp3Text": "An axe to grind. Oh good! Ye-good good good we'll need that!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Timb_ally_04.mp3"
+    ],
+    "mp3Text": "Wood carving, meat carving. Same thing, right Pudge?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Timb_ally_04.mp3"
-        ],
-        "mp3Text": "Wood carving, meat carving. Same thing, right Pudge?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-            "name": "Pudge"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+        "name": "Pudge"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_ally_05.mp3"
+    ],
+    "mp3Text": "Some slash and burn, Batrider?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_ally_05.mp3"
-        ],
-        "mp3Text": "Some slash and burn, Batrider?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Timb_ally_06.mp3"
+    ],
+    "mp3Text": "So how do you keep track of all those personalities?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Timb_ally_06.mp3"
-        ],
-        "mp3Text": "So how do you keep track of all those personalities?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
-            "name": "Phantom Lancer"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f9/Phantom_Lancer_minimap_icon.png/16px-Phantom_Lancer_minimap_icon.png?version=8e867a444aa035e038b5777f9c5f9a55",
+        "name": "Phantom Lancer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Timb_ally_07.mp3"
+    ],
+    "mp3Text": "Why are you so perky, Enchantress? Can't you see what's happening?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Timb_ally_07.mp3"
-        ],
-        "mp3Text": "Why are you so perky, Enchantress? Can't you see what's happening?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
-            "name": "Enchantress"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Enchantress_minimap_icon.png/16px-Enchantress_minimap_icon.png?version=5b4363ce8c9e461eea0d641208e1abde",
+        "name": "Enchantress"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Timb_ally_08.mp3"
+    ],
+    "mp3Text": "I'm under enough pressure without your help, Enigma.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Timb_ally_08.mp3"
-        ],
-        "mp3Text": "I'm under enough pressure without your help, Enigma.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Timb_ally_09.mp3"
+    ],
+    "mp3Text": "Ah, Dark Seer. Finally someone who appreciates a wall without padding.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Timb_ally_09.mp3"
-        ],
-        "mp3Text": "Ah, Dark Seer. Finally someone who appreciates a wall without padding.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
-            "name": "Dark Seer"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
+        "name": "Dark Seer"
       }
     ]
   },
@@ -1292,458 +1327,484 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_lasthit_01.mp3"
-        ],
-        "mp3Text": "Snip!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Timb_lasthit_02.mp3"
-        ],
-        "mp3Text": "Clipped!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Timb_lasthit_03.mp3"
-        ],
-        "mp3Text": "Gold!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Timb_lasthit_04.mp3"
-        ],
-        "mp3Text": "That's all I need."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Timb_lasthit_05.mp3"
-        ],
-        "mp3Text": "Yup, that'll work!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Timb_lasthit_06.mp3"
-        ],
-        "mp3Text": "Gimme."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Timb_lasthit_07.mp3"
-        ],
-        "mp3Text": "Good!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_lasthit_08.mp3"
-        ],
-        "mp3Text": "Simple!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Timb_lasthit_09.mp3"
-        ],
-        "mp3Text": "Nut!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_lasthit_01.mp3"
+    ],
+    "mp3Text": "Snip!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Timb_lasthit_02.mp3"
+    ],
+    "mp3Text": "Clipped!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Timb_lasthit_03.mp3"
+    ],
+    "mp3Text": "Gold!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Timb_lasthit_04.mp3"
+    ],
+    "mp3Text": "That's all I need."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Timb_lasthit_05.mp3"
+    ],
+    "mp3Text": "Yup, that'll work!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Timb_lasthit_06.mp3"
+    ],
+    "mp3Text": "Gimme."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Timb_lasthit_07.mp3"
+    ],
+    "mp3Text": "Good!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_lasthit_08.mp3"
+    ],
+    "mp3Text": "Simple!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Timb_lasthit_09.mp3"
+    ],
+    "mp3Text": "Nut!"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Timb_deny_01.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Timb_deny_02.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Timb_deny_03.mp3"
-        ],
-        "mp3Text": "Uh uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Timb_deny_04.mp3"
-        ],
-        "mp3Text": "Uh uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_deny_05.mp3"
-        ],
-        "mp3Text": "Back off!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_deny_06.mp3"
-        ],
-        "mp3Text": "Not yours!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Timb_deny_07.mp3"
-        ],
-        "mp3Text": "Hey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Timb_deny_08.mp3"
-        ],
-        "mp3Text": "Hey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Timb_deny_09.mp3"
-        ],
-        "mp3Text": "Mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Timb_deny_10.mp3"
-        ],
-        "mp3Text": "Keep your hands to yourself!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Timb_deny_11.mp3"
-        ],
-        "mp3Text": "I said no!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Timb_deny_12.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Timb_deny_14.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho ho ho! No."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Timb_deny_16.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Timb_deny_17.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Timb_deny_18.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Timb_deny_19.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Timb_deny_20.mp3"
-        ],
-        "mp3Text": "Denied!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Timb_deny_01.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Timb_deny_02.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Timb_deny_03.mp3"
+    ],
+    "mp3Text": "Uh uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Timb_deny_04.mp3"
+    ],
+    "mp3Text": "Uh uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_deny_05.mp3"
+    ],
+    "mp3Text": "Back off!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_deny_06.mp3"
+    ],
+    "mp3Text": "Not yours!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Timb_deny_07.mp3"
+    ],
+    "mp3Text": "Hey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Timb_deny_08.mp3"
+    ],
+    "mp3Text": "Hey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Timb_deny_09.mp3"
+    ],
+    "mp3Text": "Mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Timb_deny_10.mp3"
+    ],
+    "mp3Text": "Keep your hands to yourself!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Timb_deny_11.mp3"
+    ],
+    "mp3Text": "I said no!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Timb_deny_12.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Timb_deny_14.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho ho ho! No."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Timb_deny_16.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Timb_deny_17.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Timb_deny_18.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Timb_deny_19.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Timb_deny_20.mp3"
+    ],
+    "mp3Text": "Denied!"
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Timb_purch_01.mp3"
-        ],
-        "mp3Text": "Hey that is a crazy bargain."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Timb_purch_02.mp3"
-        ],
-        "mp3Text": "You're selling me this? And they call me crazy?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Timb_purch_03.mp3"
-        ],
-        "mp3Text": "I have never wanted anything else."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Timb_purch_01.mp3"
+    ],
+    "mp3Text": "Hey that is a crazy bargain."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Timb_purch_02.mp3"
+    ],
+    "mp3Text": "You're selling me this? And they call me crazy?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Timb_purch_03.mp3"
+    ],
+    "mp3Text": "I have never wanted anything else."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Timb_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah! Scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Timb_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah! Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Timb_scepter_02.mp3"
-        ],
-        "mp3Text": "Well it's not an axe, but yeah sure it's nice.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Timb_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_blink_02.mp3"
-        ],
-        "mp3Text": "Blink dagger? I don't need to blink!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Timb_items_02.mp3"
-        ],
-        "mp3Text": "Bloodstone!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Timb_items_03.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Timb_items_04.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_items_05.mp3"
-        ],
-        "mp3Text": "Linken's Sphere!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Timb_items_06.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_items_07.mp3"
-        ],
-        "mp3Text": "Pipe of Insight!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
-            "name": "Pipe of Insight (3150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Timb_items_08.mp3"
-        ],
-        "mp3Text": "Assault Cuirass!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_items_09.mp3"
-        ],
-        "mp3Text": "Blade Mail!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
-            "name": "Blade Mail (2200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Timb_items_10.mp3"
-        ],
-        "mp3Text": "Radiance!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-            "name": "Radiance (5150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_items_11.mp3"
-        ],
-        "mp3Text": "Scepter of Divinity!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_items_12.mp3"
-        ],
-        "mp3Text": "Quelling Blade!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/94/Quelling_Blade_icon.png/20px-Quelling_Blade_icon.png?version=246343443db87bc1991629dc31c17f01",
-            "name": "Quelling Blade (200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Timb_items_13.mp3"
-        ],
-        "mp3Text": "Vanguard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-            "name": "Vanguard (2150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Timb_items_14.mp3"
-        ],
-        "mp3Text": "Black King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Timb_scepter_02.mp3"
+    ],
+    "mp3Text": "Well it's not an axe, but yeah sure it's nice.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Timb_immort_02.mp3"
-        ],
-        "mp3Text": "They can't kill me. Nobody can.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Timb_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Timb_items_01.mp3"
-        ],
-        "mp3Text": "Branch?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a3/Iron_Branch_icon.png/20px-Iron_Branch_icon.png?version=a568ed33af4fb919b3c9b0826eacb5cd",
-            "name": "Iron Branch (50)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_blink_02.mp3"
+    ],
+    "mp3Text": "Blink dagger? I don't need to blink!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Timb_items_02.mp3"
+    ],
+    "mp3Text": "Bloodstone!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Timb_items_03.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Timb_items_04.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_items_05.mp3"
+    ],
+    "mp3Text": "Linken's Sphere!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Timb_items_06.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Timb_items_07.mp3"
+    ],
+    "mp3Text": "Pipe of Insight!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
+        "name": "Pipe of Insight (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Timb_items_08.mp3"
+    ],
+    "mp3Text": "Assault Cuirass!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_items_09.mp3"
+    ],
+    "mp3Text": "Blade Mail!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
+        "name": "Blade Mail (2200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Timb_items_10.mp3"
+    ],
+    "mp3Text": "Radiance!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+        "name": "Radiance (5150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_items_11.mp3"
+    ],
+    "mp3Text": "Scepter of Divinity!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_items_12.mp3"
+    ],
+    "mp3Text": "Quelling Blade!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/94/Quelling_Blade_icon.png/20px-Quelling_Blade_icon.png?version=246343443db87bc1991629dc31c17f01",
+        "name": "Quelling Blade (200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Timb_items_13.mp3"
+    ],
+    "mp3Text": "Vanguard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+        "name": "Vanguard (2150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Timb_items_14.mp3"
+    ],
+    "mp3Text": "Black King Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Timb_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Timb_immort_02.mp3"
+    ],
+    "mp3Text": "They can't kill me. Nobody can.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Timb_items_01.mp3"
+    ],
+    "mp3Text": "Branch?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a3/Iron_Branch_icon.png/20px-Iron_Branch_icon.png?version=a568ed33af4fb919b3c9b0826eacb5cd",
+        "name": "Iron Branch (50)"
       }
     ]
   },
@@ -1752,210 +1813,219 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Timb_death_03.mp3"
-        ],
-        "mp3Text": "Finally came for me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Timb_death_04.mp3"
-        ],
-        "mp3Text": "Feeling peaceful!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Timb_death_07.mp3"
-        ],
-        "mp3Text": "Malfunction?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_death_08.mp3"
-        ],
-        "mp3Text": "Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Timb_death_09.mp3"
-        ],
-        "mp3Text": "Dammit!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Timb_death_11.mp3"
-        ],
-        "mp3Text": "Oh not the trees! No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Timb_death_12.mp3"
-        ],
-        "mp3Text": "Eject! Eject!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_death_14.mp3"
-        ],
-        "mp3Text": "No this is not happening!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Timb_death_15.mp3"
-        ],
-        "mp3Text": "Ah you traitor!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Timb_death_16.mp3"
-        ],
-        "mp3Text": "Ah nuts."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_death_18.mp3"
-        ],
-        "mp3Text": "This is not happening!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Timb_death_19.mp3"
-        ],
-        "mp3Text": "Oh! So exposed!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_death_20.mp3"
-        ],
-        "mp3Text": "What? What-what happened?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Timb_death_21.mp3"
-        ],
-        "mp3Text": "Oh it's all so clear to me now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Timb_death_22.mp3"
-        ],
-        "mp3Text": "Dammit."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Timb_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Timb_death_03.mp3"
+    ],
+    "mp3Text": "Finally came for me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Timb_death_04.mp3"
+    ],
+    "mp3Text": "Feeling peaceful!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Timb_death_07.mp3"
+    ],
+    "mp3Text": "Malfunction?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_death_08.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Timb_death_09.mp3"
+    ],
+    "mp3Text": "Dammit!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Timb_death_11.mp3"
+    ],
+    "mp3Text": "Oh not the trees! No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Timb_death_12.mp3"
+    ],
+    "mp3Text": "Eject! Eject!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Timb_death_14.mp3"
+    ],
+    "mp3Text": "No this is not happening!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Timb_death_15.mp3"
+    ],
+    "mp3Text": "Ah you traitor!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Timb_death_16.mp3"
+    ],
+    "mp3Text": "Ah nuts."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_death_18.mp3"
+    ],
+    "mp3Text": "This is not happening!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Timb_death_19.mp3"
+    ],
+    "mp3Text": "Oh! So exposed!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_death_20.mp3"
+    ],
+    "mp3Text": "What? What-what happened?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Timb_death_21.mp3"
+    ],
+    "mp3Text": "Oh it's all so clear to me now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Timb_death_22.mp3"
+    ],
+    "mp3Text": "Dammit."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
-        ],
-        "mp3Text": "It is dangerous out there."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Timb_respawn_01.mp3"
-        ],
-        "mp3Text": "Oh no. Back here again?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_respawn_02.mp3"
-        ],
-        "mp3Text": "Trees? Why did it have to be trees?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_respawn_03.mp3"
-        ],
-        "mp3Text": "Hey don't tell me to calm down. I am calm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Timb_respawn_05.mp3"
-        ],
-        "mp3Text": "I am completely sane!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_respawn_06.mp3"
-        ],
-        "mp3Text": "Revving up!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Timb_respawn_07.mp3"
-        ],
-        "mp3Text": "It's great to be back. Well that's what I tell people anyway."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_respawn_08.mp3"
-        ],
-        "mp3Text": "I tell you, you wouldn't believe where I've been! You know, no one ever does."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
+    ],
+    "mp3Text": "It is dangerous out there."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_respawn_04.mp3"
-        ],
-        "mp3Text": "You know I'm really not a fan of that dying thing. No, it's not for me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Timb_respawn_01.mp3"
+    ],
+    "mp3Text": "Oh no. Back here again?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Timb_respawn_02.mp3"
+    ],
+    "mp3Text": "Trees? Why did it have to be trees?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_respawn_03.mp3"
+    ],
+    "mp3Text": "Hey don't tell me to calm down. I am calm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Timb_respawn_05.mp3"
+    ],
+    "mp3Text": "I am completely sane!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_respawn_06.mp3"
+    ],
+    "mp3Text": "Revving up!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Timb_respawn_07.mp3"
+    ],
+    "mp3Text": "It's great to be back. Well that's what I tell people anyway."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_respawn_08.mp3"
+    ],
+    "mp3Text": "I tell you, you wouldn't believe where I've been! You know, no one ever does."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Timb_respawn_04.mp3"
+    ],
+    "mp3Text": "You know I'm really not a fan of that dying thing. No, it's not for me."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Timb_fastres_01.mp3"
-        ],
-        "mp3Text": "They're all against me! All of 'em!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Timb_fastres_01.mp3"
+    ],
+    "mp3Text": "They're all against me! All of 'em!"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Timb_bottle_01.mp3"
-        ],
-        "mp3Text": "This is my scheming face."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Timb_bottle_02.mp3"
-        ],
-        "mp3Text": "Never know! You just never, never know."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Timb_bottle_03.mp3"
-        ],
-        "mp3Text": "This will save me?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Timb_bottle_01.mp3"
+    ],
+    "mp3Text": "This is my scheming face."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Timb_bottle_02.mp3"
+    ],
+    "mp3Text": "Never know! You just never, never know."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Timb_bottle_03.mp3"
+    ],
+    "mp3Text": "This will save me?"
   },
   {
     "headTitle": "Activating runes",
@@ -1967,14 +2037,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_chakram_05.mp3"
-        ],
-        "mp3Text": "Clear cutting!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_chakram_05.mp3"
+    ],
+    "mp3Text": "Clear cutting!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1982,14 +2049,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Timb_lasthit_03.mp3"
-        ],
-        "mp3Text": "Gold!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Timb_lasthit_03.mp3"
+    ],
+    "mp3Text": "Gold!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1997,24 +2061,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_doubdam_02.mp3"
-        ],
-        "mp3Text": "I'll cut and then I'll cut again."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Timb_doubdam_02.mp3"
+    ],
+    "mp3Text": "I'll cut and then I'll cut again."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -2022,24 +2080,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Timb_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Timb_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Timb_haste_02.mp3"
-        ],
-        "mp3Text": "Run run run runrunrunrunrunrunrunrunrun!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Timb_haste_02.mp3"
+    ],
+    "mp3Text": "Run run run runrunrunrunrunrunrunrunrun!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -2047,24 +2099,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Timb_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Timb_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Timb_illus_02.mp3"
-        ],
-        "mp3Text": "Oh great, now I'm seeing things too."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Timb_illus_02.mp3"
+    ],
+    "mp3Text": "Oh great, now I'm seeing things too."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2072,24 +2118,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Timb_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Timb_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_invis_02.mp3"
-        ],
-        "mp3Text": "Hey! Where'd I go?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Timb_invis_02.mp3"
+    ],
+    "mp3Text": "Hey! Where'd I go?"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2097,24 +2137,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Timb_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Timb_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Timb_regen_02.mp3"
-        ],
-        "mp3Text": "Oil the joints. Sharpen the blades."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Timb_regen_02.mp3"
+    ],
+    "mp3Text": "Oil the joints. Sharpen the blades."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2125,78 +2159,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Timb_notyet_04.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Timb_notyet_07.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Timb_notyet_04.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Timb_notyet_07.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Timb_notyet_05.mp3"
-        ],
-        "mp3Text": "Nyeh I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Timb_notyet_08.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Timb_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Timb_notyet_05.mp3"
+    ],
+    "mp3Text": "Nyeh I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Timb_notyet_08.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_notyet_03.mp3"
-        ],
-        "mp3Text": "Hey! I said not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Timb_notyet_06.mp3"
-        ],
-        "mp3Text": "I said I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Timb_notyet_09.mp3"
-        ],
-        "mp3Text": "Hey! I told you! It isn't time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Timb_notyet_03.mp3"
+    ],
+    "mp3Text": "Hey! I said not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Timb_notyet_06.mp3"
+    ],
+    "mp3Text": "I said I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Timb_notyet_09.mp3"
+    ],
+    "mp3Text": "Hey! I told you! It isn't time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2207,162 +2238,163 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Timb_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Timb_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Timb_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Timb_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Timb_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Timb_nomana_02.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Timb_nomana_05.mp3"
-        ],
-        "mp3Text": "No. No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_nomana_08.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Timb_nomana_02.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Timb_nomana_05.mp3"
+    ],
+    "mp3Text": "No. No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Timb_nomana_08.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Timb_nomana_03.mp3"
-        ],
-        "mp3Text": "I'm out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Timb_nomana_06.mp3"
-        ],
-        "mp3Text": "Are you hearing me? No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_nomana_09.mp3"
-        ],
-        "mp3Text": "Oh. Will you get-Not. Enough. Mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Timb_nomana_03.mp3"
+    ],
+    "mp3Text": "I'm out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Timb_nomana_06.mp3"
+    ],
+    "mp3Text": "Are you hearing me? No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Timb_nomana_09.mp3"
+    ],
+    "mp3Text": "Oh. Will you get-Not. Enough. Mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Timb_pain_01.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_pain_02.mp3"
-        ],
-        "mp3Text": "Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Timb_pain_03.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Timb_pain_04.mp3"
-        ],
-        "mp3Text": "Oo!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Timb_pain_05.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_pain_06.mp3"
-        ],
-        "mp3Text": "Ey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Timb_pain_07.mp3"
-        ],
-        "mp3Text": "Ha oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Timb_pain_08.mp3"
-        ],
-        "mp3Text": "Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_pain_09.mp3"
-        ],
-        "mp3Text": "Ugh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_pain_10.mp3"
-        ],
-        "mp3Text": "Aw!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Timb_pain_11.mp3"
-        ],
-        "mp3Text": "Oi!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Timb_pain_01.mp3"
+    ],
+    "mp3Text": "Oh!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Timb_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_pain_02.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Timb_pain_03.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Timb_pain_04.mp3"
+    ],
+    "mp3Text": "Oo!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Timb_pain_05.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Timb_pain_06.mp3"
+    ],
+    "mp3Text": "Ey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Timb_pain_07.mp3"
+    ],
+    "mp3Text": "Ha oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Timb_pain_08.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_pain_09.mp3"
+    ],
+    "mp3Text": "Ugh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_pain_10.mp3"
+    ],
+    "mp3Text": "Aw!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Timb_pain_11.mp3"
+    ],
+    "mp3Text": "Oi!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Timb_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2373,32 +2405,32 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Timb_rare_01.mp3"
-        ],
-        "mp3Text": "Someone once told me I needed to face fear to get over it, and I thought well why not take a step further and cut my fear into little pieces then set my fear on fire then throw the hot ash of my fear into a lake and then poison the lake. Simple!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_rare_02.mp3"
-        ],
-        "mp3Text": "I'm not a lumberjack, and no, I'm not okay. I thank you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_begin_02.mp3"
-        ],
-        "mp3Text": "Trees? Well nobody said anything about trees."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
-        ],
-        "mp3Text": "It is dangerous out there."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Timb_rare_01.mp3"
+    ],
+    "mp3Text": "Someone once told me I needed to face fear to get over it, and I thought well why not take a step further and cut my fear into little pieces then set my fear on fire then throw the hot ash of my fear into a lake and then poison the lake. Simple!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Timb_rare_02.mp3"
+    ],
+    "mp3Text": "I'm not a lumberjack, and no, I'm not okay. I thank you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_begin_02.mp3"
+    ],
+    "mp3Text": "Trees? Well nobody said anything about trees."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Timb_reactivearmor_03.mp3"
+    ],
+    "mp3Text": "It is dangerous out there."
   },
   {
     "headTitle": "Chat responses",
@@ -2409,96 +2441,96 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Timb_lane_missing_01.mp3"
-        ],
-        "mp3Text": "Missing top!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_lane_missing_02.mp3"
-        ],
-        "mp3Text": "Missing middle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Timb_lane_missing_03.mp3"
-        ],
-        "mp3Text": "Missing bottom!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Timb_lane_missing_01.mp3"
+    ],
+    "mp3Text": "Missing top!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Timb_lane_missing_02.mp3"
+    ],
+    "mp3Text": "Missing middle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Timb_lane_missing_03.mp3"
+    ],
+    "mp3Text": "Missing bottom!"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Timb_thanks_01.mp3"
-        ],
-        "mp3Text": "Ah thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Timb_thanks_02.mp3"
-        ],
-        "mp3Text": "You're one of the good ones!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Timb_thanks_03.mp3"
-        ],
-        "mp3Text": "I almost trust you."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Timb_thanks_01.mp3"
+    ],
+    "mp3Text": "Ah thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Timb_thanks_02.mp3"
+    ],
+    "mp3Text": "You're one of the good ones!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Timb_thanks_03.mp3"
+    ],
+    "mp3Text": "I almost trust you."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_laugh_02.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_laugh_03.mp3"
-        ],
-        "mp3Text": "He he he he!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_laugh_04.mp3"
-        ],
-        "mp3Text": "He he he he he!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Timb_laugh_05.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho ho ho ho ho ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Timb_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Timb_laugh_02.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Timb_laugh_03.mp3"
+    ],
+    "mp3Text": "He he he he!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Timb_laugh_04.mp3"
+    ],
+    "mp3Text": "He he he he he!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Timb_laugh_05.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho ho ho ho ho ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Timb_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha!"
   },
   {
     "headTitle": "Match end",
@@ -2509,46 +2541,43 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Timb_win_01.mp3"
-        ],
-        "mp3Text": "Victory."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_win_02.mp3"
-        ],
-        "mp3Text": "We won! We won! Ha ha ha! Yes! What did we win? What? Clarify."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Timb_win_01.mp3"
+    ],
+    "mp3Text": "Victory."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Timb_win_02.mp3"
+    ],
+    "mp3Text": "We won! We won! Ha ha ha! Yes! What did we win? What? Clarify."
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Timb_lose_01.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Timb_lose_02.mp3"
-        ],
-        "mp3Text": "No escape! No escape! They they're gonna find me! They'll get me I'm telling you I know it they cz vz mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Timb_lose_03.mp3"
-        ],
-        "mp3Text": "No! No no!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Timb_lose_01.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Timb_lose_02.mp3"
+    ],
+    "mp3Text": "No escape! No escape! They they're gonna find me! They'll get me I'm telling you I know it they cz vz mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Timb_lose_03.mp3"
+    ],
+    "mp3Text": "No! No no!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2559,47 +2588,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Timb_drop_common_01.mp3"
-        ],
-        "mp3Text": "Finally a pleasant surprise."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Timb_drop_common_01.mp3"
+    ],
+    "mp3Text": "Finally a pleasant surprise."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Timb_drop_moderate_01.mp3"
-        ],
-        "mp3Text": "Who told you I wanted this? Who? I want to thank them!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Timb_drop_moderate_01.mp3"
+    ],
+    "mp3Text": "Who told you I wanted this? Who? I want to thank them!"
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Timb_drop_rare_01.mp3"
-        ],
-        "mp3Text": "This! This is what I have always wanted! Always!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Timb_drop_rare_02.mp3"
-        ],
-        "mp3Text": "Oh! Oh! Oh-oh-you see this? You see? Oh this is what I've always wanted! Oh I'm so happy!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Timb_drop_rare_01.mp3"
+    ],
+    "mp3Text": "This! This is what I have always wanted! Always!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Timb_drop_rare_02.mp3"
+    ],
+    "mp3Text": "Oh! Oh! Oh-oh-you see this? You see? Oh this is what I've always wanted! Oh I'm so happy!"
   }
 ]

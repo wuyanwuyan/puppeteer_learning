@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/David_Scully_(actor)",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/20px-Weaver_minimap_icon.png?version=521ab4d316d734bd9a185ea3f40ebdfe",
     "heroName": "Weaver",
-    "href": "https://dota2.gamepedia.com/Weaver/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/weaver_full.png",
     "primaryAttribute": "Agility",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/weaver.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
-        ],
-        "mp3Text": "Weaver!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_spawn_02.mp3"
-        ],
-        "mp3Text": "Darkness weaves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_03.mp3"
-        ],
-        "mp3Text": "The threads of fate are mine to weave."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_04.mp3"
-        ],
-        "mp3Text": "The loom weaves and a new pattern appears."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_spawn_05.mp3"
-        ],
-        "mp3Text": "I enter the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Let's weave a battle plan."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_move_11.mp3"
-        ],
-        "mp3Text": "Cut and weave!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_move_15.mp3"
-        ],
-        "mp3Text": "Scuttling in."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_move_16.mp3"
-        ],
-        "mp3Text": "Skitter on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_kill_01.mp3"
-        ],
-        "mp3Text": "I weave your fate!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Weav_kill_03.mp3"
-        ],
-        "mp3Text": "A feast for my beetles."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Weav_respawn_04.mp3"
-        ],
-        "mp3Text": "More fates for me to weave."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
+    ],
+    "mp3Text": "Weaver!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_spawn_02.mp3"
+    ],
+    "mp3Text": "Darkness weaves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_03.mp3"
+    ],
+    "mp3Text": "The threads of fate are mine to weave."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_04.mp3"
+    ],
+    "mp3Text": "The loom weaves and a new pattern appears."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_spawn_05.mp3"
+    ],
+    "mp3Text": "I enter the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Let's weave a battle plan."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_move_11.mp3"
+    ],
+    "mp3Text": "Cut and weave!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_move_15.mp3"
+    ],
+    "mp3Text": "Scuttling in."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_move_16.mp3"
+    ],
+    "mp3Text": "Skitter on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_kill_01.mp3"
+    ],
+    "mp3Text": "I weave your fate!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Weav_kill_03.mp3"
+    ],
+    "mp3Text": "A feast for my beetles."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Weav_respawn_04.mp3"
+    ],
+    "mp3Text": "More fates for me to weave."
   },
   {
     "headTitle": "Drafting",
@@ -101,352 +108,368 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
-        ],
-        "mp3Text": "Weaver!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
+    ],
+    "mp3Text": "Weaver!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Weav_anger_01.mp3"
-        ],
-        "mp3Text": "Eeeeheh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Weav_anger_01.mp3"
+    ],
+    "mp3Text": "Eeeeheh!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
-        ],
-        "mp3Text": "Weaver!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_spawn_02.mp3"
-        ],
-        "mp3Text": "Darkness weaves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_03.mp3"
-        ],
-        "mp3Text": "The threads of fate are mine to weave."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_04.mp3"
-        ],
-        "mp3Text": "The loom weaves and a new pattern appears."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_spawn_05.mp3"
-        ],
-        "mp3Text": "I enter the pattern."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_spawn_01.mp3"
+    ],
+    "mp3Text": "Weaver!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_spawn_02.mp3"
+    ],
+    "mp3Text": "Darkness weaves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_03.mp3"
+    ],
+    "mp3Text": "The threads of fate are mine to weave."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Weav_spawn_04.mp3"
+    ],
+    "mp3Text": "The loom weaves and a new pattern appears."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_spawn_05.mp3"
+    ],
+    "mp3Text": "I enter the pattern."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Weav_inthebag_01.mp3"
-        ],
-        "mp3Text": "It's in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Weav_inthebag_01.mp3"
+    ],
+    "mp3Text": "It's in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Let's weave a battle plan."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Let's weave a battle plan."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Weav_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Weav_move_02.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Weav_move_03.mp3"
-        ],
-        "mp3Text": "Yehehes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Weav_move_04.mp3"
-        ],
-        "mp3Text": "Hehehcheehchessses."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Weav_move_05.mp3"
-        ],
-        "mp3Text": "Yehessess."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Weav_move_06.mp3"
-        ],
-        "mp3Text": "Yeehehehess."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_move_07.mp3"
-        ],
-        "mp3Text": "Checklichicklilehechiaz."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Weav_move_08.mp3"
-        ],
-        "mp3Text": "Checklichicklileh"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Weav_move_09.mp3"
-        ],
-        "mp3Text": "Tichedricheaph."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Weav_move_10.mp3"
-        ],
-        "mp3Text": "Ticheticherateh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_move_11.mp3"
-        ],
-        "mp3Text": "Cut and weave!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Weav_move_12.mp3"
-        ],
-        "mp3Text": "I loom."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Weav_move_13.mp3"
-        ],
-        "mp3Text": "Shutlle off."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Weav_move_14.mp3"
-        ],
-        "mp3Text": "I am compelled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_move_15.mp3"
-        ],
-        "mp3Text": "Scuttling in."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_move_16.mp3"
-        ],
-        "mp3Text": "Skitter on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Weav_move_17.mp3"
-        ],
-        "mp3Text": "Creep and crawl."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_move_18.mp3"
-        ],
-        "mp3Text": "Bitter pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Weav_move_19.mp3"
-        ],
-        "mp3Text": "Clickity click."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Weav_move_20.mp3"
-        ],
-        "mp3Text": "I must."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Weav_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Weav_move_02.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Weav_move_03.mp3"
+    ],
+    "mp3Text": "Yehehes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Weav_move_04.mp3"
+    ],
+    "mp3Text": "Hehehcheehchessses."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Weav_move_05.mp3"
+    ],
+    "mp3Text": "Yehessess."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Weav_move_06.mp3"
+    ],
+    "mp3Text": "Yeehehehess."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_move_07.mp3"
+    ],
+    "mp3Text": "Checklichicklilehechiaz."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Weav_move_08.mp3"
+    ],
+    "mp3Text": "Checklichicklileh"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Weav_move_09.mp3"
+    ],
+    "mp3Text": "Tichedricheaph."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Weav_move_10.mp3"
+    ],
+    "mp3Text": "Ticheticherateh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_move_11.mp3"
+    ],
+    "mp3Text": "Cut and weave!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Weav_move_12.mp3"
+    ],
+    "mp3Text": "I loom."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Weav_move_13.mp3"
+    ],
+    "mp3Text": "Shutlle off."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Weav_move_14.mp3"
+    ],
+    "mp3Text": "I am compelled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_move_15.mp3"
+    ],
+    "mp3Text": "Scuttling in."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_move_16.mp3"
+    ],
+    "mp3Text": "Skitter on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Weav_move_17.mp3"
+    ],
+    "mp3Text": "Creep and crawl."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Weav_move_18.mp3"
+    ],
+    "mp3Text": "Bitter pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Weav_move_19.mp3"
+    ],
+    "mp3Text": "Clickity click."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Weav_move_20.mp3"
+    ],
+    "mp3Text": "I must."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Weav_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Weav_attack_02.mp3"
-        ],
-        "mp3Text": "Rend you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Weav_attack_03.mp3"
-        ],
-        "mp3Text": "Strike!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_attack_04.mp3"
-        ],
-        "mp3Text": "Slash!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Weav_attack_05.mp3"
-        ],
-        "mp3Text": "Infest."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Weav_attack_06.mp3"
-        ],
-        "mp3Text": "Tear the threads."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Weav_attack_07.mp3"
-        ],
-        "mp3Text": "Snip snip."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Weav_attack_08.mp3"
-        ],
-        "mp3Text": "Cut you down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Weav_attack_09.mp3"
-        ],
-        "mp3Text": "Out of time's weave."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Weav_attack_10.mp3"
-        ],
-        "mp3Text": "Into the fray!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Weav_attack_11.mp3"
-        ],
-        "mp3Text": "Scatter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Weav_ability_gemin_01.mp3"
-        ],
-        "mp3Text": "Chechechheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Weav_ability_gemin_02.mp3"
-        ],
-        "mp3Text": "Dedjchedeh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Weav_ability_gemin_03.mp3"
-        ],
-        "mp3Text": "dhehe!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Weav_ability_gemin_04.mp3"
-        ],
-        "mp3Text": "Hechechechecha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_ability_gemin_05.mp3"
-        ],
-        "mp3Text": "Hechehchchehka!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Weav_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Weav_attack_02.mp3"
+    ],
+    "mp3Text": "Rend you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Weav_attack_03.mp3"
+    ],
+    "mp3Text": "Strike!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_attack_04.mp3"
+    ],
+    "mp3Text": "Slash!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Weav_attack_05.mp3"
+    ],
+    "mp3Text": "Infest."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Weav_attack_06.mp3"
+    ],
+    "mp3Text": "Tear the threads."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Weav_attack_07.mp3"
+    ],
+    "mp3Text": "Snip snip."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Weav_attack_08.mp3"
+    ],
+    "mp3Text": "Cut you down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Weav_attack_09.mp3"
+    ],
+    "mp3Text": "Out of time's weave."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Weav_attack_10.mp3"
+    ],
+    "mp3Text": "Into the fray!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Weav_attack_11.mp3"
+    ],
+    "mp3Text": "Scatter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Weav_ability_gemin_01.mp3"
+    ],
+    "mp3Text": "Chechechheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Weav_ability_gemin_02.mp3"
+    ],
+    "mp3Text": "Dedjchedeh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Weav_ability_gemin_03.mp3"
+    ],
+    "mp3Text": "dhehe!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Weav_ability_gemin_04.mp3"
+    ],
+    "mp3Text": "Hechechechecha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_ability_gemin_05.mp3"
+    ],
+    "mp3Text": "Hechehchchehka!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Weav_cast_01.mp3"
-        ],
-        "mp3Text": "I fall upon you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Weav_cast_02.mp3"
-        ],
-        "mp3Text": "Caught in your own life's thread."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Weav_cast_03.mp3"
-        ],
-        "mp3Text": "Your life unspools!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Weav_cast_01.mp3"
+    ],
+    "mp3Text": "I fall upon you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Weav_cast_02.mp3"
+    ],
+    "mp3Text": "Caught in your own life's thread."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Weav_cast_03.mp3"
+    ],
+    "mp3Text": "Your life unspools!"
   },
   {
     "headTitle": "Abilities",
@@ -462,38 +485,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Weav_ability_swarm_01.mp3"
-        ],
-        "mp3Text": "Feed the swarm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Weav_ability_swarm_03.mp3"
-        ],
-        "mp3Text": "Swarm them!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Weav_ability_swarm_04.mp3"
-        ],
-        "mp3Text": "Swarm them!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Weav_ability_swarm_05.mp3"
-        ],
-        "mp3Text": "After them!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Weav_ability_swarm_06.mp3"
-        ],
-        "mp3Text": "Skitter scatter!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Weav_ability_swarm_01.mp3"
+    ],
+    "mp3Text": "Feed the swarm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Weav_ability_swarm_03.mp3"
+    ],
+    "mp3Text": "Swarm them!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Weav_ability_swarm_04.mp3"
+    ],
+    "mp3Text": "Swarm them!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Weav_ability_swarm_05.mp3"
+    ],
+    "mp3Text": "After them!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Weav_ability_swarm_06.mp3"
+    ],
+    "mp3Text": "Skitter scatter!"
   },
   {
     "voices": []
@@ -503,280 +527,301 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Weav_ability_shukuchi_02.mp3"
-        ],
-        "mp3Text": "Don't mind me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_ability_shukuchi_04.mp3"
-        ],
-        "mp3Text": "Your fate is mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Weav_ability_shukuchi_02.mp3"
+    ],
+    "mp3Text": "Don't mind me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_ability_shukuchi_04.mp3"
+    ],
+    "mp3Text": "Your fate is mine."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_level_01.mp3"
-        ],
-        "mp3Text": "Ah, I see more of the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Weav_level_02.mp3"
-        ],
-        "mp3Text": "The great loom weaves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_level_03.mp3"
-        ],
-        "mp3Text": "A tighter weave!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Weav_level_04.mp3"
-        ],
-        "mp3Text": "A taut thread."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Weav_level_05.mp3"
-        ],
-        "mp3Text": "Nyehah ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Weav_level_06.mp3"
-        ],
-        "mp3Text": "Snick nik nok."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_level_07.mp3"
-        ],
-        "mp3Text": "Snk nk nk nk scknt."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Weav_level_08.mp3"
-        ],
-        "mp3Text": "Heha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_level_01.mp3"
+    ],
+    "mp3Text": "Ah, I see more of the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Weav_level_02.mp3"
+    ],
+    "mp3Text": "The great loom weaves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_level_03.mp3"
+    ],
+    "mp3Text": "A tighter weave!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Weav_level_04.mp3"
+    ],
+    "mp3Text": "A taut thread."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Weav_level_05.mp3"
+    ],
+    "mp3Text": "Nyehah ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Weav_level_06.mp3"
+    ],
+    "mp3Text": "Snick nik nok."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_level_07.mp3"
+    ],
+    "mp3Text": "Snk nk nk nk scknt."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Weav_level_08.mp3"
+    ],
+    "mp3Text": "Heha."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_kill_01.mp3"
-        ],
-        "mp3Text": "I weave your fate!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Weav_kill_02.mp3"
-        ],
-        "mp3Text": "Your vital thread is broken."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Weav_kill_03.mp3"
-        ],
-        "mp3Text": "A feast for my beetles."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Weav_kill_04.mp3"
-        ],
-        "mp3Text": "You've been spooled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Weav_kill_05.mp3"
-        ],
-        "mp3Text": "I'll thread the needle through your eyes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Weav_kill_06.mp3"
-        ],
-        "mp3Text": "Shuttle and loom, I weave your doom."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_kill_07.mp3"
-        ],
-        "mp3Text": "I'm sensing a pattern here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Weav_kill_08.mp3"
-        ],
-        "mp3Text": "Your life's in tatters."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Weav_kill_09.mp3"
-        ],
-        "mp3Text": "To the loom with you, to be rewoven."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Weav_kill_10.mp3"
-        ],
-        "mp3Text": "A snag in your timeline."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Weav_kill_11.mp3"
-        ],
-        "mp3Text": "Heyehenyeahah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Weav_kill_12.mp3"
-        ],
-        "mp3Text": "Hooweheowhow."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Weav_rival_04.mp3"
-        ],
-        "mp3Text": "So vulnerable."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_laugh_01.mp3"
-        ],
-        "mp3Text": "Hehehheeh"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Weav_laugh_02.mp3"
-        ],
-        "mp3Text": "Whooechecheche."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Weav_laugh_03.mp3"
-        ],
-        "mp3Text": "Thslkfsljhe eheheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_laugh_04.mp3"
-        ],
-        "mp3Text": "Hehehhehah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_laugh_05.mp3"
-        ],
-        "mp3Text": "Hehhah hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_laugh_06.mp3"
-        ],
-        "mp3Text": "Hehahahheehha haha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Weav_laugh_07.mp3"
-        ],
-        "mp3Text": "Heha ha hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_laugh_08.mp3"
-        ],
-        "mp3Text": "Hehe hah heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_laugh_09.mp3"
-        ],
-        "mp3Text": "Whohoha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_kill_01.mp3"
+    ],
+    "mp3Text": "I weave your fate!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Weav_kill_02.mp3"
+    ],
+    "mp3Text": "Your vital thread is broken."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Weav_kill_03.mp3"
+    ],
+    "mp3Text": "A feast for my beetles."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Weav_kill_04.mp3"
+    ],
+    "mp3Text": "You've been spooled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Weav_kill_05.mp3"
+    ],
+    "mp3Text": "I'll thread the needle through your eyes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Weav_kill_06.mp3"
+    ],
+    "mp3Text": "Shuttle and loom, I weave your doom."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_kill_07.mp3"
+    ],
+    "mp3Text": "I'm sensing a pattern here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Weav_kill_08.mp3"
+    ],
+    "mp3Text": "Your life's in tatters."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Weav_kill_09.mp3"
+    ],
+    "mp3Text": "To the loom with you, to be rewoven."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Weav_kill_10.mp3"
+    ],
+    "mp3Text": "A snag in your timeline."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Weav_kill_11.mp3"
+    ],
+    "mp3Text": "Heyehenyeahah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Weav_kill_12.mp3"
+    ],
+    "mp3Text": "Hooweheowhow."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Weav_rival_04.mp3"
+    ],
+    "mp3Text": "So vulnerable."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_laugh_01.mp3"
+    ],
+    "mp3Text": "Hehehheeh"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Weav_laugh_02.mp3"
+    ],
+    "mp3Text": "Whooechecheche."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Weav_laugh_03.mp3"
+    ],
+    "mp3Text": "Thslkfsljhe eheheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_laugh_04.mp3"
+    ],
+    "mp3Text": "Hehehhehah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_laugh_05.mp3"
+    ],
+    "mp3Text": "Hehhah hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_laugh_06.mp3"
+    ],
+    "mp3Text": "Hehahahheehha haha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Weav_laugh_07.mp3"
+    ],
+    "mp3Text": "Heha ha hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_laugh_08.mp3"
+    ],
+    "mp3Text": "Hehe hah heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_laugh_09.mp3"
+    ],
+    "mp3Text": "Whohoha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Weav_rival_01.mp3"
+    ],
+    "mp3Text": "Who puts their skeleton on the inside?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Weav_rival_01.mp3"
-        ],
-        "mp3Text": "Who puts their skeleton on the inside?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-            "name": "Timbersaw"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+        "name": "Timbersaw"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Weav_rival_02.mp3"
-        ],
-        "mp3Text": "That's no way to protect your vitals.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
-            "name": "Queen of Pain"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Weav_rival_02.mp3"
+    ],
+    "mp3Text": "That's no way to protect your vitals.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Weav_rival_03.mp3"
-        ],
-        "mp3Text": "You're inside out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
-            "name": "Clockwerk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Queen_of_Pain_minimap_icon.png/16px-Queen_of_Pain_minimap_icon.png?version=fc7a50d998096a9cd29d4afcd9739879",
+        "name": "Queen of Pain"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Weav_rival_03.mp3"
+    ],
+    "mp3Text": "You're inside out.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Weav_rival_05.mp3"
-        ],
-        "mp3Text": "What sort of bug are you, Assassin?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
-            "name": "Nyx Assassin"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
+        "name": "Clockwerk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Weav_rival_05.mp3"
+    ],
+    "mp3Text": "What sort of bug are you, Assassin?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/aa/Nyx_Assassin_minimap_icon.png/16px-Nyx_Assassin_minimap_icon.png?version=16d0aa8af564f4f14f66aca08fc4e305",
+        "name": "Nyx Assassin"
       }
     ]
   },
@@ -785,300 +830,310 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Weav_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood, heha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Weav_firstblood_02.mp3"
-        ],
-        "mp3Text": "The first thread is cut."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Weav_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood, heha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Weav_firstblood_02.mp3"
+    ],
+    "mp3Text": "The first thread is cut."
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_lasthit_01.mp3"
-        ],
-        "mp3Text": "Snik-snack."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Weav_lasthit_02.mp3"
-        ],
-        "mp3Text": "Waste nothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Weav_lasthit_03.mp3"
-        ],
-        "mp3Text": "Snared."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_lasthit_04.mp3"
-        ],
-        "mp3Text": "Caught."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Weav_lasthit_05.mp3"
-        ],
-        "mp3Text": "Mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_lasthit_06.mp3"
-        ],
-        "mp3Text": "A golden thread."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_lasthit_07.mp3"
-        ],
-        "mp3Text": "Ho, snap!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_lasthit_08.mp3"
-        ],
-        "mp3Text": "A bit threadbare."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Weav_lasthit_09.mp3"
-        ],
-        "mp3Text": "Hehe heh heeeh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Weav_lasthit_10.mp3"
-        ],
-        "mp3Text": "Sting!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_lasthit_01.mp3"
+    ],
+    "mp3Text": "Snik-snack."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Weav_lasthit_02.mp3"
+    ],
+    "mp3Text": "Waste nothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Weav_lasthit_03.mp3"
+    ],
+    "mp3Text": "Snared."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Weav_lasthit_04.mp3"
+    ],
+    "mp3Text": "Caught."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Weav_lasthit_05.mp3"
+    ],
+    "mp3Text": "Mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_lasthit_06.mp3"
+    ],
+    "mp3Text": "A golden thread."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_lasthit_07.mp3"
+    ],
+    "mp3Text": "Ho, snap!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_lasthit_08.mp3"
+    ],
+    "mp3Text": "A bit threadbare."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Weav_lasthit_09.mp3"
+    ],
+    "mp3Text": "Hehe heh heeeh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Weav_lasthit_10.mp3"
+    ],
+    "mp3Text": "Sting!"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Weav_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Weav_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Weav_deny_03.mp3"
-        ],
-        "mp3Text": "Better not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Weav_deny_04.mp3"
-        ],
-        "mp3Text": "Sni, snoo."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Weav_deny_05.mp3"
-        ],
-        "mp3Text": "Cut off."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Weav_deny_06.mp3"
-        ],
-        "mp3Text": "Clipped."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Weav_deny_07.mp3"
-        ],
-        "mp3Text": "nyah hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Weav_deny_08.mp3"
-        ],
-        "mp3Text": "Yeheh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Weav_deny_09.mp3"
-        ],
-        "mp3Text": "Uh-uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Weav_deny_10.mp3"
-        ],
-        "mp3Text": "Hohaeh he heh heh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Weav_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Weav_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Weav_deny_03.mp3"
+    ],
+    "mp3Text": "Better not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Weav_deny_04.mp3"
+    ],
+    "mp3Text": "Sni, snoo."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Weav_deny_05.mp3"
+    ],
+    "mp3Text": "Cut off."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Weav_deny_06.mp3"
+    ],
+    "mp3Text": "Clipped."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Weav_deny_07.mp3"
+    ],
+    "mp3Text": "nyah hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Weav_deny_08.mp3"
+    ],
+    "mp3Text": "Yeheh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Weav_deny_09.mp3"
+    ],
+    "mp3Text": "Uh-uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Weav_deny_10.mp3"
+    ],
+    "mp3Text": "Hohaeh he heh heh."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_purch_01.mp3"
-        ],
-        "mp3Text": "My pattern demands it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Weav_purch_02.mp3"
-        ],
-        "mp3Text": "It's all part of the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Weav_purch_03.mp3"
-        ],
-        "mp3Text": "I've been weaving my way toward this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Weav_purch_01.mp3"
+    ],
+    "mp3Text": "My pattern demands it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Weav_purch_02.mp3"
+    ],
+    "mp3Text": "It's all part of the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Weav_purch_03.mp3"
+    ],
+    "mp3Text": "I've been weaving my way toward this."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Weav_blink_01.mp3"
+    ],
+    "mp3Text": "Ahu, blink dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Weav_blink_01.mp3"
-        ],
-        "mp3Text": "Ahu, blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Weav_blink_02.mp3"
-        ],
-        "mp3Text": "I'll cut their threads with this dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Weav_scepter_02.mp3"
-        ],
-        "mp3Text": "Weave your spell on me, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_item_01.mp3"
-        ],
-        "mp3Text": "Glorious radiance!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-            "name": "Radiance (5150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Weav_item_02.mp3"
-        ],
-        "mp3Text": "Ahh, Linken's Sphere.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_item_03.mp3"
-        ],
-        "mp3Text": "Vanguard, you are mine.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-            "name": "Vanguard (2150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Weav_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Weav_blink_02.mp3"
+    ],
+    "mp3Text": "I'll cut their threads with this dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Weav_immort_02.mp3"
-        ],
-        "mp3Text": "Oh, pattern eternal.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Weav_scepter_02.mp3"
+    ],
+    "mp3Text": "Weave your spell on me, scepter.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_item_01.mp3"
+    ],
+    "mp3Text": "Glorious radiance!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+        "name": "Radiance (5150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Weav_item_02.mp3"
+    ],
+    "mp3Text": "Ahh, Linken's Sphere.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_item_03.mp3"
+    ],
+    "mp3Text": "Vanguard, you are mine.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+        "name": "Vanguard (2150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Weav_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Weav_immort_02.mp3"
+    ],
+    "mp3Text": "Oh, pattern eternal.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1087,188 +1142,198 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Weav_death_01.mp3"
-        ],
-        "mp3Text": "Noooohoho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Weav_death_02.mp3"
-        ],
-        "mp3Text": "Our fates were woven from the first."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_death_03.mp3"
-        ],
-        "mp3Text": "The weft is sundered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Weav_death_04.mp3"
-        ],
-        "mp3Text": "My soul unspools."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Weav_death_05.mp3"
-        ],
-        "mp3Text": "I'm…frayed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Weav_death_06.mp3"
-        ],
-        "mp3Text": "I hate this pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Weav_death_07.mp3"
-        ],
-        "mp3Text": "Well, that's a snag."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Weav_death_08.mp3"
-        ],
-        "mp3Text": "My timeline snaps."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Weav_death_09.mp3"
-        ],
-        "mp3Text": "Caught in the mesh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Weav_death_10.mp3"
-        ],
-        "mp3Text": "A tear in the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Weav_death_11.mp3"
-        ],
-        "mp3Text": "I hate to leave loose ends."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Weav_death_01.mp3"
+    ],
+    "mp3Text": "Noooohoho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Weav_death_02.mp3"
+    ],
+    "mp3Text": "Our fates were woven from the first."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_death_03.mp3"
+    ],
+    "mp3Text": "The weft is sundered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Weav_death_04.mp3"
+    ],
+    "mp3Text": "My soul unspools."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Weav_death_05.mp3"
+    ],
+    "mp3Text": "I'm…frayed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Weav_death_06.mp3"
+    ],
+    "mp3Text": "I hate this pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Weav_death_07.mp3"
+    ],
+    "mp3Text": "Well, that's a snag."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Weav_death_08.mp3"
+    ],
+    "mp3Text": "My timeline snaps."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Weav_death_09.mp3"
+    ],
+    "mp3Text": "Caught in the mesh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Weav_death_10.mp3"
+    ],
+    "mp3Text": "A tear in the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Weav_death_11.mp3"
+    ],
+    "mp3Text": "I hate to leave loose ends."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_respawn_01.mp3"
-        ],
-        "mp3Text": "It was just a phase."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Weav_respawn_02.mp3"
-        ],
-        "mp3Text": "A pattern repeats."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_respawn_03.mp3"
-        ],
-        "mp3Text": "I'll weave a brighter pattern this time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Weav_respawn_04.mp3"
-        ],
-        "mp3Text": "More fates for me to weave."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_respawn_05.mp3"
-        ],
-        "mp3Text": "The Loom weaves my life anew."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_respawn_06.mp3"
-        ],
-        "mp3Text": "My life's pattern reworked!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_respawn_07.mp3"
-        ],
-        "mp3Text": "Respooled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Weav_respawn_08.mp3"
-        ],
-        "mp3Text": "I must repair what came undone."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Weav_respawn_09.mp3"
-        ],
-        "mp3Text": "I'll avoid any further entanglements."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Weav_respawn_10.mp3"
-        ],
-        "mp3Text": "My life by the Loom rewoven."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Weav_respawn_11.mp3"
-        ],
-        "mp3Text": "I spring from the Loom."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_respawn_01.mp3"
+    ],
+    "mp3Text": "It was just a phase."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Weav_respawn_02.mp3"
+    ],
+    "mp3Text": "A pattern repeats."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Weav_respawn_03.mp3"
+    ],
+    "mp3Text": "I'll weave a brighter pattern this time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Weav_respawn_04.mp3"
+    ],
+    "mp3Text": "More fates for me to weave."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_respawn_05.mp3"
+    ],
+    "mp3Text": "The Loom weaves my life anew."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Weav_respawn_06.mp3"
+    ],
+    "mp3Text": "My life's pattern reworked!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_respawn_07.mp3"
+    ],
+    "mp3Text": "Respooled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Weav_respawn_08.mp3"
+    ],
+    "mp3Text": "I must repair what came undone."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Weav_respawn_09.mp3"
+    ],
+    "mp3Text": "I'll avoid any further entanglements."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Weav_respawn_10.mp3"
+    ],
+    "mp3Text": "My life by the Loom rewoven."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Weav_respawn_11.mp3"
+    ],
+    "mp3Text": "I spring from the Loom."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Weav_fastres_01.mp3"
-        ],
-        "mp3Text": "There's a snag in your plans."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Weav_fastres_01.mp3"
+    ],
+    "mp3Text": "There's a snag in your plans."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Weav_bottle_01.mp3"
-        ],
-        "mp3Text": "You'll have a place in the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Weav_bottle_02.mp3"
-        ],
-        "mp3Text": "Packed away."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Weav_bottle_03.mp3"
-        ],
-        "mp3Text": "I wove this bottle myself."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Weav_bottle_01.mp3"
+    ],
+    "mp3Text": "You'll have a place in the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Weav_bottle_02.mp3"
+    ],
+    "mp3Text": "Packed away."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Weav_bottle_03.mp3"
+    ],
+    "mp3Text": "I wove this bottle myself."
   },
   {
     "headTitle": "Activating runes",
@@ -1280,14 +1345,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_ability_shukuchi_05.mp3"
-        ],
-        "mp3Text": "Relentless."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_ability_shukuchi_05.mp3"
+    ],
+    "mp3Text": "Relentless."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1295,14 +1357,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_lasthit_06.mp3"
-        ],
-        "mp3Text": "A golden thread."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Weav_lasthit_06.mp3"
+    ],
+    "mp3Text": "A golden thread."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1310,24 +1369,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Weav_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Weav_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Weav_doubdam_02.mp3"
-        ],
-        "mp3Text": "Snick snick."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Weav_doubdam_02.mp3"
+    ],
+    "mp3Text": "Snick snick."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1335,24 +1388,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Weav_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Weav_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Weav_haste_02.mp3"
-        ],
-        "mp3Text": "The shuttle flies."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Weav_haste_02.mp3"
+    ],
+    "mp3Text": "The shuttle flies."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1360,24 +1407,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Weav_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Weav_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Weav_illus_02.mp3"
-        ],
-        "mp3Text": "Cut from the same cloth."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Weav_illus_02.mp3"
+    ],
+    "mp3Text": "Cut from the same cloth."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1385,24 +1426,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Weav_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Weav_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_invis_02.mp3"
-        ],
-        "mp3Text": "See no weaver."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Weav_invis_02.mp3"
+    ],
+    "mp3Text": "See no weaver."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1410,24 +1445,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Weav_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Weav_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Weav_regen_02.mp3"
-        ],
-        "mp3Text": "The pattern rewoven."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Weav_regen_02.mp3"
+    ],
+    "mp3Text": "The pattern rewoven."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1438,78 +1467,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Weav_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Weav_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Weav_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Weav_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Weav_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Weav_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Weav_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Weav_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Weav_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Weav_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Weav_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Weav_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Weav_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Weav_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Weav_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Weav_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Weav_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "headTitle": "Not enough mana",
@@ -1520,138 +1546,135 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Weav_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Weav_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Weav_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Weav_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Weav_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Weav_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Weav_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Weav_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Weav_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Weav_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Weav_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Weav_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Weav_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Weav_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Weav_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Weav_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Weav_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Weav_pain_01.mp3"
-        ],
-        "mp3Text": "Huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_pain_02.mp3"
-        ],
-        "mp3Text": "Ow."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Weav_pain_03.mp3"
-        ],
-        "mp3Text": "Oah eh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Weav_pain_04.mp3"
-        ],
-        "mp3Text": "Oooh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Weav_pain_05.mp3"
-        ],
-        "mp3Text": "Ahw."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Weav_pain_06.mp3"
-        ],
-        "mp3Text": "Aahh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Weav_pain_07.mp3"
-        ],
-        "mp3Text": "Oweh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Weav_pain_01.mp3"
+    ],
+    "mp3Text": "Huh."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Weav_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Weav_pain_02.mp3"
+    ],
+    "mp3Text": "Ow."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Weav_pain_03.mp3"
+    ],
+    "mp3Text": "Oah eh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Weav_pain_04.mp3"
+    ],
+    "mp3Text": "Oooh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Weav_pain_05.mp3"
+    ],
+    "mp3Text": "Ahw."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Weav_pain_06.mp3"
+    ],
+    "mp3Text": "Aahh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Weav_pain_07.mp3"
+    ],
+    "mp3Text": "Oweh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Weav_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1662,26 +1685,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Weav_rare_01.mp3"
-        ],
-        "mp3Text": "Few know their place in the cosmic weave. Fewer still can lay their claws upon the Loom and influence the pattern."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_rare_02.mp3"
-        ],
-        "mp3Text": "Fate weaves the threads of our lives together. Fate also wields the blade that cuts them short."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Weav_rare_03.mp3"
-        ],
-        "mp3Text": "Here I am."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Weav_rare_01.mp3"
+    ],
+    "mp3Text": "Few know their place in the cosmic weave. Fewer still can lay their claws upon the Loom and influence the pattern."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Weav_rare_02.mp3"
+    ],
+    "mp3Text": "Fate weaves the threads of our lives together. Fate also wields the blade that cuts them short."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Weav_rare_03.mp3"
+    ],
+    "mp3Text": "Here I am."
   },
   {
     "headTitle": "Chat responses",
@@ -1692,88 +1714,92 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Weav_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Weav_thanks_02.mp3"
-        ],
-        "mp3Text": "I'm in your debt."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Weav_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Weav_thanks_02.mp3"
+    ],
+    "mp3Text": "I'm in your debt."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_laugh_01.mp3"
-        ],
-        "mp3Text": "Hehehheeh"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Weav_laugh_02.mp3"
-        ],
-        "mp3Text": "Whooechecheche."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Weav_laugh_03.mp3"
-        ],
-        "mp3Text": "Thslkfsljhe eheheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_laugh_04.mp3"
-        ],
-        "mp3Text": "Hehehhehah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_laugh_05.mp3"
-        ],
-        "mp3Text": "Hehhah hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_laugh_06.mp3"
-        ],
-        "mp3Text": "Hehahahheehha haha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Weav_laugh_07.mp3"
-        ],
-        "mp3Text": "Heha ha hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_laugh_08.mp3"
-        ],
-        "mp3Text": "Hehe hah heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_laugh_09.mp3"
-        ],
-        "mp3Text": "Whohoha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Weav_laugh_01.mp3"
+    ],
+    "mp3Text": "Hehehheeh"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Weav_laugh_02.mp3"
+    ],
+    "mp3Text": "Whooechecheche."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Weav_laugh_03.mp3"
+    ],
+    "mp3Text": "Thslkfsljhe eheheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Weav_laugh_04.mp3"
+    ],
+    "mp3Text": "Hehehhehah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Weav_laugh_05.mp3"
+    ],
+    "mp3Text": "Hehhah hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Weav_laugh_06.mp3"
+    ],
+    "mp3Text": "Hehahahheehha haha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Weav_laugh_07.mp3"
+    ],
+    "mp3Text": "Heha ha hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_laugh_08.mp3"
+    ],
+    "mp3Text": "Hehe hah heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Weav_laugh_09.mp3"
+    ],
+    "mp3Text": "Whohoha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Weav_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha!"
   },
   {
     "headTitle": "Match end",
@@ -1784,70 +1810,71 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_win_01.mp3"
-        ],
-        "mp3Text": "Yehehehes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Weav_win_02.mp3"
-        ],
-        "mp3Text": "Victorehee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Weav_win_03.mp3"
-        ],
-        "mp3Text": "The pattern is complete."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Weav_win_04.mp3"
-        ],
-        "mp3Text": "He heh haha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Weav_win_01.mp3"
+    ],
+    "mp3Text": "Yehehehes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Weav_win_02.mp3"
+    ],
+    "mp3Text": "Victorehee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Weav_win_03.mp3"
+    ],
+    "mp3Text": "The pattern is complete."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Weav_win_04.mp3"
+    ],
+    "mp3Text": "He heh haha!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Weav_lose_01.mp3"
-        ],
-        "mp3Text": "No ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Weav_lose_02.mp3"
-        ],
-        "mp3Text": "Nooooho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Weav_lose_03.mp3"
-        ],
-        "mp3Text": "Defeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Weav_lose_04.mp3"
-        ],
-        "mp3Text": "The pattern unravels, eh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Weav_lose_05.mp3"
-        ],
-        "mp3Text": "The Loom…lies…broken!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Weav_lose_01.mp3"
+    ],
+    "mp3Text": "No ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Weav_lose_02.mp3"
+    ],
+    "mp3Text": "Nooooho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Weav_lose_03.mp3"
+    ],
+    "mp3Text": "Defeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Weav_lose_04.mp3"
+    ],
+    "mp3Text": "The pattern unravels, eh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Weav_lose_05.mp3"
+    ],
+    "mp3Text": "The Loom…lies…broken!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -1858,41 +1885,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Weav_happy_05.mp3"
-        ],
-        "mp3Text": "Hehaahe."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Weav_happy_05.mp3"
+    ],
+    "mp3Text": "Hehaahe."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Weav_happy_03.mp3"
-        ],
-        "mp3Text": "Yeeehess."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Weav_happy_03.mp3"
+    ],
+    "mp3Text": "Yeeehess."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Weav_happy_04.mp3"
-        ],
-        "mp3Text": "Ohoohooho."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Weav_happy_04.mp3"
+    ],
+    "mp3Text": "Ohoohooho."
   }
 ]

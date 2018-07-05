@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/TJ_Ramini",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/20px-Skywrath_Mage_minimap_icon.png?version=51ee487e0fd50c86c75ee204970e13db",
     "heroName": "Skywrath Mage",
-    "href": "https://dota2.gamepedia.com/Skywrath_Mage/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/skywrath_mage_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/skywrathmage.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Drag_spawn_01.mp3"
-        ],
-        "mp3Text": "Dragonus."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
-        ],
-        "mp3Text": "Skywrath Mage!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_spawn_03.mp3"
-        ],
-        "mp3Text": "Court mage to the Nest of Thorns am I."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_spawn_04.mp3"
-        ],
-        "mp3Text": "I serve the Ghastly Eyrie."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drag_move_04.mp3"
-        ],
-        "mp3Text": "'Tis my honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Drag_move_05.mp3"
-        ],
-        "mp3Text": "My power is summoned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_attack_03.mp3"
-        ],
-        "mp3Text": "By the talons of Skree'auk!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Drag_attack_07.mp3"
-        ],
-        "mp3Text": "Who dares fly against me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_attack_11.mp3"
-        ],
-        "mp3Text": "By the ancient powers!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_cast_02.mp3"
-        ],
-        "mp3Text": "The skies are dark with Skywrath power!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_ancient_seal_01.mp3"
-        ],
-        "mp3Text": "By the Ancient Seal!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_levelup_02.mp3"
-        ],
-        "mp3Text": "The Skywrath live through me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Drag_spawn_01.mp3"
+    ],
+    "mp3Text": "Dragonus."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
+    ],
+    "mp3Text": "Skywrath Mage!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_spawn_03.mp3"
+    ],
+    "mp3Text": "Court mage to the Nest of Thorns am I."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_spawn_04.mp3"
+    ],
+    "mp3Text": "I serve the Ghastly Eyrie."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drag_move_04.mp3"
+    ],
+    "mp3Text": "'Tis my honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Drag_move_05.mp3"
+    ],
+    "mp3Text": "My power is summoned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_attack_03.mp3"
+    ],
+    "mp3Text": "By the talons of Skree'auk!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Drag_attack_07.mp3"
+    ],
+    "mp3Text": "Who dares fly against me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_attack_11.mp3"
+    ],
+    "mp3Text": "By the ancient powers!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_cast_02.mp3"
+    ],
+    "mp3Text": "The skies are dark with Skywrath power!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_ancient_seal_01.mp3"
+    ],
+    "mp3Text": "By the Ancient Seal!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_levelup_02.mp3"
+    ],
+    "mp3Text": "The Skywrath live through me!"
   },
   {
     "headTitle": "Drafting",
@@ -101,358 +108,375 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
-        ],
-        "mp3Text": "Skywrath Mage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
+    ],
+    "mp3Text": "Skywrath Mage!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Drag_anger_13.mp3"
-        ],
-        "mp3Text": "Oh…hoo hoo hoo."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Drag_anger_13.mp3"
+    ],
+    "mp3Text": "Oh…hoo hoo hoo."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Drag_spawn_01.mp3"
-        ],
-        "mp3Text": "Dragonus."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
-        ],
-        "mp3Text": "Skywrath Mage!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_spawn_03.mp3"
-        ],
-        "mp3Text": "Court mage to the Nest of Thorns am I."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_spawn_04.mp3"
-        ],
-        "mp3Text": "I serve the Ghastly Eyrie."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Drag_spawn_01.mp3"
+    ],
+    "mp3Text": "Dragonus."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Drag_spawn_02.mp3"
+    ],
+    "mp3Text": "Skywrath Mage!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_spawn_03.mp3"
+    ],
+    "mp3Text": "Court mage to the Nest of Thorns am I."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_spawn_04.mp3"
+    ],
+    "mp3Text": "I serve the Ghastly Eyrie."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_inthebag_01.mp3"
-        ],
-        "mp3Text": "From the Ghastly Eyrie I can see to the ends of the world, and from this vantage point I declare with utter certainty that this one is in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_inthebag_02.mp3"
-        ],
-        "mp3Text": "I declare with utter certainty that this one is in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_inthebag_01.mp3"
+    ],
+    "mp3Text": "From the Ghastly Eyrie I can see to the ends of the world, and from this vantage point I declare with utter certainty that this one is in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_inthebag_02.mp3"
+    ],
+    "mp3Text": "I declare with utter certainty that this one is in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Drag_begin_01.mp3"
-        ],
-        "mp3Text": "I am sworn to turn the tide where ere I can."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_begin_02.mp3"
-        ],
-        "mp3Text": "Even on this fallen field, I dedicate my powers to the lofty Skywrath."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Drag_begin_01.mp3"
+    ],
+    "mp3Text": "I am sworn to turn the tide where ere I can."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_begin_02.mp3"
+    ],
+    "mp3Text": "Even on this fallen field, I dedicate my powers to the lofty Skywrath."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Drag_move_01.mp3"
-        ],
-        "mp3Text": "Indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Drag_move_02.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Drag_move_03.mp3"
-        ],
-        "mp3Text": "I go as bid."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drag_move_04.mp3"
-        ],
-        "mp3Text": "'Tis my honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Drag_move_05.mp3"
-        ],
-        "mp3Text": "My power is summoned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_move_06.mp3"
-        ],
-        "mp3Text": "Forth and willingly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_move_07.mp3"
-        ],
-        "mp3Text": "You'll have no cause to question me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Drag_move_08.mp3"
-        ],
-        "mp3Text": "Undoubtedly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_move_09.mp3"
-        ],
-        "mp3Text": "Just so."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Drag_move_10.mp3"
-        ],
-        "mp3Text": "As it is in my power."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Drag_move_11.mp3"
-        ],
-        "mp3Text": "As I will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_move_12.mp3"
-        ],
-        "mp3Text": "It is right."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Drag_move_13.mp3"
-        ],
-        "mp3Text": "That may well be."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Drag_move_14.mp3"
-        ],
-        "mp3Text": "Be it thus."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_move_15.mp3"
-        ],
-        "mp3Text": "Consider the consequences."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Drag_move_16.mp3"
-        ],
-        "mp3Text": "You've thought this through?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_move_17.mp3"
-        ],
-        "mp3Text": "Very well then."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Drag_move_18.mp3"
-        ],
-        "mp3Text": "Indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Drag_move_19.mp3"
-        ],
-        "mp3Text": "To a new landing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Drag_move_20.mp3"
-        ],
-        "mp3Text": "By my wings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_move_21.mp3"
-        ],
-        "mp3Text": "I'll bide my time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_move_22.mp3"
-        ],
-        "mp3Text": "Yes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Drag_move_01.mp3"
+    ],
+    "mp3Text": "Indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Drag_move_02.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Drag_move_03.mp3"
+    ],
+    "mp3Text": "I go as bid."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drag_move_04.mp3"
+    ],
+    "mp3Text": "'Tis my honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Drag_move_05.mp3"
+    ],
+    "mp3Text": "My power is summoned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_move_06.mp3"
+    ],
+    "mp3Text": "Forth and willingly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_move_07.mp3"
+    ],
+    "mp3Text": "You'll have no cause to question me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Drag_move_08.mp3"
+    ],
+    "mp3Text": "Undoubtedly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_move_09.mp3"
+    ],
+    "mp3Text": "Just so."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Drag_move_10.mp3"
+    ],
+    "mp3Text": "As it is in my power."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Drag_move_11.mp3"
+    ],
+    "mp3Text": "As I will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_move_12.mp3"
+    ],
+    "mp3Text": "It is right."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Drag_move_13.mp3"
+    ],
+    "mp3Text": "That may well be."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Drag_move_14.mp3"
+    ],
+    "mp3Text": "Be it thus."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_move_15.mp3"
+    ],
+    "mp3Text": "Consider the consequences."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Drag_move_16.mp3"
+    ],
+    "mp3Text": "You've thought this through?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_move_17.mp3"
+    ],
+    "mp3Text": "Very well then."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Drag_move_18.mp3"
+    ],
+    "mp3Text": "Indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Drag_move_19.mp3"
+    ],
+    "mp3Text": "To a new landing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Drag_move_20.mp3"
+    ],
+    "mp3Text": "By my wings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_move_21.mp3"
+    ],
+    "mp3Text": "I'll bide my time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_move_22.mp3"
+    ],
+    "mp3Text": "Yes."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Drag_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Drag_attack_02.mp3"
-        ],
-        "mp3Text": "By the Bloody Pinion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_attack_03.mp3"
-        ],
-        "mp3Text": "By the talons of Skree'auk!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Drag_attack_04.mp3"
-        ],
-        "mp3Text": "Avilliva sends me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Drag_attack_05.mp3"
-        ],
-        "mp3Text": "I'll break their wings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Drag_attack_06.mp3"
-        ],
-        "mp3Text": "I'll dash them to the earth."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Drag_attack_07.mp3"
-        ],
-        "mp3Text": "Who dares fly against me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Drag_attack_08.mp3"
-        ],
-        "mp3Text": "None threaten me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_attack_09.mp3"
-        ],
-        "mp3Text": "The time has arrived!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Drag_attack_10.mp3"
-        ],
-        "mp3Text": "By Skree'auk!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_attack_11.mp3"
-        ],
-        "mp3Text": "By the ancient powers!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Drag_attack_12.mp3"
-        ],
-        "mp3Text": "Arcane are my ways."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Drag_attack_13.mp3"
-        ],
-        "mp3Text": "You have entered my realm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Drag_attack_14.mp3"
-        ],
-        "mp3Text": "I'll dash them to the ground."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Drag_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Drag_attack_02.mp3"
+    ],
+    "mp3Text": "By the Bloody Pinion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_attack_03.mp3"
+    ],
+    "mp3Text": "By the talons of Skree'auk!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Drag_attack_04.mp3"
+    ],
+    "mp3Text": "Avilliva sends me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Drag_attack_05.mp3"
+    ],
+    "mp3Text": "I'll break their wings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Drag_attack_06.mp3"
+    ],
+    "mp3Text": "I'll dash them to the earth."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Drag_attack_07.mp3"
+    ],
+    "mp3Text": "Who dares fly against me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Drag_attack_08.mp3"
+    ],
+    "mp3Text": "None threaten me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_attack_09.mp3"
+    ],
+    "mp3Text": "The time has arrived!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Drag_attack_10.mp3"
+    ],
+    "mp3Text": "By Skree'auk!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_attack_11.mp3"
+    ],
+    "mp3Text": "By the ancient powers!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Drag_attack_12.mp3"
+    ],
+    "mp3Text": "Arcane are my ways."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Drag_attack_13.mp3"
+    ],
+    "mp3Text": "You have entered my realm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Drag_attack_14.mp3"
+    ],
+    "mp3Text": "I'll dash them to the ground."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Drag_cast_01.mp3"
-        ],
-        "mp3Text": "Prepare for a reckoning!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_cast_02.mp3"
-        ],
-        "mp3Text": "The skies are dark with Skywrath power!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Drag_cast_03.mp3"
-        ],
-        "mp3Text": "Fly where you will, I will follow you there!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Drag_cast_01.mp3"
+    ],
+    "mp3Text": "Prepare for a reckoning!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_cast_02.mp3"
+    ],
+    "mp3Text": "The skies are dark with Skywrath power!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Drag_cast_03.mp3"
+    ],
+    "mp3Text": "Fly where you will, I will follow you there!"
   },
   {
     "headTitle": "Abilities",
@@ -468,30 +492,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Drag_arcanebolt_02.mp3"
-        ],
-        "mp3Text": "Kar'rah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Drag_arcanebolt_03.mp3"
-        ],
-        "mp3Text": "Haiyah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Drag_arcanebolt_02.mp3"
+    ],
+    "mp3Text": "Kar'rah!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Drag_arcanebolt_01.mp3"
-        ],
-        "mp3Text": "Hayah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Drag_arcanebolt_03.mp3"
+    ],
+    "mp3Text": "Haiyah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Drag_arcanebolt_01.mp3"
+    ],
+    "mp3Text": "Hayah!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/88/Concussive_Shot_icon.png/16px-Concussive_Shot_icon.png?version=2f1f2f78bd192c1ba3900d9d16567451",
@@ -503,26 +522,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Drag_concussive_shot_01.mp3"
-        ],
-        "mp3Text": "Bal'lash!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Drag_concussive_shot_02.mp3"
-        ],
-        "mp3Text": "Kro'kara!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Drag_concussive_shot_03.mp3"
-        ],
-        "mp3Text": "Ayakh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Drag_concussive_shot_01.mp3"
+    ],
+    "mp3Text": "Bal'lash!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Drag_concussive_shot_02.mp3"
+    ],
+    "mp3Text": "Kro'kara!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Drag_concussive_shot_03.mp3"
+    ],
+    "mp3Text": "Ayakh!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Ancient_Seal_icon.png/16px-Ancient_Seal_icon.png?version=131495972dbc53d95b046ee78434a5e2",
@@ -534,30 +552,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_ancient_seal_01.mp3"
-        ],
-        "mp3Text": "By the Ancient Seal!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Drag_ancient_seal_03.mp3"
-        ],
-        "mp3Text": "Kay'ar'osh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Drag_ancient_seal_01.mp3"
+    ],
+    "mp3Text": "By the Ancient Seal!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Drag_ancient_seal_02.mp3"
-        ],
-        "mp3Text": "The Seal of Avilliva upon you!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Drag_ancient_seal_03.mp3"
+    ],
+    "mp3Text": "Kay'ar'osh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Drag_ancient_seal_02.mp3"
+    ],
+    "mp3Text": "The Seal of Avilliva upon you!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Mystic_Flare_icon.png/16px-Mystic_Flare_icon.png?version=63394a2f91ab6e363bd7b753daeaa8b3",
@@ -569,382 +582,407 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_mystic_flare_01.mp3"
-        ],
-        "mp3Text": "Mystic flare!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_mystic_flare_02.mp3"
-        ],
-        "mp3Text": "The light of pain upon you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_mystic_flare_03.mp3"
-        ],
-        "mp3Text": "Share the light of agony!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Drag_mystic_flare_04.mp3"
-        ],
-        "mp3Text": "Gor'kurroh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Drag_mystic_flare_05.mp3"
-        ],
-        "mp3Text": "Kur'gor'karrah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_mystic_flare_01.mp3"
+    ],
+    "mp3Text": "Mystic flare!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_mystic_flare_02.mp3"
+    ],
+    "mp3Text": "The light of pain upon you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_mystic_flare_03.mp3"
+    ],
+    "mp3Text": "Share the light of agony!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Drag_mystic_flare_04.mp3"
+    ],
+    "mp3Text": "Gor'kurroh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Drag_mystic_flare_05.mp3"
+    ],
+    "mp3Text": "Kur'gor'karrah!"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Drag_arcanebolt_06.mp3"
-        ],
-        "mp3Text": "Fly, fly!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_levelup_01.mp3"
-        ],
-        "mp3Text": "From tip to tip my wings cover the sky!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_levelup_02.mp3"
-        ],
-        "mp3Text": "The Skywrath live through me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_levelup_03.mp3"
-        ],
-        "mp3Text": "The truth of my heart shall be writ upon the skies."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Drag_levelup_04.mp3"
-        ],
-        "mp3Text": "A lesser being would grow dizzy at such heights."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_levelup_05.mp3"
-        ],
-        "mp3Text": "Ah, Skree'auk, your blood enthralls me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Drag_levelup_06.mp3"
-        ],
-        "mp3Text": "In the name of my secret love I'll use this power well."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Drag_levelup_07.mp3"
-        ],
-        "mp3Text": "Higher I soar!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Drag_levelup_08.mp3"
-        ],
-        "mp3Text": "All creation lies strewn below me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Drag_levelup_09.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_levelup_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Drag_arcanebolt_06.mp3"
+    ],
+    "mp3Text": "Fly, fly!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_levelup_01.mp3"
+    ],
+    "mp3Text": "From tip to tip my wings cover the sky!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_levelup_02.mp3"
+    ],
+    "mp3Text": "The Skywrath live through me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_levelup_03.mp3"
+    ],
+    "mp3Text": "The truth of my heart shall be writ upon the skies."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Drag_levelup_04.mp3"
+    ],
+    "mp3Text": "A lesser being would grow dizzy at such heights."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_levelup_05.mp3"
+    ],
+    "mp3Text": "Ah, Skree'auk, your blood enthralls me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Drag_levelup_06.mp3"
+    ],
+    "mp3Text": "In the name of my secret love I'll use this power well."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Drag_levelup_07.mp3"
+    ],
+    "mp3Text": "Higher I soar!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Drag_levelup_08.mp3"
+    ],
+    "mp3Text": "All creation lies strewn below me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Drag_levelup_09.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_levelup_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Drag_kill_01.mp3"
-        ],
-        "mp3Text": "Skree'auk's talons pierce your soul."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_kill_03.mp3"
-        ],
-        "mp3Text": "Her talons take you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Drag_kill_04.mp3"
-        ],
-        "mp3Text": "All I do, I do in Her name."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Drag_kill_05.mp3"
-        ],
-        "mp3Text": "I use my powers wisely. Take that as you will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Drag_kill_06.mp3"
-        ],
-        "mp3Text": "I end your life that something good may begin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Drag_kill_07.mp3"
-        ],
-        "mp3Text": "Think of it as a new beginning."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_kill_08.mp3"
-        ],
-        "mp3Text": "I gave your death some thought, believe me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Drag_kill_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_kill_12.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_02.mp3"
-        ],
-        "mp3Text": "He he he he ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Drag_laugh_07.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Drag_kill_01.mp3"
+    ],
+    "mp3Text": "Skree'auk's talons pierce your soul."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_kill_09.mp3"
-        ],
-        "mp3Text": "I do not kill you lightly. But still, you are dead."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_kill_10.mp3"
-        ],
-        "mp3Text": "I am a tool of the greater good. What does that make you?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_kill_03.mp3"
+    ],
+    "mp3Text": "Her talons take you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Drag_kill_04.mp3"
+    ],
+    "mp3Text": "All I do, I do in Her name."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Drag_kill_05.mp3"
+    ],
+    "mp3Text": "I use my powers wisely. Take that as you will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Drag_kill_06.mp3"
+    ],
+    "mp3Text": "I end your life that something good may begin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Drag_kill_07.mp3"
+    ],
+    "mp3Text": "Think of it as a new beginning."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Drag_kill_08.mp3"
+    ],
+    "mp3Text": "I gave your death some thought, believe me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Drag_kill_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_kill_12.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_02.mp3"
+    ],
+    "mp3Text": "He he he he ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Drag_laugh_07.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Drag_kill_09.mp3"
+    ],
+    "mp3Text": "I do not kill you lightly. But still, you are dead."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_kill_10.mp3"
+    ],
+    "mp3Text": "I am a tool of the greater good. What does that make you?"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_rival_01.mp3"
+    ],
+    "mp3Text": "My secret love dies with you.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_rival_01.mp3"
-        ],
-        "mp3Text": "My secret love dies with you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_rival_03.mp3"
+    ],
+    "mp3Text": "It was all I could give you, Sweet Spirit.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_rival_03.mp3"
-        ],
-        "mp3Text": "It was all I could give you, Sweet Spirit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_rival_04.mp3"
+    ],
+    "mp3Text": "Be released from your suffering, Vengeful One.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_rival_04.mp3"
-        ],
-        "mp3Text": "Be released from your suffering, Vengeful One.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Drag_rival_05.mp3"
+    ],
+    "mp3Text": "You must take your magic more seriously.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Drag_rival_05.mp3"
-        ],
-        "mp3Text": "You must take your magic more seriously.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
-            "name": "Rubick"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
+        "name": "Rubick"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Drag_rival_06.mp3"
+    ],
+    "mp3Text": "I think you will remember me now, eh?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Drag_rival_06.mp3"
-        ],
-        "mp3Text": "I think you will remember me now, eh?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Drag_rival_07.mp3"
+    ],
+    "mp3Text": "Your bookish ways have made you myopic.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Drag_rival_07.mp3"
-        ],
-        "mp3Text": "Your bookish ways have made you myopic.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Drag_rival_08.mp3"
+    ],
+    "mp3Text": "I put you down unfinished, like a terrible book, heh heh.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Drag_rival_08.mp3"
-        ],
-        "mp3Text": "I put you down unfinished, like a terrible book, heh heh.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_rival_09.mp3"
+    ],
+    "mp3Text": "Such wings should not be allowed so near the heavens.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_rival_09.mp3"
-        ],
-        "mp3Text": "Such wings should not be allowed so near the heavens.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Drag_rival_10.mp3"
+    ],
+    "mp3Text": "One source of aerial pollution curtailed.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Drag_rival_10.mp3"
-        ],
-        "mp3Text": "One source of aerial pollution curtailed.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
-            "name": "Viper"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
+        "name": "Viper"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Drag_rival_11.mp3"
+    ],
+    "mp3Text": "How dare you sport wings when others more deserving have lost theirs.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Drag_rival_11.mp3"
-        ],
-        "mp3Text": "How dare you sport wings when others more deserving have lost theirs.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Drag_rival_12.mp3"
+    ],
+    "mp3Text": "There dies the most repugnant of them all!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Drag_rival_12.mp3"
-        ],
-        "mp3Text": "There dies the most repugnant of them all!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-            "name": "Pugna"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+        "name": "Pugna"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Drag_rival_13.mp3"
+    ],
+    "mp3Text": "Your wards were no match for the Skywrath!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Drag_rival_13.mp3"
-        ],
-        "mp3Text": "Your wards were no match for the Skywrath!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-            "name": "Pugna"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+        "name": "Pugna"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Drag_rival_14.mp3"
+    ],
+    "mp3Text": "A low creature indeed was Pugna!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Drag_rival_14.mp3"
-        ],
-        "mp3Text": "A low creature indeed was Pugna!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-            "name": "Pugna"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+        "name": "Pugna"
       }
     ]
   },
@@ -953,24 +991,18 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Drag_kill_02.mp3"
-        ],
-        "mp3Text": "Those who tangle with the Skywrath risk a fall from starry heights."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Drag_kill_02.mp3"
+    ],
+    "mp3Text": "Those who tangle with the Skywrath risk a fall from starry heights."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_firstblood_01.mp3"
-        ],
-        "mp3Text": "I would give all this, and my blood too if it meant the Skywrath Scion were restored!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_firstblood_01.mp3"
+    ],
+    "mp3Text": "I would give all this, and my blood too if it meant the Skywrath Scion were restored!"
   },
   {
     "headTitle": "Meeting an ally",
@@ -981,138 +1013,145 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Drag_ally_01.mp3"
+    ],
+    "mp3Text": "Ah, my heart, my wings, let us fly.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Drag_ally_01.mp3"
-        ],
-        "mp3Text": "Ah, my heart, my wings, let us fly.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_ally_02.mp3"
+    ],
+    "mp3Text": "Vengeful Spirit, let us work to see you avenged.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_ally_02.mp3"
-        ],
-        "mp3Text": "Vengeful Spirit, let us work to see you avenged.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_ally_03.mp3"
+    ],
+    "mp3Text": "May I join you in seeking your revenge?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_ally_03.mp3"
-        ],
-        "mp3Text": "May I join you in seeking your revenge?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Drag_ally_04.mp3"
+    ],
+    "mp3Text": "If you will deign to notice me, Invoker, I believe we can learn from each other.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Drag_ally_04.mp3"
-        ],
-        "mp3Text": "If you will deign to notice me, Invoker, I believe we can learn from each other.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Drag_ally_05.mp3"
+    ],
+    "mp3Text": "Invoker, do not pretend you have forgotten me, eh?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Drag_ally_05.mp3"
-        ],
-        "mp3Text": "Invoker, do not pretend you have forgotten me, eh?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Drag_ally_06.mp3"
+    ],
+    "mp3Text": "Ah, Rubick, always a pleasure.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Drag_ally_06.mp3"
-        ],
-        "mp3Text": "Ah, Rubick, always a pleasure.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
-            "name": "Rubick"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
+        "name": "Rubick"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Drag_ally_07.mp3"
+    ],
+    "mp3Text": "My heart is heavy, Rubick. It is a relief to see yours so light.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Drag_ally_07.mp3"
-        ],
-        "mp3Text": "My heart is heavy, Rubick. It is a relief to see yours so light.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
-            "name": "Rubick"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Rubick_minimap_icon.png/16px-Rubick_minimap_icon.png?version=48579bcab3fee519413f33f2dee1109d",
+        "name": "Rubick"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Drag_ally_08.mp3"
+    ],
+    "mp3Text": "Your grimoire, does it say how this will end?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Drag_ally_08.mp3"
-        ],
-        "mp3Text": "Your grimoire, does it say how this will end?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_ally_09.mp3"
+    ],
+    "mp3Text": "Warlock, I hope you don't fight like a librarian.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_ally_09.mp3"
-        ],
-        "mp3Text": "Warlock, I hope you don't fight like a librarian.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_ally_10.mp3"
+    ],
+    "mp3Text": "Who is that down there? Well hello! It's Pugna!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_ally_10.mp3"
-        ],
-        "mp3Text": "Who is that down there? Well hello! It's Pugna!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-            "name": "Pugna"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+        "name": "Pugna"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Drag_ally_11.mp3"
+    ],
+    "mp3Text": "Pugna, I am glad to see your wards in our service.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Drag_ally_11.mp3"
-        ],
-        "mp3Text": "Pugna, I am glad to see your wards in our service.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
-            "name": "Pugna"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Pugna_minimap_icon.png/16px-Pugna_minimap_icon.png?version=89c24c7f4dbd39a3056232c4df7d428e",
+        "name": "Pugna"
       }
     ]
   },
@@ -1121,446 +1160,471 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Drag_lasthit_01.mp3"
-        ],
-        "mp3Text": "Give it here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Drag_lasthit_02.mp3"
-        ],
-        "mp3Text": "Let it fall."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Drag_lasthit_03.mp3"
-        ],
-        "mp3Text": "'Tis mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_lasthit_04.mp3"
-        ],
-        "mp3Text": "Toward our greater end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Drag_lasthit_05.mp3"
-        ],
-        "mp3Text": "I accept."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Drag_lasthit_06.mp3"
-        ],
-        "mp3Text": "This gladdens me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Drag_lasthit_07.mp3"
-        ],
-        "mp3Text": "I shall not report you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Drag_lasthit_08.mp3"
-        ],
-        "mp3Text": "'Tis safe with me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_lasthit_09.mp3"
-        ],
-        "mp3Text": "I'll keep this."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Drag_lasthit_10.mp3"
-        ],
-        "mp3Text": "Mine only."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Drag_lasthit_11.mp3"
-        ],
-        "mp3Text": "'Tis mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Drag_lasthit_01.mp3"
+    ],
+    "mp3Text": "Give it here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Drag_lasthit_02.mp3"
+    ],
+    "mp3Text": "Let it fall."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Drag_lasthit_03.mp3"
+    ],
+    "mp3Text": "'Tis mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_lasthit_04.mp3"
+    ],
+    "mp3Text": "Toward our greater end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Drag_lasthit_05.mp3"
+    ],
+    "mp3Text": "I accept."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Drag_lasthit_06.mp3"
+    ],
+    "mp3Text": "This gladdens me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Drag_lasthit_07.mp3"
+    ],
+    "mp3Text": "I shall not report you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Drag_lasthit_08.mp3"
+    ],
+    "mp3Text": "'Tis safe with me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_lasthit_09.mp3"
+    ],
+    "mp3Text": "I'll keep this."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Drag_lasthit_10.mp3"
+    ],
+    "mp3Text": "Mine only."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Drag_lasthit_11.mp3"
+    ],
+    "mp3Text": "'Tis mine."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Drag_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Drag_deny_03.mp3"
-        ],
-        "mp3Text": "Uh uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Drag_deny_04.mp3"
-        ],
-        "mp3Text": "Down you go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_deny_05.mp3"
-        ],
-        "mp3Text": "That's enough."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_deny_06.mp3"
-        ],
-        "mp3Text": "Mine, I think."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Drag_deny_07.mp3"
-        ],
-        "mp3Text": "A small loss."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_deny_08.mp3"
-        ],
-        "mp3Text": "A trifle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Drag_deny_09.mp3"
-        ],
-        "mp3Text": "Go to!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Drag_deny_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_deny_11.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Drag_deny_12.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Drag_deny_13.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_deny_14.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_deny_15.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Drag_deny_16.mp3"
-        ],
-        "mp3Text": "Denied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Drag_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Drag_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Drag_deny_03.mp3"
+    ],
+    "mp3Text": "Uh uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Drag_deny_04.mp3"
+    ],
+    "mp3Text": "Down you go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_deny_05.mp3"
+    ],
+    "mp3Text": "That's enough."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_deny_06.mp3"
+    ],
+    "mp3Text": "Mine, I think."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Drag_deny_07.mp3"
+    ],
+    "mp3Text": "A small loss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_deny_08.mp3"
+    ],
+    "mp3Text": "A trifle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Drag_deny_09.mp3"
+    ],
+    "mp3Text": "Go to!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Drag_deny_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Drag_deny_11.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Drag_deny_12.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Drag_deny_13.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Drag_deny_14.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Drag_deny_15.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Drag_deny_16.mp3"
+    ],
+    "mp3Text": "Denied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_purch_01.mp3"
-        ],
-        "mp3Text": "Not for myself but for the cause."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_purch_02.mp3"
-        ],
-        "mp3Text": "No cost too great if it serves the greater purpose."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Drag_purch_03.mp3"
-        ],
-        "mp3Text": "Strange how merely purchasing an item can dispel the shrouds of gloom."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_purch_01.mp3"
+    ],
+    "mp3Text": "Not for myself but for the cause."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_purch_02.mp3"
+    ],
+    "mp3Text": "No cost too great if it serves the greater purpose."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Drag_purch_03.mp3"
+    ],
+    "mp3Text": "Strange how merely purchasing an item can dispel the shrouds of gloom."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Drag_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Drag_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_scepter_02.mp3"
-        ],
-        "mp3Text": "I hold this scepter in another's name.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_blink_01.mp3"
-        ],
-        "mp3Text": "Blink Dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Drag_blink_02.mp3"
-        ],
-        "mp3Text": "My purpose unblinking this Blink Dagger serves.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Drag_items_01.mp3"
-        ],
-        "mp3Text": "Scepter of Divinity!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_items_02.mp3"
-        ],
-        "mp3Text": "Bloodstone!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Drag_items_03.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Drag_items_04.mp3"
-        ],
-        "mp3Text": "Ghost Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Ghost_Scepter_icon.png/20px-Ghost_Scepter_icon.png?version=e51a5116f693954f8f7c8aa510b045c3",
-            "name": "Ghost Scepter (1500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_items_05.mp3"
-        ],
-        "mp3Text": "Ethereal Blade!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
-            "name": "Ethereal Blade (4700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Drag_items_06.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_items_07.mp3"
-        ],
-        "mp3Text": "Linken's Sphere!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Drag_items_08.mp3"
-        ],
-        "mp3Text": "Force staff!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Drag_items_09.mp3"
-        ],
-        "mp3Text": "Rod of Atos!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/66/Rod_of_Atos_icon.png/20px-Rod_of_Atos_icon.png?version=a63eef59920bdd2e39a5566345040199",
-            "name": "Rod of Atos (2930)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Drag_items_10.mp3"
-        ],
-        "mp3Text": "Dagon!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
-            "name": "Dagon (2715)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Drag_items_11.mp3"
-        ],
-        "mp3Text": "Drums of Endurance!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-            "name": "Drum of Endurance (1615)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_items_12.mp3"
-        ],
-        "mp3Text": "Veil of Discord!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
-            "name": "Veil of Discord (2330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Drag_scepter_02.mp3"
+    ],
+    "mp3Text": "I hold this scepter in another's name.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Drag_immort_02.mp3"
-        ],
-        "mp3Text": "Nor shall I die until my task is done!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_blink_01.mp3"
+    ],
+    "mp3Text": "Blink Dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Drag_blink_03.mp3"
-        ],
-        "mp3Text": "My purpose unblinking…unlike this dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Drag_blink_02.mp3"
+    ],
+    "mp3Text": "My purpose unblinking this Blink Dagger serves.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Drag_items_01.mp3"
+    ],
+    "mp3Text": "Scepter of Divinity!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Drag_items_02.mp3"
+    ],
+    "mp3Text": "Bloodstone!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Drag_items_03.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Drag_items_04.mp3"
+    ],
+    "mp3Text": "Ghost Scepter!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Ghost_Scepter_icon.png/20px-Ghost_Scepter_icon.png?version=e51a5116f693954f8f7c8aa510b045c3",
+        "name": "Ghost Scepter (1500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_items_05.mp3"
+    ],
+    "mp3Text": "Ethereal Blade!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
+        "name": "Ethereal Blade (4700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Drag_items_06.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_items_07.mp3"
+    ],
+    "mp3Text": "Linken's Sphere!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Drag_items_08.mp3"
+    ],
+    "mp3Text": "Force staff!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Drag_items_09.mp3"
+    ],
+    "mp3Text": "Rod of Atos!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/66/Rod_of_Atos_icon.png/20px-Rod_of_Atos_icon.png?version=a63eef59920bdd2e39a5566345040199",
+        "name": "Rod of Atos (2930)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Drag_items_10.mp3"
+    ],
+    "mp3Text": "Dagon!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
+        "name": "Dagon (2715)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Drag_items_11.mp3"
+    ],
+    "mp3Text": "Drums of Endurance!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+        "name": "Drum of Endurance (1615)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Drag_items_12.mp3"
+    ],
+    "mp3Text": "Veil of Discord!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
+        "name": "Veil of Discord (2330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Drag_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Drag_immort_02.mp3"
+    ],
+    "mp3Text": "Nor shall I die until my task is done!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Drag_blink_03.mp3"
+    ],
+    "mp3Text": "My purpose unblinking…unlike this dagger.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
@@ -1569,96 +1633,96 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Drag_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_death_02.mp3"
-        ],
-        "mp3Text": "Oh, drat!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_death_03.mp3"
-        ],
-        "mp3Text": "Wings of light, carry me off."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_death_04.mp3"
-        ],
-        "mp3Text": "I soared so briefly…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Drag_death_05.mp3"
-        ],
-        "mp3Text": "Still Her face I see!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Drag_death_06.mp3"
-        ],
-        "mp3Text": "My death means nothing next to hers!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Drag_death_07.mp3"
-        ],
-        "mp3Text": "My dreams, unrequited!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Drag_death_08.mp3"
-        ],
-        "mp3Text": "Never to restore Her to the Nest of Thorns!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Drag_death_09.mp3"
-        ],
-        "mp3Text": "The Ghastly Eyrie will miss me not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_death_11.mp3"
-        ],
-        "mp3Text": "I was never understood."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Drag_death_01.mp3"
+    ],
+    "mp3Text": "No!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_death_10.mp3"
-        ],
-        "mp3Text": "To fall from such a height…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_death_02.mp3"
+    ],
+    "mp3Text": "Oh, drat!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_death_03.mp3"
+    ],
+    "mp3Text": "Wings of light, carry me off."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Drag_death_04.mp3"
+    ],
+    "mp3Text": "I soared so briefly…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Drag_death_05.mp3"
+    ],
+    "mp3Text": "Still Her face I see!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Drag_death_06.mp3"
+    ],
+    "mp3Text": "My death means nothing next to hers!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Drag_death_07.mp3"
+    ],
+    "mp3Text": "My dreams, unrequited!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Drag_death_08.mp3"
+    ],
+    "mp3Text": "Never to restore Her to the Nest of Thorns!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Drag_death_09.mp3"
+    ],
+    "mp3Text": "The Ghastly Eyrie will miss me not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_death_11.mp3"
+    ],
+    "mp3Text": "I was never understood."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Drag_death_10.mp3"
+    ],
+    "mp3Text": "To fall from such a height…"
   },
   {
     "text": "Dying to a specific hero",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Drag_rival_02.mp3"
+    ],
+    "mp3Text": "I die, but my love lives on…",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Drag_rival_02.mp3"
-        ],
-        "mp3Text": "I die, but my love lives on…",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
-            "name": "Vengeful Spirit"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Vengeful_Spirit_minimap_icon.png/16px-Vengeful_Spirit_minimap_icon.png?version=84dd48be937ea8f121932353d0b34917",
+        "name": "Vengeful Spirit"
       }
     ]
   },
@@ -1667,112 +1731,110 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Drag_respawn_01.mp3"
-        ],
-        "mp3Text": "I am undaunted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Drag_respawn_02.mp3"
-        ],
-        "mp3Text": "Never more to see my Skywrath home? That would be worse than any death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Drag_respawn_03.mp3"
-        ],
-        "mp3Text": "Small suffering compared to that of some I know."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Drag_respawn_04.mp3"
-        ],
-        "mp3Text": "Power comes from the heart, and now mine beats anew."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_respawn_05.mp3"
-        ],
-        "mp3Text": "I rededicate my magic to the Nest of Thorns."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Drag_respawn_07.mp3"
-        ],
-        "mp3Text": "The Ghastly Eyrie waits in readiness."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_respawn_08.mp3"
-        ],
-        "mp3Text": "Revenge, always before me, before all else."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_respawn_09.mp3"
-        ],
-        "mp3Text": "If my death can help restore her to the Eyrie, it is worth every sacrifice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_respawn_10.mp3"
-        ],
-        "mp3Text": "I live not for myself, dear one, but in honor of your loss."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Drag_respawn_01.mp3"
+    ],
+    "mp3Text": "I am undaunted."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Drag_respawn_06.mp3"
-        ],
-        "mp3Text": "The hot winds of hell I fear not for they carry me to Skywrath heaven!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Drag_respawn_02.mp3"
+    ],
+    "mp3Text": "Never more to see my Skywrath home? That would be worse than any death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Drag_respawn_03.mp3"
+    ],
+    "mp3Text": "Small suffering compared to that of some I know."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Drag_respawn_04.mp3"
+    ],
+    "mp3Text": "Power comes from the heart, and now mine beats anew."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_respawn_05.mp3"
+    ],
+    "mp3Text": "I rededicate my magic to the Nest of Thorns."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Drag_respawn_07.mp3"
+    ],
+    "mp3Text": "The Ghastly Eyrie waits in readiness."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_respawn_08.mp3"
+    ],
+    "mp3Text": "Revenge, always before me, before all else."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Drag_respawn_09.mp3"
+    ],
+    "mp3Text": "If my death can help restore her to the Eyrie, it is worth every sacrifice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_respawn_10.mp3"
+    ],
+    "mp3Text": "I live not for myself, dear one, but in honor of your loss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Drag_respawn_06.mp3"
+    ],
+    "mp3Text": "The hot winds of hell I fear not for they carry me to Skywrath heaven!"
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_fastres_01.mp3"
-        ],
-        "mp3Text": "That my friend was a mistake."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_fastres_01.mp3"
+    ],
+    "mp3Text": "That my friend was a mistake."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_bottle_01.mp3"
-        ],
-        "mp3Text": "An opportunity for patience."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Drag_bottle_02.mp3"
-        ],
-        "mp3Text": "I bide my time and this rune."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Drag_bottle_03.mp3"
-        ],
-        "mp3Text": "Wait with me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_bottle_01.mp3"
+    ],
+    "mp3Text": "An opportunity for patience."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Drag_bottle_02.mp3"
+    ],
+    "mp3Text": "I bide my time and this rune."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Drag_bottle_03.mp3"
+    ],
+    "mp3Text": "Wait with me!"
   },
   {
     "headTitle": "Activating runes",
@@ -1784,14 +1846,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_purch_01.mp3"
-        ],
-        "mp3Text": "Not for myself but for the cause."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Drag_purch_01.mp3"
+    ],
+    "mp3Text": "Not for myself but for the cause."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1799,14 +1858,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Drag_lasthit_11.mp3"
-        ],
-        "mp3Text": "'Tis mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Drag_lasthit_11.mp3"
+    ],
+    "mp3Text": "'Tis mine."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1814,24 +1870,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Drag_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Drag_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Drag_doubdam_02.mp3"
-        ],
-        "mp3Text": "Like twin swipes of Skree'auk's talons!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Drag_doubdam_02.mp3"
+    ],
+    "mp3Text": "Like twin swipes of Skree'auk's talons!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1839,24 +1889,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Drag_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_haste_02.mp3"
-        ],
-        "mp3Text": "Speed the day when revenge has been requited."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_haste_02.mp3"
+    ],
+    "mp3Text": "Speed the day when revenge has been requited."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1864,24 +1908,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Drag_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Drag_illus_02.mp3"
-        ],
-        "mp3Text": "We serve the same purpose all."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Drag_illus_02.mp3"
+    ],
+    "mp3Text": "We serve the same purpose all."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1889,24 +1927,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Drag_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Drag_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Drag_invis_02.mp3"
-        ],
-        "mp3Text": "The pinions of night enfold me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Drag_invis_02.mp3"
+    ],
+    "mp3Text": "The pinions of night enfold me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1914,24 +1946,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Drag_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_regen_02.mp3"
-        ],
-        "mp3Text": "The heavenly winds imbue my wings with life."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Drag_regen_02.mp3"
+    ],
+    "mp3Text": "The heavenly winds imbue my wings with life."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1942,78 +1968,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Drag_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Drag_notyet_04.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Drag_notyet_07.mp3"
-        ],
-        "mp3Text": "No, it's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Drag_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Drag_notyet_04.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Drag_notyet_07.mp3"
+    ],
+    "mp3Text": "No, it's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Drag_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Drag_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Drag_notyet_08.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Drag_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Drag_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Drag_notyet_08.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Drag_notyet_03.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_notyet_06.mp3"
-        ],
-        "mp3Text": "Hey, I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Drag_notyet_03.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_notyet_06.mp3"
+    ],
+    "mp3Text": "Hey, I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Drag_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2024,150 +2047,149 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Drag_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Drag_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Drag_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Drag_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Drag_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Drag_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Drag_nomana_02.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Drag_nomana_05.mp3"
-        ],
-        "mp3Text": "No, no mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Drag_nomana_08.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Drag_nomana_02.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Drag_nomana_05.mp3"
+    ],
+    "mp3Text": "No, no mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Drag_nomana_08.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Drag_nomana_03.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Drag_nomana_06.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Drag_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana! Come on!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Drag_nomana_03.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Drag_nomana_06.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Drag_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana! Come on!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Drag_pain_01.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Drag_pain_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Drag_pain_03.mp3"
-        ],
-        "mp3Text": "Oof!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_pain_04.mp3"
-        ],
-        "mp3Text": "Eh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Drag_pain_05.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Drag_pain_06.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Drag_pain_07.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Drag_pain_08.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_pain_09.mp3"
-        ],
-        "mp3Text": "Oh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Drag_pain_01.mp3"
+    ],
+    "mp3Text": "Uh!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Drag_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Drag_pain_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Drag_pain_03.mp3"
+    ],
+    "mp3Text": "Oof!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Drag_pain_04.mp3"
+    ],
+    "mp3Text": "Eh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Drag_pain_05.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Drag_pain_06.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Drag_pain_07.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Drag_pain_08.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Drag_pain_09.mp3"
+    ],
+    "mp3Text": "Oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Drag_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2178,26 +2200,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Drag_respawn_02.mp3"
-        ],
-        "mp3Text": "Never more to see my Skywrath home? That would be worse than any death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_begin_02.mp3"
-        ],
-        "mp3Text": "Even on this fallen field, I dedicate my powers to the lofty Skywrath."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_respawn_10.mp3"
-        ],
-        "mp3Text": "I live not for myself, dear one, but in honor of your loss."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Drag_respawn_02.mp3"
+    ],
+    "mp3Text": "Never more to see my Skywrath home? That would be worse than any death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Drag_begin_02.mp3"
+    ],
+    "mp3Text": "Even on this fallen field, I dedicate my powers to the lofty Skywrath."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_respawn_10.mp3"
+    ],
+    "mp3Text": "I live not for myself, dear one, but in honor of your loss."
   },
   {
     "headTitle": "Chat responses",
@@ -2208,84 +2229,82 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Drag_lanemissing_01.mp3"
-        ],
-        "mp3Text": "Missing Top!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Drag_lanemissing_02.mp3"
-        ],
-        "mp3Text": "Missing Middle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Drag_lanemissing_03.mp3"
-        ],
-        "mp3Text": "Missing Bottom!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Drag_lanemissing_01.mp3"
+    ],
+    "mp3Text": "Missing Top!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Drag_lanemissing_02.mp3"
+    ],
+    "mp3Text": "Missing Middle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Drag_lanemissing_03.mp3"
+    ],
+    "mp3Text": "Missing Bottom!"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Drag_thanks_01.mp3"
-        ],
-        "mp3Text": "My gratitude."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Drag_thanks_02.mp3"
-        ],
-        "mp3Text": "Twas honorably done."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Drag_thanks_01.mp3"
+    ],
+    "mp3Text": "My gratitude."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Drag_thanks_02.mp3"
+    ],
+    "mp3Text": "Twas honorably done."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_02.mp3"
-        ],
-        "mp3Text": "He he he he ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Drag_laugh_07.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Drag_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_02.mp3"
+    ],
+    "mp3Text": "He he he he ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Drag_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Drag_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Drag_laugh_07.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha."
   },
   {
     "headTitle": "Match end",
@@ -2296,52 +2315,50 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Drag_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_win_03.mp3"
-        ],
-        "mp3Text": "After such a triumph, I know my dream of vengeance is at hand."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Drag_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Drag_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Drag_win_03.mp3"
+    ],
+    "mp3Text": "After such a triumph, I know my dream of vengeance is at hand."
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Drag_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Drag_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Drag_lose_03.mp3"
-        ],
-        "mp3Text": "Nevermore shall I fly to my sweet spirit's side!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Drag_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Drag_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Drag_lose_03.mp3"
+    ],
+    "mp3Text": "Nevermore shall I fly to my sweet spirit's side!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2352,41 +2369,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Drag_itemcommon_01.mp3"
-        ],
-        "mp3Text": "Hm, I welcome any contribution to the cause."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Drag_itemcommon_01.mp3"
+    ],
+    "mp3Text": "Hm, I welcome any contribution to the cause."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Drag_itemmoderate_01.mp3"
-        ],
-        "mp3Text": "Ah, this brightens my heart like a ray of new hope."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Drag_itemmoderate_01.mp3"
+    ],
+    "mp3Text": "Ah, this brightens my heart like a ray of new hope."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Drag_itemrare_01.mp3"
-        ],
-        "mp3Text": "Oh, dear Vengeful Spirit, I offer this treasure to you!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Drag_itemrare_01.mp3"
+    ],
+    "mp3Text": "Oh, dear Vengeful Spirit, I offer this treasure to you!"
   }
 ]

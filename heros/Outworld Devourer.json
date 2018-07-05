@@ -5,7 +5,6 @@
     "actorUrl": null,
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/20px-Outworld_Devourer_minimap_icon.png?version=13e14f39d2d92d40df8c698b8e60b4b1",
     "heroName": "Outworld Devourer",
-    "href": "https://dota2.gamepedia.com/Outworld_Devourer/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/obsidian_destroyer_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/outworlddevourer.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
-        ],
-        "mp3Text": "Outworld Devourer."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_spawn_04.mp3"
-        ],
-        "mp3Text": "From the outer dark I come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Odest_spawn_05.mp3"
-        ],
-        "mp3Text": "From the fortress afloat in the dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
-        ],
-        "mp3Text": "My wings beat with the rhythms of eternity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
-        ],
-        "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_move_06.mp3"
-        ],
-        "mp3Text": "From the world on the rim."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_move_07.mp3"
-        ],
-        "mp3Text": "The blood sun rises."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_08.mp3"
-        ],
-        "mp3Text": "Darkness advances."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Odest_move_10.mp3"
-        ],
-        "mp3Text": "Path of destruction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_move_16.mp3"
-        ],
-        "mp3Text": "Darkness advances."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Odest_attack_03.mp3"
-        ],
-        "mp3Text": "I bring destruction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Odest_ability_eclipse_04.mp3"
-        ],
-        "mp3Text": "I'll overshadow you."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
+    ],
+    "mp3Text": "Outworld Devourer."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_spawn_04.mp3"
+    ],
+    "mp3Text": "From the outer dark I come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Odest_spawn_05.mp3"
+    ],
+    "mp3Text": "From the fortress afloat in the dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
+    ],
+    "mp3Text": "My wings beat with the rhythms of eternity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
+    ],
+    "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_move_06.mp3"
+    ],
+    "mp3Text": "From the world on the rim."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_move_07.mp3"
+    ],
+    "mp3Text": "The blood sun rises."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_08.mp3"
+    ],
+    "mp3Text": "Darkness advances."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Odest_move_10.mp3"
+    ],
+    "mp3Text": "Path of destruction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_move_16.mp3"
+    ],
+    "mp3Text": "Darkness advances."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Odest_attack_03.mp3"
+    ],
+    "mp3Text": "I bring destruction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Odest_ability_eclipse_04.mp3"
+    ],
+    "mp3Text": "I'll overshadow you."
   },
   {
     "headTitle": "Drafting",
@@ -101,346 +108,361 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
-        ],
-        "mp3Text": "Outworld Devourer."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
+    ],
+    "mp3Text": "Outworld Devourer."
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Odest_anger_02.mp3"
-        ],
-        "mp3Text": "Grrruh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Odest_anger_02.mp3"
+    ],
+    "mp3Text": "Grrruh!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
-        ],
-        "mp3Text": "Outworld Devourer."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_spawn_04.mp3"
-        ],
-        "mp3Text": "From the outer dark I come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Odest_spawn_05.mp3"
-        ],
-        "mp3Text": "From the fortress afloat in the dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Odest_spawn_06.mp3"
-        ],
-        "mp3Text": "I could hear your caterwauling from clear out on the rim."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_spawn_02.mp3"
+    ],
+    "mp3Text": "Outworld Devourer."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_spawn_04.mp3"
+    ],
+    "mp3Text": "From the outer dark I come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Odest_spawn_05.mp3"
+    ],
+    "mp3Text": "From the fortress afloat in the dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Odest_spawn_06.mp3"
+    ],
+    "mp3Text": "I could hear your caterwauling from clear out on the rim."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Odest_inthebag_01.mp3"
-        ],
-        "mp3Text": "As foretold, it is in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Odest_inthebag_01.mp3"
+    ],
+    "mp3Text": "As foretold, it is in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
-        ],
-        "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Odest_begin_02.mp3"
-        ],
-        "mp3Text": "I have solid intelligence on what is to come."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
+    ],
+    "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Odest_begin_02.mp3"
+    ],
+    "mp3Text": "I have solid intelligence on what is to come."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Odest_move_02.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Odest_move_03.mp3"
-        ],
-        "mp3Text": "Fair warning."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Odest_move_04.mp3"
-        ],
-        "mp3Text": "Foul portents."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Odest_move_05.mp3"
-        ],
-        "mp3Text": "Ill omens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_move_06.mp3"
-        ],
-        "mp3Text": "From the world on the rim."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_move_07.mp3"
-        ],
-        "mp3Text": "The blood sun rises."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_08.mp3"
-        ],
-        "mp3Text": "Darkness advances."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Odest_move_09.mp3"
-        ],
-        "mp3Text": "I take wing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Odest_move_10.mp3"
-        ],
-        "mp3Text": "Path of destruction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Odest_move_11.mp3"
-        ],
-        "mp3Text": "In flight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Odest_move_12.mp3"
-        ],
-        "mp3Text": "On dark wings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Odest_move_13.mp3"
-        ],
-        "mp3Text": "The harbinger comes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Odest_move_14.mp3"
-        ],
-        "mp3Text": "I bring bad news."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_move_15.mp3"
-        ],
-        "mp3Text": "Last warning."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_move_16.mp3"
-        ],
-        "mp3Text": "Darkness advances."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Odest_move_17.mp3"
-        ],
-        "mp3Text": "Mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Odest_move_18.mp3"
-        ],
-        "mp3Text": "Mm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_move_19.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Odest_move_20.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_move_21.mp3"
-        ],
-        "mp3Text": "Yes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Odest_move_02.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Odest_move_03.mp3"
+    ],
+    "mp3Text": "Fair warning."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Odest_move_04.mp3"
+    ],
+    "mp3Text": "Foul portents."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Odest_move_05.mp3"
+    ],
+    "mp3Text": "Ill omens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_move_06.mp3"
+    ],
+    "mp3Text": "From the world on the rim."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_move_07.mp3"
+    ],
+    "mp3Text": "The blood sun rises."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Odest_move_08.mp3"
+    ],
+    "mp3Text": "Darkness advances."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Odest_move_09.mp3"
+    ],
+    "mp3Text": "I take wing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Odest_move_10.mp3"
+    ],
+    "mp3Text": "Path of destruction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Odest_move_11.mp3"
+    ],
+    "mp3Text": "In flight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Odest_move_12.mp3"
+    ],
+    "mp3Text": "On dark wings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Odest_move_13.mp3"
+    ],
+    "mp3Text": "The harbinger comes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Odest_move_14.mp3"
+    ],
+    "mp3Text": "I bring bad news."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_move_15.mp3"
+    ],
+    "mp3Text": "Last warning."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_move_16.mp3"
+    ],
+    "mp3Text": "Darkness advances."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Odest_move_17.mp3"
+    ],
+    "mp3Text": "Mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Odest_move_18.mp3"
+    ],
+    "mp3Text": "Mm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_move_19.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Odest_move_20.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_move_21.mp3"
+    ],
+    "mp3Text": "Yes."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Odest_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Odest_attack_02.mp3"
-        ],
-        "mp3Text": "The abyss calls."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Odest_attack_03.mp3"
-        ],
-        "mp3Text": "I bring destruction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Odest_attack_04.mp3"
-        ],
-        "mp3Text": "Dark auspices."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Odest_attack_05.mp3"
-        ],
-        "mp3Text": "I bring dark tidings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Odest_attack_06.mp3"
-        ],
-        "mp3Text": "Forerunner of fate."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_attack_07.mp3"
-        ],
-        "mp3Text": "The beat of baleful wings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Odest_attack_08.mp3"
-        ],
-        "mp3Text": "Dark shadows."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Odest_attack_09.mp3"
-        ],
-        "mp3Text": "Ill fated flight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_attack_10.mp3"
-        ],
-        "mp3Text": "I herald your destruction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Odest_attack_11.mp3"
-        ],
-        "mp3Text": "Your future is grim."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Odest_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Odest_attack_02.mp3"
+    ],
+    "mp3Text": "The abyss calls."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Odest_attack_03.mp3"
+    ],
+    "mp3Text": "I bring destruction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Odest_attack_04.mp3"
+    ],
+    "mp3Text": "Dark auspices."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Odest_attack_05.mp3"
+    ],
+    "mp3Text": "I bring dark tidings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Odest_attack_06.mp3"
+    ],
+    "mp3Text": "Forerunner of fate."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_attack_07.mp3"
+    ],
+    "mp3Text": "The beat of baleful wings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Odest_attack_08.mp3"
+    ],
+    "mp3Text": "Dark shadows."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Odest_attack_09.mp3"
+    ],
+    "mp3Text": "Ill fated flight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_attack_10.mp3"
+    ],
+    "mp3Text": "I herald your destruction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Odest_attack_11.mp3"
+    ],
+    "mp3Text": "Your future is grim."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_cast_01.mp3"
-        ],
-        "mp3Text": "Despair."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Odest_cast_02.mp3"
-        ],
-        "mp3Text": "Your doom impends."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_cast_03.mp3"
-        ],
-        "mp3Text": "Your death presaged."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Odest_cast_04.mp3"
-        ],
-        "mp3Text": "I'm warning you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Odest_doubdam_02.mp3"
-        ],
-        "mp3Text": "Death I deal with each serrated wing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Odest_invis_02.mp3"
-        ],
-        "mp3Text": "There shall be no foreshadowing of death."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_cast_01.mp3"
+    ],
+    "mp3Text": "Despair."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Odest_cast_02.mp3"
+    ],
+    "mp3Text": "Your doom impends."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_cast_03.mp3"
+    ],
+    "mp3Text": "Your death presaged."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Odest_cast_04.mp3"
+    ],
+    "mp3Text": "I'm warning you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Odest_doubdam_02.mp3"
+    ],
+    "mp3Text": "Death I deal with each serrated wing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Odest_invis_02.mp3"
+    ],
+    "mp3Text": "There shall be no foreshadowing of death."
   },
   {
     "headTitle": "Abilities",
@@ -459,490 +481,529 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Odest_ability_eclipse_02.mp3"
-        ],
-        "mp3Text": "Your sanity, eclipsed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_ability_eclipse_03.mp3"
-        ],
-        "mp3Text": "My mind blots yours out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_ability_eclipse_06.mp3"
-        ],
-        "mp3Text": "Small minds are quickly broken."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_ability_eclipse_07.mp3"
-        ],
-        "mp3Text": "I'll snuff out your sanity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Odest_ability_eclipse_12.mp3"
-        ],
-        "mp3Text": "Overshadowed."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Odest_ability_eclipse_02.mp3"
+    ],
+    "mp3Text": "Your sanity, eclipsed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Odest_ability_eclipse_03.mp3"
+    ],
+    "mp3Text": "My mind blots yours out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_ability_eclipse_06.mp3"
+    ],
+    "mp3Text": "Small minds are quickly broken."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_ability_eclipse_07.mp3"
+    ],
+    "mp3Text": "I'll snuff out your sanity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Odest_ability_eclipse_12.mp3"
+    ],
+    "mp3Text": "Overshadowed."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
-        ],
-        "mp3Text": "My wings beat with the rhythms of eternity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Odest_levelup_02.mp3"
-        ],
-        "mp3Text": "Ah, I caught an updraft."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Odest_levelup_03.mp3"
-        ],
-        "mp3Text": "The darkness deepens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Odest_levelup_04.mp3"
-        ],
-        "mp3Text": "Lifted on a mad wind."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Odest_levelup_05.mp3"
-        ],
-        "mp3Text": "Updrafted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Odest_levelup_06.mp3"
-        ],
-        "mp3Text": "Ah, to perilous heights."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_levelup_07.mp3"
-        ],
-        "mp3Text": "I can see my homeworld from here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Odest_levelup_08.mp3"
-        ],
-        "mp3Text": "Good news travels slowly, bad news has wings."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
+    ],
+    "mp3Text": "My wings beat with the rhythms of eternity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Odest_levelup_02.mp3"
+    ],
+    "mp3Text": "Ah, I caught an updraft."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Odest_levelup_03.mp3"
+    ],
+    "mp3Text": "The darkness deepens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Odest_levelup_04.mp3"
+    ],
+    "mp3Text": "Lifted on a mad wind."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Odest_levelup_05.mp3"
+    ],
+    "mp3Text": "Updrafted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Odest_levelup_06.mp3"
+    ],
+    "mp3Text": "Ah, to perilous heights."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_levelup_07.mp3"
+    ],
+    "mp3Text": "I can see my homeworld from here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Odest_levelup_08.mp3"
+    ],
+    "mp3Text": "Good news travels slowly, bad news has wings."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Odest_ability_imprison_02.mp3"
-        ],
-        "mp3Text": "Begone."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Odest_ability_imprison_03.mp3"
-        ],
-        "mp3Text": "Banished."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Odest_ability_imprison_13.mp3"
-        ],
-        "mp3Text": "Enough with you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Odest_kill_01.mp3"
-        ],
-        "mp3Text": "As foretold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Odest_kill_02.mp3"
-        ],
-        "mp3Text": "An end to ill omens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_kill_03.mp3"
-        ],
-        "mp3Text": "My wings beat where your heart does not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Odest_kill_05.mp3"
-        ],
-        "mp3Text": "Visitant to the outer dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_kill_06.mp3"
-        ],
-        "mp3Text": "A mind prepared, a death foretold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Odest_kill_07.mp3"
-        ],
-        "mp3Text": "I warned you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Odest_kill_08.mp3"
-        ],
-        "mp3Text": "That sharp pain you felt was my intellect."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Odest_kill_09.mp3"
-        ],
-        "mp3Text": "Serrated wings of wisdom cut you down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Odest_kill_10.mp3"
-        ],
-        "mp3Text": "I'm not always oblique."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Odest_kill_11.mp3"
-        ],
-        "mp3Text": "I was only indirectly responsible."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Odest_kill_12.mp3"
-        ],
-        "mp3Text": "I was the harbinger of that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Odest_rival_17.mp3"
-        ],
-        "mp3Text": "Bad luck."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_rival_18.mp3"
-        ],
-        "mp3Text": "The worst is still to come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Odest_immort_02.mp3"
-        ],
-        "mp3Text": "There will always be something worse on the wing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Odest_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_laugh_02.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_05.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Odest_laugh_06.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Odest_laugh_07.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho ho ho ho ho."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_laugh_08.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_09.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_laugh_11.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_laugh_12.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Odest_ability_imprison_02.mp3"
+    ],
+    "mp3Text": "Begone."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Odest_ability_imprison_03.mp3"
+    ],
+    "mp3Text": "Banished."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Odest_ability_imprison_13.mp3"
+    ],
+    "mp3Text": "Enough with you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Odest_kill_01.mp3"
+    ],
+    "mp3Text": "As foretold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Odest_kill_02.mp3"
+    ],
+    "mp3Text": "An end to ill omens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_kill_03.mp3"
+    ],
+    "mp3Text": "My wings beat where your heart does not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Odest_kill_05.mp3"
+    ],
+    "mp3Text": "Visitant to the outer dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_kill_06.mp3"
+    ],
+    "mp3Text": "A mind prepared, a death foretold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Odest_kill_07.mp3"
+    ],
+    "mp3Text": "I warned you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Odest_kill_08.mp3"
+    ],
+    "mp3Text": "That sharp pain you felt was my intellect."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Odest_kill_09.mp3"
+    ],
+    "mp3Text": "Serrated wings of wisdom cut you down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Odest_kill_10.mp3"
+    ],
+    "mp3Text": "I'm not always oblique."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Odest_kill_11.mp3"
+    ],
+    "mp3Text": "I was only indirectly responsible."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Odest_kill_12.mp3"
+    ],
+    "mp3Text": "I was the harbinger of that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Odest_rival_17.mp3"
+    ],
+    "mp3Text": "Bad luck."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_rival_18.mp3"
+    ],
+    "mp3Text": "The worst is still to come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Odest_immort_02.mp3"
+    ],
+    "mp3Text": "There will always be something worse on the wing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Odest_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_laugh_02.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_05.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Odest_laugh_06.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Odest_laugh_07.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho ho ho ho ho."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_laugh_08.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_09.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_laugh_11.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_laugh_12.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_rival_01.mp3"
+    ],
+    "mp3Text": "I am one darkness you must not have seen.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_rival_01.mp3"
-        ],
-        "mp3Text": "I am one darkness you must not have seen.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
-            "name": "Dark Seer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Odest_rival_02.mp3"
-        ],
-        "mp3Text": "If you had looked for true harbingers, you might have prophesied your own demise.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
-            "name": "Death Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Odest_rival_21.mp3"
-        ],
-        "mp3Text": "You were a false prophet.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
-            "name": "Death Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_rival_03.mp3"
-        ],
-        "mp3Text": "It was in my nature to destroy you, Prophet.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Odest_rival_20.mp3"
-        ],
-        "mp3Text": "False prophet!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Odest_rival_04.mp3"
-        ],
-        "mp3Text": "Harbinger of bad news for Anti-Mage.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Odest_rival_07.mp3"
-        ],
-        "mp3Text": "Tiny, your stones are hardly precious enough to collect.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Odest_rival_19.mp3"
-        ],
-        "mp3Text": "Shattered!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Odest_rival_08.mp3"
-        ],
-        "mp3Text": "Your blades, Pudge, were as dull as your wits.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-            "name": "Pudge"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Odest_rival_09.mp3"
-        ],
-        "mp3Text": "That's Pudge for you. Always missing the point.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
-            "name": "Pudge"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Odest_rival_10.mp3"
-        ],
-        "mp3Text": "I heard you were heavy but I found you not so.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_rival_12.mp3"
-        ],
-        "mp3Text": "It was no trouble to carry you off.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_rival_11.mp3"
-        ],
-        "mp3Text": "You're lighter than you look.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
-            "name": "Ursa"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_rival_13.mp3"
-        ],
-        "mp3Text": "You let yourself get carried away.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
-            "name": "Viper"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Odest_rival_14.mp3"
-        ],
-        "mp3Text": "You're out of the action.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-            "name": "Silencer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_rival_15.mp3"
-        ],
-        "mp3Text": "Hard carry? I hardly cared.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
+        "name": "Dark Seer"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Odest_rival_02.mp3"
+    ],
+    "mp3Text": "If you had looked for true harbingers, you might have prophesied your own demise.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Odest_rival_06.mp3"
-        ],
-        "mp3Text": "Well, well, if it isn't Auntie Mage.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
+        "name": "Death Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Odest_rival_21.mp3"
+    ],
+    "mp3Text": "You were a false prophet.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
+        "name": "Death Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_rival_03.mp3"
+    ],
+    "mp3Text": "It was in my nature to destroy you, Prophet.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Odest_rival_20.mp3"
+    ],
+    "mp3Text": "False prophet!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Odest_rival_04.mp3"
+    ],
+    "mp3Text": "Harbinger of bad news for Anti-Mage.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Odest_rival_07.mp3"
+    ],
+    "mp3Text": "Tiny, your stones are hardly precious enough to collect.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Odest_rival_19.mp3"
+    ],
+    "mp3Text": "Shattered!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Odest_rival_08.mp3"
+    ],
+    "mp3Text": "Your blades, Pudge, were as dull as your wits.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+        "name": "Pudge"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Odest_rival_09.mp3"
+    ],
+    "mp3Text": "That's Pudge for you. Always missing the point.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Pudge_minimap_icon.png/16px-Pudge_minimap_icon.png?version=48ab78942581206dcfb06fa6cfe35349",
+        "name": "Pudge"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Odest_rival_10.mp3"
+    ],
+    "mp3Text": "I heard you were heavy but I found you not so.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_rival_12.mp3"
+    ],
+    "mp3Text": "It was no trouble to carry you off.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_rival_11.mp3"
+    ],
+    "mp3Text": "You're lighter than you look.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
+        "name": "Ursa"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_rival_13.mp3"
+    ],
+    "mp3Text": "You let yourself get carried away.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
+        "name": "Viper"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Odest_rival_14.mp3"
+    ],
+    "mp3Text": "You're out of the action.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+        "name": "Silencer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Odest_rival_15.mp3"
+    ],
+    "mp3Text": "Hard carry? I hardly cared.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Odest_rival_06.mp3"
+    ],
+    "mp3Text": "Well, well, if it isn't Auntie Mage.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
       }
     ]
   },
@@ -951,386 +1012,411 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Odest_first_01.mp3"
-        ],
-        "mp3Text": "First Blood, hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Odest_first_02.mp3"
-        ],
-        "mp3Text": "Let them take this as an omen."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Odest_first_01.mp3"
+    ],
+    "mp3Text": "First Blood, hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Odest_first_02.mp3"
+    ],
+    "mp3Text": "Let them take this as an omen."
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Odest_lasthit_01.mp3"
-        ],
-        "mp3Text": "A feeble mind."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Odest_lasthit_02.mp3"
-        ],
-        "mp3Text": "Dimwit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_lasthit_03.mp3"
-        ],
-        "mp3Text": "You're insane."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Odest_lasthit_04.mp3"
-        ],
-        "mp3Text": "Destroyed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Odest_lasthit_05.mp3"
-        ],
-        "mp3Text": "Winged you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Odest_lasthit_06.mp3"
-        ],
-        "mp3Text": "Worse to come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_lasthit_07.mp3"
-        ],
-        "mp3Text": "Worse things waiting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Odest_lasthit_08.mp3"
-        ],
-        "mp3Text": "Either or."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Odest_lasthit_09.mp3"
-        ],
-        "mp3Text": "Or else."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Odest_lasthit_10.mp3"
-        ],
-        "mp3Text": "Or what?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Odest_lasthit_01.mp3"
+    ],
+    "mp3Text": "A feeble mind."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Odest_lasthit_02.mp3"
+    ],
+    "mp3Text": "Dimwit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_lasthit_03.mp3"
+    ],
+    "mp3Text": "You're insane."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Odest_lasthit_04.mp3"
+    ],
+    "mp3Text": "Destroyed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Odest_lasthit_05.mp3"
+    ],
+    "mp3Text": "Winged you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Odest_lasthit_06.mp3"
+    ],
+    "mp3Text": "Worse to come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_lasthit_07.mp3"
+    ],
+    "mp3Text": "Worse things waiting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Odest_lasthit_08.mp3"
+    ],
+    "mp3Text": "Either or."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Odest_lasthit_09.mp3"
+    ],
+    "mp3Text": "Or else."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Odest_lasthit_10.mp3"
+    ],
+    "mp3Text": "Or what?"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Odest_denied_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Odest_denied_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Odest_denied_03.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Odest_denied_04.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Odest_denied_05.mp3"
-        ],
-        "mp3Text": "Forboden!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Odest_denied_06.mp3"
-        ],
-        "mp3Text": "It was not your fate."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Odest_denied_07.mp3"
-        ],
-        "mp3Text": "It was never yours."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Odest_denied_08.mp3"
-        ],
-        "mp3Text": "Mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Odest_denied_09.mp3"
-        ],
-        "mp3Text": "You should have known."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_denied_10.mp3"
-        ],
-        "mp3Text": "Saw that one coming."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Odest_denied_11.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Odest_denied_12.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Odest_denied_13.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Odest_denied_14.mp3"
-        ],
-        "mp3Text": "Ah ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Odest_denied_15.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Odest_denied_16.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Odest_denied_17.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Odest_denied_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Odest_denied_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Odest_denied_03.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Odest_denied_04.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Odest_denied_05.mp3"
+    ],
+    "mp3Text": "Forboden!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Odest_denied_06.mp3"
+    ],
+    "mp3Text": "It was not your fate."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Odest_denied_07.mp3"
+    ],
+    "mp3Text": "It was never yours."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Odest_denied_08.mp3"
+    ],
+    "mp3Text": "Mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Odest_denied_09.mp3"
+    ],
+    "mp3Text": "You should have known."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_denied_10.mp3"
+    ],
+    "mp3Text": "Saw that one coming."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Odest_denied_11.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Odest_denied_12.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Odest_denied_13.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Odest_denied_14.mp3"
+    ],
+    "mp3Text": "Ah ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Odest_denied_15.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Odest_denied_16.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Odest_denied_17.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Odest_purch_01.mp3"
-        ],
-        "mp3Text": "Darkness comes on apace."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_purch_02.mp3"
-        ],
-        "mp3Text": "Bring it on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_purch_03.mp3"
-        ],
-        "mp3Text": "I was meant to have this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Odest_purch_01.mp3"
+    ],
+    "mp3Text": "Darkness comes on apace."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_purch_02.mp3"
+    ],
+    "mp3Text": "Bring it on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_purch_03.mp3"
+    ],
+    "mp3Text": "I was meant to have this."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Odest_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Odest_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Odest_blink_02.mp3"
+    ],
+    "mp3Text": "A harbinger of their swift end.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Odest_blink_02.mp3"
-        ],
-        "mp3Text": "A harbinger of their swift end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Odest_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Odest_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Odest_scepter_02.mp3"
+    ],
+    "mp3Text": "Let this be a warning to them.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Odest_scepter_02.mp3"
-        ],
-        "mp3Text": "Let this be a warning to them.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Odest_items_01.mp3"
+    ],
+    "mp3Text": "Shiva's Guard.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Odest_items_01.mp3"
-        ],
-        "mp3Text": "Shiva's Guard.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Odest_items_02.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Odest_items_02.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Odest_items_03.mp3"
+    ],
+    "mp3Text": "Orchid Malevolence.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Odest_items_03.mp3"
-        ],
-        "mp3Text": "Orchid Malevolence.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
-            "name": "Orchid Malevolence (4075)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
+        "name": "Orchid Malevolence (4075)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Odest_items_04.mp3"
+    ],
+    "mp3Text": "Bloodstone.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Odest_items_04.mp3"
-        ],
-        "mp3Text": "Bloodstone.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_items_05.mp3"
+    ],
+    "mp3Text": "Scepter of Divinity.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_items_05.mp3"
-        ],
-        "mp3Text": "Scepter of Divinity.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Odest_items_06.mp3"
+    ],
+    "mp3Text": "Black King Bar.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Odest_items_06.mp3"
-        ],
-        "mp3Text": "Black King Bar.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Odest_items_07.mp3"
+    ],
+    "mp3Text": "Linken's sphere.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Odest_items_07.mp3"
-        ],
-        "mp3Text": "Linken's sphere.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Odest_items_08.mp3"
+    ],
+    "mp3Text": "Null talisman.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Odest_items_08.mp3"
-        ],
-        "mp3Text": "Null talisman.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Null_Talisman_icon.png/20px-Null_Talisman_icon.png?version=22d7e5c750d302751df2d6ad02839618",
-            "name": "Null Talisman (465)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Null_Talisman_icon.png/20px-Null_Talisman_icon.png?version=22d7e5c750d302751df2d6ad02839618",
+        "name": "Null Talisman (465)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Odest_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Odest_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1339,212 +1425,226 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Odest_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Odest_death_02.mp3"
-        ],
-        "mp3Text": "My wings, my heart, no longer beat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Odest_death_03.mp3"
-        ],
-        "mp3Text": "The stone has reached my heart."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Odest_death_04.mp3"
-        ],
-        "mp3Text": "My wings are heavy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Odest_death_05.mp3"
-        ],
-        "mp3Text": "Fallen like a stone."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Odest_death_06.mp3"
-        ],
-        "mp3Text": "The runes go dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Odest_death_07.mp3"
-        ],
-        "mp3Text": "I return to the outer dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_death_08.mp3"
-        ],
-        "mp3Text": "Back to the oblique world."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Odest_death_09.mp3"
-        ],
-        "mp3Text": "The world on the rim calls me home."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Odest_death_10.mp3"
-        ],
-        "mp3Text": "This changes nothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_death_11.mp3"
-        ],
-        "mp3Text": "Outworld calling."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Odest_death_12.mp3"
-        ],
-        "mp3Text": "I am ill disposed towards you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Odest_death_13.mp3"
-        ],
-        "mp3Text": "My death foretold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Odest_death_14.mp3"
-        ],
-        "mp3Text": "Who clipped me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_death_15.mp3"
-        ],
-        "mp3Text": "Oblique and obsolete."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Odest_death_16.mp3"
-        ],
-        "mp3Text": "Wings so heavy."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Odest_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Odest_death_02.mp3"
+    ],
+    "mp3Text": "My wings, my heart, no longer beat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Odest_death_03.mp3"
+    ],
+    "mp3Text": "The stone has reached my heart."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Odest_death_04.mp3"
+    ],
+    "mp3Text": "My wings are heavy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Odest_death_05.mp3"
+    ],
+    "mp3Text": "Fallen like a stone."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Odest_death_06.mp3"
+    ],
+    "mp3Text": "The runes go dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Odest_death_07.mp3"
+    ],
+    "mp3Text": "I return to the outer dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Odest_death_08.mp3"
+    ],
+    "mp3Text": "Back to the oblique world."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Odest_death_09.mp3"
+    ],
+    "mp3Text": "The world on the rim calls me home."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Odest_death_10.mp3"
+    ],
+    "mp3Text": "This changes nothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Odest_death_11.mp3"
+    ],
+    "mp3Text": "Outworld calling."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Odest_death_12.mp3"
+    ],
+    "mp3Text": "I am ill disposed towards you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Odest_death_13.mp3"
+    ],
+    "mp3Text": "My death foretold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Odest_death_14.mp3"
+    ],
+    "mp3Text": "Who clipped me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Odest_death_15.mp3"
+    ],
+    "mp3Text": "Oblique and obsolete."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Odest_death_16.mp3"
+    ],
+    "mp3Text": "Wings so heavy."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Odest_respawn_01.mp3"
-        ],
-        "mp3Text": "A quick trip to the outer dark."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Odest_respawn_02.mp3"
-        ],
-        "mp3Text": "My wings unfurl."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Odest_respawn_03.mp3"
-        ],
-        "mp3Text": "I remain undefeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Odest_respawn_04.mp3"
-        ],
-        "mp3Text": "The prophecy still holds sway."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_respawn_05.mp3"
-        ],
-        "mp3Text": "The dark winds of prophecy send me aloft."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Odest_respawn_06.mp3"
-        ],
-        "mp3Text": "Auguries on the wing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Odest_respawn_07.mp3"
-        ],
-        "mp3Text": "Let's try this again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_respawn_08.mp3"
-        ],
-        "mp3Text": "I have a dread feeling about this."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Odest_respawn_09.mp3"
-        ],
-        "mp3Text": "I return with dark things in my wake."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Odest_respawn_10.mp3"
-        ],
-        "mp3Text": "Worse things than me wait in the wings."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Odest_respawn_01.mp3"
+    ],
+    "mp3Text": "A quick trip to the outer dark."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Odest_respawn_02.mp3"
+    ],
+    "mp3Text": "My wings unfurl."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Odest_respawn_03.mp3"
+    ],
+    "mp3Text": "I remain undefeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Odest_respawn_04.mp3"
+    ],
+    "mp3Text": "The prophecy still holds sway."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_respawn_05.mp3"
+    ],
+    "mp3Text": "The dark winds of prophecy send me aloft."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Odest_respawn_06.mp3"
+    ],
+    "mp3Text": "Auguries on the wing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Odest_respawn_07.mp3"
+    ],
+    "mp3Text": "Let's try this again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_respawn_08.mp3"
+    ],
+    "mp3Text": "I have a dread feeling about this."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Odest_respawn_09.mp3"
+    ],
+    "mp3Text": "I return with dark things in my wake."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Odest_respawn_10.mp3"
+    ],
+    "mp3Text": "Worse things than me wait in the wings."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Odest_fastres_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha! I knew I'd be back."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Odest_fastres_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha! I knew I'd be back."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Odest_bottle_01.mp3"
-        ],
-        "mp3Text": "Dark destinies await."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_bottle_02.mp3"
-        ],
-        "mp3Text": "Ill omens to be fulfilled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Odest_bottle_03.mp3"
-        ],
-        "mp3Text": "Let's put off the inevitable."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Odest_bottle_01.mp3"
+    ],
+    "mp3Text": "Dark destinies await."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Odest_bottle_02.mp3"
+    ],
+    "mp3Text": "Ill omens to be fulfilled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Odest_bottle_03.mp3"
+    ],
+    "mp3Text": "Let's put off the inevitable."
   },
   {
     "headTitle": "Activating runes",
@@ -1556,14 +1656,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_ability_imprison_14.mp3"
-        ],
-        "mp3Text": "Enough."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_ability_imprison_14.mp3"
+    ],
+    "mp3Text": "Enough."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1571,14 +1668,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_purch_03.mp3"
-        ],
-        "mp3Text": "I was meant to have this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Odest_purch_03.mp3"
+    ],
+    "mp3Text": "I was meant to have this."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1586,14 +1680,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Odest_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Odest_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1601,24 +1692,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Odest_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Odest_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Odest_haste_02.mp3"
-        ],
-        "mp3Text": "An ill wind carries me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Odest_haste_02.mp3"
+    ],
+    "mp3Text": "An ill wind carries me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1626,24 +1711,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Odest_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Odest_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Odest_illus_02.mp3"
-        ],
-        "mp3Text": "Heed the warnings we three bring."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Odest_illus_02.mp3"
+    ],
+    "mp3Text": "Heed the warnings we three bring."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1651,14 +1730,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Odest_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Odest_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1666,24 +1742,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Odest_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Odest_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Odest_regen_02.mp3"
-        ],
-        "mp3Text": "That I may not falter in my flight."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Odest_regen_02.mp3"
+    ],
+    "mp3Text": "That I may not falter in my flight."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1694,78 +1764,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Odest_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Odest_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Odest_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Odest_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Odest_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Odest_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Odest_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Odest_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Odest_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Odest_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Odest_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Odest_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Odest_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Odest_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Odest_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Odest_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Odest_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -1776,132 +1843,128 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Odest_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Odest_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Odest_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Odest_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Odest_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Odest_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Odest_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Odest_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Odest_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Odest_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Odest_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Odest_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Odest_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Odest_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Odest_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Odest_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Odest_pain_01.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Odest_pain_02.mp3"
-        ],
-        "mp3Text": "Mmph."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_pain_03.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_pain_04.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Odest_pain_05.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Odest_pain_06.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Odest_pain_01.mp3"
+    ],
+    "mp3Text": "Uh!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Odest_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Odest_pain_02.mp3"
+    ],
+    "mp3Text": "Mmph."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Odest_pain_03.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Odest_pain_04.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Odest_pain_05.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Odest_pain_06.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Odest_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1912,26 +1975,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
-        ],
-        "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
-        ],
-        "mp3Text": "My wings beat with the rhythms of eternity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_respawn_05.mp3"
-        ],
-        "mp3Text": "The dark winds of prophecy send me aloft."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_begin_01.mp3"
+    ],
+    "mp3Text": "Their sanity I'll shatter, their dreams of conquest I'll destroy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Odest_levelup_01.mp3"
+    ],
+    "mp3Text": "My wings beat with the rhythms of eternity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_respawn_05.mp3"
+    ],
+    "mp3Text": "The dark winds of prophecy send me aloft."
   },
   {
     "headTitle": "Chat responses",
@@ -1942,126 +2004,131 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Odest_lane_missing_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Odest_lane_missing_02.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Odest_lane_missing_03.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Odest_lane_missing_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Odest_lane_missing_02.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Odest_lane_missing_03.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Odest_thanks_01.mp3"
-        ],
-        "mp3Text": "May your doom be averted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Odest_thanks_02.mp3"
-        ],
-        "mp3Text": "My thanks."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Odest_thanks_01.mp3"
+    ],
+    "mp3Text": "May your doom be averted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Odest_thanks_02.mp3"
+    ],
+    "mp3Text": "My thanks."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Odest_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_laugh_02.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_05.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Odest_laugh_06.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Odest_laugh_07.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho ho ho ho ho."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_laugh_08.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_09.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_laugh_11.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_laugh_12.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Odest_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Odest_laugh_02.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Odest_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Odest_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_05.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Odest_laugh_06.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Odest_laugh_07.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho ho ho ho ho."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Odest_laugh_08.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Odest_laugh_09.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Odest_laugh_11.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Odest_laugh_12.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
   },
   {
     "headTitle": "Match end",
@@ -2072,58 +2139,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Odest_win_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_win_02.mp3"
-        ],
-        "mp3Text": "Victory."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Odest_win_03.mp3"
-        ],
-        "mp3Text": "At last my existence has meaning."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Odest_win_04.mp3"
-        ],
-        "mp3Text": "My purpose fulfilled."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Odest_win_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Odest_win_02.mp3"
+    ],
+    "mp3Text": "Victory."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Odest_win_03.mp3"
+    ],
+    "mp3Text": "At last my existence has meaning."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Odest_win_04.mp3"
+    ],
+    "mp3Text": "My purpose fulfilled."
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Odest_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Odest_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Odest_lose_03.mp3"
-        ],
-        "mp3Text": "This changes nothing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Odest_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Odest_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Odest_lose_03.mp3"
+    ],
+    "mp3Text": "This changes nothing."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2134,41 +2200,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Odest_happy_01.mp3"
-        ],
-        "mp3Text": "Mm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Odest_happy_01.mp3"
+    ],
+    "mp3Text": "Mm."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_ability_eclipse_14.mp3"
-        ],
-        "mp3Text": "Faith rewarded."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Odest_ability_eclipse_14.mp3"
+    ],
+    "mp3Text": "Faith rewarded."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Odest_ability_eclipse_15.mp3"
-        ],
-        "mp3Text": "My legions rejoice."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Odest_ability_eclipse_15.mp3"
+    ],
+    "mp3Text": "My legions rejoice."
   }
 ]

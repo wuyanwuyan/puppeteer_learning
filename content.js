@@ -4,7 +4,7 @@ const fs = require('fs');
 
 async function crawHeroVoice(url, heroName, heroData) {
 
-    console.log('enter ', url, heroName);
+    console.log('crawl ', url, heroName);
 
 
     const browser = await puppeteer.launch(
@@ -91,6 +91,7 @@ async function crawHeroVoice(url, heroName, heroData) {
                     if (!li.querySelector('a.sm2_button')) return;
                     if (li.innerHTML.indexOf('Unused response') !== -1 || li.innerHTML.indexOf('response rule error') !== -1) return;
                     let one = {
+                        type: 'voice',
                         mp3Url: Array.from(li.querySelectorAll('a.sm2_button')).map(ele => ele.href),
                         // mp3Text: li.lastChild.textContent.trim()
                     };
@@ -112,7 +113,6 @@ async function crawHeroVoice(url, heroName, heroData) {
                             }
                         })
                     }
-                    ;
 
                     voices.push(one);
                 });
@@ -128,16 +128,16 @@ async function crawHeroVoice(url, heroName, heroData) {
     });
 
     function findNearVoice(arr, value, index) {
-        if(value.headTitle){
+        if (value.headTitle) {
 
             let result = [];
             for (var i = index + 1; i < arr.length; i++) {
 
-                if(arr[i].voices && arr[i].voices.length !== 0){
+                if (arr[i].voices && arr[i].voices.length !== 0) {
                     result = result.concat(arr[i].voices);
                 }
 
-                if(arr[i].headTitle){
+                if (arr[i].headTitle) {
                     break;
                 }
             }
@@ -147,11 +147,11 @@ async function crawHeroVoice(url, heroName, heroData) {
 
 
         for (var i = index + 1; i < arr.length; i++) {
-            if(arr[i].voices){
+            if (arr[i].voices) {
                 return arr[i].voices;
             }
 
-            if(arr[i].headTitle){
+            if (arr[i].headTitle) {
                 return [];
             }
         }
@@ -163,12 +163,12 @@ async function crawHeroVoice(url, heroName, heroData) {
 
     ret.forEach((value, index) => {
         if (value.voices && value.voices.length !== 0) {
-            finalResult.push(value);
+            finalResult = finalResult.concat(value.voices);
             return;
         }
 
-        let voice = findNearVoice(ret,value,index);
-        if(voice && voice.length !== 0){
+        let voice = findNearVoice(ret, value, index);
+        if (voice && voice.length !== 0) {
             finalResult.push(value);
             return;
         }

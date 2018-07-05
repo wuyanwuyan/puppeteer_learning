@@ -5,7 +5,6 @@
     "actorUrl": null,
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Witch_Doctor_minimap_icon.png/20px-Witch_Doctor_minimap_icon.png?version=f099ad03332670b68adf1d3776b0486b",
     "heroName": "Witch Doctor",
-    "href": "https://dota2.gamepedia.com/Witch_Doctor/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/witch_doctor_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/witchdoctor.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Wdoc_spawn_01.mp3"
-        ],
-        "mp3Text": "De Doctor is in!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
-        ],
-        "mp3Text": "Witch Doctor!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_spawn_03.mp3"
-        ],
-        "mp3Text": "Which doctor you expecting?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_spawn_04.mp3"
-        ],
-        "mp3Text": "With bones and spells I come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_move_06.mp3"
-        ],
-        "mp3Text": "Someone call de doctor?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_move_09.mp3"
-        ],
-        "mp3Text": "By my bones."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Wdoc_move_10.mp3"
-        ],
-        "mp3Text": "With vim and vigor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Wdoc_attack_07.mp3"
-        ],
-        "mp3Text": "Malpractice makes perfect."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Wdoc_attack_10.mp3"
-        ],
-        "mp3Text": "Strong medicine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_cast_01.mp3"
-        ],
-        "mp3Text": "Dis won't hurt a bit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Wdoc_cast_02.mp3"
-        ],
-        "mp3Text": "Ready for your dose?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Wdoc_level_08.mp3"
-        ],
-        "mp3Text": "Feeling good, man."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Wdoc_spawn_01.mp3"
+    ],
+    "mp3Text": "De Doctor is in!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
+    ],
+    "mp3Text": "Witch Doctor!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_spawn_03.mp3"
+    ],
+    "mp3Text": "Which doctor you expecting?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_spawn_04.mp3"
+    ],
+    "mp3Text": "With bones and spells I come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_move_06.mp3"
+    ],
+    "mp3Text": "Someone call de doctor?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_move_09.mp3"
+    ],
+    "mp3Text": "By my bones."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Wdoc_move_10.mp3"
+    ],
+    "mp3Text": "With vim and vigor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Wdoc_attack_07.mp3"
+    ],
+    "mp3Text": "Malpractice makes perfect."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Wdoc_attack_10.mp3"
+    ],
+    "mp3Text": "Strong medicine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_cast_01.mp3"
+    ],
+    "mp3Text": "Dis won't hurt a bit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Wdoc_cast_02.mp3"
+    ],
+    "mp3Text": "Ready for your dose?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Wdoc_level_08.mp3"
+    ],
+    "mp3Text": "Feeling good, man."
   },
   {
     "headTitle": "Drafting",
@@ -101,262 +108,263 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
-        ],
-        "mp3Text": "Witch Doctor!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
+    ],
+    "mp3Text": "Witch Doctor!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Wdoc_anger_08.mp3"
-        ],
-        "mp3Text": "Hmm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Wdoc_anger_08.mp3"
+    ],
+    "mp3Text": "Hmm."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Wdoc_spawn_01.mp3"
-        ],
-        "mp3Text": "De Doctor is in!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
-        ],
-        "mp3Text": "Witch Doctor!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_spawn_04.mp3"
-        ],
-        "mp3Text": "With bones and spells I come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_move_06.mp3"
-        ],
-        "mp3Text": "Someone call de doctor?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Wdoc_spawn_01.mp3"
+    ],
+    "mp3Text": "De Doctor is in!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Wdoc_spawn_02.mp3"
+    ],
+    "mp3Text": "Witch Doctor!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_spawn_04.mp3"
+    ],
+    "mp3Text": "With bones and spells I come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_move_06.mp3"
+    ],
+    "mp3Text": "Someone call de doctor?"
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_inthebag_01.mp3"
-        ],
-        "mp3Text": "Oh yeah, it's in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_inthebag_01.mp3"
+    ],
+    "mp3Text": "Oh yeah, it's in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Wdoc_attack_02.mp3"
-        ],
-        "mp3Text": "Time for shots."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Wdoc_attack_02.mp3"
+    ],
+    "mp3Text": "Time for shots."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_move_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Wdoc_move_02.mp3"
-        ],
-        "mp3Text": "On my rounds!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Wdoc_move_03.mp3"
-        ],
-        "mp3Text": "All's well!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Wdoc_move_04.mp3"
-        ],
-        "mp3Text": "Very fine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Wdoc_move_05.mp3"
-        ],
-        "mp3Text": "Here I come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_move_07.mp3"
-        ],
-        "mp3Text": "Forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Wdoc_move_08.mp3"
-        ],
-        "mp3Text": "Oh yeah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_move_09.mp3"
-        ],
-        "mp3Text": "By my bones."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Wdoc_move_10.mp3"
-        ],
-        "mp3Text": "With vim and vigor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Wdoc_move_11.mp3"
-        ],
-        "mp3Text": "A twisted path."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Wdoc_move_12.mp3"
-        ],
-        "mp3Text": "Yes indeedy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_move_13.mp3"
-        ],
-        "mp3Text": "Yes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Wdoc_move_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Wdoc_move_02.mp3"
+    ],
+    "mp3Text": "On my rounds!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Wdoc_move_03.mp3"
+    ],
+    "mp3Text": "All's well!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Wdoc_move_04.mp3"
+    ],
+    "mp3Text": "Very fine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Wdoc_move_05.mp3"
+    ],
+    "mp3Text": "Here I come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_move_07.mp3"
+    ],
+    "mp3Text": "Forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Wdoc_move_08.mp3"
+    ],
+    "mp3Text": "Oh yeah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_move_09.mp3"
+    ],
+    "mp3Text": "By my bones."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Wdoc_move_10.mp3"
+    ],
+    "mp3Text": "With vim and vigor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Wdoc_move_11.mp3"
+    ],
+    "mp3Text": "A twisted path."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Wdoc_move_12.mp3"
+    ],
+    "mp3Text": "Yes indeedy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_move_13.mp3"
+    ],
+    "mp3Text": "Yes."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Wdoc_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Wdoc_attack_03.mp3"
-        ],
-        "mp3Text": "I twist your back."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Wdoc_attack_04.mp3"
-        ],
-        "mp3Text": "A curse laid."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Wdoc_attack_05.mp3"
-        ],
-        "mp3Text": "Dark extract."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Wdoc_attack_06.mp3"
-        ],
-        "mp3Text": "Abutalabashuneba."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Wdoc_attack_07.mp3"
-        ],
-        "mp3Text": "Malpractice makes perfect."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Wdoc_attack_08.mp3"
-        ],
-        "mp3Text": "Wither away."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_attack_09.mp3"
-        ],
-        "mp3Text": "Clack your bones."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Wdoc_attack_10.mp3"
-        ],
-        "mp3Text": "Strong medicine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Wdoc_attack_11.mp3"
-        ],
-        "mp3Text": "I'll draw your blood."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Wdoc_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Wdoc_attack_03.mp3"
+    ],
+    "mp3Text": "I twist your back."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Wdoc_attack_04.mp3"
+    ],
+    "mp3Text": "A curse laid."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Wdoc_attack_05.mp3"
+    ],
+    "mp3Text": "Dark extract."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Wdoc_attack_06.mp3"
+    ],
+    "mp3Text": "Abutalabashuneba."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Wdoc_attack_07.mp3"
+    ],
+    "mp3Text": "Malpractice makes perfect."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Wdoc_attack_08.mp3"
+    ],
+    "mp3Text": "Wither away."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_attack_09.mp3"
+    ],
+    "mp3Text": "Clack your bones."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Wdoc_attack_10.mp3"
+    ],
+    "mp3Text": "Strong medicine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Wdoc_attack_11.mp3"
+    ],
+    "mp3Text": "I'll draw your blood."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_cast_01.mp3"
-        ],
-        "mp3Text": "Dis won't hurt a bit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Wdoc_cast_02.mp3"
-        ],
-        "mp3Text": "Ready for your dose?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Wdoc_cast_03.mp3"
-        ],
-        "mp3Text": "The spell is cast."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_cast_01.mp3"
+    ],
+    "mp3Text": "Dis won't hurt a bit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Wdoc_cast_02.mp3"
+    ],
+    "mp3Text": "Ready for your dose?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Wdoc_cast_03.mp3"
+    ],
+    "mp3Text": "The spell is cast."
   },
   {
     "headTitle": "Abilities",
@@ -372,38 +380,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Wdoc_ability_cask_01.mp3"
-        ],
-        "mp3Text": "Here, catch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_ability_cask_03.mp3"
-        ],
-        "mp3Text": "Oh, look at it go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Wdoc_ability_cask_06.mp3"
-        ],
-        "mp3Text": "Look at it go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Wdoc_ability_cask_07.mp3"
-        ],
-        "mp3Text": "Casket!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_ability_cask_08.mp3"
-        ],
-        "mp3Text": "Heads up!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Wdoc_ability_cask_01.mp3"
+    ],
+    "mp3Text": "Here, catch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_ability_cask_03.mp3"
+    ],
+    "mp3Text": "Oh, look at it go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Wdoc_ability_cask_06.mp3"
+    ],
+    "mp3Text": "Look at it go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Wdoc_ability_cask_07.mp3"
+    ],
+    "mp3Text": "Casket!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_ability_cask_08.mp3"
+    ],
+    "mp3Text": "Heads up!"
   },
   {
     "voices": []
@@ -418,410 +427,433 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_killspecial_01.mp3"
-        ],
-        "mp3Text": "Wait for it…wait for it…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Wdoc_killspecial_02.mp3"
-        ],
-        "mp3Text": "He's about to pop."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_killspecial_01.mp3"
+    ],
+    "mp3Text": "Wait for it…wait for it…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Wdoc_killspecial_02.mp3"
+    ],
+    "mp3Text": "He's about to pop."
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_ability_maledict_01.mp3"
-        ],
-        "mp3Text": "Malediction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_ability_maledict_02.mp3"
-        ],
-        "mp3Text": "Curse you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Wdoc_killspecial_03.mp3"
-        ],
-        "mp3Text": "Dat make a big mess."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_ability_maledict_01.mp3"
+    ],
+    "mp3Text": "Malediction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_ability_maledict_02.mp3"
+    ],
+    "mp3Text": "Curse you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Wdoc_killspecial_03.mp3"
+    ],
+    "mp3Text": "Dat make a big mess."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Wdoc_level_01.mp3"
-        ],
-        "mp3Text": "I grow stronger!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_level_02.mp3"
-        ],
-        "mp3Text": "Hale and hearty."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_level_03.mp3"
-        ],
-        "mp3Text": "Waxing powers."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Wdoc_level_04.mp3"
-        ],
-        "mp3Text": "Dark initiation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_level_05.mp3"
-        ],
-        "mp3Text": "My powers grow."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Wdoc_level_06.mp3"
-        ],
-        "mp3Text": "A biggity bit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Wdoc_level_07.mp3"
-        ],
-        "mp3Text": "Oh yeah, rite of passage."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Wdoc_level_08.mp3"
-        ],
-        "mp3Text": "Feeling good, man."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Wdoc_level_01.mp3"
+    ],
+    "mp3Text": "I grow stronger!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_level_02.mp3"
+    ],
+    "mp3Text": "Hale and hearty."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_level_03.mp3"
+    ],
+    "mp3Text": "Waxing powers."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Wdoc_level_04.mp3"
+    ],
+    "mp3Text": "Dark initiation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Wdoc_level_05.mp3"
+    ],
+    "mp3Text": "My powers grow."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Wdoc_level_06.mp3"
+    ],
+    "mp3Text": "A biggity bit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Wdoc_level_07.mp3"
+    ],
+    "mp3Text": "Oh yeah, rite of passage."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Wdoc_level_08.mp3"
+    ],
+    "mp3Text": "Feeling good, man."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Wdoc_ability_maledict_03.mp3"
-        ],
-        "mp3Text": "Hah ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_ability_maledict_04.mp3"
-        ],
-        "mp3Text": "Howyeah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_kill_02.mp3"
-        ],
-        "mp3Text": "It was a mercy killing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Wdoc_kill_03.mp3"
-        ],
-        "mp3Text": "Ask not for whom the spell tolls."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_kill_05.mp3"
-        ],
-        "mp3Text": "Wha…don't tink ill of me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Wdoc_kill_06.mp3"
-        ],
-        "mp3Text": "I'll have your skull for my satchel"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_kill_07.mp3"
-        ],
-        "mp3Text": "I'm known for my graveside manner."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Wdoc_kill_08.mp3"
-        ],
-        "mp3Text": "Your bones will make a fine powder."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Wdoc_kill_09.mp3"
-        ],
-        "mp3Text": "Ah, don't worry. You're not contagious."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Wdoc_kill_11.mp3"
-        ],
-        "mp3Text": "Stick a bone in it. You're done."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_kill_12.mp3"
-        ],
-        "mp3Text": "Heh hah heh hah heh heh hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Wdoc_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha hah hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_laugh_02.mp3"
-        ],
-        "mp3Text": "Hoo hah hoo hoo hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_laugh_03.mp3"
-        ],
-        "mp3Text": "Oyeaaaaah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_laugh_04.mp3"
-        ],
-        "mp3Text": "Oooh, ha ha ha ha ha heh hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_laugh_05.mp3"
-        ],
-        "mp3Text": "Hah hah hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_laugh_06.mp3"
-        ],
-        "mp3Text": "Hah heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_laugh_07.mp3"
-        ],
-        "mp3Text": "Ho ho ha hah heh ha haah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_laugh_08.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Wdoc_laugh_09.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh hah heh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Wdoc_ability_maledict_03.mp3"
+    ],
+    "mp3Text": "Hah ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_ability_maledict_04.mp3"
+    ],
+    "mp3Text": "Howyeah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Wdoc_kill_02.mp3"
+    ],
+    "mp3Text": "It was a mercy killing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Wdoc_kill_03.mp3"
+    ],
+    "mp3Text": "Ask not for whom the spell tolls."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_kill_05.mp3"
+    ],
+    "mp3Text": "Wha…don't tink ill of me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Wdoc_kill_06.mp3"
+    ],
+    "mp3Text": "I'll have your skull for my satchel"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Wdoc_kill_07.mp3"
+    ],
+    "mp3Text": "I'm known for my graveside manner."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Wdoc_kill_08.mp3"
+    ],
+    "mp3Text": "Your bones will make a fine powder."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Wdoc_kill_09.mp3"
+    ],
+    "mp3Text": "Ah, don't worry. You're not contagious."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Wdoc_kill_11.mp3"
+    ],
+    "mp3Text": "Stick a bone in it. You're done."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_kill_12.mp3"
+    ],
+    "mp3Text": "Heh hah heh hah heh heh hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Wdoc_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha hah hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_laugh_02.mp3"
+    ],
+    "mp3Text": "Hoo hah hoo hoo hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_laugh_03.mp3"
+    ],
+    "mp3Text": "Oyeaaaaah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_laugh_04.mp3"
+    ],
+    "mp3Text": "Oooh, ha ha ha ha ha heh hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_laugh_05.mp3"
+    ],
+    "mp3Text": "Hah hah hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_laugh_06.mp3"
+    ],
+    "mp3Text": "Hah heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_laugh_07.mp3"
+    ],
+    "mp3Text": "Ho ho ha hah heh ha haah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_laugh_08.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Wdoc_laugh_09.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh hah heh."
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Wdoc_lasthit_01.mp3"
-        ],
-        "mp3Text": "Co-pay!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Wdoc_lasthit_02.mp3"
-        ],
-        "mp3Text": "Ah-ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_lasthit_03.mp3"
-        ],
-        "mp3Text": "My fee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Wdoc_lasthit_04.mp3"
-        ],
-        "mp3Text": "I'll take dat!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Wdoc_lasthit_06.mp3"
-        ],
-        "mp3Text": "Put a plaster on it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_lasthit_07.mp3"
-        ],
-        "mp3Text": "Oh, did dat sting?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Wdoc_lasthit_08.mp3"
-        ],
-        "mp3Text": "Cough!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Wdoc_lasthit_09.mp3"
-        ],
-        "mp3Text": "No pulse."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Wdoc_lasthit_01.mp3"
+    ],
+    "mp3Text": "Co-pay!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Wdoc_lasthit_02.mp3"
+    ],
+    "mp3Text": "Ah-ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_lasthit_03.mp3"
+    ],
+    "mp3Text": "My fee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Wdoc_lasthit_04.mp3"
+    ],
+    "mp3Text": "I'll take dat!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Wdoc_lasthit_06.mp3"
+    ],
+    "mp3Text": "Put a plaster on it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_lasthit_07.mp3"
+    ],
+    "mp3Text": "Oh, did dat sting?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Wdoc_lasthit_08.mp3"
+    ],
+    "mp3Text": "Cough!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Wdoc_lasthit_09.mp3"
+    ],
+    "mp3Text": "No pulse."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Wdoc_deny_01.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_deny_02.mp3"
-        ],
-        "mp3Text": "Nonnononono."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_deny_03.mp3"
-        ],
-        "mp3Text": "Don't think ill of me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_deny_04.mp3"
-        ],
-        "mp3Text": "Not for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Wdoc_deny_05.mp3"
-        ],
-        "mp3Text": "Hwah, ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_deny_06.mp3"
-        ],
-        "mp3Text": "I don't tink so."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Wdoc_deny_07.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Wdoc_deny_08.mp3"
-        ],
-        "mp3Text": "Not today."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Wdoc_deny_01.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_deny_02.mp3"
+    ],
+    "mp3Text": "Nonnononono."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_deny_03.mp3"
+    ],
+    "mp3Text": "Don't think ill of me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_deny_04.mp3"
+    ],
+    "mp3Text": "Not for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Wdoc_deny_05.mp3"
+    ],
+    "mp3Text": "Hwah, ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_deny_06.mp3"
+    ],
+    "mp3Text": "I don't tink so."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Wdoc_deny_07.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Wdoc_deny_08.mp3"
+    ],
+    "mp3Text": "Not today."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_purch_01.mp3"
-        ],
-        "mp3Text": "Whah, this will give them the envies."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Wdoc_purch_02.mp3"
-        ],
-        "mp3Text": "Dat cost an arm and a leg."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_purch_03.mp3"
-        ],
-        "mp3Text": "Just what the doctor ordered."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_purch_01.mp3"
+    ],
+    "mp3Text": "Whah, this will give them the envies."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Wdoc_purch_02.mp3"
+    ],
+    "mp3Text": "Dat cost an arm and a leg."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_purch_03.mp3"
+    ],
+    "mp3Text": "Just what the doctor ordered."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Wdoc_scepter_01.mp3"
+    ],
+    "mp3Text": "Well well.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Wdoc_scepter_01.mp3"
-        ],
-        "mp3Text": "Well well.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Wdoc_blink_01.mp3"
+    ],
+    "mp3Text": "I hop!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Wdoc_blink_01.mp3"
-        ],
-        "mp3Text": "I hop!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Wdoc_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Wdoc_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -830,200 +862,212 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Wdoc_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Wdoc_death_03.mp3"
-        ],
-        "mp3Text": "You darken my eyes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Wdoc_death_04.mp3"
-        ],
-        "mp3Text": "De doctor is…out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Wdoc_death_05.mp3"
-        ],
-        "mp3Text": "Spell my doom…will you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Wdoc_death_06.mp3"
-        ],
-        "mp3Text": "No…pulse."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Wdoc_death_07.mp3"
-        ],
-        "mp3Text": "My hexes die with…me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_death_08.mp3"
-        ],
-        "mp3Text": "The bones will tell."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_death_09.mp3"
-        ],
-        "mp3Text": "Curses!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Wdoc_death_10.mp3"
-        ],
-        "mp3Text": "Bad medicine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_death_11.mp3"
-        ],
-        "mp3Text": "My final ritual."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Wdoc_death_12.mp3"
-        ],
-        "mp3Text": "Grind me down for what ails you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Wdoc_death_13.mp3"
-        ],
-        "mp3Text": "A hex upon you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Wdoc_death_14.mp3"
-        ],
-        "mp3Text": "Aghwah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Wdoc_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Wdoc_death_03.mp3"
+    ],
+    "mp3Text": "You darken my eyes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Wdoc_death_04.mp3"
+    ],
+    "mp3Text": "De doctor is…out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Wdoc_death_05.mp3"
+    ],
+    "mp3Text": "Spell my doom…will you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Wdoc_death_06.mp3"
+    ],
+    "mp3Text": "No…pulse."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Wdoc_death_07.mp3"
+    ],
+    "mp3Text": "My hexes die with…me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_death_08.mp3"
+    ],
+    "mp3Text": "The bones will tell."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_death_09.mp3"
+    ],
+    "mp3Text": "Curses!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Wdoc_death_10.mp3"
+    ],
+    "mp3Text": "Bad medicine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_death_11.mp3"
+    ],
+    "mp3Text": "My final ritual."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Wdoc_death_12.mp3"
+    ],
+    "mp3Text": "Grind me down for what ails you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Wdoc_death_13.mp3"
+    ],
+    "mp3Text": "A hex upon you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Wdoc_death_14.mp3"
+    ],
+    "mp3Text": "Aghwah."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Wdoc_respawn_01.mp3"
-        ],
-        "mp3Text": "I thought I'd get a second opinion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Wdoc_respawn_02.mp3"
-        ],
-        "mp3Text": "Thought I'd never get out of that waiting room."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Wdoc_respawn_03.mp3"
-        ],
-        "mp3Text": "Just back from my rounds."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Wdoc_respawn_04.mp3"
-        ],
-        "mp3Text": "Those pickled eyeballs really worked."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Wdoc_respawn_05.mp3"
-        ],
-        "mp3Text": "I walk again among the living."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Wdoc_respawn_06.mp3"
-        ],
-        "mp3Text": "Ho ha, a charmed life."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Wdoc_respawn_07.mp3"
-        ],
-        "mp3Text": "My bones mend."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Wdoc_respawn_08.mp3"
-        ],
-        "mp3Text": "Prevention beats a cure."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_respawn_09.mp3"
-        ],
-        "mp3Text": "My powers alone restore me to health."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Wdoc_respawn_10.mp3"
-        ],
-        "mp3Text": "Set your clocks; it's the witching hour."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Wdoc_respawn_11.mp3"
-        ],
-        "mp3Text": "I feel a fever coming on."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Wdoc_respawn_01.mp3"
+    ],
+    "mp3Text": "I thought I'd get a second opinion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Wdoc_respawn_02.mp3"
+    ],
+    "mp3Text": "Thought I'd never get out of that waiting room."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Wdoc_respawn_03.mp3"
+    ],
+    "mp3Text": "Just back from my rounds."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Wdoc_respawn_04.mp3"
+    ],
+    "mp3Text": "Those pickled eyeballs really worked."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Wdoc_respawn_05.mp3"
+    ],
+    "mp3Text": "I walk again among the living."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Wdoc_respawn_06.mp3"
+    ],
+    "mp3Text": "Ho ha, a charmed life."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Wdoc_respawn_07.mp3"
+    ],
+    "mp3Text": "My bones mend."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Wdoc_respawn_08.mp3"
+    ],
+    "mp3Text": "Prevention beats a cure."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_respawn_09.mp3"
+    ],
+    "mp3Text": "My powers alone restore me to health."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Wdoc_respawn_10.mp3"
+    ],
+    "mp3Text": "Set your clocks; it's the witching hour."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Wdoc_respawn_11.mp3"
+    ],
+    "mp3Text": "I feel a fever coming on."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Wdoc_laugh_10.mp3"
-        ],
-        "mp3Text": "Whoa heh heh ha ha heh heh oweh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Wdoc_laugh_10.mp3"
+    ],
+    "mp3Text": "Whoa heh heh ha ha heh heh oweh."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Wdoc_bottle_01.mp3"
-        ],
-        "mp3Text": "It's a fetish of mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Wdoc_bottle_02.mp3"
-        ],
-        "mp3Text": "A bottle to hold my brew."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Wdoc_bottle_03.mp3"
-        ],
-        "mp3Text": "My last bottle was a skull."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Wdoc_bottle_01.mp3"
+    ],
+    "mp3Text": "It's a fetish of mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Wdoc_bottle_02.mp3"
+    ],
+    "mp3Text": "A bottle to hold my brew."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Wdoc_bottle_03.mp3"
+    ],
+    "mp3Text": "My last bottle was a skull."
   },
   {
     "headTitle": "Activating runes",
@@ -1035,14 +1079,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_purch_01.mp3"
-        ],
-        "mp3Text": "Whah, this will give them the envies."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_purch_01.mp3"
+    ],
+    "mp3Text": "Whah, this will give them the envies."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1050,20 +1091,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_purch_03.mp3"
-        ],
-        "mp3Text": "Just what the doctor ordered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Wdoc_lasthit_04.mp3"
-        ],
-        "mp3Text": "I'll take dat!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_purch_03.mp3"
+    ],
+    "mp3Text": "Just what the doctor ordered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Wdoc_lasthit_04.mp3"
+    ],
+    "mp3Text": "I'll take dat!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1071,14 +1110,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Wdoc_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Wdoc_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1086,14 +1122,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Wdoc_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Wdoc_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1101,24 +1134,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Wdoc_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Wdoc_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Wdoc_illus_02.mp3"
-        ],
-        "mp3Text": "Which doctor am I?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Wdoc_illus_02.mp3"
+    ],
+    "mp3Text": "Which doctor am I?"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1126,24 +1153,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Wdoc_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Wdoc_invis_02.mp3"
-        ],
-        "mp3Text": "De doctor will see you. But you won't see him."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Wdoc_invis_02.mp3"
+    ],
+    "mp3Text": "De doctor will see you. But you won't see him."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1151,24 +1172,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Wdoc_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Wdoc_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_regen_02.mp3"
-        ],
-        "mp3Text": "Better dan a poultice."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Wdoc_regen_02.mp3"
+    ],
+    "mp3Text": "Better dan a poultice."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1179,78 +1194,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Wdoc_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Wdoc_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Wdoc_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Wdoc_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Wdoc_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Wdoc_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Wdoc_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Wdoc_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Wdoc_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Wdoc_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Wdoc_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Wdoc_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Wdoc_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "headTitle": "Not enough mana",
@@ -1261,142 +1273,135 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Wdoc_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Wdoc_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Wdoc_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Wdoc_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Wdoc_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Wdoc_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Wdoc_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Wdoc_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Wdoc_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Wdoc_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Wdoc_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Wdoc_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Wdoc_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Wdoc_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Wdoc_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Wdoc_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Wdoc_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_pain_01.mp3"
-        ],
-        "mp3Text": "Owe."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Wdoc_pain_02.mp3"
-        ],
-        "mp3Text": "Ooo."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Wdoc_pain_04.mp3"
-        ],
-        "mp3Text": "Oooweh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Wdoc_pain_06.mp3"
-        ],
-        "mp3Text": "Oheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_pain_07.mp3"
-        ],
-        "mp3Text": "Ahhah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Wdoc_pain_01.mp3"
+    ],
+    "mp3Text": "Owe."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Wdoc_pain_02.mp3"
+    ],
+    "mp3Text": "Ooo."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_pain_03.mp3"
-        ],
-        "mp3Text": "whodundat!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_underattack_02.mp3"
-        ],
-        "mp3Text": "Come man, I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Wdoc_pain_04.mp3"
+    ],
+    "mp3Text": "Oooweh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Wdoc_pain_06.mp3"
+    ],
+    "mp3Text": "Oheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Wdoc_pain_07.mp3"
+    ],
+    "mp3Text": "Ahhah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Wdoc_pain_03.mp3"
+    ],
+    "mp3Text": "whodundat!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Wdoc_underattack_02.mp3"
+    ],
+    "mp3Text": "Come man, I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1407,32 +1412,32 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Wdoc_rare_01.mp3"
-        ],
-        "mp3Text": "You must beat the drum to hear its tale."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Wdoc_rare_02.mp3"
-        ],
-        "mp3Text": "Peeled eyeballs here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_rare_03.mp3"
-        ],
-        "mp3Text": "Do no harm. Chaaah! What fun is that?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Wdoc_rare_04.mp3"
-        ],
-        "mp3Text": "Where there is hunger, there are no old chickens. Same with war and heroes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Wdoc_rare_01.mp3"
+    ],
+    "mp3Text": "You must beat the drum to hear its tale."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Wdoc_rare_02.mp3"
+    ],
+    "mp3Text": "Peeled eyeballs here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_rare_03.mp3"
+    ],
+    "mp3Text": "Do no harm. Chaaah! What fun is that?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Wdoc_rare_04.mp3"
+    ],
+    "mp3Text": "Where there is hunger, there are no old chickens. Same with war and heroes."
   },
   {
     "headTitle": "Chat responses",
@@ -1443,120 +1448,124 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Wdoc_lane_missing_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Wdoc_lane_missing_02.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Wdoc_lane_missing_03.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Wdoc_lane_missing_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Wdoc_lane_missing_02.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Wdoc_lane_missing_03.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Wdoc_thanks_01.mp3"
-        ],
-        "mp3Text": "Ah, thanks man."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Wdoc_thanks_02.mp3"
-        ],
-        "mp3Text": "Thank you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Wdoc_thanks_03.mp3"
-        ],
-        "mp3Text": "Oh, now that's a health plan."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Wdoc_thanks_01.mp3"
+    ],
+    "mp3Text": "Ah, thanks man."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Wdoc_thanks_02.mp3"
+    ],
+    "mp3Text": "Thank you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Wdoc_thanks_03.mp3"
+    ],
+    "mp3Text": "Oh, now that's a health plan."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Wdoc_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha hah hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_laugh_02.mp3"
-        ],
-        "mp3Text": "Hoo hah hoo hoo hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_laugh_03.mp3"
-        ],
-        "mp3Text": "Oyeaaaaah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_laugh_04.mp3"
-        ],
-        "mp3Text": "Oooh, ha ha ha ha ha heh hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_laugh_05.mp3"
-        ],
-        "mp3Text": "Hah hah hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_laugh_06.mp3"
-        ],
-        "mp3Text": "Hah heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_laugh_07.mp3"
-        ],
-        "mp3Text": "Ho ho ha hah heh ha haah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_laugh_08.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Wdoc_laugh_09.mp3"
-        ],
-        "mp3Text": "Heh heh heh heh hah heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Wdoc_laugh_10.mp3"
-        ],
-        "mp3Text": "Whoa heh heh ha ha heh heh oweh. aaaaaa"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Wdoc_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha hah hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Wdoc_laugh_02.mp3"
+    ],
+    "mp3Text": "Hoo hah hoo hoo hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Wdoc_laugh_03.mp3"
+    ],
+    "mp3Text": "Oyeaaaaah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Wdoc_laugh_04.mp3"
+    ],
+    "mp3Text": "Oooh, ha ha ha ha ha heh hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Wdoc_laugh_05.mp3"
+    ],
+    "mp3Text": "Hah hah hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_laugh_06.mp3"
+    ],
+    "mp3Text": "Hah heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Wdoc_laugh_07.mp3"
+    ],
+    "mp3Text": "Ho ho ha hah heh ha haah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Wdoc_laugh_08.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Wdoc_laugh_09.mp3"
+    ],
+    "mp3Text": "Heh heh heh heh hah heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Wdoc_laugh_10.mp3"
+    ],
+    "mp3Text": "Whoa heh heh ha ha heh heh oweh. aaaaaa"
   },
   {
     "headTitle": "Match end",
@@ -1567,64 +1576,64 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Wdoc_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Wdoc_win_02.mp3"
-        ],
-        "mp3Text": "Ho ho, victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_win_03.mp3"
-        ],
-        "mp3Text": "You'll be getting my bill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Wdoc_win_04.mp3"
-        ],
-        "mp3Text": "My skull satchel is full!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Wdoc_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Wdoc_win_02.mp3"
+    ],
+    "mp3Text": "Ho ho, victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Wdoc_win_03.mp3"
+    ],
+    "mp3Text": "You'll be getting my bill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Wdoc_win_04.mp3"
+    ],
+    "mp3Text": "My skull satchel is full!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Wdoc_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Wdoc_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_lose_03.mp3"
-        ],
-        "mp3Text": "Dah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_lose_04.mp3"
-        ],
-        "mp3Text": "I'll sue for malpractice!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Wdoc_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Wdoc_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Wdoc_lose_03.mp3"
+    ],
+    "mp3Text": "Dah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Wdoc_lose_04.mp3"
+    ],
+    "mp3Text": "I'll sue for malpractice!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -1635,41 +1644,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Wdoc_happy_01.mp3"
-        ],
-        "mp3Text": "Owah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Wdoc_happy_01.mp3"
+    ],
+    "mp3Text": "Owah."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_happy_02.mp3"
-        ],
-        "mp3Text": "Ahaah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Wdoc_happy_02.mp3"
+    ],
+    "mp3Text": "Ahaah."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Wdoc_happy_03.mp3"
-        ],
-        "mp3Text": "Ho ho oyeah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Wdoc_happy_03.mp3"
+    ],
+    "mp3Text": "Ho ho oyeah!"
   }
 ]

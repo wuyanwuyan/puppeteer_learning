@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Nolan_North",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Ogre_Magi_minimap_icon.png/20px-Ogre_Magi_minimap_icon.png?version=a4b5b1857388257654f33dd9e8d7a8f6",
     "heroName": "Ogre Magi",
-    "href": "https://dota2.gamepedia.com/Ogre_Magi/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/ogre_magi_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/ogremagi.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
-        ],
-        "mp3Text": "Ogre Magi!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_spawn_02.mp3"
-        ],
-        "mp3Text": "Ogre Magi! The very same."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_spawn_03.mp3"
-        ],
-        "mp3Text": "Ogre Magi! I wanted to say that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_spawn_04.mp3"
-        ],
-        "mp3Text": "They picked me! No one ever picks me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Ogmag_spawn_05.mp3"
-        ],
-        "mp3Text": "I'm the Ogre Magi! No, you are!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_spawn_06.mp3"
-        ],
-        "mp3Text": "After you. No, me first!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Ogmag_move_01.mp3"
-        ],
-        "mp3Text": "Yeah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_attack_02.mp3"
-        ],
-        "mp3Text": "Here we go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_attack_05.mp3"
-        ],
-        "mp3Text": "I like this part! Me too."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_ability_multi_01.mp3"
-        ],
-        "mp3Text": "Damn. We're good."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_respawn_06.mp3"
-        ],
-        "mp3Text": "Pleased to meet ya. Likewise I'm sure."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_attack_04.mp3"
-        ],
-        "mp3Text": "Hittin stuff is fun. Hah aha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
+    ],
+    "mp3Text": "Ogre Magi!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_spawn_02.mp3"
+    ],
+    "mp3Text": "Ogre Magi! The very same."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_spawn_03.mp3"
+    ],
+    "mp3Text": "Ogre Magi! I wanted to say that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_spawn_04.mp3"
+    ],
+    "mp3Text": "They picked me! No one ever picks me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Ogmag_spawn_05.mp3"
+    ],
+    "mp3Text": "I'm the Ogre Magi! No, you are!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_spawn_06.mp3"
+    ],
+    "mp3Text": "After you. No, me first!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Ogmag_move_01.mp3"
+    ],
+    "mp3Text": "Yeah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_attack_02.mp3"
+    ],
+    "mp3Text": "Here we go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_attack_05.mp3"
+    ],
+    "mp3Text": "I like this part! Me too."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_ability_multi_01.mp3"
+    ],
+    "mp3Text": "Damn. We're good."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_respawn_06.mp3"
+    ],
+    "mp3Text": "Pleased to meet ya. Likewise I'm sure."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_attack_04.mp3"
+    ],
+    "mp3Text": "Hittin stuff is fun. Hah aha ha ha ha!"
   },
   {
     "headTitle": "Drafting",
@@ -101,370 +108,389 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
-        ],
-        "mp3Text": "Ogre Magi!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
+    ],
+    "mp3Text": "Ogre Magi!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Ogmag_anger_04.mp3"
-        ],
-        "mp3Text": "Urruh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Ogmag_anger_04.mp3"
+    ],
+    "mp3Text": "Urruh!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
-        ],
-        "mp3Text": "Ogre Magi!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_spawn_02.mp3"
-        ],
-        "mp3Text": "Ogre Magi! The very same."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_spawn_03.mp3"
-        ],
-        "mp3Text": "Ogre Magi! I wanted to say that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_spawn_04.mp3"
-        ],
-        "mp3Text": "They picked me! No one ever picks me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Ogmag_spawn_05.mp3"
-        ],
-        "mp3Text": "I'm the Ogre Magi! No, you are!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_spawn_06.mp3"
-        ],
-        "mp3Text": "After you. No, me first!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_spawn_01.mp3"
+    ],
+    "mp3Text": "Ogre Magi!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_spawn_02.mp3"
+    ],
+    "mp3Text": "Ogre Magi! The very same."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_spawn_03.mp3"
+    ],
+    "mp3Text": "Ogre Magi! I wanted to say that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_spawn_04.mp3"
+    ],
+    "mp3Text": "They picked me! No one ever picks me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Ogmag_spawn_05.mp3"
+    ],
+    "mp3Text": "I'm the Ogre Magi! No, you are!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_spawn_06.mp3"
+    ],
+    "mp3Text": "After you. No, me first!"
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Ogmag_inthebag_01.mp3"
-        ],
-        "mp3Text": "We got this one in the bag. Where'd you get a bag?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Ogmag_inthebag_01.mp3"
+    ],
+    "mp3Text": "We got this one in the bag. Where'd you get a bag?"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Ogmag_battlebegins_01.mp3"
-        ],
-        "mp3Text": "What, it ain't started already? I thought it started."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Ogmag_battlebegins_01.mp3"
+    ],
+    "mp3Text": "What, it ain't started already? I thought it started."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Ogmag_move_01.mp3"
-        ],
-        "mp3Text": "Yeah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Ogmag_move_02.mp3"
-        ],
-        "mp3Text": "Yup. Yup."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Ogmag_move_03.mp3"
-        ],
-        "mp3Text": "Yup. Yup."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Ogmag_move_04.mp3"
-        ],
-        "mp3Text": "Why there? Who knows?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Ogmag_move_05.mp3"
-        ],
-        "mp3Text": "Guess we better. Yep."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Ogmag_move_06.mp3"
-        ],
-        "mp3Text": "Guess we better. Yep."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_move_07.mp3"
-        ],
-        "mp3Text": "Oh. Kay."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Ogmag_move_08.mp3"
-        ],
-        "mp3Text": "Oh. Kay."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Ogmag_move_09.mp3"
-        ],
-        "mp3Text": "Me first."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_10.mp3"
-        ],
-        "mp3Text": "My turn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Ogmag_move_11.mp3"
-        ],
-        "mp3Text": "You go first."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Ogmag_move_12.mp3"
-        ],
-        "mp3Text": "After you. After you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Ogmag_move_13.mp3"
-        ],
-        "mp3Text": "I'll do legs this time. Okay."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Ogmag_move_14.mp3"
-        ],
-        "mp3Text": "Good idea. Cause it was mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Ogmag_move_15.mp3"
-        ],
-        "mp3Text": "Good idea. Cause it was mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_move_16.mp3"
-        ],
-        "mp3Text": "Let me through. Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_move_17.mp3"
-        ],
-        "mp3Text": "Outta my way. Hey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Ogmag_move_18.mp3"
-        ],
-        "mp3Text": "This way. Thataway."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_19.mp3"
-        ],
-        "mp3Text": "When can I hit something? Who's stopping ya?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Ogmag_move_20.mp3"
-        ],
-        "mp3Text": "Running's not as fun as hitting. Not one bit fun."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_move_21.mp3"
-        ],
-        "mp3Text": "Hit the road. Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_move_22.mp3"
-        ],
-        "mp3Text": "Is that a squirrel? Come on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Ogmag_move_23.mp3"
-        ],
-        "mp3Text": "Let's go North! No, South!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_move_24.mp3"
-        ],
-        "mp3Text": "I saw a thing. Huh?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Ogmag_move_01.mp3"
+    ],
+    "mp3Text": "Yeah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Ogmag_move_02.mp3"
+    ],
+    "mp3Text": "Yup. Yup."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Ogmag_move_03.mp3"
+    ],
+    "mp3Text": "Yup. Yup."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Ogmag_move_04.mp3"
+    ],
+    "mp3Text": "Why there? Who knows?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Ogmag_move_05.mp3"
+    ],
+    "mp3Text": "Guess we better. Yep."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Ogmag_move_06.mp3"
+    ],
+    "mp3Text": "Guess we better. Yep."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_move_07.mp3"
+    ],
+    "mp3Text": "Oh. Kay."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Ogmag_move_08.mp3"
+    ],
+    "mp3Text": "Oh. Kay."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Ogmag_move_09.mp3"
+    ],
+    "mp3Text": "Me first."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_10.mp3"
+    ],
+    "mp3Text": "My turn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Ogmag_move_11.mp3"
+    ],
+    "mp3Text": "You go first."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Ogmag_move_12.mp3"
+    ],
+    "mp3Text": "After you. After you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Ogmag_move_13.mp3"
+    ],
+    "mp3Text": "I'll do legs this time. Okay."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Ogmag_move_14.mp3"
+    ],
+    "mp3Text": "Good idea. Cause it was mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Ogmag_move_15.mp3"
+    ],
+    "mp3Text": "Good idea. Cause it was mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_move_16.mp3"
+    ],
+    "mp3Text": "Let me through. Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_move_17.mp3"
+    ],
+    "mp3Text": "Outta my way. Hey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Ogmag_move_18.mp3"
+    ],
+    "mp3Text": "This way. Thataway."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_19.mp3"
+    ],
+    "mp3Text": "When can I hit something? Who's stopping ya?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Ogmag_move_20.mp3"
+    ],
+    "mp3Text": "Running's not as fun as hitting. Not one bit fun."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_move_21.mp3"
+    ],
+    "mp3Text": "Hit the road. Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_move_22.mp3"
+    ],
+    "mp3Text": "Is that a squirrel? Come on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Ogmag_move_23.mp3"
+    ],
+    "mp3Text": "Let's go North! No, South!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_move_24.mp3"
+    ],
+    "mp3Text": "I saw a thing. Huh?"
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_attack_02.mp3"
-        ],
-        "mp3Text": "Here we go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_attack_03.mp3"
-        ],
-        "mp3Text": "I like this part. You would."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_attack_04.mp3"
-        ],
-        "mp3Text": "Hittin stuff is fun. Hah aha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_attack_05.mp3"
-        ],
-        "mp3Text": "I like this part! Me too."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Ogmag_attack_06.mp3"
-        ],
-        "mp3Text": "After em!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_attack_07.mp3"
-        ],
-        "mp3Text": "Go on!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Ogmag_attack_08.mp3"
-        ],
-        "mp3Text": "Let's go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_attack_09.mp3"
-        ],
-        "mp3Text": "Let me! No, me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Ogmag_attack_10.mp3"
-        ],
-        "mp3Text": "Let me! No, me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Ogmag_attack_11.mp3"
-        ],
-        "mp3Text": "Hey! He said hey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Ogmag_attack_12.mp3"
-        ],
-        "mp3Text": "You doin good! You too!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_attack_13.mp3"
-        ],
-        "mp3Text": "Get going! On it."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_attack_02.mp3"
+    ],
+    "mp3Text": "Here we go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_attack_03.mp3"
+    ],
+    "mp3Text": "I like this part. You would."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_attack_04.mp3"
+    ],
+    "mp3Text": "Hittin stuff is fun. Hah aha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_attack_05.mp3"
+    ],
+    "mp3Text": "I like this part! Me too."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Ogmag_attack_06.mp3"
+    ],
+    "mp3Text": "After em!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_attack_07.mp3"
+    ],
+    "mp3Text": "Go on!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Ogmag_attack_08.mp3"
+    ],
+    "mp3Text": "Let's go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_attack_09.mp3"
+    ],
+    "mp3Text": "Let me! No, me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Ogmag_attack_10.mp3"
+    ],
+    "mp3Text": "Let me! No, me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Ogmag_attack_11.mp3"
+    ],
+    "mp3Text": "Hey! He said hey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Ogmag_attack_12.mp3"
+    ],
+    "mp3Text": "You doin good! You too!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_attack_13.mp3"
+    ],
+    "mp3Text": "Get going! On it."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Ogmag_cast_01.mp3"
-        ],
-        "mp3Text": "We got your number! What comes after two?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_cast_02.mp3"
-        ],
-        "mp3Text": "We're looking at you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Ogmag_cast_03.mp3"
-        ],
-        "mp3Text": "Here we come!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Ogmag_cast_04.mp3"
-        ],
-        "mp3Text": "Hey, wait for us!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Ogmag_cast_01.mp3"
+    ],
+    "mp3Text": "We got your number! What comes after two?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_cast_02.mp3"
+    ],
+    "mp3Text": "We're looking at you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Ogmag_cast_03.mp3"
+    ],
+    "mp3Text": "Here we come!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Ogmag_cast_04.mp3"
+    ],
+    "mp3Text": "Hey, wait for us!"
   },
   {
     "headTitle": "Abilities",
@@ -480,88 +506,92 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Ogmag_ability_firebl_01.mp3"
-        ],
-        "mp3Text": "Hey!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Ogmag_ability_firebl_02.mp3"
-        ],
-        "mp3Text": "Whoops!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Ogmag_ability_firebl_03.mp3"
-        ],
-        "mp3Text": "Fire!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Ogmag_ability_firebl_04.mp3"
-        ],
-        "mp3Text": "Burn!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_ability_firebl_05.mp3"
-        ],
-        "mp3Text": "Who started that?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Ogmag_ability_firebl_01.mp3"
+    ],
+    "mp3Text": "Hey!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Ogmag_ability_firebl_02.mp3"
+    ],
+    "mp3Text": "Whoops!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Ogmag_ability_firebl_03.mp3"
+    ],
+    "mp3Text": "Fire!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Ogmag_ability_firebl_04.mp3"
+    ],
+    "mp3Text": "Burn!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_ability_firebl_05.mp3"
+    ],
+    "mp3Text": "Who started that?"
   },
   {
     "text": "Killing enemy, multicast",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_ability_multi_01.mp3"
-        ],
-        "mp3Text": "Damn. We're good."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Ogmag_ability_multi_02.mp3"
-        ],
-        "mp3Text": "Now that's skill. Well I practice a lot."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Ogmag_ability_multi_03.mp3"
-        ],
-        "mp3Text": "Did you mean to do that? Yep."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_ability_multi_04.mp3"
-        ],
-        "mp3Text": "That's how we do. Pure skill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Ogmag_ability_multi_06.mp3"
-        ],
-        "mp3Text": "Oh, skillshot! Not luck at all."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Ogmag_ability_multi_08.mp3"
-        ],
-        "mp3Text": "That was so good. We had to do it again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_ability_multi_09.mp3"
-        ],
-        "mp3Text": "Once is not enough. It's just as high as we can count."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Ogmag_ability_multi_01.mp3"
+    ],
+    "mp3Text": "Damn. We're good."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Ogmag_ability_multi_02.mp3"
+    ],
+    "mp3Text": "Now that's skill. Well I practice a lot."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Ogmag_ability_multi_03.mp3"
+    ],
+    "mp3Text": "Did you mean to do that? Yep."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_ability_multi_04.mp3"
+    ],
+    "mp3Text": "That's how we do. Pure skill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Ogmag_ability_multi_06.mp3"
+    ],
+    "mp3Text": "Oh, skillshot! Not luck at all."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Ogmag_ability_multi_08.mp3"
+    ],
+    "mp3Text": "That was so good. We had to do it again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_ability_multi_09.mp3"
+    ],
+    "mp3Text": "Once is not enough. It's just as high as we can count."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e4/Ignite_icon.png/16px-Ignite_icon.png?version=fd7e2b1f38d48820265d207ffc574576",
@@ -573,26 +603,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Ogmag_ability_ignite_01.mp3"
-        ],
-        "mp3Text": "You should have put that out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Ogmag_ability_ignite_02.mp3"
-        ],
-        "mp3Text": "Hey, you are on fire."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Ogmag_ability_ignite_03.mp3"
-        ],
-        "mp3Text": "Can we get a light?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Ogmag_ability_ignite_01.mp3"
+    ],
+    "mp3Text": "You should have put that out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Ogmag_ability_ignite_02.mp3"
+    ],
+    "mp3Text": "Hey, you are on fire."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Ogmag_ability_ignite_03.mp3"
+    ],
+    "mp3Text": "Can we get a light?"
   },
   {
     "voices": []
@@ -602,32 +631,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Ogmag_ability_bloodlust_01.mp3"
-        ],
-        "mp3Text": "Bloodlust! Ahhh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Ogmag_ability_bloodlust_02.mp3"
-        ],
-        "mp3Text": "Blood! Lust!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_ability_bloodlust_03.mp3"
-        ],
-        "mp3Text": "Blood! Lust!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Ogmag_ability_bloodlust_04.mp3"
-        ],
-        "mp3Text": "Eeeeeyaaaaa!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Ogmag_ability_bloodlust_01.mp3"
+    ],
+    "mp3Text": "Bloodlust! Ahhh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Ogmag_ability_bloodlust_02.mp3"
+    ],
+    "mp3Text": "Blood! Lust!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_ability_bloodlust_03.mp3"
+    ],
+    "mp3Text": "Blood! Lust!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Ogmag_ability_bloodlust_04.mp3"
+    ],
+    "mp3Text": "Eeeeeyaaaaa!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/87/Multicast_icon.png/16px-Multicast_icon.png?version=07a8869f465ff4266252ffb6483f9961",
@@ -639,152 +668,156 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Ogmag_ability_multi_hit_02.mp3"
-        ],
-        "mp3Text": "And another!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Ogmag_ability_multi_hit_03.mp3"
-        ],
-        "mp3Text": "And another!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Ogmag_ability_multi_hit_04.mp3"
-        ],
-        "mp3Text": "And again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Ogmag_ability_multi_hit_05.mp3"
-        ],
-        "mp3Text": "And again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Ogmag_ability_multi_hit_10.mp3"
-        ],
-        "mp3Text": "Again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_ability_multi_hit_11.mp3"
-        ],
-        "mp3Text": "And again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Ogmag_ability_multi_hit_12.mp3"
-        ],
-        "mp3Text": "And again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_ability_multi_hit_14.mp3"
-        ],
-        "mp3Text": "Ah ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Ogmag_ability_multi_hit_15.mp3"
-        ],
-        "mp3Text": "Ah ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_ability_multi_hit_16.mp3"
-        ],
-        "mp3Text": "Ah ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_ability_multi_hit_18.mp3"
-        ],
-        "mp3Text": "Oh ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Ogmag_ability_multi_hit_19.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Ogmag_ability_multi_hit_02.mp3"
+    ],
+    "mp3Text": "And another!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Ogmag_ability_multi_hit_03.mp3"
+    ],
+    "mp3Text": "And another!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Ogmag_ability_multi_hit_04.mp3"
+    ],
+    "mp3Text": "And again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Ogmag_ability_multi_hit_05.mp3"
+    ],
+    "mp3Text": "And again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Ogmag_ability_multi_hit_10.mp3"
+    ],
+    "mp3Text": "Again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_ability_multi_hit_11.mp3"
+    ],
+    "mp3Text": "And again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Ogmag_ability_multi_hit_12.mp3"
+    ],
+    "mp3Text": "And again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_ability_multi_hit_14.mp3"
+    ],
+    "mp3Text": "Ah ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Ogmag_ability_multi_hit_15.mp3"
+    ],
+    "mp3Text": "Ah ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_ability_multi_hit_16.mp3"
+    ],
+    "mp3Text": "Ah ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_ability_multi_hit_18.mp3"
+    ],
+    "mp3Text": "Oh ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Ogmag_ability_multi_hit_19.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
     "text": "Proccing, 2x",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Ogmag_ability_multi_hit_01.mp3"
-        ],
-        "mp3Text": "And another!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Ogmag_ability_multi_hit_01.mp3"
+    ],
+    "mp3Text": "And another!"
   },
   {
     "text": "Proccing, 3x",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Ogmag_ability_multi_hit_06.mp3"
-        ],
-        "mp3Text": "And again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Ogmag_ability_multi_hit_09.mp3"
-        ],
-        "mp3Text": "And another one!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_ability_multi_hit_17.mp3"
-        ],
-        "mp3Text": "Oh ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Ogmag_ability_multi_hit_20.mp3"
-        ],
-        "mp3Text": "Ah ho ho!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Ogmag_ability_multi_hit_06.mp3"
+    ],
+    "mp3Text": "And again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Ogmag_ability_multi_hit_09.mp3"
+    ],
+    "mp3Text": "And another one!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_ability_multi_hit_17.mp3"
+    ],
+    "mp3Text": "Oh ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Ogmag_ability_multi_hit_20.mp3"
+    ],
+    "mp3Text": "Ah ho ho!"
   },
   {
     "text": "Proccing, 4x",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_ability_multi_hit_07.mp3"
-        ],
-        "mp3Text": "And again and again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_ability_multi_hit_08.mp3"
-        ],
-        "mp3Text": "And another one!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Ogmag_ability_multi_hit_13.mp3"
-        ],
-        "mp3Text": "Ah and again!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_ability_multi_hit_07.mp3"
+    ],
+    "mp3Text": "And again and again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_ability_multi_hit_08.mp3"
+    ],
+    "mp3Text": "And another one!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Ogmag_ability_multi_hit_13.mp3"
+    ],
+    "mp3Text": "Ah and again!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Unrefined_Fireblast_icon.png/16px-Unrefined_Fireblast_icon.png?version=f8c8607d82b881cb0881d3a2ae10ffcf",
@@ -796,504 +829,537 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_ability_firebl_06.mp3"
-        ],
-        "mp3Text": "You're a firestarter! You are!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Ogmag_ability_firebl_06.mp3"
+    ],
+    "mp3Text": "You're a firestarter! You are!"
   },
   {
     "text": "Killing enemy, multicast",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_ability_multi_05.mp3"
-        ],
-        "mp3Text": "Expertise! From the experts."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Ogmag_ability_multi_07.mp3"
-        ],
-        "mp3Text": "That was so good. We had to do it again."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_ability_multi_05.mp3"
+    ],
+    "mp3Text": "Expertise! From the experts."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Ogmag_ability_multi_07.mp3"
+    ],
+    "mp3Text": "That was so good. We had to do it again."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_level_01.mp3"
-        ],
-        "mp3Text": "I just had an idea! So did I!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Ogmag_level_02.mp3"
-        ],
-        "mp3Text": "Doubletake! Give it back!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Ogmag_level_03.mp3"
-        ],
-        "mp3Text": "I think I just got smarter. Nope."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Ogmag_level_04.mp3"
-        ],
-        "mp3Text": "Where'd that funny light come from?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_level_05.mp3"
-        ],
-        "mp3Text": "Hey, I was thinking. Uh oh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Ogmag_level_06.mp3"
-        ],
-        "mp3Text": "How many levels is that? One?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Ogmag_level_07.mp3"
-        ],
-        "mp3Text": "There we go again. Where?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_level_01.mp3"
+    ],
+    "mp3Text": "I just had an idea! So did I!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Ogmag_level_02.mp3"
+    ],
+    "mp3Text": "Doubletake! Give it back!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Ogmag_level_03.mp3"
+    ],
+    "mp3Text": "I think I just got smarter. Nope."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Ogmag_level_04.mp3"
+    ],
+    "mp3Text": "Where'd that funny light come from?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_level_05.mp3"
+    ],
+    "mp3Text": "Hey, I was thinking. Uh oh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Ogmag_level_06.mp3"
+    ],
+    "mp3Text": "How many levels is that? One?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Ogmag_level_07.mp3"
+    ],
+    "mp3Text": "There we go again. Where?"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Ogmag_kill_01.mp3"
-        ],
-        "mp3Text": "Squish, you're dead. Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_kill_02.mp3"
-        ],
-        "mp3Text": "That was all your idea."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_kill_03.mp3"
-        ],
-        "mp3Text": "That had to hurt. I almost feel bad."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Ogmag_kill_04.mp3"
-        ],
-        "mp3Text": "We outsmarted em. So that's what happened."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Ogmag_kill_05.mp3"
-        ],
-        "mp3Text": "We outsmarted em. So that's what happened."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_kill_06.mp3"
-        ],
-        "mp3Text": "Thought you could fool us, didn't ya?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Ogmag_kill_07.mp3"
-        ],
-        "mp3Text": "One down. Nice counting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_kill_08.mp3"
-        ],
-        "mp3Text": "One down. Nice counting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_kill_09.mp3"
-        ],
-        "mp3Text": "Stop me if you heard this one. Stop."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Ogmag_kill_10.mp3"
-        ],
-        "mp3Text": "Pay attention next time. Who, me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Ogmag_kill_11.mp3"
-        ],
-        "mp3Text": "Good work. I thought that was you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_kill_12.mp3"
-        ],
-        "mp3Text": "Well whadda ya know? Not much."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Ogmag_kill_13.mp3"
-        ],
-        "mp3Text": "That's one in a row for you. And you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha aha ah ah aha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah hee ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_laugh_03.mp3"
-        ],
-        "mp3Text": "Aha ha hah aha ha ha ha haha ha hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah aha ha ha ha ha ha he he he. Ah, that's enough."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Ogmag_laugh_05.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha hee hee hee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Ogmag_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah hahaha ha ah ah aha aha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_laugh_07.mp3"
-        ],
-        "mp3Text": "Ah ha ha aha ha hee hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_laugh_08.mp3"
-        ],
-        "mp3Text": "Hee hee hee hee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_laugh_09.mp3"
-        ],
-        "mp3Text": "Oh ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_laugh_10.mp3"
-        ],
-        "mp3Text": "Ah ha hahahah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_laugh_12.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_laugh_13.mp3"
-        ],
-        "mp3Text": "Hee hee hee hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_laugh_14.mp3"
-        ],
-        "mp3Text": "Hee hee he he he he he aha ha… What're we laughing about?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Ogmag_kill_01.mp3"
+    ],
+    "mp3Text": "Squish, you're dead. Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_kill_02.mp3"
+    ],
+    "mp3Text": "That was all your idea."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_kill_03.mp3"
+    ],
+    "mp3Text": "That had to hurt. I almost feel bad."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Ogmag_kill_04.mp3"
+    ],
+    "mp3Text": "We outsmarted em. So that's what happened."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Ogmag_kill_05.mp3"
+    ],
+    "mp3Text": "We outsmarted em. So that's what happened."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_kill_06.mp3"
+    ],
+    "mp3Text": "Thought you could fool us, didn't ya?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Ogmag_kill_07.mp3"
+    ],
+    "mp3Text": "One down. Nice counting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_kill_08.mp3"
+    ],
+    "mp3Text": "One down. Nice counting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_kill_09.mp3"
+    ],
+    "mp3Text": "Stop me if you heard this one. Stop."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Ogmag_kill_10.mp3"
+    ],
+    "mp3Text": "Pay attention next time. Who, me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Ogmag_kill_11.mp3"
+    ],
+    "mp3Text": "Good work. I thought that was you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Ogmag_kill_12.mp3"
+    ],
+    "mp3Text": "Well whadda ya know? Not much."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Ogmag_kill_13.mp3"
+    ],
+    "mp3Text": "That's one in a row for you. And you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha aha ah ah aha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah hee ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_laugh_03.mp3"
+    ],
+    "mp3Text": "Aha ha hah aha ha ha ha haha ha hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah aha ha ha ha ha ha he he he. Ah, that's enough."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Ogmag_laugh_05.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha hee hee hee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Ogmag_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah hahaha ha ah ah aha aha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_laugh_07.mp3"
+    ],
+    "mp3Text": "Ah ha ha aha ha hee hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_laugh_08.mp3"
+    ],
+    "mp3Text": "Hee hee hee hee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_laugh_09.mp3"
+    ],
+    "mp3Text": "Oh ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_laugh_10.mp3"
+    ],
+    "mp3Text": "Ah ha hahahah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_laugh_12.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_laugh_13.mp3"
+    ],
+    "mp3Text": "Hee hee hee hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_laugh_14.mp3"
+    ],
+    "mp3Text": "Hee hee he he he he he aha ha… What're we laughing about?"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Ogmag_rival_02.mp3"
+    ],
+    "mp3Text": "Two heads are better than none! But he had a head.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Ogmag_rival_02.mp3"
-        ],
-        "mp3Text": "Two heads are better than none! But he had a head.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_rival_03.mp3"
-        ],
-        "mp3Text": "We gave you a head start!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Ogmag_rival_04.mp3"
-        ],
-        "mp3Text": "That was skill all right. Pure skill.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Ogmag_rival_05.mp3"
-        ],
-        "mp3Text": "You need to work on your skill. Like us.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_rival_06.mp3"
-        ],
-        "mp3Text": "Invoker! What a dummy.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_rival_07.mp3"
-        ],
-        "mp3Text": "Ha ha! Outsmarted him!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Ogmag_rival_08.mp3"
-        ],
-        "mp3Text": "Invoker! What a dummy.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Ogmag_rival_09.mp3"
-        ],
-        "mp3Text": "Invoker! Not so smart now, huh!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Ogmag_rival_10.mp3"
-        ],
-        "mp3Text": "We got spells too! And the smarts to use em.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Ogmag_rival_11.mp3"
-        ],
-        "mp3Text": "The Tinker! Or the Stinker! Hee hee hee!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Ogmag_rival_12.mp3"
-        ],
-        "mp3Text": "He didn't know everything. Nope.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
-            "name": "Dark Seer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Ogmag_rival_13.mp3"
-        ],
-        "mp3Text": "Bye, Lich! He gave me the creeps.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_rival_14.mp3"
-        ],
-        "mp3Text": "Sorry 'bout your grim…grim… Your book!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Ogmag_rival_15.mp3"
-        ],
-        "mp3Text": "Leshrac. Is Le Dead…hee hee hee hee!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c8/Leshrac_minimap_icon.png/16px-Leshrac_minimap_icon.png?version=6f532602cb786ae086a5903557449826",
-            "name": "Leshrac"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Ogmag_rival_16.mp3"
-        ],
-        "mp3Text": "Dazzle? More like Duhzzle.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
-            "name": "Dazzle"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Ogmag_rival_17.mp3"
-        ],
-        "mp3Text": "Could never figure that guy out. Me neither.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_rival_18.mp3"
-        ],
-        "mp3Text": "Sorry, I was aiming for the little guy. Me too.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-            "name": "Alchemist"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Ogmag_rival_19.mp3"
-        ],
-        "mp3Text": "Shame about the ogre. True dat.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-            "name": "Alchemist"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Ogmag_rival_20.mp3"
-        ],
-        "mp3Text": "You're free! Naw, I think he's dead.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-            "name": "Alchemist"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Ogmag_rival_03.mp3"
+    ],
+    "mp3Text": "We gave you a head start!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Ogmag_rival_01.mp3"
-        ],
-        "mp3Text": "Bear pun! Ha ha, I get it.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
-            "name": "Ursa"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Ogmag_rival_04.mp3"
+    ],
+    "mp3Text": "That was skill all right. Pure skill.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Ogmag_rival_05.mp3"
+    ],
+    "mp3Text": "You need to work on your skill. Like us.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_rival_06.mp3"
+    ],
+    "mp3Text": "Invoker! What a dummy.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_rival_07.mp3"
+    ],
+    "mp3Text": "Ha ha! Outsmarted him!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Ogmag_rival_08.mp3"
+    ],
+    "mp3Text": "Invoker! What a dummy.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Ogmag_rival_09.mp3"
+    ],
+    "mp3Text": "Invoker! Not so smart now, huh!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Ogmag_rival_10.mp3"
+    ],
+    "mp3Text": "We got spells too! And the smarts to use em.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Ogmag_rival_11.mp3"
+    ],
+    "mp3Text": "The Tinker! Or the Stinker! Hee hee hee!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Ogmag_rival_12.mp3"
+    ],
+    "mp3Text": "He didn't know everything. Nope.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
+        "name": "Dark Seer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Ogmag_rival_13.mp3"
+    ],
+    "mp3Text": "Bye, Lich! He gave me the creeps.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Ogmag_rival_14.mp3"
+    ],
+    "mp3Text": "Sorry 'bout your grim…grim… Your book!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Ogmag_rival_15.mp3"
+    ],
+    "mp3Text": "Leshrac. Is Le Dead…hee hee hee hee!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c8/Leshrac_minimap_icon.png/16px-Leshrac_minimap_icon.png?version=6f532602cb786ae086a5903557449826",
+        "name": "Leshrac"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Ogmag_rival_16.mp3"
+    ],
+    "mp3Text": "Dazzle? More like Duhzzle.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
+        "name": "Dazzle"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Ogmag_rival_17.mp3"
+    ],
+    "mp3Text": "Could never figure that guy out. Me neither.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Ogmag_rival_18.mp3"
+    ],
+    "mp3Text": "Sorry, I was aiming for the little guy. Me too.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+        "name": "Alchemist"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Ogmag_rival_19.mp3"
+    ],
+    "mp3Text": "Shame about the ogre. True dat.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+        "name": "Alchemist"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Ogmag_rival_20.mp3"
+    ],
+    "mp3Text": "You're free! Naw, I think he's dead.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+        "name": "Alchemist"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Ogmag_rival_01.mp3"
+    ],
+    "mp3Text": "Bear pun! Ha ha, I get it.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
+        "name": "Ursa"
       }
     ]
   },
@@ -1302,354 +1368,372 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Ogmag_firstblood_01.mp3"
-        ],
-        "mp3Text": "First Blood! You got some on you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Ogmag_firstblood_02.mp3"
-        ],
-        "mp3Text": "First Blood! Did you mean to do that?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Ogmag_firstblood_01.mp3"
+    ],
+    "mp3Text": "First Blood! You got some on you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Ogmag_firstblood_02.mp3"
+    ],
+    "mp3Text": "First Blood! Did you mean to do that?"
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Ogmag_lasthit_01.mp3"
-        ],
-        "mp3Text": "Mine! Selfish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Ogmag_lasthit_02.mp3"
-        ],
-        "mp3Text": "Thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Ogmag_lasthit_03.mp3"
-        ],
-        "mp3Text": "Ooh, shiny."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Ogmag_lasthit_04.mp3"
-        ],
-        "mp3Text": "Don't mind if I do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Ogmag_lasthit_05.mp3"
-        ],
-        "mp3Text": "Don't mind if I do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_lasthit_06.mp3"
-        ],
-        "mp3Text": "Gifts for the magi."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Ogmag_lasthit_07.mp3"
-        ],
-        "mp3Text": "Split the loot!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Ogmag_lasthit_08.mp3"
-        ],
-        "mp3Text": "I'll take that. Me too."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Ogmag_lasthit_09.mp3"
-        ],
-        "mp3Text": "I'll take that. Me too."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Ogmag_lasthit_10.mp3"
-        ],
-        "mp3Text": "We got the goods."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Ogmag_lasthit_01.mp3"
+    ],
+    "mp3Text": "Mine! Selfish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Ogmag_lasthit_02.mp3"
+    ],
+    "mp3Text": "Thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Ogmag_lasthit_03.mp3"
+    ],
+    "mp3Text": "Ooh, shiny."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Ogmag_lasthit_04.mp3"
+    ],
+    "mp3Text": "Don't mind if I do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Ogmag_lasthit_05.mp3"
+    ],
+    "mp3Text": "Don't mind if I do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_lasthit_06.mp3"
+    ],
+    "mp3Text": "Gifts for the magi."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Ogmag_lasthit_07.mp3"
+    ],
+    "mp3Text": "Split the loot!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Ogmag_lasthit_08.mp3"
+    ],
+    "mp3Text": "I'll take that. Me too."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Ogmag_lasthit_09.mp3"
+    ],
+    "mp3Text": "I'll take that. Me too."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Ogmag_lasthit_10.mp3"
+    ],
+    "mp3Text": "We got the goods."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Ogmag_deny_01.mp3"
-        ],
-        "mp3Text": "Denied. Ah huh huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Ogmag_deny_03.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Ogmag_deny_04.mp3"
-        ],
-        "mp3Text": "No no."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Ogmag_deny_05.mp3"
-        ],
-        "mp3Text": "Nope."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Ogmag_deny_06.mp3"
-        ],
-        "mp3Text": "That be ours."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Ogmag_deny_07.mp3"
-        ],
-        "mp3Text": "We'll take that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Ogmag_deny_08.mp3"
-        ],
-        "mp3Text": "Yup. Mm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Ogmag_deny_09.mp3"
-        ],
-        "mp3Text": "Yup. Mm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Ogmag_deny_10.mp3"
-        ],
-        "mp3Text": "Not. Yours."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_deny_11.mp3"
-        ],
-        "mp3Text": "Not. Yours."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Ogmag_deny_12.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Ogmag_deny_13.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Ogmag_deny_14.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Ogmag_deny_15.mp3"
-        ],
-        "mp3Text": "Dee. Nied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Ogmag_deny_16.mp3"
-        ],
-        "mp3Text": "Day. Nied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_deny_17.mp3"
-        ],
-        "mp3Text": "Dee. Nied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Ogmag_deny_01.mp3"
+    ],
+    "mp3Text": "Denied. Ah huh huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Ogmag_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Ogmag_deny_03.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Ogmag_deny_04.mp3"
+    ],
+    "mp3Text": "No no."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Ogmag_deny_05.mp3"
+    ],
+    "mp3Text": "Nope."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Ogmag_deny_06.mp3"
+    ],
+    "mp3Text": "That be ours."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Ogmag_deny_07.mp3"
+    ],
+    "mp3Text": "We'll take that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Ogmag_deny_08.mp3"
+    ],
+    "mp3Text": "Yup. Mm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Ogmag_deny_09.mp3"
+    ],
+    "mp3Text": "Yup. Mm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Ogmag_deny_10.mp3"
+    ],
+    "mp3Text": "Not. Yours."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_deny_11.mp3"
+    ],
+    "mp3Text": "Not. Yours."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Ogmag_deny_12.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Ogmag_deny_13.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Ogmag_deny_14.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Ogmag_deny_15.mp3"
+    ],
+    "mp3Text": "Dee. Nied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Ogmag_deny_16.mp3"
+    ],
+    "mp3Text": "Day. Nied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_deny_17.mp3"
+    ],
+    "mp3Text": "Dee. Nied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Ogmag_purch_01.mp3"
-        ],
-        "mp3Text": "Bought you something? Aw, you shouldn't have."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_purch_02.mp3"
-        ],
-        "mp3Text": "Surprise! For me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_purch_03.mp3"
-        ],
-        "mp3Text": "Hey, you spent my gold on that!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Ogmag_purch_01.mp3"
+    ],
+    "mp3Text": "Bought you something? Aw, you shouldn't have."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_purch_02.mp3"
+    ],
+    "mp3Text": "Surprise! For me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_purch_03.mp3"
+    ],
+    "mp3Text": "Hey, you spent my gold on that!"
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Ogmag_blink_01.mp3"
+    ],
+    "mp3Text": "Blink. Dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Ogmag_blink_01.mp3"
-        ],
-        "mp3Text": "Blink. Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Ogmag_blink_02.mp3"
-        ],
-        "mp3Text": "Blink. Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Ogmag_scepter_01.mp3"
-        ],
-        "mp3Text": "Scepter! Yes!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_scepter_02.mp3"
-        ],
-        "mp3Text": "What's this do? Let's find out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Ogmag_scepter_03.mp3"
-        ],
-        "mp3Text": "Got something for ya. For me?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Ogmag_item_01.mp3"
-        ],
-        "mp3Text": "Arcane Boots!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/be/Arcane_Boots_icon.png/20px-Arcane_Boots_icon.png?version=12bc51fcad4c3b6c5c6c638de89e1a1e",
-            "name": "Arcane Boots (1400)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_item_02.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Ogmag_item_03.mp3"
-        ],
-        "mp3Text": "Bloodstone!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Ogmag_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Ogmag_blink_02.mp3"
+    ],
+    "mp3Text": "Blink. Dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Ogmag_immort_02.mp3"
-        ],
-        "mp3Text": "Forever together.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Ogmag_scepter_01.mp3"
+    ],
+    "mp3Text": "Scepter! Yes!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Ogmag_scepter_02.mp3"
+    ],
+    "mp3Text": "What's this do? Let's find out.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Ogmag_scepter_03.mp3"
+    ],
+    "mp3Text": "Got something for ya. For me?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Ogmag_item_01.mp3"
+    ],
+    "mp3Text": "Arcane Boots!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/be/Arcane_Boots_icon.png/20px-Arcane_Boots_icon.png?version=12bc51fcad4c3b6c5c6c638de89e1a1e",
+        "name": "Arcane Boots (1400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Ogmag_item_02.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Ogmag_item_03.mp3"
+    ],
+    "mp3Text": "Bloodstone!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Ogmag_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Ogmag_immort_02.mp3"
+    ],
+    "mp3Text": "Forever together.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1658,236 +1742,254 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Ogmag_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Ogmag_death_02.mp3"
-        ],
-        "mp3Text": "How could you live with yourself?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Ogmag_death_03.mp3"
-        ],
-        "mp3Text": "Don't bury me next to him."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Ogmag_death_04.mp3"
-        ],
-        "mp3Text": "Help. Me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Ogmag_death_05.mp3"
-        ],
-        "mp3Text": "Dead. Ditto."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Ogmag_death_06.mp3"
-        ],
-        "mp3Text": "You first. No, me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Ogmag_death_07.mp3"
-        ],
-        "mp3Text": "This is all your fault."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Ogmag_death_08.mp3"
-        ],
-        "mp3Text": "You let this happen."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_death_09.mp3"
-        ],
-        "mp3Text": "This only happens when you're around."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Ogmag_death_10.mp3"
-        ],
-        "mp3Text": "This only happens when you're around."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Ogmag_death_11.mp3"
-        ],
-        "mp3Text": "Wake up. Wake. Up."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Ogmag_death_12.mp3"
-        ],
-        "mp3Text": "One down. One to go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_death_13.mp3"
-        ],
-        "mp3Text": "One down. One to go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Ogmag_death_14.mp3"
-        ],
-        "mp3Text": "Two is the loneliest number."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_death_15.mp3"
-        ],
-        "mp3Text": "What? Us worry?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Ogmag_death_16.mp3"
-        ],
-        "mp3Text": "Dead. I know you are but what am I."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Ogmag_death_17.mp3"
-        ],
-        "mp3Text": "Dumb. Luck."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Ogmag_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Ogmag_death_02.mp3"
+    ],
+    "mp3Text": "How could you live with yourself?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Ogmag_death_03.mp3"
+    ],
+    "mp3Text": "Don't bury me next to him."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Ogmag_death_04.mp3"
+    ],
+    "mp3Text": "Help. Me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Ogmag_death_05.mp3"
+    ],
+    "mp3Text": "Dead. Ditto."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Ogmag_death_06.mp3"
+    ],
+    "mp3Text": "You first. No, me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Ogmag_death_07.mp3"
+    ],
+    "mp3Text": "This is all your fault."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Ogmag_death_08.mp3"
+    ],
+    "mp3Text": "You let this happen."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_death_09.mp3"
+    ],
+    "mp3Text": "This only happens when you're around."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Ogmag_death_10.mp3"
+    ],
+    "mp3Text": "This only happens when you're around."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Ogmag_death_11.mp3"
+    ],
+    "mp3Text": "Wake up. Wake. Up."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Ogmag_death_12.mp3"
+    ],
+    "mp3Text": "One down. One to go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Ogmag_death_13.mp3"
+    ],
+    "mp3Text": "One down. One to go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Ogmag_death_14.mp3"
+    ],
+    "mp3Text": "Two is the loneliest number."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Ogmag_death_15.mp3"
+    ],
+    "mp3Text": "What? Us worry?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Ogmag_death_16.mp3"
+    ],
+    "mp3Text": "Dead. I know you are but what am I."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Ogmag_death_17.mp3"
+    ],
+    "mp3Text": "Dumb. Luck."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Ogmag_respawn_03.mp3"
-        ],
-        "mp3Text": "Get yourself together. Who, me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Ogmag_respawn_04.mp3"
-        ],
-        "mp3Text": "Who do you think you are? Ogre Magi—you?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Ogmag_respawn_05.mp3"
-        ],
-        "mp3Text": "Brother, you're back! Me too!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_respawn_06.mp3"
-        ],
-        "mp3Text": "Pleased to meet ya. Likewise I'm sure."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Ogmag_respawn_07.mp3"
-        ],
-        "mp3Text": "Separated at birth? Not hardly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Ogmag_respawn_08.mp3"
-        ],
-        "mp3Text": "A second chance! But I never got a first one."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Ogmag_respawn_09.mp3"
-        ],
-        "mp3Text": "I'll drive this time. And I'll hurt."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Ogmag_respawn_10.mp3"
-        ],
-        "mp3Text": "Don't get any big ideas. Any what?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_respawn_11.mp3"
-        ],
-        "mp3Text": "I still have a headache. Yeah, you do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Ogmag_respawn_12.mp3"
-        ],
-        "mp3Text": "It's good to be back. Do I know you?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_respawn_13.mp3"
-        ],
-        "mp3Text": "You again? Oh no."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Ogmag_respawn_14.mp3"
-        ],
-        "mp3Text": "You again? Oh no."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Ogmag_respawn_03.mp3"
+    ],
+    "mp3Text": "Get yourself together. Who, me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Ogmag_respawn_04.mp3"
+    ],
+    "mp3Text": "Who do you think you are? Ogre Magi—you?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Ogmag_respawn_05.mp3"
+    ],
+    "mp3Text": "Brother, you're back! Me too!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_respawn_06.mp3"
+    ],
+    "mp3Text": "Pleased to meet ya. Likewise I'm sure."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Ogmag_respawn_07.mp3"
+    ],
+    "mp3Text": "Separated at birth? Not hardly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Ogmag_respawn_08.mp3"
+    ],
+    "mp3Text": "A second chance! But I never got a first one."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Ogmag_respawn_09.mp3"
+    ],
+    "mp3Text": "I'll drive this time. And I'll hurt."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Ogmag_respawn_10.mp3"
+    ],
+    "mp3Text": "Don't get any big ideas. Any what?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_respawn_11.mp3"
+    ],
+    "mp3Text": "I still have a headache. Yeah, you do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Ogmag_respawn_12.mp3"
+    ],
+    "mp3Text": "It's good to be back. Do I know you?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_respawn_13.mp3"
+    ],
+    "mp3Text": "You again? Oh no."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Ogmag_respawn_14.mp3"
+    ],
+    "mp3Text": "You again? Oh no."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ogmag_respawn_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha! Now, where were we?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_respawn_02.mp3"
-        ],
-        "mp3Text": "Hee hee hee hee hee. Where are we?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ogmag_respawn_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha! Now, where were we?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_respawn_02.mp3"
+    ],
+    "mp3Text": "Hee hee hee hee hee. Where are we?"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Ogmag_bottle_01.mp3"
-        ],
-        "mp3Text": "You carry the bottle. No, I will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_bottle_02.mp3"
-        ],
-        "mp3Text": "You carry the bottle. No, I will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Ogmag_bottle_03.mp3"
-        ],
-        "mp3Text": "My bottle. My cork."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Ogmag_bottle_01.mp3"
+    ],
+    "mp3Text": "You carry the bottle. No, I will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_bottle_02.mp3"
+    ],
+    "mp3Text": "You carry the bottle. No, I will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Ogmag_bottle_03.mp3"
+    ],
+    "mp3Text": "My bottle. My cork."
   },
   {
     "headTitle": "Activating runes",
@@ -1899,14 +2001,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_lasthit_06.mp3"
-        ],
-        "mp3Text": "Gifts for the magi."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_lasthit_06.mp3"
+    ],
+    "mp3Text": "Gifts for the magi."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1914,14 +2013,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Ogmag_lasthit_01.mp3"
-        ],
-        "mp3Text": "Mine! Selfish."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Ogmag_lasthit_01.mp3"
+    ],
+    "mp3Text": "Mine! Selfish."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1929,24 +2025,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Ogmag_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_doubdam_02.mp3"
-        ],
-        "mp3Text": "Double or nothing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_doubdam_02.mp3"
+    ],
+    "mp3Text": "Double or nothing."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1954,24 +2044,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Ogmag_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Ogmag_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_haste_02.mp3"
-        ],
-        "mp3Text": "Left leg. Right leg!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Ogmag_haste_02.mp3"
+    ],
+    "mp3Text": "Left leg. Right leg!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1979,24 +2063,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Ogmag_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Ogmag_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_illus_02.mp3"
-        ],
-        "mp3Text": "Ye gods, how'd that happen? What the. Who'd the. How'd that happen?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_illus_02.mp3"
+    ],
+    "mp3Text": "Ye gods, how'd that happen? What the. Who'd the. How'd that happen?"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2004,36 +2082,32 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ogmag_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ogmag_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_invis_02.mp3"
-        ],
-        "mp3Text": "Brother, where are you? Who's asking?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Ogmag_invis_03.mp3"
-        ],
-        "mp3Text": "Alone. At last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_invis_04.mp3"
-        ],
-        "mp3Text": "Alone. At last."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Ogmag_invis_02.mp3"
+    ],
+    "mp3Text": "Brother, where are you? Who's asking?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Ogmag_invis_03.mp3"
+    ],
+    "mp3Text": "Alone. At last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Ogmag_invis_04.mp3"
+    ],
+    "mp3Text": "Alone. At last."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2041,24 +2115,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Ogmag_regen_02.mp3"
-        ],
-        "mp3Text": "You are looking good! Thanks."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Ogmag_regen_02.mp3"
+    ],
+    "mp3Text": "You are looking good! Thanks."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2069,78 +2137,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Ogmag_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Ogmag_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Ogmag_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Ogmag_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Ogmag_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Ogmag_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Ogmag_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Ogmag_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Ogmag_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_notyet_09.mp3"
-        ],
-        "mp3Text": "Grr, it's not time yet. It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Ogmag_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Ogmag_notyet_09.mp3"
+    ],
+    "mp3Text": "Grr, it's not time yet. It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2151,144 +2216,142 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Ogmag_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Ogmag_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Ogmag_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Ogmag_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Ogmag_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Ogmag_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Ogmag_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Ogmag_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Ogmag_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Ogmag_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Ogmag_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Ogmag_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Ogmag_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Ogmag_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Ogmag_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Ogmag_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Ogmag_pain_01.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_pain_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Ogmag_pain_03.mp3"
-        ],
-        "mp3Text": "OH!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Ogmag_pain_04.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Ogmag_pain_05.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Ogmag_pain_06.mp3"
-        ],
-        "mp3Text": "Gah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Ogmag_pain_07.mp3"
-        ],
-        "mp3Text": "Ay!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_pain_08.mp3"
-        ],
-        "mp3Text": "Heh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Ogmag_pain_01.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Ogmag_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_pain_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Ogmag_pain_03.mp3"
+    ],
+    "mp3Text": "OH!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Ogmag_pain_04.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Ogmag_pain_05.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Ogmag_pain_06.mp3"
+    ],
+    "mp3Text": "Gah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Ogmag_pain_07.mp3"
+    ],
+    "mp3Text": "Ay!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Ogmag_pain_08.mp3"
+    ],
+    "mp3Text": "Heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Ogmag_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2299,26 +2362,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_19.mp3"
-        ],
-        "mp3Text": "When can I hit something? Who's stopping ya?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_level_05.mp3"
-        ],
-        "mp3Text": "Hey, I was thinking. Uh oh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_kill_09.mp3"
-        ],
-        "mp3Text": "Stop me if you heard this one. Stop."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Ogmag_move_19.mp3"
+    ],
+    "mp3Text": "When can I hit something? Who's stopping ya?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Ogmag_level_05.mp3"
+    ],
+    "mp3Text": "Hey, I was thinking. Uh oh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Ogmag_kill_09.mp3"
+    ],
+    "mp3Text": "Stop me if you heard this one. Stop."
   },
   {
     "headTitle": "Chat responses",
@@ -2329,144 +2391,152 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Ogmag_missing_lane_01.mp3"
-        ],
-        "mp3Text": "Missing top."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_missing_lane_02.mp3"
-        ],
-        "mp3Text": "Missing middle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Ogmag_missing_lane_03.mp3"
-        ],
-        "mp3Text": "Missing bottom."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Ogmag_missing_lane_01.mp3"
+    ],
+    "mp3Text": "Missing top."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Ogmag_missing_lane_02.mp3"
+    ],
+    "mp3Text": "Missing middle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Ogmag_missing_lane_03.mp3"
+    ],
+    "mp3Text": "Missing bottom."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_thanks_01.mp3"
-        ],
-        "mp3Text": "Thank you kindly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_thanks_02.mp3"
-        ],
-        "mp3Text": "We didn't need--- Shut up and say thank you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Ogmag_thanks_03.mp3"
-        ],
-        "mp3Text": "Nice! Thanks!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Ogmag_thanks_01.mp3"
+    ],
+    "mp3Text": "Thank you kindly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Ogmag_thanks_02.mp3"
+    ],
+    "mp3Text": "We didn't need--- Shut up and say thank you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Ogmag_thanks_03.mp3"
+    ],
+    "mp3Text": "Nice! Thanks!"
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha aha ah ah aha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah hee ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_laugh_03.mp3"
-        ],
-        "mp3Text": "Aha ha hah aha ha ha ha haha ha hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah aha ha ha ha ha ha he he he. Ah, that's enough."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Ogmag_laugh_05.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha hee hee hee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Ogmag_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah hahaha ha ah ah aha aha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_laugh_07.mp3"
-        ],
-        "mp3Text": "Ah ha ha aha ha hee hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_laugh_08.mp3"
-        ],
-        "mp3Text": "Hee hee hee hee!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_laugh_09.mp3"
-        ],
-        "mp3Text": "Oh ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_laugh_10.mp3"
-        ],
-        "mp3Text": "Ah ha hahahah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_laugh_12.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_laugh_13.mp3"
-        ],
-        "mp3Text": "Hee hee hee hee hee."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_laugh_14.mp3"
-        ],
-        "mp3Text": "Hee hee he he he he he aha ha… What're we laughing about?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Ogmag_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha aha ah ah aha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah hee ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Ogmag_laugh_03.mp3"
+    ],
+    "mp3Text": "Aha ha hah aha ha ha ha haha ha hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Ogmag_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah aha ha ha ha ha ha he he he. Ah, that's enough."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Ogmag_laugh_05.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha hee hee hee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Ogmag_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah hahaha ha ah ah aha aha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Ogmag_laugh_07.mp3"
+    ],
+    "mp3Text": "Ah ha ha aha ha hee hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Ogmag_laugh_08.mp3"
+    ],
+    "mp3Text": "Hee hee hee hee!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Ogmag_laugh_09.mp3"
+    ],
+    "mp3Text": "Oh ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Ogmag_laugh_10.mp3"
+    ],
+    "mp3Text": "Ah ha hahahah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Ogmag_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Ogmag_laugh_12.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Ogmag_laugh_13.mp3"
+    ],
+    "mp3Text": "Hee hee hee hee hee."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Ogmag_laugh_14.mp3"
+    ],
+    "mp3Text": "Hee hee he he he he he aha ha… What're we laughing about?"
   },
   {
     "headTitle": "Match end",
@@ -2477,52 +2547,50 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Ogmag_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Ogmag_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_win_03.mp3"
-        ],
-        "mp3Text": "I won! No, I won! Shut up! No, you shut up!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Ogmag_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Ogmag_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Ogmag_win_03.mp3"
+    ],
+    "mp3Text": "I won! No, I won! Shut up! No, you shut up!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Ogmag_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Ogmag_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Ogmag_lose_03.mp3"
-        ],
-        "mp3Text": "We won! No, we're on the other side. Oh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Ogmag_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Ogmag_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Ogmag_lose_03.mp3"
+    ],
+    "mp3Text": "We won! No, we're on the other side. Oh."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2533,47 +2601,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Ogmag_happy_01.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Ogmag_happy_04.mp3"
-        ],
-        "mp3Text": "Ahh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Ogmag_happy_01.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Ogmag_happy_04.mp3"
+    ],
+    "mp3Text": "Ahh."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ogmag_happy_03.mp3"
-        ],
-        "mp3Text": "Ahh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ogmag_happy_03.mp3"
+    ],
+    "mp3Text": "Ahh."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ogmag_happy_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Ogmag_happy_02.mp3"
+    ],
+    "mp3Text": "Ah!"
   }
 ]

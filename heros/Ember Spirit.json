@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Dave_Fennoy",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/20px-Ember_Spirit_minimap_icon.png?version=6db456c9b7002c80b7433ca434b2aba4",
     "heroName": "Ember Spirit",
-    "href": "https://dota2.gamepedia.com/Ember_Spirit/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/ember_spirit_full.png",
     "primaryAttribute": "Agility",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/emberspirit.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_01.mp3"
-        ],
-        "mp3Text": "Ember Spirit!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_spawn_02.mp3"
-        ],
-        "mp3Text": "I am Ember Spirit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_03.mp3"
-        ],
-        "mp3Text": "Call me Ember Spirit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_spawn_04.mp3"
-        ],
-        "mp3Text": "Some call me Xin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_spawn_05.mp3"
-        ],
-        "mp3Text": "Guardian of the Flame."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Embr_spawn_06.mp3"
-        ],
-        "mp3Text": "Recast in ember heat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_spawn_07.mp3"
-        ],
-        "mp3Text": "I carry the torch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_begin_01.mp3"
-        ],
-        "mp3Text": "They will learn balance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Embr_begin_02.mp3"
-        ],
-        "mp3Text": "War's flames blaze again!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_02.mp3"
-        ],
-        "mp3Text": "From knowledge comes skill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_move_01.mp3"
-        ],
-        "mp3Text": "Destiny awaits us all."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_move_13.mp3"
-        ],
-        "mp3Text": "A journey without end."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_01.mp3"
+    ],
+    "mp3Text": "Ember Spirit!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_spawn_02.mp3"
+    ],
+    "mp3Text": "I am Ember Spirit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_03.mp3"
+    ],
+    "mp3Text": "Call me Ember Spirit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_spawn_04.mp3"
+    ],
+    "mp3Text": "Some call me Xin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_spawn_05.mp3"
+    ],
+    "mp3Text": "Guardian of the Flame."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Embr_spawn_06.mp3"
+    ],
+    "mp3Text": "Recast in ember heat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_spawn_07.mp3"
+    ],
+    "mp3Text": "I carry the torch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_begin_01.mp3"
+    ],
+    "mp3Text": "They will learn balance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Embr_begin_02.mp3"
+    ],
+    "mp3Text": "War's flames blaze again!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_02.mp3"
+    ],
+    "mp3Text": "From knowledge comes skill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_move_01.mp3"
+    ],
+    "mp3Text": "Destiny awaits us all."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_move_13.mp3"
+    ],
+    "mp3Text": "A journey without end."
   },
   {
     "headTitle": "Drafting",
@@ -101,364 +108,382 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_01.mp3"
-        ],
-        "mp3Text": "Ember Spirit!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_01.mp3"
+    ],
+    "mp3Text": "Ember Spirit!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Embr_anger_04.mp3"
-        ],
-        "mp3Text": "Ugh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Embr_anger_04.mp3"
+    ],
+    "mp3Text": "Ugh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_spawn_02.mp3"
-        ],
-        "mp3Text": "I am Ember Spirit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_03.mp3"
-        ],
-        "mp3Text": "Call me Ember Spirit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_spawn_04.mp3"
-        ],
-        "mp3Text": "Some call me Xin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_spawn_05.mp3"
-        ],
-        "mp3Text": "Guardian of the Flame."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Embr_spawn_06.mp3"
-        ],
-        "mp3Text": "Recast in ember heat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_spawn_07.mp3"
-        ],
-        "mp3Text": "I carry the torch."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_spawn_02.mp3"
+    ],
+    "mp3Text": "I am Ember Spirit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Embr_spawn_03.mp3"
+    ],
+    "mp3Text": "Call me Ember Spirit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_spawn_04.mp3"
+    ],
+    "mp3Text": "Some call me Xin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_spawn_05.mp3"
+    ],
+    "mp3Text": "Guardian of the Flame."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Embr_spawn_06.mp3"
+    ],
+    "mp3Text": "Recast in ember heat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_spawn_07.mp3"
+    ],
+    "mp3Text": "I carry the torch."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Embr_inthebag_01.mp3"
-        ],
-        "mp3Text": "Tis in the bag!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Embr_inthebag_02.mp3"
-        ],
-        "mp3Text": "The bag in flames."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Embr_inthebag_01.mp3"
+    ],
+    "mp3Text": "Tis in the bag!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Embr_inthebag_02.mp3"
+    ],
+    "mp3Text": "The bag in flames."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_begin_01.mp3"
-        ],
-        "mp3Text": "They will learn balance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Embr_begin_02.mp3"
-        ],
-        "mp3Text": "War's flames blaze again!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_begin_01.mp3"
+    ],
+    "mp3Text": "They will learn balance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Embr_begin_02.mp3"
+    ],
+    "mp3Text": "War's flames blaze again!"
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_move_01.mp3"
-        ],
-        "mp3Text": "Destiny awaits us all."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Embr_move_02.mp3"
-        ],
-        "mp3Text": "Balance in all things."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_move_03.mp3"
-        ],
-        "mp3Text": "Flame lights the way."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_move_04.mp3"
-        ],
-        "mp3Text": "The road is endless."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Embr_move_05.mp3"
-        ],
-        "mp3Text": "What dangers lie here?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Embr_move_06.mp3"
-        ],
-        "mp3Text": "Be wary, be cautious."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Embr_move_07.mp3"
-        ],
-        "mp3Text": "Fear not the forest."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_move_08.mp3"
-        ],
-        "mp3Text": "On and on again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Embr_move_09.mp3"
-        ],
-        "mp3Text": "The way is clear."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Embr_move_10.mp3"
-        ],
-        "mp3Text": "What must be discovered?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Embr_move_11.mp3"
-        ],
-        "mp3Text": "Harmony must be earned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_move_12.mp3"
-        ],
-        "mp3Text": "No path but through."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_move_13.mp3"
-        ],
-        "mp3Text": "A journey without end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_move_14.mp3"
-        ],
-        "mp3Text": "It must be done."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Embr_move_15.mp3"
-        ],
-        "mp3Text": "All action is reaction."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Embr_move_17.mp3"
-        ],
-        "mp3Text": "All paths find serenity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_move_18.mp3"
-        ],
-        "mp3Text": "Walk a warrior's way."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_move_20.mp3"
-        ],
-        "mp3Text": "The stalwart flame flickers."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Embr_move_21.mp3"
-        ],
-        "mp3Text": "Hmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Embr_move_22.mp3"
-        ],
-        "mp3Text": "Ah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Embr_move_24.mp3"
-        ],
-        "mp3Text": "Mmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Embr_move_25.mp3"
-        ],
-        "mp3Text": "Ahh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Embr_move_26.mp3"
-        ],
-        "mp3Text": "Mm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_move_01.mp3"
+    ],
+    "mp3Text": "Destiny awaits us all."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Embr_move_02.mp3"
+    ],
+    "mp3Text": "Balance in all things."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_move_03.mp3"
+    ],
+    "mp3Text": "Flame lights the way."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_move_04.mp3"
+    ],
+    "mp3Text": "The road is endless."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Embr_move_05.mp3"
+    ],
+    "mp3Text": "What dangers lie here?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Embr_move_06.mp3"
+    ],
+    "mp3Text": "Be wary, be cautious."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Embr_move_07.mp3"
+    ],
+    "mp3Text": "Fear not the forest."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_move_08.mp3"
+    ],
+    "mp3Text": "On and on again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Embr_move_09.mp3"
+    ],
+    "mp3Text": "The way is clear."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Embr_move_10.mp3"
+    ],
+    "mp3Text": "What must be discovered?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Embr_move_11.mp3"
+    ],
+    "mp3Text": "Harmony must be earned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_move_12.mp3"
+    ],
+    "mp3Text": "No path but through."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_move_13.mp3"
+    ],
+    "mp3Text": "A journey without end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_move_14.mp3"
+    ],
+    "mp3Text": "It must be done."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Embr_move_15.mp3"
+    ],
+    "mp3Text": "All action is reaction."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Embr_move_17.mp3"
+    ],
+    "mp3Text": "All paths find serenity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_move_18.mp3"
+    ],
+    "mp3Text": "Walk a warrior's way."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_move_20.mp3"
+    ],
+    "mp3Text": "The stalwart flame flickers."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Embr_move_21.mp3"
+    ],
+    "mp3Text": "Hmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Embr_move_22.mp3"
+    ],
+    "mp3Text": "Ah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Embr_move_24.mp3"
+    ],
+    "mp3Text": "Mmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Embr_move_25.mp3"
+    ],
+    "mp3Text": "Ahh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Embr_move_26.mp3"
+    ],
+    "mp3Text": "Mm."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_attack_01.mp3"
-        ],
-        "mp3Text": "Fire shall teach you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Embr_attack_02.mp3"
-        ],
-        "mp3Text": "You face the flame."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Embr_attack_03.mp3"
-        ],
-        "mp3Text": "Come and learn humility."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Embr_attack_04.mp3"
-        ],
-        "mp3Text": "I shall teach you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_attack_05.mp3"
-        ],
-        "mp3Text": "You have no chance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Embr_attack_06.mp3"
-        ],
-        "mp3Text": "Prepare for a lesson."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Embr_attack_07.mp3"
-        ],
-        "mp3Text": "Your end has come."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Embr_attack_08.mp3"
-        ],
-        "mp3Text": "You will be seared!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_attack_09.mp3"
-        ],
-        "mp3Text": "A test of training."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Embr_attack_10.mp3"
-        ],
-        "mp3Text": "A trial by fire!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_sleightoffist_05.mp3"
-        ],
-        "mp3Text": "None escape my fire!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_attack_01.mp3"
+    ],
+    "mp3Text": "Fire shall teach you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Embr_attack_02.mp3"
+    ],
+    "mp3Text": "You face the flame."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Embr_attack_03.mp3"
+    ],
+    "mp3Text": "Come and learn humility."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Embr_attack_04.mp3"
+    ],
+    "mp3Text": "I shall teach you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_attack_05.mp3"
+    ],
+    "mp3Text": "You have no chance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Embr_attack_06.mp3"
+    ],
+    "mp3Text": "Prepare for a lesson."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Embr_attack_07.mp3"
+    ],
+    "mp3Text": "Your end has come."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Embr_attack_08.mp3"
+    ],
+    "mp3Text": "You will be seared!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_attack_09.mp3"
+    ],
+    "mp3Text": "A test of training."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Embr_attack_10.mp3"
+    ],
+    "mp3Text": "A trial by fire!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_sleightoffist_05.mp3"
+    ],
+    "mp3Text": "None escape my fire!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Embr_cast_01.mp3"
-        ],
-        "mp3Text": "You should make ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Embr_cast_02.mp3"
-        ],
-        "mp3Text": "You sear and singe."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Embr_cast_03.mp3"
-        ],
-        "mp3Text": "Fate has been kindled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Embr_cast_04.mp3"
-        ],
-        "mp3Text": "Fate has been kindled."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Embr_cast_01.mp3"
+    ],
+    "mp3Text": "You should make ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Embr_cast_02.mp3"
+    ],
+    "mp3Text": "You sear and singe."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Embr_cast_03.mp3"
+    ],
+    "mp3Text": "Fate has been kindled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Embr_cast_04.mp3"
+    ],
+    "mp3Text": "Fate has been kindled."
   },
   {
     "headTitle": "Abilities",
@@ -474,44 +499,46 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_searingchains_01.mp3"
-        ],
-        "mp3Text": "Behold my searing chains!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_searingchains_02.mp3"
-        ],
-        "mp3Text": "Captured in the flame!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Embr_searingchains_03.mp3"
-        ],
-        "mp3Text": "Be ensnared in fire!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Embr_searingchains_04.mp3"
-        ],
-        "mp3Text": "Bonded, you and I."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Embr_searingchains_05.mp3"
-        ],
-        "mp3Text": "Chained in searing heat!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Embr_searingchains_06.mp3"
-        ],
-        "mp3Text": "Your place is here."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_searingchains_01.mp3"
+    ],
+    "mp3Text": "Behold my searing chains!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_searingchains_02.mp3"
+    ],
+    "mp3Text": "Captured in the flame!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Embr_searingchains_03.mp3"
+    ],
+    "mp3Text": "Be ensnared in fire!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Embr_searingchains_04.mp3"
+    ],
+    "mp3Text": "Bonded, you and I."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Embr_searingchains_05.mp3"
+    ],
+    "mp3Text": "Chained in searing heat!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Embr_searingchains_06.mp3"
+    ],
+    "mp3Text": "Your place is here."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Sleight_of_Fist_icon.png/16px-Sleight_of_Fist_icon.png?version=f278f283478baeeff5e8299ad9b41aea",
@@ -523,104 +550,116 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Embr_sleightoffist_07.mp3"
-        ],
-        "mp3Text": "Huoh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Embr_sleightoffist_08.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Embr_sleightoffist_09.mp3"
-        ],
-        "mp3Text": "Huw!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Embr_sleightoffist_10.mp3"
-        ],
-        "mp3Text": "Hyah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_sleightoffist_11.mp3"
-        ],
-        "mp3Text": "Hua!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Embr_sleightoffist_12.mp3"
-        ],
-        "mp3Text": "Heya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Embr_sleightoffist_17.mp3"
-        ],
-        "mp3Text": "Hooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_sleightoffist_18.mp3"
-        ],
-        "mp3Text": "Huyah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Embr_sleightoffist_20.mp3"
-        ],
-        "mp3Text": "Huah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_sleightoffist_21.mp3"
-        ],
-        "mp3Text": "Huah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Embr_sleightoffist_24.mp3"
-        ],
-        "mp3Text": "Hah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Embr_sleightoffist_26.mp3"
-        ],
-        "mp3Text": "Hya!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_grunt_04.mp3"
-        ],
-        "mp3Text": "Hhuh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Embr_grunt_05.mp3"
-        ],
-        "mp3Text": "Fuh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Embr_grunt_09.mp3"
-        ],
-        "mp3Text": "Hhuh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Embr_grunt_13.mp3"
-        ],
-        "mp3Text": "Hruh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Embr_sleightoffist_07.mp3"
+    ],
+    "mp3Text": "Huoh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Embr_sleightoffist_08.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Embr_sleightoffist_09.mp3"
+    ],
+    "mp3Text": "Huw!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Embr_sleightoffist_10.mp3"
+    ],
+    "mp3Text": "Hyah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_sleightoffist_11.mp3"
+    ],
+    "mp3Text": "Hua!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Embr_sleightoffist_12.mp3"
+    ],
+    "mp3Text": "Heya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Embr_sleightoffist_17.mp3"
+    ],
+    "mp3Text": "Hooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_sleightoffist_18.mp3"
+    ],
+    "mp3Text": "Huyah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Embr_sleightoffist_20.mp3"
+    ],
+    "mp3Text": "Huah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_sleightoffist_21.mp3"
+    ],
+    "mp3Text": "Huah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Embr_sleightoffist_24.mp3"
+    ],
+    "mp3Text": "Hah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Embr_sleightoffist_26.mp3"
+    ],
+    "mp3Text": "Hya!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_grunt_04.mp3"
+    ],
+    "mp3Text": "Hhuh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Embr_grunt_05.mp3"
+    ],
+    "mp3Text": "Fuh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Embr_grunt_09.mp3"
+    ],
+    "mp3Text": "Hhuh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Embr_grunt_13.mp3"
+    ],
+    "mp3Text": "Hruh!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/11/Flame_Guard_icon.png/16px-Flame_Guard_icon.png?version=7ccdd98a07436559fd099b9a65128109",
@@ -632,38 +671,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_flameguard_01.mp3"
-        ],
-        "mp3Text": "Ignite the flame guard!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Embr_flameguard_02.mp3"
-        ],
-        "mp3Text": "The flame protects me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Embr_flameguard_03.mp3"
-        ],
-        "mp3Text": "Approach if you dare!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Embr_flameguard_04.mp3"
-        ],
-        "mp3Text": "Come and be burned!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Embr_flameguard_05.mp3"
-        ],
-        "mp3Text": "Wrapped in ember fire!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_flameguard_01.mp3"
+    ],
+    "mp3Text": "Ignite the flame guard!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Embr_flameguard_02.mp3"
+    ],
+    "mp3Text": "The flame protects me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Embr_flameguard_03.mp3"
+    ],
+    "mp3Text": "Approach if you dare!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Embr_flameguard_04.mp3"
+    ],
+    "mp3Text": "Come and be burned!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Embr_flameguard_05.mp3"
+    ],
+    "mp3Text": "Wrapped in ember fire!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a8/Fire_Remnant_icon.png/16px-Fire_Remnant_icon.png?version=15512c1cc2d55f99342f9045b6d5b813",
@@ -675,50 +715,53 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremsend_01.mp3"
-        ],
-        "mp3Text": "Be on your way!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Embr_fireremsend_02.mp3"
-        ],
-        "mp3Text": "Carry forth the flame!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremsend_03.mp3"
-        ],
-        "mp3Text": "Burn forth my friend!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_fireremsend_04.mp3"
-        ],
-        "mp3Text": "Hurry to the fray!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Embr_fireremsend_05.mp3"
-        ],
-        "mp3Text": "Be well, be swift!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Embr_fireremsend_06.mp3"
-        ],
-        "mp3Text": "My image steps forth!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Embr_fireremsend_07.mp3"
-        ],
-        "mp3Text": "Who's that scorching fellow?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremsend_01.mp3"
+    ],
+    "mp3Text": "Be on your way!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Embr_fireremsend_02.mp3"
+    ],
+    "mp3Text": "Carry forth the flame!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremsend_03.mp3"
+    ],
+    "mp3Text": "Burn forth my friend!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_fireremsend_04.mp3"
+    ],
+    "mp3Text": "Hurry to the fray!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Embr_fireremsend_05.mp3"
+    ],
+    "mp3Text": "Be well, be swift!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Embr_fireremsend_06.mp3"
+    ],
+    "mp3Text": "My image steps forth!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Embr_fireremsend_07.mp3"
+    ],
+    "mp3Text": "Who's that scorching fellow?"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Activate_Fire_Remnant_icon.png/16px-Activate_Fire_Remnant_icon.png?version=fc11a52452d24c0d97f802a5f443c8ac",
@@ -730,816 +773,871 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Embr_fireremrun_09.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Embr_fireremrun_11.mp3"
-        ],
-        "mp3Text": "Ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremrun_15.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho huh ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Embr_fireremrun_18.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Embr_fireremrun_20.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Embr_laugh_13.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Embr_fireremrun_09.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ha ha!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Embr_fireremrun_07.mp3"
-        ],
-        "mp3Text": "And away I go!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Embr_fireremrun_11.mp3"
+    ],
+    "mp3Text": "Ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_fireremrun_15.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho huh ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Embr_fireremrun_18.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Embr_fireremrun_20.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Embr_laugh_13.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Embr_fireremrun_07.mp3"
+    ],
+    "mp3Text": "And away I go!"
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_fireremrun_02.mp3"
-        ],
-        "mp3Text": "None may stop me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_fireremrun_04.mp3"
-        ],
-        "mp3Text": "See how I fly!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Embr_fireremrun_08.mp3"
-        ],
-        "mp3Text": "Flame paints the way!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_fireremrun_02.mp3"
+    ],
+    "mp3Text": "None may stop me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_fireremrun_04.mp3"
+    ],
+    "mp3Text": "See how I fly!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Embr_fireremrun_08.mp3"
+    ],
+    "mp3Text": "Flame paints the way!"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Embr_fireremrun_12.mp3"
-        ],
-        "mp3Text": "Haa!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Embr_fireremrun_16.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Embr_levelup_01.mp3"
-        ],
-        "mp3Text": "A flash of inspiration!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_02.mp3"
-        ],
-        "mp3Text": "From knowledge comes skill."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Embr_levelup_03.mp3"
-        ],
-        "mp3Text": "I burn more brightly!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_levelup_04.mp3"
-        ],
-        "mp3Text": "I aspire to more!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_levelup_05.mp3"
-        ],
-        "mp3Text": "This has only begun."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_levelup_06.mp3"
-        ],
-        "mp3Text": "I sizzle with knowledge!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Embr_levelup_07.mp3"
-        ],
-        "mp3Text": "From ignorance sprouts insight!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_levelup_08.mp3"
-        ],
-        "mp3Text": "Let weakness become strength!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Embr_levelup_09.mp3"
-        ],
-        "mp3Text": "Everything lies within nothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Embr_levelup_10.mp3"
-        ],
-        "mp3Text": "My fire burns anew!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Embr_levelup_11.mp3"
-        ],
-        "mp3Text": "From pyre to power!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Embr_levelup_12.mp3"
-        ],
-        "mp3Text": "A higher state achieved!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_levelup_13.mp3"
-        ],
-        "mp3Text": "Drink deep flame's knowledge."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Embr_levelup_14.mp3"
-        ],
-        "mp3Text": "Greatness in small measures."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_levelup_16.mp3"
-        ],
-        "mp3Text": "Ha ha! Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_17.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_levelup_18.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm hm hm hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_levelup_19.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Embr_levelup_21.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho ho ho!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Embr_fireremrun_12.mp3"
+    ],
+    "mp3Text": "Haa!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Embr_fireremrun_16.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Embr_levelup_01.mp3"
+    ],
+    "mp3Text": "A flash of inspiration!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_02.mp3"
+    ],
+    "mp3Text": "From knowledge comes skill."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Embr_levelup_03.mp3"
+    ],
+    "mp3Text": "I burn more brightly!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_levelup_04.mp3"
+    ],
+    "mp3Text": "I aspire to more!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_levelup_05.mp3"
+    ],
+    "mp3Text": "This has only begun."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_levelup_06.mp3"
+    ],
+    "mp3Text": "I sizzle with knowledge!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Embr_levelup_07.mp3"
+    ],
+    "mp3Text": "From ignorance sprouts insight!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_levelup_08.mp3"
+    ],
+    "mp3Text": "Let weakness become strength!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Embr_levelup_09.mp3"
+    ],
+    "mp3Text": "Everything lies within nothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Embr_levelup_10.mp3"
+    ],
+    "mp3Text": "My fire burns anew!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Embr_levelup_11.mp3"
+    ],
+    "mp3Text": "From pyre to power!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Embr_levelup_12.mp3"
+    ],
+    "mp3Text": "A higher state achieved!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_levelup_13.mp3"
+    ],
+    "mp3Text": "Drink deep flame's knowledge."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Embr_levelup_14.mp3"
+    ],
+    "mp3Text": "Greatness in small measures."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_levelup_16.mp3"
+    ],
+    "mp3Text": "Ha ha! Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_levelup_17.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_levelup_18.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm hm hm hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_levelup_19.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Embr_levelup_21.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho ho ho!"
   },
   {
     "text": "Level 25",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Embr_levelup_15.mp3"
-        ],
-        "mp3Text": "I have achieved enlightenment."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Embr_levelup_15.mp3"
+    ],
+    "mp3Text": "I have achieved enlightenment."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Embr_sleightoffist_06.mp3"
-        ],
-        "mp3Text": "Strike strike strike strike!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Embr_kill_01.mp3"
-        ],
-        "mp3Text": "You are no more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_kill_02.mp3"
-        ],
-        "mp3Text": "Flames clear the way."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Embr_kill_03.mp3"
-        ],
-        "mp3Text": "Burn away your ignorance!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Embr_kill_04.mp3"
-        ],
-        "mp3Text": "All lives must end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Embr_kill_05.mp3"
-        ],
-        "mp3Text": "Learn from your mistake."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_kill_06.mp3"
-        ],
-        "mp3Text": "Fear not your death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Embr_kill_07.mp3"
-        ],
-        "mp3Text": "Let death become peace."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_kill_08.mp3"
-        ],
-        "mp3Text": "Thus ends the lesson."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Embr_kill_09.mp3"
-        ],
-        "mp3Text": "You have been schooled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_kill_10.mp3"
-        ],
-        "mp3Text": "Discover what lies beyond."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Embr_kill_11.mp3"
-        ],
-        "mp3Text": "Not your best effort."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_kill_12.mp3"
-        ],
-        "mp3Text": "What did you learn?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Embr_kill_13.mp3"
-        ],
-        "mp3Text": "You must train harder."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_kill_14.mp3"
-        ],
-        "mp3Text": "Another fails to see."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Embr_kill_15.mp3"
-        ],
-        "mp3Text": "The lesson was: run!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Embr_kill_16.mp3"
-        ],
-        "mp3Text": "Well, that was toasty!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Embr_kill_17.mp3"
-        ],
-        "mp3Text": "Hm hm hm ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Embr_kill_18.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Embr_kill_19.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Embr_kill_20.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_deny_18.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_deny_19.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Embr_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_laugh_06.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_laugh_08.mp3"
-        ],
-        "mp3Text": "Oh ho ho ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_laugh_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Embr_laugh_15.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Embr_laugh_16.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_laugh_17.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm hm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Embr_sleightoffist_06.mp3"
+    ],
+    "mp3Text": "Strike strike strike strike!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Embr_kill_01.mp3"
+    ],
+    "mp3Text": "You are no more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_kill_02.mp3"
+    ],
+    "mp3Text": "Flames clear the way."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Embr_kill_03.mp3"
+    ],
+    "mp3Text": "Burn away your ignorance!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Embr_kill_04.mp3"
+    ],
+    "mp3Text": "All lives must end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Embr_kill_05.mp3"
+    ],
+    "mp3Text": "Learn from your mistake."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_kill_06.mp3"
+    ],
+    "mp3Text": "Fear not your death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Embr_kill_07.mp3"
+    ],
+    "mp3Text": "Let death become peace."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_kill_08.mp3"
+    ],
+    "mp3Text": "Thus ends the lesson."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Embr_kill_09.mp3"
+    ],
+    "mp3Text": "You have been schooled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_kill_10.mp3"
+    ],
+    "mp3Text": "Discover what lies beyond."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Embr_kill_11.mp3"
+    ],
+    "mp3Text": "Not your best effort."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_kill_12.mp3"
+    ],
+    "mp3Text": "What did you learn?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Embr_kill_13.mp3"
+    ],
+    "mp3Text": "You must train harder."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_kill_14.mp3"
+    ],
+    "mp3Text": "Another fails to see."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Embr_kill_15.mp3"
+    ],
+    "mp3Text": "The lesson was: run!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Embr_kill_16.mp3"
+    ],
+    "mp3Text": "Well, that was toasty!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Embr_kill_17.mp3"
+    ],
+    "mp3Text": "Hm hm hm ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Embr_kill_18.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Embr_kill_19.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Embr_kill_20.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_deny_18.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_deny_19.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Embr_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_laugh_06.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_laugh_08.mp3"
+    ],
+    "mp3Text": "Oh ho ho ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_laugh_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Embr_laugh_15.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Embr_laugh_16.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_laugh_17.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm hm!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Embr_rival_01.mp3"
+    ],
+    "mp3Text": "Winter's curse burns away.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Embr_rival_01.mp3"
-        ],
-        "mp3Text": "Winter's curse burns away.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
-            "name": "Winter Wyvern"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Embr_rival_02.mp3"
-        ],
-        "mp3Text": "You shall rise again, Phoenix.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_rival_03.mp3"
-        ],
-        "mp3Text": "Through anger lies failure.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
-            "name": "Legion Commander"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Embr_rival_04.mp3"
-        ],
-        "mp3Text": "No life is eternal.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
-            "name": "Abaddon"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_rival_05.mp3"
-        ],
-        "mp3Text": "All poisons have antidotes.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
-            "name": "Venomancer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Embr_rival_06.mp3"
-        ],
-        "mp3Text": "Fire flies, fire falls.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Embr_rival_07.mp3"
-        ],
-        "mp3Text": "You three know nothing.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
-            "name": "Techies"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Embr_rival_08.mp3"
-        ],
-        "mp3Text": "Night fades before dawn.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_rival_09.mp3"
-        ],
-        "mp3Text": "Discipline always conquers chaos.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Embr_rival_10.mp3"
-        ],
-        "mp3Text": "Your pilot light, extinguished.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_rival_11.mp3"
-        ],
-        "mp3Text": "Have a little fire, Treant.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Embr_rival_13.mp3"
-        ],
-        "mp3Text": "A forest fire begins.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_rival_14.mp3"
-        ],
-        "mp3Text": "Rest with your tempest, Warden.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e9/Arc_Warden_minimap_icon.png/16px-Arc_Warden_minimap_icon.png?version=4bd74c631f884dddb6bcdfc0e0193d68",
-            "name": "Arc Warden"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Embr_rival_15.mp3"
-        ],
-        "mp3Text": "A corrupted flame, extinguished.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
-            "name": "Underlord"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_rival_12.mp3"
-        ],
-        "mp3Text": "Your minions, my fuel.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
-            "name": "Broodmother"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
-            "name": "Nature's Prophet"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_rival_16.mp3"
-        ],
-        "mp3Text": "Two heads, zero insight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Ogre_Magi_minimap_icon.png/16px-Ogre_Magi_minimap_icon.png?version=706e515fc9cd478a3d16687e3b1afbf5",
-            "name": "Ogre Magi"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Embr_rival_18.mp3"
-        ],
-        "mp3Text": "Be gone, foul wraith.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Embr_rival_19.mp3"
-        ],
-        "mp3Text": "Plague purged by flame.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
-            "name": "Necrophos"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/16px-Winter_Wyvern_minimap_icon.png?version=87a3667de60873e8973eec2e102220d6",
+        "name": "Winter Wyvern"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Embr_rival_02.mp3"
+    ],
+    "mp3Text": "You shall rise again, Phoenix.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Embr_rival_20.mp3"
-        ],
-        "mp3Text": "Ignorant of true flame.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
-            "name": "Underlord"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_rival_03.mp3"
+    ],
+    "mp3Text": "Through anger lies failure.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
+        "name": "Legion Commander"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Embr_rival_04.mp3"
+    ],
+    "mp3Text": "No life is eternal.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
+        "name": "Abaddon"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_rival_05.mp3"
+    ],
+    "mp3Text": "All poisons have antidotes.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/95/Venomancer_minimap_icon.png/16px-Venomancer_minimap_icon.png?version=7a8bfa36520a98f555b7db6e2498e55a",
+        "name": "Venomancer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Embr_rival_06.mp3"
+    ],
+    "mp3Text": "Fire flies, fire falls.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Embr_rival_07.mp3"
+    ],
+    "mp3Text": "You three know nothing.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
+        "name": "Techies"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Embr_rival_08.mp3"
+    ],
+    "mp3Text": "Night fades before dawn.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Embr_rival_09.mp3"
+    ],
+    "mp3Text": "Discipline always conquers chaos.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Embr_rival_10.mp3"
+    ],
+    "mp3Text": "Your pilot light, extinguished.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Embr_rival_11.mp3"
+    ],
+    "mp3Text": "Have a little fire, Treant.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Embr_rival_13.mp3"
+    ],
+    "mp3Text": "A forest fire begins.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_rival_21.mp3"
-        ],
-        "mp3Text": "Your fire lacks discipline.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
-            "name": "Underlord"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_rival_14.mp3"
+    ],
+    "mp3Text": "Rest with your tempest, Warden.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e9/Arc_Warden_minimap_icon.png/16px-Arc_Warden_minimap_icon.png?version=4bd74c631f884dddb6bcdfc0e0193d68",
+        "name": "Arc Warden"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Embr_rival_15.mp3"
+    ],
+    "mp3Text": "A corrupted flame, extinguished.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
+        "name": "Underlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_rival_12.mp3"
+    ],
+    "mp3Text": "Your minions, my fuel.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+        "name": "Broodmother"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_rival_22.mp3"
-        ],
-        "mp3Text": "I snub you out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
-            "name": "Underlord"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Nature%27s_Prophet_minimap_icon.png/16px-Nature%27s_Prophet_minimap_icon.png?version=6eccf77d5c692318431d2820f9abf162",
+        "name": "Nature's Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Embr_rival_16.mp3"
+    ],
+    "mp3Text": "Two heads, zero insight.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Embr_rival_23.mp3"
-        ],
-        "mp3Text": "You smolder and die.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
-            "name": "Underlord"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Ogre_Magi_minimap_icon.png/16px-Ogre_Magi_minimap_icon.png?version=706e515fc9cd478a3d16687e3b1afbf5",
+        "name": "Ogre Magi"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Embr_rival_18.mp3"
+    ],
+    "mp3Text": "Be gone, foul wraith.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Embr_rival_19.mp3"
+    ],
+    "mp3Text": "Plague purged by flame.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/af/Necrophos_minimap_icon.png/16px-Necrophos_minimap_icon.png?version=47861191a1052525343db2e8598ba299",
+        "name": "Necrophos"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Embr_rival_20.mp3"
+    ],
+    "mp3Text": "Ignorant of true flame.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
+        "name": "Underlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_rival_21.mp3"
+    ],
+    "mp3Text": "Your fire lacks discipline.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
+        "name": "Underlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_rival_22.mp3"
+    ],
+    "mp3Text": "I snub you out.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
+        "name": "Underlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Embr_rival_23.mp3"
+    ],
+    "mp3Text": "You smolder and die.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/29/Underlord_minimap_icon.png/16px-Underlord_minimap_icon.png?version=b2118913922faf7c68ef4206145e7073",
+        "name": "Underlord"
       }
     ]
   },
@@ -1548,24 +1646,18 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Embr_firstblood_02.mp3"
-        ],
-        "mp3Text": "First blood! In flames!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Embr_firstblood_02.mp3"
+    ],
+    "mp3Text": "First blood! In flames!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Embr_firstblood_03.mp3"
-        ],
-        "mp3Text": "First blood is toast."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Embr_firstblood_03.mp3"
+    ],
+    "mp3Text": "First blood is toast."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1576,150 +1668,158 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Embr_ally_01.mp3"
+    ],
+    "mp3Text": "Watch me and learn, Lina.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Embr_ally_01.mp3"
-        ],
-        "mp3Text": "Watch me and learn, Lina.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_ally_02.mp3"
+    ],
+    "mp3Text": "Share in your wisdom, Titan.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_ally_02.mp3"
-        ],
-        "mp3Text": "Share in your wisdom, Titan.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
-            "name": "Elder Titan"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
+        "name": "Elder Titan"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Embr_ally_03.mp3"
+    ],
+    "mp3Text": "Fear cannot rule you, Timbersaw.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Embr_ally_03.mp3"
-        ],
-        "mp3Text": "Fear cannot rule you, Timbersaw.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
-            "name": "Timbersaw"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/49/Timbersaw_minimap_icon.png/16px-Timbersaw_minimap_icon.png?version=7da7ec30a25dd65ef911ac7aec85f66e",
+        "name": "Timbersaw"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Embr_ally_04.mp3"
+    ],
+    "mp3Text": "See the clouds gather, Storm Spirit?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Embr_ally_04.mp3"
-        ],
-        "mp3Text": "See the clouds gather, Storm Spirit?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Embr_ally_05.mp3"
+    ],
+    "mp3Text": "Stone and soil beckon, Earth Spirit.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Embr_ally_05.mp3"
-        ],
-        "mp3Text": "Stone and soil beckon, Earth Spirit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1f/Earth_Spirit_minimap_icon.png/16px-Earth_Spirit_minimap_icon.png?version=dcb900bc5636c975f6f6bd6de21b3c97",
-            "name": "Earth Spirit"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1f/Earth_Spirit_minimap_icon.png/16px-Earth_Spirit_minimap_icon.png?version=dcb900bc5636c975f6f6bd6de21b3c97",
+        "name": "Earth Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Embr_ally_06.mp3"
+    ],
+    "mp3Text": "Your pain is power, Clinkz.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Embr_ally_06.mp3"
-        ],
-        "mp3Text": "Your pain is power, Clinkz.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Embr_ally_07.mp3"
+    ],
+    "mp3Text": "Wield well dragon's flame.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Embr_ally_07.mp3"
-        ],
-        "mp3Text": "Wield well dragon's flame.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Embr_ally_08.mp3"
+    ],
+    "mp3Text": "Ah Jakiro: opposites in wondrous harmony.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Embr_ally_08.mp3"
-        ],
-        "mp3Text": "Ah Jakiro: opposites in wondrous harmony.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Embr_ally_09.mp3"
+    ],
+    "mp3Text": "What do you see, Oracle?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Embr_ally_09.mp3"
-        ],
-        "mp3Text": "What do you see, Oracle?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Oracle_minimap_icon.png/16px-Oracle_minimap_icon.png?version=e390a0a578043181ed2a222e375628eb",
-            "name": "Oracle"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/61/Oracle_minimap_icon.png/16px-Oracle_minimap_icon.png?version=e390a0a578043181ed2a222e375628eb",
+        "name": "Oracle"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Embr_ally_11.mp3"
+    ],
+    "mp3Text": "Your foolishness is wisdom, Ogre.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Embr_ally_11.mp3"
-        ],
-        "mp3Text": "Your foolishness is wisdom, Ogre.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Ogre_Magi_minimap_icon.png/16px-Ogre_Magi_minimap_icon.png?version=706e515fc9cd478a3d16687e3b1afbf5",
-            "name": "Ogre Magi"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/55/Ogre_Magi_minimap_icon.png/16px-Ogre_Magi_minimap_icon.png?version=706e515fc9cd478a3d16687e3b1afbf5",
+        "name": "Ogre Magi"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Embr_ally_12.mp3"
+    ],
+    "mp3Text": "We soar into history, Skywrath.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Embr_ally_12.mp3"
-        ],
-        "mp3Text": "We soar into history, Skywrath.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-            "name": "Skywrath Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+        "name": "Skywrath Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Embr_ally_13.mp3"
+    ],
+    "mp3Text": "Wind dances, arrows fly!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Embr_ally_13.mp3"
-        ],
-        "mp3Text": "Wind dances, arrows fly!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Windranger_minimap_icon.png/16px-Windranger_minimap_icon.png?version=fd41655eb4a848d263c42e723582a0ea",
-            "name": "Windranger"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Windranger_minimap_icon.png/16px-Windranger_minimap_icon.png?version=fd41655eb4a848d263c42e723582a0ea",
+        "name": "Windranger"
       }
     ]
   },
@@ -1728,508 +1828,544 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Embr_lasthit_01.mp3"
-        ],
-        "mp3Text": "You waste your essence."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_lasthit_02.mp3"
-        ],
-        "mp3Text": "You will be honored."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Embr_lasthit_03.mp3"
-        ],
-        "mp3Text": "Be still, little life."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Embr_lasthit_04.mp3"
-        ],
-        "mp3Text": "Ash upon the wind."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Embr_lasthit_05.mp3"
-        ],
-        "mp3Text": "To be spent wisely."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Embr_lasthit_06.mp3"
-        ],
-        "mp3Text": "Never refuse gold given."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_lasthit_07.mp3"
-        ],
-        "mp3Text": "And yet they persist!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_lasthit_08.mp3"
-        ],
-        "mp3Text": "I shall spend wisely."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_lasthit_09.mp3"
-        ],
-        "mp3Text": "Have you a light?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Embr_lasthit_10.mp3"
-        ],
-        "mp3Text": "You feed the flame."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Embr_lasthit_01.mp3"
+    ],
+    "mp3Text": "You waste your essence."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_lasthit_02.mp3"
+    ],
+    "mp3Text": "You will be honored."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Embr_lasthit_03.mp3"
+    ],
+    "mp3Text": "Be still, little life."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Embr_lasthit_04.mp3"
+    ],
+    "mp3Text": "Ash upon the wind."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Embr_lasthit_05.mp3"
+    ],
+    "mp3Text": "To be spent wisely."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Embr_lasthit_06.mp3"
+    ],
+    "mp3Text": "Never refuse gold given."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_lasthit_07.mp3"
+    ],
+    "mp3Text": "And yet they persist!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_lasthit_08.mp3"
+    ],
+    "mp3Text": "I shall spend wisely."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_lasthit_09.mp3"
+    ],
+    "mp3Text": "Have you a light?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Embr_lasthit_10.mp3"
+    ],
+    "mp3Text": "You feed the flame."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_deny_01.mp3"
-        ],
-        "mp3Text": "That was not yours."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Embr_deny_02.mp3"
-        ],
-        "mp3Text": "Careful what you claim."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Embr_deny_03.mp3"
-        ],
-        "mp3Text": "You are too slow."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Embr_deny_04.mp3"
-        ],
-        "mp3Text": "Snatched from your grasp."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Embr_deny_05.mp3"
-        ],
-        "mp3Text": "Did you want that?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Embr_deny_06.mp3"
-        ],
-        "mp3Text": "That was a burn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_deny_07.mp3"
-        ],
-        "mp3Text": "Spared you future loss."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_deny_08.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Embr_deny_09.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_deny_10.mp3"
-        ],
-        "mp3Text": "No no no no."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Embr_deny_11.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Embr_deny_12.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_deny_13.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Embr_deny_14.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Embr_deny_15.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_deny_16.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Embr_deny_17.mp3"
-        ],
-        "mp3Text": "You have been denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_deny_20.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_deny_21.mp3"
-        ],
-        "mp3Text": "No no no no."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Embr_deny_22.mp3"
-        ],
-        "mp3Text": "No no no no."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_deny_01.mp3"
+    ],
+    "mp3Text": "That was not yours."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Embr_deny_02.mp3"
+    ],
+    "mp3Text": "Careful what you claim."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Embr_deny_03.mp3"
+    ],
+    "mp3Text": "You are too slow."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Embr_deny_04.mp3"
+    ],
+    "mp3Text": "Snatched from your grasp."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Embr_deny_05.mp3"
+    ],
+    "mp3Text": "Did you want that?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Embr_deny_06.mp3"
+    ],
+    "mp3Text": "That was a burn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_deny_07.mp3"
+    ],
+    "mp3Text": "Spared you future loss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_deny_08.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Embr_deny_09.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Embr_deny_10.mp3"
+    ],
+    "mp3Text": "No no no no."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Embr_deny_11.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Embr_deny_12.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_deny_13.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Embr_deny_14.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Embr_deny_15.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_deny_16.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Embr_deny_17.mp3"
+    ],
+    "mp3Text": "You have been denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_deny_20.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_deny_21.mp3"
+    ],
+    "mp3Text": "No no no no."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Embr_deny_22.mp3"
+    ],
+    "mp3Text": "No no no no."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Embr_purch_01.mp3"
-        ],
-        "mp3Text": "Wealth ebbs and flows."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Embr_purch_02.mp3"
-        ],
-        "mp3Text": "From abundance to poverty."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Embr_purch_04.mp3"
-        ],
-        "mp3Text": "My money to burn!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Embr_purch_01.mp3"
+    ],
+    "mp3Text": "Wealth ebbs and flows."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Embr_purch_02.mp3"
+    ],
+    "mp3Text": "From abundance to poverty."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Embr_purch_04.mp3"
+    ],
+    "mp3Text": "My money to burn!"
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_scepter_01.mp3"
+    ],
+    "mp3Text": "The scepter is mine!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Embr_scepter_01.mp3"
-        ],
-        "mp3Text": "The scepter is mine!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Embr_scepter_02.mp3"
-        ],
-        "mp3Text": "Scepter of ultimate power!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_blink_01.mp3"
-        ],
-        "mp3Text": "I claim Blink Dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Embr_blink_02.mp3"
-        ],
-        "mp3Text": "Blink, and life fades.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Embr_items_01.mp3"
-        ],
-        "mp3Text": "Armored with Assault Cuirass!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Embr_items_02.mp3"
-        ],
-        "mp3Text": "Content in Battle Fury!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
-            "name": "Battle Fury (4400)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Embr_items_03.mp3"
-        ],
-        "mp3Text": "Tis critical, this Daedalus!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
-            "name": "Daedalus (5330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Embr_items_04.mp3"
-        ],
-        "mp3Text": "Burn with the Radiance!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
-            "name": "Radiance (5150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Embr_items_05.mp3"
-        ],
-        "mp3Text": "Flutter flutter, fair Butterfly!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Embr_items_06.mp3"
-        ],
-        "mp3Text": "So substantial is Mjollnir!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
-            "name": "Mjollnir (5600)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_items_07.mp3"
-        ],
-        "mp3Text": "Sisters Sange and Yasha!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
-            "name": "Sange and Yasha (4300)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_items_08.mp3"
-        ],
-        "mp3Text": "Strength upon the Vanguard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
-            "name": "Vanguard (2150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Embr_items_09.mp3"
-        ],
-        "mp3Text": "Generous Heart of Tarrasque!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Embr_items_10.mp3"
-        ],
-        "mp3Text": "Lost within the Maelstrom!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Maelstrom_icon.png/20px-Maelstrom_icon.png?version=6fd165fb0891828817132397d54ede13",
-            "name": "Maelstrom (2700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Embr_items_11.mp3"
-        ],
-        "mp3Text": "Heavy Monkey King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-            "name": "Monkey King Bar (4175)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Embr_items_12.mp3"
-        ],
-        "mp3Text": "Pierced upon Blade Mail!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
-            "name": "Blade Mail (2200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Embr_items_13.mp3"
-        ],
-        "mp3Text": "Empowered by the Bloodstone!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_items_14.mp3"
-        ],
-        "mp3Text": "Sanctified by Heaven's Halberd!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
-            "name": "Heaven's Halberd (3550)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_items_15.mp3"
-        ],
-        "mp3Text": "Wondrous Black King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_items_16.mp3"
-        ],
-        "mp3Text": "End comes! Divine Rapier!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
-            "name": "Divine Rapier (6000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Embr_items_17.mp3"
-        ],
-        "mp3Text": "Divine Rapier. The end.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
-            "name": "Divine Rapier (6000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_immort_02.mp3"
-        ],
-        "mp3Text": "I have claimed Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Embr_scepter_02.mp3"
+    ],
+    "mp3Text": "Scepter of ultimate power!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Embr_immort_04.mp3"
-        ],
-        "mp3Text": "My blaze burns eternal.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_blink_01.mp3"
+    ],
+    "mp3Text": "I claim Blink Dagger!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Embr_blink_02.mp3"
+    ],
+    "mp3Text": "Blink, and life fades.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Embr_items_01.mp3"
+    ],
+    "mp3Text": "Armored with Assault Cuirass!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Embr_items_02.mp3"
+    ],
+    "mp3Text": "Content in Battle Fury!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c1/Battle_Fury_icon.png/20px-Battle_Fury_icon.png?version=c6044f38f868228dceae9a353465f987",
+        "name": "Battle Fury (4400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Embr_items_03.mp3"
+    ],
+    "mp3Text": "Tis critical, this Daedalus!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
+        "name": "Daedalus (5330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Embr_items_04.mp3"
+    ],
+    "mp3Text": "Burn with the Radiance!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/df/Radiance_%28Active%29_icon.png/20px-Radiance_%28Active%29_icon.png?version=3ef166152c72b554690f6af871a10123",
+        "name": "Radiance (5150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Embr_items_05.mp3"
+    ],
+    "mp3Text": "Flutter flutter, fair Butterfly!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Embr_items_06.mp3"
+    ],
+    "mp3Text": "So substantial is Mjollnir!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
+        "name": "Mjollnir (5600)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_items_07.mp3"
+    ],
+    "mp3Text": "Sisters Sange and Yasha!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
+        "name": "Sange and Yasha (4300)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Embr_items_08.mp3"
+    ],
+    "mp3Text": "Strength upon the Vanguard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ab/Vanguard_icon.png/20px-Vanguard_icon.png?version=94c839016f699c1aa03a77c9ebab26ea",
+        "name": "Vanguard (2150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Embr_items_09.mp3"
+    ],
+    "mp3Text": "Generous Heart of Tarrasque!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Embr_items_10.mp3"
+    ],
+    "mp3Text": "Lost within the Maelstrom!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Maelstrom_icon.png/20px-Maelstrom_icon.png?version=6fd165fb0891828817132397d54ede13",
+        "name": "Maelstrom (2700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Embr_items_11.mp3"
+    ],
+    "mp3Text": "Heavy Monkey King Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+        "name": "Monkey King Bar (4175)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Embr_items_12.mp3"
+    ],
+    "mp3Text": "Pierced upon Blade Mail!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/18/Blade_Mail_icon.png/20px-Blade_Mail_icon.png?version=4a953629f232475779324f428df4267c",
+        "name": "Blade Mail (2200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Embr_items_13.mp3"
+    ],
+    "mp3Text": "Empowered by the Bloodstone!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_items_14.mp3"
+    ],
+    "mp3Text": "Sanctified by Heaven's Halberd!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c6/Heaven%27s_Halberd_icon.png/20px-Heaven%27s_Halberd_icon.png?version=754c471c43a3f60e2946d606edd6d313",
+        "name": "Heaven's Halberd (3550)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Embr_items_15.mp3"
+    ],
+    "mp3Text": "Wondrous Black King Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_items_16.mp3"
+    ],
+    "mp3Text": "End comes! Divine Rapier!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
+        "name": "Divine Rapier (6000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Embr_items_17.mp3"
+    ],
+    "mp3Text": "Divine Rapier. The end.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
+        "name": "Divine Rapier (6000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_immort_02.mp3"
+    ],
+    "mp3Text": "I have claimed Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Embr_immort_04.mp3"
+    ],
+    "mp3Text": "My blaze burns eternal.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -2238,212 +2374,226 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Embr_death_01.mp3"
-        ],
-        "mp3Text": "And so I end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Embr_death_02.mp3"
-        ],
-        "mp3Text": "The teacher is bested."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Embr_death_03.mp3"
-        ],
-        "mp3Text": "You have learned well."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_death_04.mp3"
-        ],
-        "mp3Text": "That was well done."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Embr_death_05.mp3"
-        ],
-        "mp3Text": "You surpass the master."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_death_06.mp3"
-        ],
-        "mp3Text": "The flame dies out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Embr_death_07.mp3"
-        ],
-        "mp3Text": "My fire is quenched."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_death_08.mp3"
-        ],
-        "mp3Text": "All out of fuel."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_death_09.mp3"
-        ],
-        "mp3Text": "Bank these embers well."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_death_10.mp3"
-        ],
-        "mp3Text": "The hearth grows cold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Embr_death_12.mp3"
-        ],
-        "mp3Text": "Fire season is over."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_death_13.mp3"
-        ],
-        "mp3Text": "Who snuffed me out?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Embr_death_14.mp3"
-        ],
-        "mp3Text": "Nothing more to teach."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Embr_death_01.mp3"
+    ],
+    "mp3Text": "And so I end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Embr_death_02.mp3"
+    ],
+    "mp3Text": "The teacher is bested."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Embr_death_03.mp3"
+    ],
+    "mp3Text": "You have learned well."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Embr_death_04.mp3"
+    ],
+    "mp3Text": "That was well done."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Embr_death_05.mp3"
+    ],
+    "mp3Text": "You surpass the master."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Embr_death_06.mp3"
+    ],
+    "mp3Text": "The flame dies out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Embr_death_07.mp3"
+    ],
+    "mp3Text": "My fire is quenched."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_death_08.mp3"
+    ],
+    "mp3Text": "All out of fuel."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Embr_death_09.mp3"
+    ],
+    "mp3Text": "Bank these embers well."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_death_10.mp3"
+    ],
+    "mp3Text": "The hearth grows cold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Embr_death_12.mp3"
+    ],
+    "mp3Text": "Fire season is over."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Embr_death_13.mp3"
+    ],
+    "mp3Text": "Who snuffed me out?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Embr_death_14.mp3"
+    ],
+    "mp3Text": "Nothing more to teach."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Embr_move_16.mp3"
-        ],
-        "mp3Text": "Let stillness guide thought."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_move_19.mp3"
-        ],
-        "mp3Text": "There is peace here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Embr_respawn_01.mp3"
-        ],
-        "mp3Text": "A lesson in death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Embr_respawn_02.mp3"
-        ],
-        "mp3Text": "Sacrifice paid, balance assured."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Embr_respawn_03.mp3"
-        ],
-        "mp3Text": "Rekindled and made ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Embr_respawn_04.mp3"
-        ],
-        "mp3Text": "This hearth is welcome."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Embr_respawn_05.mp3"
-        ],
-        "mp3Text": "I burn once more!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_respawn_06.mp3"
-        ],
-        "mp3Text": "More must be taught!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Embr_respawn_07.mp3"
-        ],
-        "mp3Text": "Flicker on the wind!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Embr_respawn_08.mp3"
-        ],
-        "mp3Text": "This flame is forever!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Embr_respawn_09.mp3"
-        ],
-        "mp3Text": "Still the same spark!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Embr_respawn_10.mp3"
-        ],
-        "mp3Text": "Kissed by the flames!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Embr_respawn_11.mp3"
-        ],
-        "mp3Text": "Death has cold fingers."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Embr_move_16.mp3"
+    ],
+    "mp3Text": "Let stillness guide thought."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_move_19.mp3"
+    ],
+    "mp3Text": "There is peace here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Embr_respawn_01.mp3"
+    ],
+    "mp3Text": "A lesson in death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Embr_respawn_02.mp3"
+    ],
+    "mp3Text": "Sacrifice paid, balance assured."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Embr_respawn_03.mp3"
+    ],
+    "mp3Text": "Rekindled and made ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Embr_respawn_04.mp3"
+    ],
+    "mp3Text": "This hearth is welcome."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Embr_respawn_05.mp3"
+    ],
+    "mp3Text": "I burn once more!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Embr_respawn_06.mp3"
+    ],
+    "mp3Text": "More must be taught!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Embr_respawn_07.mp3"
+    ],
+    "mp3Text": "Flicker on the wind!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Embr_respawn_08.mp3"
+    ],
+    "mp3Text": "This flame is forever!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Embr_respawn_09.mp3"
+    ],
+    "mp3Text": "Still the same spark!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Embr_respawn_10.mp3"
+    ],
+    "mp3Text": "Kissed by the flames!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Embr_respawn_11.mp3"
+    ],
+    "mp3Text": "Death has cold fingers."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Embr_fastres_01.mp3"
-        ],
-        "mp3Text": "The embers still burn!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Embr_fastres_01.mp3"
+    ],
+    "mp3Text": "The embers still burn!"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Embr_bottle_01.mp3"
-        ],
-        "mp3Text": "What plans I have."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Embr_bottle_02.mp3"
-        ],
-        "mp3Text": "Warm to the touch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Embr_bottle_03.mp3"
-        ],
-        "mp3Text": "Rune imprisoned, freedom foretold."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Embr_bottle_01.mp3"
+    ],
+    "mp3Text": "What plans I have."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Embr_bottle_02.mp3"
+    ],
+    "mp3Text": "Warm to the touch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Embr_bottle_03.mp3"
+    ],
+    "mp3Text": "Rune imprisoned, freedom foretold."
   },
   {
     "headTitle": "Activating runes",
@@ -2455,14 +2605,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_purch_03.mp3"
-        ],
-        "mp3Text": "A tool to teach."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Embr_purch_03.mp3"
+    ],
+    "mp3Text": "A tool to teach."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -2470,14 +2617,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Embr_lasthit_06.mp3"
-        ],
-        "mp3Text": "Never refuse gold given."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Embr_lasthit_06.mp3"
+    ],
+    "mp3Text": "Never refuse gold given."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -2485,30 +2629,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_doubdam_02.mp3"
-        ],
-        "mp3Text": "Rune of Double Damage!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Embr_doubdam_03.mp3"
-        ],
-        "mp3Text": "Double Damage empowers me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Embr_doubdam_02.mp3"
+    ],
+    "mp3Text": "Rune of Double Damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_doubdam_04.mp3"
-        ],
-        "mp3Text": "From blaze, to inferno!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Embr_doubdam_03.mp3"
+    ],
+    "mp3Text": "Double Damage empowers me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Embr_doubdam_04.mp3"
+    ],
+    "mp3Text": "From blaze, to inferno!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -2516,30 +2655,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Embr_haste_02.mp3"
-        ],
-        "mp3Text": "The rune of Haste!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Embr_haste_03.mp3"
-        ],
-        "mp3Text": "Speedy rune of Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Embr_haste_02.mp3"
+    ],
+    "mp3Text": "The rune of Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_haste_04.mp3"
-        ],
-        "mp3Text": "The flames rush forth!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Embr_haste_03.mp3"
+    ],
+    "mp3Text": "Speedy rune of Haste!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Embr_haste_04.mp3"
+    ],
+    "mp3Text": "The flames rush forth!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -2547,30 +2681,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Embr_illus_02.mp3"
-        ],
-        "mp3Text": "The rune of Illusion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Embr_illus_03.mp3"
-        ],
-        "mp3Text": "Trickster's rune of Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Embr_illus_02.mp3"
+    ],
+    "mp3Text": "The rune of Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Embr_illus_04.mp3"
-        ],
-        "mp3Text": "Flames will spread thrice!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Embr_illus_03.mp3"
+    ],
+    "mp3Text": "Trickster's rune of Illusion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Embr_illus_04.mp3"
+    ],
+    "mp3Text": "Flames will spread thrice!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2578,30 +2707,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_invis_02.mp3"
-        ],
-        "mp3Text": "The rune of Invisibility!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Embr_invis_03.mp3"
-        ],
-        "mp3Text": "Deceptive rune of Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Embr_invis_02.mp3"
+    ],
+    "mp3Text": "The rune of Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Embr_invis_04.mp3"
-        ],
-        "mp3Text": "Behold a subtle burn."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Embr_invis_03.mp3"
+    ],
+    "mp3Text": "Deceptive rune of Invisibility!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Embr_invis_04.mp3"
+    ],
+    "mp3Text": "Behold a subtle burn."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2609,30 +2733,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_regen_02.mp3"
-        ],
-        "mp3Text": "The rune of Regeneration!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Embr_regen_03.mp3"
-        ],
-        "mp3Text": "Comforting rune of Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Embr_regen_02.mp3"
+    ],
+    "mp3Text": "The rune of Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_regen_04.mp3"
-        ],
-        "mp3Text": "Ember strength, now rekindled!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Embr_regen_03.mp3"
+    ],
+    "mp3Text": "Comforting rune of Regeneration!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_regen_04.mp3"
+    ],
+    "mp3Text": "Ember strength, now rekindled!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2643,78 +2762,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Embr_notyet_01.mp3"
-        ],
-        "mp3Text": "I need more time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_notyet_04.mp3"
-        ],
-        "mp3Text": "I am not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_notyet_07.mp3"
-        ],
-        "mp3Text": "Tis not yet time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Embr_notyet_01.mp3"
+    ],
+    "mp3Text": "I need more time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Embr_notyet_04.mp3"
+    ],
+    "mp3Text": "I am not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Embr_notyet_07.mp3"
+    ],
+    "mp3Text": "Tis not yet time."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_notyet_02.mp3"
-        ],
-        "mp3Text": "I need more time!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Embr_notyet_05.mp3"
-        ],
-        "mp3Text": "I am not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_notyet_08.mp3"
-        ],
-        "mp3Text": "Tis not yet time!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Embr_notyet_02.mp3"
+    ],
+    "mp3Text": "I need more time!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Embr_notyet_05.mp3"
+    ],
+    "mp3Text": "I am not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Embr_notyet_08.mp3"
+    ],
+    "mp3Text": "Tis not yet time!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Embr_notyet_03.mp3"
-        ],
-        "mp3Text": "I need more time!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Embr_notyet_06.mp3"
-        ],
-        "mp3Text": "I am not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Embr_notyet_09.mp3"
-        ],
-        "mp3Text": "Tis not yet time!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Embr_notyet_03.mp3"
+    ],
+    "mp3Text": "I need more time!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Embr_notyet_06.mp3"
+    ],
+    "mp3Text": "I am not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Embr_notyet_09.mp3"
+    ],
+    "mp3Text": "Tis not yet time!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2725,156 +2841,156 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_nomana_01.mp3"
-        ],
-        "mp3Text": "All out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Embr_nomana_04.mp3"
-        ],
-        "mp3Text": "I have no mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Embr_nomana_07.mp3"
-        ],
-        "mp3Text": "I require more mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_nomana_01.mp3"
+    ],
+    "mp3Text": "All out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Embr_nomana_04.mp3"
+    ],
+    "mp3Text": "I have no mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Embr_nomana_07.mp3"
+    ],
+    "mp3Text": "I require more mana!"
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Embr_nomana_02.mp3"
-        ],
-        "mp3Text": "All out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_nomana_05.mp3"
-        ],
-        "mp3Text": "I have no mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Embr_nomana_08.mp3"
-        ],
-        "mp3Text": "I require more mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Embr_nomana_02.mp3"
+    ],
+    "mp3Text": "All out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Embr_nomana_05.mp3"
+    ],
+    "mp3Text": "I have no mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Embr_nomana_08.mp3"
+    ],
+    "mp3Text": "I require more mana!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_nomana_03.mp3"
-        ],
-        "mp3Text": "All out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Embr_nomana_06.mp3"
-        ],
-        "mp3Text": "I have no mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Embr_nomana_09.mp3"
-        ],
-        "mp3Text": "I require more mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Embr_nomana_03.mp3"
+    ],
+    "mp3Text": "All out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Embr_nomana_06.mp3"
+    ],
+    "mp3Text": "I have no mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Embr_nomana_09.mp3"
+    ],
+    "mp3Text": "I require more mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_pain_01.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Embr_pain_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Embr_pain_03.mp3"
-        ],
-        "mp3Text": "Nuh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Embr_pain_04.mp3"
-        ],
-        "mp3Text": "Ow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Embr_pain_05.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Embr_pain_06.mp3"
-        ],
-        "mp3Text": "Eugh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_pain_07.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Embr_pain_08.mp3"
-        ],
-        "mp3Text": "Uah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Embr_pain_09.mp3"
-        ],
-        "mp3Text": "Rgh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Embr_pain_10.mp3"
-        ],
-        "mp3Text": "Uh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_pain_01.mp3"
+    ],
+    "mp3Text": "Mm!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Embr_underattack_01.mp3"
-        ],
-        "mp3Text": "I am under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Embr_pain_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Embr_pain_03.mp3"
+    ],
+    "mp3Text": "Nuh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Embr_pain_04.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Embr_pain_05.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Embr_pain_06.mp3"
+    ],
+    "mp3Text": "Eugh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_pain_07.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Embr_pain_08.mp3"
+    ],
+    "mp3Text": "Uah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Embr_pain_09.mp3"
+    ],
+    "mp3Text": "Rgh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Embr_pain_10.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Embr_underattack_01.mp3"
+    ],
+    "mp3Text": "I am under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2885,26 +3001,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Embr_rare_01.mp3"
-        ],
-        "mp3Text": "Xin's teachings shall endure."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Embr_rare_02.mp3"
-        ],
-        "mp3Text": "All has been said."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Embr_rare_03.mp3"
-        ],
-        "mp3Text": "Four words is plenty."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Embr_rare_01.mp3"
+    ],
+    "mp3Text": "Xin's teachings shall endure."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Embr_rare_02.mp3"
+    ],
+    "mp3Text": "All has been said."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Embr_rare_03.mp3"
+    ],
+    "mp3Text": "Four words is plenty."
   },
   {
     "headTitle": "Chat responses",
@@ -2915,126 +3030,131 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Embr_lanemissing_01.mp3"
-        ],
-        "mp3Text": "Top lane is missing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Embr_lanemissing_02.mp3"
-        ],
-        "mp3Text": "Middle lane is missing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Embr_lanemissing_03.mp3"
-        ],
-        "mp3Text": "Bottom lane is missing!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Embr_lanemissing_01.mp3"
+    ],
+    "mp3Text": "Top lane is missing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Embr_lanemissing_02.mp3"
+    ],
+    "mp3Text": "Middle lane is missing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Embr_lanemissing_03.mp3"
+    ],
+    "mp3Text": "Bottom lane is missing!"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks be to you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_thanks_02.mp3"
-        ],
-        "mp3Text": "You are most gracious."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Embr_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks be to you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Embr_thanks_02.mp3"
+    ],
+    "mp3Text": "You are most gracious."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Embr_laugh_01.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm ho."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Embr_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_laugh_06.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_laugh_07.mp3"
-        ],
-        "mp3Text": "He he he he heh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_laugh_08.mp3"
-        ],
-        "mp3Text": "Oh ho ho ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_laugh_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Embr_laugh_14.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Embr_laugh_15.mp3"
-        ],
-        "mp3Text": "Ho ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Embr_laugh_16.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_laugh_17.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm hm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Embr_laugh_01.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm ho."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Embr_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Embr_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Embr_laugh_06.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Embr_laugh_07.mp3"
+    ],
+    "mp3Text": "He he he he heh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Embr_laugh_08.mp3"
+    ],
+    "mp3Text": "Oh ho ho ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Embr_laugh_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Embr_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Embr_laugh_14.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Embr_laugh_15.mp3"
+    ],
+    "mp3Text": "Ho ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Embr_laugh_16.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_laugh_17.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm hm!"
   },
   {
     "headTitle": "Match end",
@@ -3045,52 +3165,50 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Embr_win_01.mp3"
-        ],
-        "mp3Text": "Victory at long last!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_win_02.mp3"
-        ],
-        "mp3Text": "Honors to the defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Embr_win_03.mp3"
-        ],
-        "mp3Text": "Time for a bonfire!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Embr_win_01.mp3"
+    ],
+    "mp3Text": "Victory at long last!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Embr_win_02.mp3"
+    ],
+    "mp3Text": "Honors to the defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Embr_win_03.mp3"
+    ],
+    "mp3Text": "Time for a bonfire!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Embr_lose_01.mp3"
-        ],
-        "mp3Text": "Perhaps defeat was inevitable."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_lose_02.mp3"
-        ],
-        "mp3Text": "What have I learned?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_lose_03.mp3"
-        ],
-        "mp3Text": "Learn from this loss."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Embr_lose_01.mp3"
+    ],
+    "mp3Text": "Perhaps defeat was inevitable."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_lose_02.mp3"
+    ],
+    "mp3Text": "What have I learned?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Embr_lose_03.mp3"
+    ],
+    "mp3Text": "Learn from this loss."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -3101,41 +3219,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_itemcommon_01.mp3"
-        ],
-        "mp3Text": "The teacher's gift arrives."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Embr_itemcommon_01.mp3"
+    ],
+    "mp3Text": "The teacher's gift arrives."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_itemmoderate_01.mp3"
-        ],
-        "mp3Text": "My favorite: medium rare!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Embr_itemmoderate_01.mp3"
+    ],
+    "mp3Text": "My favorite: medium rare!"
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Embr_itemrare_01.mp3"
-        ],
-        "mp3Text": "This reward transcends expectation!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Embr_itemrare_01.mp3"
+    ],
+    "mp3Text": "This reward transcends expectation!"
   }
 ]

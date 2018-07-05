@@ -14,7 +14,7 @@ let isUrlOk = async function (url) {
     })
 }
 
-const fix = require('./save/pub');
+const fix = require('./save/fix');
 
 
 const heros = require('./save/index.json');

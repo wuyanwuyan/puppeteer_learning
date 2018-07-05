@@ -5,7 +5,6 @@
     "actorUrl": null,
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3a/Zeus_minimap_icon.png/20px-Zeus_minimap_icon.png?version=b3cae63e9899a7af73f19d2ea1f24f6c",
     "heroName": "Zeus",
-    "href": "https://dota2.gamepedia.com/Zeus/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/zuus_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/zeus.png",
@@ -17,92 +16,100 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_arc_spawn_01.mp3"
-        ],
-        "mp3Text": "Zeus!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Zuus_spawn_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_arc_spawn_02.mp3"
-        ],
-        "mp3Text": "It's true. I am Zeus."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Zuus_spawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Zuus_arc_spawn_03.mp3"
-        ],
-        "mp3Text": "I am Zeus! You heard me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Zuus_spawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_arc_spawn_04.mp3"
-        ],
-        "mp3Text": "Your god has arrived."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Zuus_spawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_spawn_05.mp3"
-        ],
-        "mp3Text": "Make your offerings. Zeus is here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_spawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Zuus_arc_spawn_06.mp3"
-        ],
-        "mp3Text": "Your prayers are answered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_spawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_spawn_07.mp3"
-        ],
-        "mp3Text": "I descend to walk among mortals."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_spawn_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_spawn_08.mp3"
-        ],
-        "mp3Text": "Time to play god."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Zuus_move_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_arc_move_02.mp3"
-        ],
-        "mp3Text": "Your prayer, answered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_attack_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Zuus_arc_attack_06.mp3"
-        ],
-        "mp3Text": "Heaven help you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Zuus_ability_thunder_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_ability_thunder_02.mp3"
-        ],
-        "mp3Text": "You can't run from heaven!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_attack_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_arc_attack_09.mp3"
-        ],
-        "mp3Text": "By my whiskers!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_arc_spawn_01.mp3"
+    ],
+    "mp3Text": "Zeus!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Zuus_spawn_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_arc_spawn_02.mp3"
+    ],
+    "mp3Text": "It's true. I am Zeus."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Zuus_spawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Zuus_arc_spawn_03.mp3"
+    ],
+    "mp3Text": "I am Zeus! You heard me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Zuus_spawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_arc_spawn_04.mp3"
+    ],
+    "mp3Text": "Your god has arrived."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Zuus_spawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_spawn_05.mp3"
+    ],
+    "mp3Text": "Make your offerings. Zeus is here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_spawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Zuus_arc_spawn_06.mp3"
+    ],
+    "mp3Text": "Your prayers are answered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_spawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_spawn_07.mp3"
+    ],
+    "mp3Text": "I descend to walk among mortals."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_spawn_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_spawn_08.mp3"
+    ],
+    "mp3Text": "Time to play god."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Zuus_move_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_arc_move_02.mp3"
+    ],
+    "mp3Text": "Your prayer, answered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_attack_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Zuus_arc_attack_06.mp3"
+    ],
+    "mp3Text": "Heaven help you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Zuus_ability_thunder_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_ability_thunder_02.mp3"
+    ],
+    "mp3Text": "You can't run from heaven!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_attack_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_arc_attack_09.mp3"
+    ],
+    "mp3Text": "By my whiskers!"
   },
   {
     "headTitle": "Drafting",
@@ -113,279 +120,278 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3"
-        ],
-        "mp3Text": "Zeus!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3"
+    ],
+    "mp3Text": "Zeus!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_anger_03.mp3"
-        ],
-        "mp3Text": "Hm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_anger_03.mp3"
+    ],
+    "mp3Text": "Hm!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_arc_spawn_01.mp3"
-        ],
-        "mp3Text": "Zeus!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Zuus_spawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_arc_spawn_04.mp3"
-        ],
-        "mp3Text": "Your god has arrived."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Zuus_spawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_spawn_05.mp3"
-        ],
-        "mp3Text": "Make your offerings. Zeus is here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_spawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Zuus_arc_spawn_06.mp3"
-        ],
-        "mp3Text": "Your prayers are answered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_spawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_spawn_07.mp3"
-        ],
-        "mp3Text": "I descend to walk among mortals."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_spawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_arc_spawn_01.mp3"
+    ],
+    "mp3Text": "Zeus!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Zuus_spawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_arc_spawn_04.mp3"
+    ],
+    "mp3Text": "Your god has arrived."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Zuus_spawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_spawn_05.mp3"
+    ],
+    "mp3Text": "Make your offerings. Zeus is here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_spawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Zuus_arc_spawn_06.mp3"
+    ],
+    "mp3Text": "Your prayers are answered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_spawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_spawn_07.mp3"
+    ],
+    "mp3Text": "I descend to walk among mortals."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Zuus_inthebag_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Zuus_arc_inthebag_01.mp3"
-        ],
-        "mp3Text": "He he he he he. It's in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Zuus_inthebag_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Zuus_arc_inthebag_01.mp3"
+    ],
+    "mp3Text": "He he he he he. It's in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_spawn_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_spawn_08.mp3"
-        ],
-        "mp3Text": "Time to play god."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Zuus_battlebegins_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Zuus_arc_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Let's make this a battle worthy of my name."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Zuus_battlebegins_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_battlebegins_02.mp3"
-        ],
-        "mp3Text": "Ah these mortals and their futile games. Oh wait! I'm one of them! Hah ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_spawn_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_spawn_08.mp3"
+    ],
+    "mp3Text": "Time to play god."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Zuus_battlebegins_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Zuus_arc_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Let's make this a battle worthy of my name."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Zuus_battlebegins_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_battlebegins_02.mp3"
+    ],
+    "mp3Text": "Ah these mortals and their futile games. Oh wait! I'm one of them! Hah ha ha ha ha!"
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Zuus_move_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Zuus_arc_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Zuus_move_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_arc_move_02.mp3"
-        ],
-        "mp3Text": "Your prayer, answered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Zuus_move_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Zuus_arc_move_03.mp3"
-        ],
-        "mp3Text": "Onward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_move_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Zuus_arc_move_04.mp3"
-        ],
-        "mp3Text": "Forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Zuus_move_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_arc_move_05.mp3"
-        ],
-        "mp3Text": "To battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_move_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Zuus_arc_move_06.mp3"
-        ],
-        "mp3Text": "Very good."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Zuus_move_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_move_07.mp3"
-        ],
-        "mp3Text": "Sound advice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_move_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Zuus_arc_move_09.mp3"
-        ],
-        "mp3Text": "I ordain it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Zuus_move_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Zuus_arc_move_10.mp3"
-        ],
-        "mp3Text": "A position of power."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Zuus_move_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Zuus_arc_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Zuus_move_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_arc_move_02.mp3"
+    ],
+    "mp3Text": "Your prayer, answered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Zuus_move_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Zuus_arc_move_03.mp3"
+    ],
+    "mp3Text": "Onward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_move_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Zuus_arc_move_04.mp3"
+    ],
+    "mp3Text": "Forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Zuus_move_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_arc_move_05.mp3"
+    ],
+    "mp3Text": "To battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_move_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Zuus_arc_move_06.mp3"
+    ],
+    "mp3Text": "Very good."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Zuus_move_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_move_07.mp3"
+    ],
+    "mp3Text": "Sound advice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_move_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Zuus_arc_move_09.mp3"
+    ],
+    "mp3Text": "I ordain it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Zuus_move_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Zuus_arc_move_10.mp3"
+    ],
+    "mp3Text": "A position of power."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_attack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Zuus_arc_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Zuus_attack_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_attack_02.mp3"
-        ],
-        "mp3Text": "Divine invasion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Zuus_attack_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Zuus_arc_attack_03.mp3"
-        ],
-        "mp3Text": "You'll wish you were never spawned!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Zuus_attack_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_attack_04.mp3"
-        ],
-        "mp3Text": "Reach for the sky!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_attack_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Zuus_arc_attack_05.mp3"
-        ],
-        "mp3Text": "Beware!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_attack_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Zuus_arc_attack_06.mp3"
-        ],
-        "mp3Text": "Heaven help you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_attack_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Zuus_arc_attack_07.mp3"
-        ],
-        "mp3Text": "God giveth you beatings!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Zuus_attack_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Zuus_arc_attack_08.mp3"
-        ],
-        "mp3Text": "God help you now!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_attack_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_arc_attack_09.mp3"
-        ],
-        "mp3Text": "By my whiskers!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_attack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Zuus_arc_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Zuus_attack_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_arc_attack_02.mp3"
+    ],
+    "mp3Text": "Divine invasion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Zuus_attack_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Zuus_arc_attack_03.mp3"
+    ],
+    "mp3Text": "You'll wish you were never spawned!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Zuus_attack_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_attack_04.mp3"
+    ],
+    "mp3Text": "Reach for the sky!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_attack_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Zuus_arc_attack_05.mp3"
+    ],
+    "mp3Text": "Beware!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_attack_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Zuus_arc_attack_06.mp3"
+    ],
+    "mp3Text": "Heaven help you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_attack_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Zuus_arc_attack_07.mp3"
+    ],
+    "mp3Text": "God giveth you beatings!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Zuus_attack_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Zuus_arc_attack_08.mp3"
+    ],
+    "mp3Text": "God help you now!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_attack_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_arc_attack_09.mp3"
+    ],
+    "mp3Text": "By my whiskers!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_cast_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_cast_01.mp3"
-        ],
-        "mp3Text": "Just you wait!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_cast_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_cast_02.mp3"
-        ],
-        "mp3Text": "Wait for it!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_cast_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_cast_01.mp3"
+    ],
+    "mp3Text": "Just you wait!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_cast_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_cast_02.mp3"
+    ],
+    "mp3Text": "Wait for it!"
   },
   {
     "headTitle": "Abilities",
@@ -401,520 +407,556 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_ability_thunder_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Zuus_arc_ability_thunder_01.mp3"
-        ],
-        "mp3Text": "Thunderous applause!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Zuus_ability_thunder_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_ability_thunder_02.mp3"
-        ],
-        "mp3Text": "You can't run from heaven!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_ability_thunder_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Zuus_arc_ability_thunder_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha! Not so fast!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Zuus_ability_thunder_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Zuus_arc_ability_thunder_04.mp3"
-        ],
-        "mp3Text": "Retribution!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_ability_thunder_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Zuus_arc_ability_thunder_05.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_ability_thunder_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Zuus_arc_ability_thunder_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha! God's wrath!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_ability_thunder_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Zuus_arc_ability_thunder_01.mp3"
+    ],
+    "mp3Text": "Thunderous applause!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Zuus_ability_thunder_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_ability_thunder_02.mp3"
+    ],
+    "mp3Text": "You can't run from heaven!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_ability_thunder_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Zuus_arc_ability_thunder_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha! Not so fast!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Zuus_ability_thunder_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Zuus_arc_ability_thunder_04.mp3"
+    ],
+    "mp3Text": "Retribution!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_ability_thunder_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Zuus_arc_ability_thunder_05.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_ability_thunder_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Zuus_arc_ability_thunder_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha! God's wrath!"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Zuus_level_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Zuus_arc_level_01.mp3"
-        ],
-        "mp3Text": "The heavens seem closer now!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Zuus_level_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Zuus_arc_level_02.mp3"
-        ],
-        "mp3Text": "A divine infusion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Zuus_level_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Zuus_arc_level_03.mp3"
-        ],
-        "mp3Text": "By my whiskers, that's good stuff!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Zuus_level_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_level_04.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha, o ye of little faith!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Zuus_level_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Zuus_arc_level_05.mp3"
-        ],
-        "mp3Text": "Enough is as good as a feast!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Zuus_level_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Zuus_arc_level_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Zuus_level_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Zuus_arc_level_01.mp3"
+    ],
+    "mp3Text": "The heavens seem closer now!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Zuus_level_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Zuus_arc_level_02.mp3"
+    ],
+    "mp3Text": "A divine infusion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Zuus_level_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Zuus_arc_level_03.mp3"
+    ],
+    "mp3Text": "By my whiskers, that's good stuff!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Zuus_level_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_level_04.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha, o ye of little faith!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Zuus_level_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Zuus_arc_level_05.mp3"
+    ],
+    "mp3Text": "Enough is as good as a feast!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Zuus_level_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Zuus_arc_level_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Zuus_kill_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_kill_01.mp3"
-        ],
-        "mp3Text": "Eh, mortal."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Zuus_kill_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Zuus_arc_kill_02.mp3"
-        ],
-        "mp3Text": "Yes, I am holier than thou."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_kill_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Zuus_arc_kill_03.mp3"
-        ],
-        "mp3Text": "Hate to lord it over you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_kill_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_arc_kill_04.mp3"
-        ],
-        "mp3Text": "Thunderstruck!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Zuus_kill_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_arc_kill_05.mp3"
-        ],
-        "mp3Text": "That's all it takes to kill you?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_kill_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Zuus_arc_kill_06.mp3"
-        ],
-        "mp3Text": "If you were me, you'd still be alive."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_kill_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Zuus_arc_kill_07.mp3"
-        ],
-        "mp3Text": "At least I deigned to notice you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Zuus_kill_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_kill_08.mp3"
-        ],
-        "mp3Text": "Man proposes, God disposes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_kill_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Zuus_arc_kill_09.mp3"
-        ],
-        "mp3Text": "Face up to your mortality."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_kill_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_kill_10.mp3"
-        ],
-        "mp3Text": "I take my offerings burned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_kill_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Zuus_arc_kill_11.mp3"
-        ],
-        "mp3Text": "You'll wish I'd never stooped to notice you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Zuus_kill_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_arc_kill_12.mp3"
-        ],
-        "mp3Text": "Goodbye and God riddance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_kill_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_kill_13.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_kill_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Zuus_arc_kill_14.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Zuus_kill_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_arc_kill_15.mp3"
-        ],
-        "mp3Text": "Mwa ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_laugh_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Zuus_arc_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_arc_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_laugh_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Zuus_kill_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_kill_01.mp3"
+    ],
+    "mp3Text": "Eh, mortal."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Zuus_kill_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Zuus_arc_kill_02.mp3"
+    ],
+    "mp3Text": "Yes, I am holier than thou."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_kill_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Zuus_arc_kill_03.mp3"
+    ],
+    "mp3Text": "Hate to lord it over you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_kill_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_arc_kill_04.mp3"
+    ],
+    "mp3Text": "Thunderstruck!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Zuus_kill_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_arc_kill_05.mp3"
+    ],
+    "mp3Text": "That's all it takes to kill you?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_kill_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Zuus_arc_kill_06.mp3"
+    ],
+    "mp3Text": "If you were me, you'd still be alive."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_kill_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Zuus_arc_kill_07.mp3"
+    ],
+    "mp3Text": "At least I deigned to notice you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Zuus_kill_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_kill_08.mp3"
+    ],
+    "mp3Text": "Man proposes, God disposes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_kill_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Zuus_arc_kill_09.mp3"
+    ],
+    "mp3Text": "Face up to your mortality."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Zuus_kill_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_kill_10.mp3"
+    ],
+    "mp3Text": "I take my offerings burned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_kill_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Zuus_arc_kill_11.mp3"
+    ],
+    "mp3Text": "You'll wish I'd never stooped to notice you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Zuus_kill_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_arc_kill_12.mp3"
+    ],
+    "mp3Text": "Goodbye and God riddance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_kill_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_kill_13.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_kill_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Zuus_arc_kill_14.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Zuus_kill_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_arc_kill_15.mp3"
+    ],
+    "mp3Text": "Mwa ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_laugh_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Zuus_arc_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_arc_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_laugh_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha ha!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_rival_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Zuus_arc_rival_01.mp3"
+    ],
+    "mp3Text": "Give the Omniscience my regards.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Zuus_rival_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Zuus_arc_rival_01.mp3"
-        ],
-        "mp3Text": "Give the Omniscience my regards.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Zuus_rival_22.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Zuus_arc_rival_22.mp3"
+    ],
+    "mp3Text": "There was no profit in lecturing that dullard on the finer points of theosophy!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Zuus_rival_22.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Zuus_arc_rival_22.mp3"
-        ],
-        "mp3Text": "There was no profit in lecturing that dullard on the finer points of theosophy!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_rival_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_rival_03.mp3"
+    ],
+    "mp3Text": "Keep in mind, Chen, Godliness is next to deadliness.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_rival_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_rival_03.mp3"
-        ],
-        "mp3Text": "Keep in mind, Chen, Godliness is next to deadliness.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-            "name": "Chen"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+        "name": "Chen"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Zuus_rival_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Zuus_arc_rival_04.mp3"
+    ],
+    "mp3Text": "What a pious jerk.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Zuus_rival_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Zuus_arc_rival_04.mp3"
-        ],
-        "mp3Text": "What a pious jerk.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-            "name": "Chen"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+        "name": "Chen"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Zuus_rival_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Zuus_arc_rival_05.mp3"
+    ],
+    "mp3Text": "These so-called gods of yours are unknown to me. You should introduce us.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Zuus_rival_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Zuus_arc_rival_05.mp3"
-        ],
-        "mp3Text": "These so-called gods of yours are unknown to me. You should introduce us.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
-            "name": "Shadow Shaman"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Shadow_Shaman_minimap_icon.png/16px-Shadow_Shaman_minimap_icon.png?version=1d37c4e8708315883bf9fa61694956d3",
+        "name": "Shadow Shaman"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_rival_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_rival_06.mp3"
+    ],
+    "mp3Text": "I'll be having a few words with Poseidon about your behavior.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Zuus_rival_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_rival_06.mp3"
-        ],
-        "mp3Text": "I'll be having a few words with Poseidon about your behavior.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-            "name": "Slardar"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+        "name": "Slardar"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Zuus_rival_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Zuus_arc_rival_07.mp3"
+    ],
+    "mp3Text": "Our long irrational nightmare is over.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Zuus_rival_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Zuus_arc_rival_07.mp3"
-        ],
-        "mp3Text": "Our long irrational nightmare is over.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-            "name": "Bane"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+        "name": "Bane"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Zuus_rival_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Zuus_arc_rival_08.mp3"
+    ],
+    "mp3Text": "I have no quarrel with you, Antimage, other than you hating everything I represent.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Zuus_rival_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Zuus_arc_rival_08.mp3"
-        ],
-        "mp3Text": "I have no quarrel with you, Antimage, other than you hating everything I represent.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Zuus_rival_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Zuus_arc_rival_09.mp3"
+    ],
+    "mp3Text": "Ah, let's dig a pit and roast this boar. The gods do love a barbecue.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Zuus_rival_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Zuus_arc_rival_09.mp3"
-        ],
-        "mp3Text": "Ah, let's dig a pit and roast this boar. The gods do love a barbecue.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
-            "name": "Spirit Breaker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/90/Spirit_Breaker_minimap_icon.png/16px-Spirit_Breaker_minimap_icon.png?version=e0c29783fd82761803eb0cf9d647f708",
+        "name": "Spirit Breaker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_rival_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Zuus_arc_rival_10.mp3"
+    ],
+    "mp3Text": "Money grubbing Alchemist, I gave you that one free of charge.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_rival_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Zuus_arc_rival_10.mp3"
-        ],
-        "mp3Text": "Money grubbing Alchemist, I gave you that one free of charge.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
-            "name": "Alchemist"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Alchemist_minimap_icon.png/16px-Alchemist_minimap_icon.png?version=4f5adaea34798e1807641455e657eb04",
+        "name": "Alchemist"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Zuus_rival_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Zuus_arc_rival_11.mp3"
+    ],
+    "mp3Text": "Clinkz, you cannot hide from the eye in the sky.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Zuus_rival_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Zuus_arc_rival_11.mp3"
-        ],
-        "mp3Text": "Clinkz, you cannot hide from the eye in the sky.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_rival_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Zuus_arc_rival_12.mp3"
+    ],
+    "mp3Text": "I spy with my little eye, Bounty Hunter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_rival_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Zuus_arc_rival_12.mp3"
-        ],
-        "mp3Text": "I spy with my little eye, Bounty Hunter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
-            "name": "Bounty Hunter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
+        "name": "Bounty Hunter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Zuus_rival_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_rival_13.mp3"
+    ],
+    "mp3Text": "Did you think you could hide from a god?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Zuus_rival_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_rival_13.mp3"
-        ],
-        "mp3Text": "Did you think you could hide from a god?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
-            "name": "Riki"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a4/Riki_minimap_icon.png/16px-Riki_minimap_icon.png?version=de39da8163fdddb907587d1c2703d553",
+        "name": "Riki"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Zuus_rival_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Zuus_arc_rival_14.mp3"
+    ],
+    "mp3Text": "Ha ha ha, I should have put you to work weaving fabric for my toga.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Zuus_rival_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Zuus_arc_rival_14.mp3"
-        ],
-        "mp3Text": "Ha ha ha, I should have put you to work weaving fabric for my toga.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
-            "name": "Weaver"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
+        "name": "Weaver"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Zuus_rival_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Zuus_arc_rival_15.mp3"
+    ],
+    "mp3Text": "Ha ha ha, you cannot silence the voice of thunder.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Zuus_rival_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Zuus_arc_rival_15.mp3"
-        ],
-        "mp3Text": "Ha ha ha, you cannot silence the voice of thunder.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-            "name": "Silencer"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+        "name": "Silencer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Zuus_rival_16.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Zuus_arc_rival_16.mp3"
+    ],
+    "mp3Text": "She dared to tell the future of a god.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Zuus_rival_16.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Zuus_arc_rival_16.mp3"
-        ],
-        "mp3Text": "She dared to tell the future of a god.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
-            "name": "Death Prophet"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5d/Death_Prophet_minimap_icon.png/16px-Death_Prophet_minimap_icon.png?version=38a8b7f8d54105243d3f2e7e9a69a458",
+        "name": "Death Prophet"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Zuus_rival_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Zuus_arc_rival_17.mp3"
+    ],
+    "mp3Text": "Right or wrong, I'm all divine.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Zuus_rival_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Zuus_arc_rival_17.mp3"
-        ],
-        "mp3Text": "Right or wrong, I'm all divine.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
-            "name": "Drow Ranger"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
+        "name": "Drow Ranger"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_rival_18.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Zuus_arc_rival_18.mp3"
+    ],
+    "mp3Text": "Who let that pompous ass in here?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_rival_18.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Zuus_arc_rival_18.mp3"
-        ],
-        "mp3Text": "Who let that pompous ass in here?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Zuus_rival_19.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_rival_19.mp3"
+    ],
+    "mp3Text": "His head was so big I'm surprised it fit through the gates of death.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Zuus_rival_19.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_rival_19.mp3"
-        ],
-        "mp3Text": "His head was so big I'm surprised it fit through the gates of death.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_rival_20.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_arc_rival_20.mp3"
+    ],
+    "mp3Text": "If there's anything I can't abide, it's an egomaniac.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_rival_20.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_arc_rival_20.mp3"
-        ],
-        "mp3Text": "If there's anything I can't abide, it's an egomaniac.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Zuus_rival_21.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Zuus_arc_rival_21.mp3"
+    ],
+    "mp3Text": "Invoker, let me tell you a little story about my friend Narcissus.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Zuus_rival_21.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Zuus_arc_rival_21.mp3"
-        ],
-        "mp3Text": "Invoker, let me tell you a little story about my friend Narcissus.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
       }
     ]
   },
@@ -923,308 +965,318 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_firstblood_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_arc_firstblood_01.mp3"
-        ],
-        "mp3Text": "Mine by right as well as by might."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_firstblood_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Zuus_arc_firstblood_01.mp3"
+    ],
+    "mp3Text": "Mine by right as well as by might."
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Zuus_lasthit_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Zuus_arc_lasthit_01.mp3"
-        ],
-        "mp3Text": "Puny mortals."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Zuus_lasthit_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Zuus_arc_lasthit_02.mp3"
-        ],
-        "mp3Text": "God taketh away."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_lasthit_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_lasthit_03.mp3"
-        ],
-        "mp3Text": "That would be a tribute."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_lasthit_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Zuus_arc_lasthit_04.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha…for God's sake!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_lasthit_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_lasthit_06.mp3"
-        ],
-        "mp3Text": "God money after bad."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_lasthit_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Zuus_arc_lasthit_07.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Zuus_lasthit_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Zuus_arc_lasthit_08.mp3"
-        ],
-        "mp3Text": "A pittance!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Zuus_lasthit_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Zuus_arc_lasthit_01.mp3"
+    ],
+    "mp3Text": "Puny mortals."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Zuus_lasthit_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Zuus_arc_lasthit_02.mp3"
+    ],
+    "mp3Text": "God taketh away."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_lasthit_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_lasthit_03.mp3"
+    ],
+    "mp3Text": "That would be a tribute."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_lasthit_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Zuus_arc_lasthit_04.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha…for God's sake!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_lasthit_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_lasthit_06.mp3"
+    ],
+    "mp3Text": "God money after bad."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_lasthit_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Zuus_arc_lasthit_07.mp3"
+    ],
+    "mp3Text": "Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Zuus_lasthit_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Zuus_arc_lasthit_08.mp3"
+    ],
+    "mp3Text": "A pittance!"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Zuus_deny_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Zuus_arc_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Zuus_deny_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Zuus_arc_deny_02.mp3"
-        ],
-        "mp3Text": "By Zeus!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_deny_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Zuus_arc_deny_03.mp3"
-        ],
-        "mp3Text": "Utterly denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Zuus_deny_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Zuus_arc_deny_04.mp3"
-        ],
-        "mp3Text": "In your face!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Zuus_deny_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Zuus_arc_deny_05.mp3"
-        ],
-        "mp3Text": "God forbid!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Zuus_deny_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Zuus_arc_deny_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_deny_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_arc_deny_07.mp3"
-        ],
-        "mp3Text": "Uh uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Zuus_deny_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Zuus_arc_deny_08.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Zuus_deny_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_arc_deny_09.mp3"
-        ],
-        "mp3Text": "Denied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Zuus_deny_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Zuus_arc_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Zuus_deny_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Zuus_arc_deny_02.mp3"
+    ],
+    "mp3Text": "By Zeus!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_deny_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Zuus_arc_deny_03.mp3"
+    ],
+    "mp3Text": "Utterly denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Zuus_deny_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Zuus_arc_deny_04.mp3"
+    ],
+    "mp3Text": "In your face!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Zuus_deny_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Zuus_arc_deny_05.mp3"
+    ],
+    "mp3Text": "God forbid!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Zuus_deny_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Zuus_arc_deny_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_deny_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_arc_deny_07.mp3"
+    ],
+    "mp3Text": "Uh uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Zuus_deny_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Zuus_arc_deny_08.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Zuus_deny_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_arc_deny_09.mp3"
+    ],
+    "mp3Text": "Denied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_purch_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Zuus_arc_purch_01.mp3"
-        ],
-        "mp3Text": "What, I'm expected to pay for these items?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Zuus_purch_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_arc_purch_02.mp3"
-        ],
-        "mp3Text": "In my old position, such items were perks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Zuus_purch_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_arc_purch_03.mp3"
-        ],
-        "mp3Text": "As a professional, I believe this is a write-off."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_purch_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Zuus_arc_purch_01.mp3"
+    ],
+    "mp3Text": "What, I'm expected to pay for these items?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Zuus_purch_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Zuus_arc_purch_02.mp3"
+    ],
+    "mp3Text": "In my old position, such items were perks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Zuus_purch_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_arc_purch_03.mp3"
+    ],
+    "mp3Text": "As a professional, I believe this is a write-off."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Zuus_scepter_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Zuus_scepter_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_scepter_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Zuus_arc_scepter_02.mp3"
+    ],
+    "mp3Text": "Lucky scepter, to know the touch of a god.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_scepter_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Zuus_arc_scepter_02.mp3"
-        ],
-        "mp3Text": "Lucky scepter, to know the touch of a god.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Zuus_blink_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_blink_01.mp3"
+    ],
+    "mp3Text": "Ah, Blink Dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Zuus_blink_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_blink_01.mp3"
-        ],
-        "mp3Text": "Ah, Blink Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Zuus_blink_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_arc_blink_02.mp3"
+    ],
+    "mp3Text": "I have high hopes for you, Blink Dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Zuus_blink_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_arc_blink_02.mp3"
-        ],
-        "mp3Text": "I have high hopes for you, Blink Dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Zuus_item_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Zuus_arc_item_01.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Zuus_item_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Zuus_arc_item_01.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_item_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Zuus_arc_item_02.mp3"
+    ],
+    "mp3Text": "Force Staff!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_item_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Zuus_arc_item_02.mp3"
-        ],
-        "mp3Text": "Force Staff!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Zuus_item_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_arc_item_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha! Veil of Discord.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Zuus_item_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_arc_item_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha! Veil of Discord.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
-            "name": "Veil of Discord (2330)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
+        "name": "Veil of Discord (2330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Zuus_item_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_arc_item_04.mp3"
+    ],
+    "mp3Text": "Hm, Refresher.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Zuus_item_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_arc_item_04.mp3"
-        ],
-        "mp3Text": "Hm, Refresher.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
-            "name": "Refresher Orb (5100)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
+        "name": "Refresher Orb (5100)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_immort_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Zuus_arc_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_immort_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Zuus_arc_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Zuus_immort_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Zuus_arc_immort_02.mp3"
+    ],
+    "mp3Text": "Ah, my old friend Immortality.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Zuus_immort_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Zuus_arc_immort_02.mp3"
-        ],
-        "mp3Text": "Ah, my old friend Immortality.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1233,186 +1285,192 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Zuus_death_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Zuus_arc_death_02.mp3"
-        ],
-        "mp3Text": "Blasphemy!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_death_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Zuus_arc_death_03.mp3"
-        ],
-        "mp3Text": "Struck down in my prime!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Zuus_death_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Zuus_arc_death_04.mp3"
-        ],
-        "mp3Text": "For this I gave up immortality?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_death_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Zuus_arc_death_05.mp3"
-        ],
-        "mp3Text": "Unthinkable."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Zuus_death_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_arc_death_06.mp3"
-        ],
-        "mp3Text": "Gods, old friends, go easy on me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Zuus_death_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_death_08.mp3"
-        ],
-        "mp3Text": "Go easy, worms. I'm your god too!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_death_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Zuus_arc_death_09.mp3"
-        ],
-        "mp3Text": "Oh hu hu hu…Oh Tragic Day!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Zuus_death_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Zuus_arc_death_02.mp3"
+    ],
+    "mp3Text": "Blasphemy!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_death_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Zuus_arc_death_03.mp3"
+    ],
+    "mp3Text": "Struck down in my prime!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Zuus_death_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Zuus_arc_death_04.mp3"
+    ],
+    "mp3Text": "For this I gave up immortality?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_death_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Zuus_arc_death_05.mp3"
+    ],
+    "mp3Text": "Unthinkable."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Zuus_death_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_arc_death_06.mp3"
+    ],
+    "mp3Text": "Gods, old friends, go easy on me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Zuus_death_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Zuus_arc_death_08.mp3"
+    ],
+    "mp3Text": "Go easy, worms. I'm your god too!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_death_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Zuus_arc_death_09.mp3"
+    ],
+    "mp3Text": "Oh hu hu hu…Oh Tragic Day!"
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Zuus_respawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Zuus_arc_respawn_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha! Watch out, mortals, Zeus is back!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Zuus_respawn_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_respawn_02.mp3"
-        ],
-        "mp3Text": "I had best not make a habit of this."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Zuus_respawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_arc_respawn_03.mp3"
-        ],
-        "mp3Text": "So this is mortality. I really ought to do something about it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Zuus_respawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Zuus_arc_respawn_04.mp3"
-        ],
-        "mp3Text": "A new age dawns: I return!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Zuus_respawn_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Zuus_arc_respawn_05.mp3"
-        ],
-        "mp3Text": "Godzooks. Back for more!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Zuus_respawn_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Zuus_arc_respawn_06.mp3"
-        ],
-        "mp3Text": "God's gift to the world: Me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_respawn_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_arc_respawn_07.mp3"
-        ],
-        "mp3Text": "To err is human. To respawn, divine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Zuus_respawn_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Zuus_arc_respawn_08.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha! Almighty then!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Zuus_respawn_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_arc_respawn_09.mp3"
-        ],
-        "mp3Text": "Divine intervention!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Zuus_respawn_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_arc_respawn_10.mp3"
-        ],
-        "mp3Text": "The wait is over. I am here."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Zuus_respawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Zuus_arc_respawn_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha! Watch out, mortals, Zeus is back!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Zuus_respawn_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_respawn_02.mp3"
+    ],
+    "mp3Text": "I had best not make a habit of this."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Zuus_respawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_arc_respawn_03.mp3"
+    ],
+    "mp3Text": "So this is mortality. I really ought to do something about it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Zuus_respawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Zuus_arc_respawn_04.mp3"
+    ],
+    "mp3Text": "A new age dawns: I return!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Zuus_respawn_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Zuus_arc_respawn_05.mp3"
+    ],
+    "mp3Text": "Godzooks. Back for more!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Zuus_respawn_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Zuus_arc_respawn_06.mp3"
+    ],
+    "mp3Text": "God's gift to the world: Me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Zuus_respawn_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_arc_respawn_07.mp3"
+    ],
+    "mp3Text": "To err is human. To respawn, divine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Zuus_respawn_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Zuus_arc_respawn_08.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha! Almighty then!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Zuus_respawn_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Zuus_arc_respawn_09.mp3"
+    ],
+    "mp3Text": "Divine intervention!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Zuus_respawn_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_arc_respawn_10.mp3"
+    ],
+    "mp3Text": "The wait is over. I am here."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_fastres_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_fastres_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha! I don't take mortality lying down."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Zuus_fastres_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_fastres_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha! I don't take mortality lying down."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Zuus_bottle_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Zuus_arc_bottle_01.mp3"
-        ],
-        "mp3Text": "I don't see any wine, so this will have to do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_bottle_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Zuus_arc_bottle_02.mp3"
-        ],
-        "mp3Text": "Nature abhors an empty bottle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Zuus_bottle_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_arc_bottle_03.mp3"
-        ],
-        "mp3Text": "Don't bottle up your feelings."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_bottle_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_bottle_04.mp3"
-        ],
-        "mp3Text": "I'll save this for later."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Zuus_bottle_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Zuus_arc_bottle_01.mp3"
+    ],
+    "mp3Text": "I don't see any wine, so this will have to do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_bottle_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Zuus_arc_bottle_02.mp3"
+    ],
+    "mp3Text": "Nature abhors an empty bottle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Zuus_bottle_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Zuus_arc_bottle_03.mp3"
+    ],
+    "mp3Text": "Don't bottle up your feelings."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Zuus_bottle_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_bottle_04.mp3"
+    ],
+    "mp3Text": "I'll save this for later."
   },
   {
     "headTitle": "Activating runes",
@@ -1424,15 +1482,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1440,15 +1495,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_lasthit_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_lasthit_03.mp3"
-        ],
-        "mp3Text": "That would be a tribute."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_lasthit_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Zuus_arc_lasthit_03.mp3"
+    ],
+    "mp3Text": "That would be a tribute."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1456,15 +1508,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_doubdam_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_doubdam_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1472,15 +1521,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Zuus_haste_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Zuus_arc_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Zuus_haste_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Zuus_arc_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1488,26 +1534,20 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_illus_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Zuus_arc_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Zuus_illus_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Zuus_arc_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Zuus_illus_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Zuus_arc_illus_02.mp3"
-        ],
-        "mp3Text": "Holy trinity!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Zuus_illus_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Zuus_arc_illus_02.mp3"
+    ],
+    "mp3Text": "Holy trinity!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1515,15 +1555,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_invis_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Zuus_invis_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Zuus_arc_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1531,15 +1568,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_regen_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Zuus_arc_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_regen_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Zuus_arc_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1550,87 +1584,84 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Zuus_notyet_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Zuus_notyet_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Zuus_arc_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Zuus_notyet_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Zuus_arc_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Zuus_notyet_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Zuus_arc_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Zuus_notyet_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Zuus_arc_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Zuus_notyet_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Zuus_arc_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Zuus_notyet_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Zuus_notyet_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_arc_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_notyet_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_arc_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Zuus_notyet_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_arc_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Zuus_notyet_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Zuus_arc_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Zuus_notyet_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_arc_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Zuus_notyet_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_arc_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Zuus_notyet_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Zuus_arc_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_notyet_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Zuus_notyet_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_arc_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Zuus_notyet_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Zuus_arc_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_notyet_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_arc_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "headTitle": "Not enough mana",
@@ -1641,141 +1672,136 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_nomana_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Zuus_arc_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_nomana_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Zuus_arc_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_nomana_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_arc_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Zuus_nomana_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Zuus_arc_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_nomana_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Zuus_arc_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_nomana_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Zuus_arc_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Zuus_nomana_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Zuus_nomana_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Zuus_arc_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_nomana_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Zuus_arc_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Zuus_nomana_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_arc_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Zuus_nomana_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Zuus_arc_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_nomana_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Zuus_arc_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Zuus_nomana_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_nomana_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_nomana_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_nomana_09.mp3"
-        ],
-        "mp3Text": "For God's sakes, no mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Zuus_nomana_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_nomana_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Zuus_nomana_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_nomana_09.mp3"
+    ],
+    "mp3Text": "For God's sakes, no mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Zuus_pain_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_pain_01.mp3"
-        ],
-        "mp3Text": "Ho!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_pain_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Zuus_arc_pain_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Zuus_pain_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Zuus_arc_pain_03.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Zuus_pain_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Zuus_arc_pain_04.mp3"
-        ],
-        "mp3Text": "Huh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Zuus_pain_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_pain_05.mp3"
-        ],
-        "mp3Text": "Ow!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Zuus_pain_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_pain_01.mp3"
+    ],
+    "mp3Text": "Ho!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_underattack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Zuus_arc_underattack_01.mp3"
-        ],
-        "mp3Text": "Good god, man, I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Zuus_pain_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Zuus_arc_pain_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Zuus_pain_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Zuus_arc_pain_03.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Zuus_pain_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/Zuus_arc_pain_04.mp3"
+    ],
+    "mp3Text": "Huh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Zuus_pain_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Zuus_arc_pain_05.mp3"
+    ],
+    "mp3Text": "Ow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Zuus_underattack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Zuus_arc_underattack_01.mp3"
+    ],
+    "mp3Text": "Good god, man, I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1786,43 +1812,44 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_rare_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_arc_rare_01.mp3"
-        ],
-        "mp3Text": "Don't take it badly if I look down on you. From where I sit, you all look like tiny insects."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_rare_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_arc_rare_02.mp3"
-        ],
-        "mp3Text": "Immortality was overrated. This is much more interesting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_rare_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Zuus_arc_rare_03.mp3"
-        ],
-        "mp3Text": "Those who attract the attention of the gods, are made insane."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_rare_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_rare_04.mp3"
-        ],
-        "mp3Text": "If I didn't exist, it would be necessary to invent me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Zuus_rare_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_rare_05.mp3"
-        ],
-        "mp3Text": "In Me I trust."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Zuus_rare_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_arc_rare_01.mp3"
+    ],
+    "mp3Text": "Don't take it badly if I look down on you. From where I sit, you all look like tiny insects."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Zuus_rare_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Zuus_arc_rare_02.mp3"
+    ],
+    "mp3Text": "Immortality was overrated. This is much more interesting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Zuus_rare_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Zuus_arc_rare_03.mp3"
+    ],
+    "mp3Text": "Those who attract the attention of the gods, are made insane."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Zuus_rare_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Zuus_arc_rare_04.mp3"
+    ],
+    "mp3Text": "If I didn't exist, it would be necessary to invent me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Zuus_rare_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Zuus_arc_rare_05.mp3"
+    ],
+    "mp3Text": "In Me I trust."
   },
   {
     "headTitle": "Chat responses",
@@ -1833,94 +1860,92 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_missing_lane_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_missing_lane_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Zuus_missing_lane_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_missing_lane_02.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Zuus_missing_lane_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_missing_lane_03.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Zuus_missing_lane_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Zuus_arc_missing_lane_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Zuus_missing_lane_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Zuus_arc_missing_lane_02.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Zuus_missing_lane_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Zuus_arc_missing_lane_03.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_thanks_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Zuus_arc_thanks_02.mp3"
-        ],
-        "mp3Text": "God bless."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_thanks_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_arc_thanks_03.mp3"
-        ],
-        "mp3Text": "Zeus be with you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_thanks_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Zuus_arc_thanks_04.mp3"
-        ],
-        "mp3Text": "Hmhmhmhmhmhm… Zeus bless."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Zuus_thanks_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Zuus_arc_thanks_02.mp3"
+    ],
+    "mp3Text": "God bless."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Zuus_thanks_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Zuus_arc_thanks_03.mp3"
+    ],
+    "mp3Text": "Zeus be with you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Zuus_thanks_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Zuus_arc_thanks_04.mp3"
+    ],
+    "mp3Text": "Hmhmhmhmhmhm… Zeus bless."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_laugh_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Zuus_arc_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_arc_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_laugh_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_laugh_04.mp3"
-        ],
-        "mp3Text": "Ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Zuus_laugh_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Zuus_arc_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Zuus_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Zuus_arc_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Zuus_laugh_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Zuus_arc_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Zuus_laugh_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Zuus_arc_laugh_04.mp3"
+    ],
+    "mp3Text": "Ha ha!"
   },
   {
     "headTitle": "Match end",
@@ -1931,86 +1956,88 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Zuus_win_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_arc_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_win_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Zuus_arc_win_02.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Zuus_win_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Zuus_arc_win_03.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_win_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Zuus_arc_win_04.mp3"
-        ],
-        "mp3Text": "The gods were with us today!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Zuus_win_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Zuus_arc_win_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha. Well what did you expect?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Zuus_win_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Zuus_arc_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_win_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Zuus_arc_win_02.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Zuus_win_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Zuus_arc_win_03.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_win_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Zuus_arc_win_04.mp3"
+    ],
+    "mp3Text": "The gods were with us today!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Zuus_win_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Zuus_arc_win_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha. Well what did you expect?"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_death_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Zuus_arc_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Zuus_lose_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Zuus_arc_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Zuus_lose_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_lose_02.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_lose_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Zuus_arc_lose_03.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_lose_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_arc_lose_04.mp3"
-        ],
-        "mp3Text": "By all the gods, no!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_death_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Zuus_arc_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Zuus_lose_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Zuus_arc_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Zuus_lose_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Zuus_arc_lose_02.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Zuus_lose_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Zuus_arc_lose_03.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Zuus_lose_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Zuus_arc_lose_04.mp3"
+    ],
+    "mp3Text": "By all the gods, no!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2021,43 +2048,34 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_happy_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_arc_happy_01.mp3"
-        ],
-        "mp3Text": "Mmm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Zuus_happy_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Zuus_arc_happy_01.mp3"
+    ],
+    "mp3Text": "Mmm."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_happy_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Zuus_arc_happy_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Zuus_happy_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Zuus_arc_happy_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Zuus_lasthit_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha…ambrosia!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Zuus_lasthit_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha…ambrosia!"
   }
 ]

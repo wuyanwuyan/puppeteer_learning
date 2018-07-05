@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/TJ_Ramini",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a8/Bristleback_minimap_icon.png/20px-Bristleback_minimap_icon.png?version=4e371310ed1de0b0477b625b80841268",
     "heroName": "Bristleback",
-    "href": "https://dota2.gamepedia.com/Bristleback/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/bristleback_full.png",
     "primaryAttribute": "Strength",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/bristleback.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
-        ],
-        "mp3Text": "Bristleback!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Bristle_spawn_02.mp3"
-        ],
-        "mp3Text": "Look who's here, hahaha…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_spawn_03.mp3"
-        ],
-        "mp3Text": "Well, what have we here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_spawn_04.mp3"
-        ],
-        "mp3Text": "I cut quite a figure, don't I?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_spawn_05.mp3"
-        ],
-        "mp3Text": "Bristleback here! Ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Bristle_begin_03.mp3"
-        ],
-        "mp3Text": "Time to mash some faces, I'd say."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_move_11.mp3"
-        ],
-        "mp3Text": "Time for a good scrap."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_03.mp3"
-        ],
-        "mp3Text": "Yeah, I'm getting me blood up now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Bristle_bristleback_01.mp3"
-        ],
-        "mp3Text": "Come on, have at me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_attack_22.mp3"
-        ],
-        "mp3Text": "Oh, you want some of this… eh?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_respawn_09.mp3"
-        ],
-        "mp3Text": "Time for a little bashing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_levelup_06.mp3"
-        ],
-        "mp3Text": "Oh, I'm a right proper basher."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
+    ],
+    "mp3Text": "Bristleback!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Bristle_spawn_02.mp3"
+    ],
+    "mp3Text": "Look who's here, hahaha…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_spawn_03.mp3"
+    ],
+    "mp3Text": "Well, what have we here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_spawn_04.mp3"
+    ],
+    "mp3Text": "I cut quite a figure, don't I?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_spawn_05.mp3"
+    ],
+    "mp3Text": "Bristleback here! Ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Bristle_begin_03.mp3"
+    ],
+    "mp3Text": "Time to mash some faces, I'd say."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_move_11.mp3"
+    ],
+    "mp3Text": "Time for a good scrap."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_03.mp3"
+    ],
+    "mp3Text": "Yeah, I'm getting me blood up now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Bristle_bristleback_01.mp3"
+    ],
+    "mp3Text": "Come on, have at me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_attack_22.mp3"
+    ],
+    "mp3Text": "Oh, you want some of this… eh?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_respawn_09.mp3"
+    ],
+    "mp3Text": "Time for a little bashing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_levelup_06.mp3"
+    ],
+    "mp3Text": "Oh, I'm a right proper basher."
   },
   {
     "headTitle": "Drafting",
@@ -101,316 +108,326 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
-        ],
-        "mp3Text": "Bristleback!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
+    ],
+    "mp3Text": "Bristleback!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Bristle_anger_09.mp3"
-        ],
-        "mp3Text": "Woooogh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Bristle_anger_09.mp3"
+    ],
+    "mp3Text": "Woooogh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
-        ],
-        "mp3Text": "Bristleback!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Bristle_spawn_02.mp3"
-        ],
-        "mp3Text": "Look who's here, hahaha…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_spawn_04.mp3"
-        ],
-        "mp3Text": "I cut quite a figure, don't I?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_spawn_05.mp3"
-        ],
-        "mp3Text": "Bristleback here! Ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Bristle_spawn_01.mp3"
+    ],
+    "mp3Text": "Bristleback!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Bristle_spawn_02.mp3"
+    ],
+    "mp3Text": "Look who's here, hahaha…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_spawn_04.mp3"
+    ],
+    "mp3Text": "I cut quite a figure, don't I?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_spawn_05.mp3"
+    ],
+    "mp3Text": "Bristleback here! Ha ha!"
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_inthebag_01.mp3"
-        ],
-        "mp3Text": "It's in the bag, mate. Yeah, go on, you see if it's not. Open it up and see if it's not in there. I'm telling you, it's a lock, mate."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_inthebag_01.mp3"
+    ],
+    "mp3Text": "It's in the bag, mate. Yeah, go on, you see if it's not. Open it up and see if it's not in there. I'm telling you, it's a lock, mate."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Bristle_begin_01.mp3"
-        ],
-        "mp3Text": "Oh, now we're in it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Bristle_begin_02.mp3"
-        ],
-        "mp3Text": "This is what I'm talking about, heh hah hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Bristle_begin_03.mp3"
-        ],
-        "mp3Text": "Time to mash some faces, I'd say."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Bristle_begin_01.mp3"
+    ],
+    "mp3Text": "Oh, now we're in it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Bristle_begin_02.mp3"
+    ],
+    "mp3Text": "This is what I'm talking about, heh hah hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Bristle_begin_03.mp3"
+    ],
+    "mp3Text": "Time to mash some faces, I'd say."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Bristle_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_move_02.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Bristle_move_03.mp3"
-        ],
-        "mp3Text": "Indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Bristle_move_04.mp3"
-        ],
-        "mp3Text": "You don't say."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_move_06.mp3"
-        ],
-        "mp3Text": "One step at a time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Bristle_move_07.mp3"
-        ],
-        "mp3Text": "I'll sort this out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Bristle_move_08.mp3"
-        ],
-        "mp3Text": "By all means."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Bristle_move_09.mp3"
-        ],
-        "mp3Text": "There's faces need mashing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_move_10.mp3"
-        ],
-        "mp3Text": "Bit of work to do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_move_11.mp3"
-        ],
-        "mp3Text": "Time for a good scrap."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Bristle_move_13.mp3"
-        ],
-        "mp3Text": "At way!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_move_14.mp3"
-        ],
-        "mp3Text": "Oi, One step at a time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Bristle_move_16.mp3"
-        ],
-        "mp3Text": "Here we go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Bristle_move_17.mp3"
-        ],
-        "mp3Text": "I'll sort this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Bristle_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_move_02.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Bristle_move_03.mp3"
+    ],
+    "mp3Text": "Indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Bristle_move_04.mp3"
+    ],
+    "mp3Text": "You don't say."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_move_06.mp3"
+    ],
+    "mp3Text": "One step at a time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Bristle_move_07.mp3"
+    ],
+    "mp3Text": "I'll sort this out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Bristle_move_08.mp3"
+    ],
+    "mp3Text": "By all means."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Bristle_move_09.mp3"
+    ],
+    "mp3Text": "There's faces need mashing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_move_10.mp3"
+    ],
+    "mp3Text": "Bit of work to do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_move_11.mp3"
+    ],
+    "mp3Text": "Time for a good scrap."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Bristle_move_13.mp3"
+    ],
+    "mp3Text": "At way!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_move_14.mp3"
+    ],
+    "mp3Text": "Oi, One step at a time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Bristle_move_16.mp3"
+    ],
+    "mp3Text": "Here we go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Bristle_move_17.mp3"
+    ],
+    "mp3Text": "I'll sort this."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Bristle_attack_01.mp3"
-        ],
-        "mp3Text": "There's more where that came from."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_attack_02.mp3"
-        ],
-        "mp3Text": "Here we go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_03.mp3"
-        ],
-        "mp3Text": "Yeah, I'm getting me blood up now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_attack_04.mp3"
-        ],
-        "mp3Text": "Boom!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Bristle_attack_05.mp3"
-        ],
-        "mp3Text": "A clubbin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Bristle_attack_06.mp3"
-        ],
-        "mp3Text": "This'll sort you out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_attack_07.mp3"
-        ],
-        "mp3Text": "Here we go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Bristle_attack_12.mp3"
-        ],
-        "mp3Text": "For your troubles."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Bristle_attack_13.mp3"
-        ],
-        "mp3Text": "Put your lights out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Bristle_attack_14.mp3"
-        ],
-        "mp3Text": "I'll bash you dim."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Bristle_attack_15.mp3"
-        ],
-        "mp3Text": "I'll concave your head."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Bristle_attack_17.mp3"
-        ],
-        "mp3Text": "Have some of that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Bristle_attack_18.mp3"
-        ],
-        "mp3Text": "You want some of this, son, you want it?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Bristle_attack_20.mp3"
-        ],
-        "mp3Text": "More where that came from sunshine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Bristle_attack_01.mp3"
+    ],
+    "mp3Text": "There's more where that came from."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Bristle_attack_02.mp3"
+    ],
+    "mp3Text": "Here we go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_03.mp3"
+    ],
+    "mp3Text": "Yeah, I'm getting me blood up now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_attack_04.mp3"
+    ],
+    "mp3Text": "Boom!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Bristle_attack_05.mp3"
+    ],
+    "mp3Text": "A clubbin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Bristle_attack_06.mp3"
+    ],
+    "mp3Text": "This'll sort you out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_attack_07.mp3"
+    ],
+    "mp3Text": "Here we go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Bristle_attack_12.mp3"
+    ],
+    "mp3Text": "For your troubles."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Bristle_attack_13.mp3"
+    ],
+    "mp3Text": "Put your lights out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Bristle_attack_14.mp3"
+    ],
+    "mp3Text": "I'll bash you dim."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Bristle_attack_15.mp3"
+    ],
+    "mp3Text": "I'll concave your head."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Bristle_attack_17.mp3"
+    ],
+    "mp3Text": "Have some of that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Bristle_attack_18.mp3"
+    ],
+    "mp3Text": "You want some of this, son, you want it?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Bristle_attack_20.mp3"
+    ],
+    "mp3Text": "More where that came from sunshine."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Bristle_cast_01.mp3"
-        ],
-        "mp3Text": "No getting away now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_cast_02.mp3"
-        ],
-        "mp3Text": "What'd you take me for, eh?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_cast_03.mp3"
-        ],
-        "mp3Text": "I'll give you all you can handle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_cast_04.mp3"
-        ],
-        "mp3Text": "Oh, you're in it now, are ya?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Bristle_cast_01.mp3"
+    ],
+    "mp3Text": "No getting away now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_cast_02.mp3"
+    ],
+    "mp3Text": "What'd you take me for, eh?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_cast_03.mp3"
+    ],
+    "mp3Text": "I'll give you all you can handle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_cast_04.mp3"
+    ],
+    "mp3Text": "Oh, you're in it now, are ya?"
   },
   {
     "headTitle": "Abilities",
@@ -426,44 +443,46 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_nasal_goo_01.mp3"
-        ],
-        "mp3Text": "Ooh, excuse me, he heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Bristle_nasal_goo_02.mp3"
-        ],
-        "mp3Text": "That looks good on you, that does, mate."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Bristle_nasal_goo_03.mp3"
-        ],
-        "mp3Text": "Oh, where are my manners."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_nasal_goo_04.mp3"
-        ],
-        "mp3Text": "Hechoo."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Bristle_nasal_goo_06.mp3"
-        ],
-        "mp3Text": "Argh, here's some goo for ya."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Bristle_nasal_goo_07.mp3"
-        ],
-        "mp3Text": "Heh, you wear it well, mate."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_nasal_goo_01.mp3"
+    ],
+    "mp3Text": "Ooh, excuse me, he heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Bristle_nasal_goo_02.mp3"
+    ],
+    "mp3Text": "That looks good on you, that does, mate."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Bristle_nasal_goo_03.mp3"
+    ],
+    "mp3Text": "Oh, where are my manners."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Bristle_nasal_goo_04.mp3"
+    ],
+    "mp3Text": "Hechoo."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Bristle_nasal_goo_06.mp3"
+    ],
+    "mp3Text": "Argh, here's some goo for ya."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Bristle_nasal_goo_07.mp3"
+    ],
+    "mp3Text": "Heh, you wear it well, mate."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/15/Quill_Spray_icon.png/16px-Quill_Spray_icon.png?version=30d56863e30e81567ce2dfb4c1d948d7",
@@ -475,830 +494,887 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Bristle_quill_spray_01.mp3"
-        ],
-        "mp3Text": "Oh, pardon my quills."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_quill_spray_02.mp3"
-        ],
-        "mp3Text": "Have some quills."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_quill_spray_03.mp3"
-        ],
-        "mp3Text": "Ha! You make a right pin cushion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Bristle_quill_spray_05.mp3"
-        ],
-        "mp3Text": "Haha, stuck you good."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bristle_quill_spray_06.mp3"
-        ],
-        "mp3Text": "Quilled in the line of duty."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Bristle_quill_spray_01.mp3"
+    ],
+    "mp3Text": "Oh, pardon my quills."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_quill_spray_02.mp3"
+    ],
+    "mp3Text": "Have some quills."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_quill_spray_03.mp3"
+    ],
+    "mp3Text": "Ha! You make a right pin cushion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Bristle_quill_spray_05.mp3"
+    ],
+    "mp3Text": "Haha, stuck you good."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bristle_quill_spray_06.mp3"
+    ],
+    "mp3Text": "Quilled in the line of duty."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_bristleback_04.mp3"
-        ],
-        "mp3Text": "Oh, me back needs a scratch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Bristle_levelup_01.mp3"
-        ],
-        "mp3Text": "Well, what do you know."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Bristle_levelup_03.mp3"
-        ],
-        "mp3Text": "Now this…this is proper smart."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Bristle_levelup_04.mp3"
-        ],
-        "mp3Text": "Bright and breezy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_levelup_06.mp3"
-        ],
-        "mp3Text": "Oh, I'm a right proper basher."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Bristle_levelup_07.mp3"
-        ],
-        "mp3Text": "Oh, now it's on. Yes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_bristleback_04.mp3"
+    ],
+    "mp3Text": "Oh, me back needs a scratch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Bristle_levelup_01.mp3"
+    ],
+    "mp3Text": "Well, what do you know."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Bristle_levelup_03.mp3"
+    ],
+    "mp3Text": "Now this…this is proper smart."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Bristle_levelup_04.mp3"
+    ],
+    "mp3Text": "Bright and breezy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_levelup_06.mp3"
+    ],
+    "mp3Text": "Oh, I'm a right proper basher."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Bristle_levelup_07.mp3"
+    ],
+    "mp3Text": "Oh, now it's on. Yes."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Bristle_attack_09.mp3"
-        ],
-        "mp3Text": "A'yeh, I put me back into it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Bristle_attack_11.mp3"
-        ],
-        "mp3Text": "Yeah, a proper thrashing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Bristle_levelup_05.mp3"
-        ],
-        "mp3Text": "Bish, bash, bosh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Bristle_kill_01.mp3"
-        ],
-        "mp3Text": "All in a day's killing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Bristle_kill_02.mp3"
-        ],
-        "mp3Text": "You shoulda backed down, son."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_kill_05.mp3"
-        ],
-        "mp3Text": "What are you on about?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_kill_06.mp3"
-        ],
-        "mp3Text": "Yeah, that chinned ya, didn't it?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Bristle_kill_07.mp3"
-        ],
-        "mp3Text": "I layed you out flat, son."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_kill_08.mp3"
-        ],
-        "mp3Text": "You won't be getting up too soon."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Bristle_kill_09.mp3"
-        ],
-        "mp3Text": "There ya go, troubles over."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_kill_10.mp3"
-        ],
-        "mp3Text": "You been sorted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_kill_11.mp3"
-        ],
-        "mp3Text": "That pinned your eyes open, didn't it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Bristle_kill_12.mp3"
-        ],
-        "mp3Text": "Haha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Bristle_kill_13.mp3"
-        ],
-        "mp3Text": "Down you go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Bristle_laugh_01.mp3"
-        ],
-        "mp3Text": "Hahahahaha haha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_laugh_02.mp3"
-        ],
-        "mp3Text": "Hehey hahaha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Bristle_laugh_04.mp3"
-        ],
-        "mp3Text": "Hoho hah ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_laugh_05.mp3"
-        ],
-        "mp3Text": "Hahahahh ahh hah, suck it."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Bristle_attack_09.mp3"
+    ],
+    "mp3Text": "A'yeh, I put me back into it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Bristle_attack_11.mp3"
+    ],
+    "mp3Text": "Yeah, a proper thrashing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Bristle_levelup_05.mp3"
+    ],
+    "mp3Text": "Bish, bash, bosh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Bristle_kill_01.mp3"
+    ],
+    "mp3Text": "All in a day's killing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Bristle_kill_02.mp3"
+    ],
+    "mp3Text": "You shoulda backed down, son."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_kill_05.mp3"
+    ],
+    "mp3Text": "What are you on about?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_kill_06.mp3"
+    ],
+    "mp3Text": "Yeah, that chinned ya, didn't it?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Bristle_kill_07.mp3"
+    ],
+    "mp3Text": "I layed you out flat, son."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_kill_08.mp3"
+    ],
+    "mp3Text": "You won't be getting up too soon."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Bristle_kill_09.mp3"
+    ],
+    "mp3Text": "There ya go, troubles over."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Bristle_kill_10.mp3"
+    ],
+    "mp3Text": "You been sorted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_kill_11.mp3"
+    ],
+    "mp3Text": "That pinned your eyes open, didn't it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Bristle_kill_12.mp3"
+    ],
+    "mp3Text": "Haha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Bristle_kill_13.mp3"
+    ],
+    "mp3Text": "Down you go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Bristle_laugh_01.mp3"
+    ],
+    "mp3Text": "Hahahahaha haha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_laugh_02.mp3"
+    ],
+    "mp3Text": "Hehey hahaha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Bristle_laugh_04.mp3"
+    ],
+    "mp3Text": "Hoho hah ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_laugh_05.mp3"
+    ],
+    "mp3Text": "Hahahahh ahh hah, suck it."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Bristle_rival_26.mp3"
+    ],
+    "mp3Text": "Is that a bat you was riding? Who rides a bat?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Bristle_rival_26.mp3"
-        ],
-        "mp3Text": "Is that a bat you was riding? Who rides a bat?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_rival_06.mp3"
+    ],
+    "mp3Text": "Time to meet that maker of yours.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_rival_06.mp3"
-        ],
-        "mp3Text": "Time to meet that maker of yours.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_rival_46.mp3"
-        ],
-        "mp3Text": "So little and weak, you know I almost feel guilty. Almost.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-            "name": "Sniper"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Bristle_rival_47.mp3"
-        ],
-        "mp3Text": "These Keen folk die so easy.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_rival_46.mp3"
+    ],
+    "mp3Text": "So little and weak, you know I almost feel guilty. Almost.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_rival_01.mp3"
-        ],
-        "mp3Text": "Bashed your bones in.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+        "name": "Sniper"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Bristle_rival_47.mp3"
+    ],
+    "mp3Text": "These Keen folk die so easy.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Bristle_rival_02.mp3"
-        ],
-        "mp3Text": "Oh, now, you're king of the dead hahaha.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
-            "name": "Sand King"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_rival_01.mp3"
+    ],
+    "mp3Text": "Bashed your bones in.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_rival_03.mp3"
-        ],
-        "mp3Text": "One less bug in the world.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
-            "name": "Weaver"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Bristle_rival_02.mp3"
+    ],
+    "mp3Text": "Oh, now, you're king of the dead hahaha.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Bristle_rival_04.mp3"
-        ],
-        "mp3Text": "Off you go, Chen.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-            "name": "Chen"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Sand_King_minimap_icon.png/16px-Sand_King_minimap_icon.png?version=143a847abae2fbffb99a7eb0a6ef86d9",
+        "name": "Sand King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_rival_03.mp3"
+    ],
+    "mp3Text": "One less bug in the world.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Bristle_rival_05.mp3"
-        ],
-        "mp3Text": "One less Zealot.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d5/Weaver_minimap_icon.png/16px-Weaver_minimap_icon.png?version=558bd9e672baa6b75b2e6861a2c97230",
+        "name": "Weaver"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Bristle_rival_04.mp3"
+    ],
+    "mp3Text": "Off you go, Chen.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_rival_07.mp3"
-        ],
-        "mp3Text": "Nighty night, Knight. He heh.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+        "name": "Chen"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Bristle_rival_05.mp3"
+    ],
+    "mp3Text": "One less Zealot.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_rival_10.mp3"
-        ],
-        "mp3Text": "Never did like knights.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_rival_07.mp3"
+    ],
+    "mp3Text": "Nighty night, Knight. He heh.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Bristle_rival_11.mp3"
-        ],
-        "mp3Text": "Part dragon, all dead.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_rival_10.mp3"
+    ],
+    "mp3Text": "Never did like knights.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Bristle_rival_08.mp3"
-        ],
-        "mp3Text": "You can't heal being dead.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
-            "name": "Dazzle"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Bristle_rival_11.mp3"
+    ],
+    "mp3Text": "Part dragon, all dead.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Bristle_rival_09.mp3"
-        ],
-        "mp3Text": "Bashed in that ugly head of yours.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
-            "name": "Lion"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Bristle_rival_08.mp3"
+    ],
+    "mp3Text": "You can't heal being dead.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Bristle_rival_12.mp3"
-        ],
-        "mp3Text": "Lights out for you, geezer.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/3b/Dazzle_minimap_icon.png/16px-Dazzle_minimap_icon.png?version=ba55830cc1f2060dd6f3ee48338bbb3d",
+        "name": "Dazzle"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Bristle_rival_09.mp3"
+    ],
+    "mp3Text": "Bashed in that ugly head of yours.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_rival_14.mp3"
-        ],
-        "mp3Text": "Die, geezer! And that horse you rode in on!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/13/Lion_minimap_icon.png/16px-Lion_minimap_icon.png?version=61b48af5b70a6388e988acacdb2dc0b2",
+        "name": "Lion"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Bristle_rival_12.mp3"
+    ],
+    "mp3Text": "Lights out for you, geezer.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_rival_13.mp3"
-        ],
-        "mp3Text": "Knocked you off your high horse, didn't I?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_rival_14.mp3"
+    ],
+    "mp3Text": "Die, geezer! And that horse you rode in on!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Bristle_rival_35.mp3"
-        ],
-        "mp3Text": "So, you can beat a dead horse.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_rival_13.mp3"
+    ],
+    "mp3Text": "Knocked you off your high horse, didn't I?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Bristle_rival_15.mp3"
-        ],
-        "mp3Text": "Other times, well, we might have shared a brew.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Bristle_rival_35.mp3"
+    ],
+    "mp3Text": "So, you can beat a dead horse.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Bristle_rival_16.mp3"
-        ],
-        "mp3Text": "That round was on me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Bristle_rival_15.mp3"
+    ],
+    "mp3Text": "Other times, well, we might have shared a brew.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Bristle_rival_17.mp3"
-        ],
-        "mp3Text": "Yugh, I love a good bar fight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Bristle_rival_16.mp3"
+    ],
+    "mp3Text": "That round was on me.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Bristle_rival_19.mp3"
-        ],
-        "mp3Text": "Could have offered me a swig afore dying.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Bristle_rival_17.mp3"
+    ],
+    "mp3Text": "Yugh, I love a good bar fight.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Bristle_rival_18.mp3"
-        ],
-        "mp3Text": "A beastie after me own heart.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
-            "name": "Earthshaker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Bristle_rival_19.mp3"
+    ],
+    "mp3Text": "Could have offered me a swig afore dying.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_rival_20.mp3"
-        ],
-        "mp3Text": "Who's. Doomed. Now.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Bristle_rival_18.mp3"
+    ],
+    "mp3Text": "A beastie after me own heart.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_rival_21.mp3"
-        ],
-        "mp3Text": "Devil's in the details.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/42/Earthshaker_minimap_icon.png/16px-Earthshaker_minimap_icon.png?version=efe331f60d1fe154ac84524dc73e25a1",
+        "name": "Earthshaker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_rival_20.mp3"
+    ],
+    "mp3Text": "Who's. Doomed. Now.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_rival_52.mp3"
-        ],
-        "mp3Text": "Who's doomed now, eh?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_rival_21.mp3"
+    ],
+    "mp3Text": "Devil's in the details.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Bristle_rival_22.mp3"
-        ],
-        "mp3Text": "Yegh! Doffed you and the kitty both.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_rival_52.mp3"
+    ],
+    "mp3Text": "Who's doomed now, eh?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_rival_23.mp3"
-        ],
-        "mp3Text": "Oh, I hate cats, or whatever that bloody thing was.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
-            "name": "Mirana"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Bristle_rival_22.mp3"
+    ],
+    "mp3Text": "Yegh! Doffed you and the kitty both.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Bristle_rival_24.mp3"
-        ],
-        "mp3Text": "Your whirly-whatsit can bug off.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_rival_23.mp3"
+    ],
+    "mp3Text": "Oh, I hate cats, or whatever that bloody thing was.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_rival_25.mp3"
-        ],
-        "mp3Text": "Brought you down to earth didn't I, eh?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b3/Mirana_minimap_icon.png/16px-Mirana_minimap_icon.png?version=057e85e0d9b540b060648117fa6297a3",
+        "name": "Mirana"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Bristle_rival_24.mp3"
+    ],
+    "mp3Text": "Your whirly-whatsit can bug off.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_rival_27.mp3"
-        ],
-        "mp3Text": "No need for a rematch.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_rival_25.mp3"
+    ],
+    "mp3Text": "Brought you down to earth didn't I, eh?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Bristle_rival_29.mp3"
-        ],
-        "mp3Text": "You had it coming, Tusk.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_rival_27.mp3"
+    ],
+    "mp3Text": "No need for a rematch.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Bristle_rival_30.mp3"
-        ],
-        "mp3Text": "I been waiting to do that.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Bristle_rival_29.mp3"
+    ],
+    "mp3Text": "You had it coming, Tusk.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Bristle_rival_32.mp3"
-        ],
-        "mp3Text": "Wasn't a draw that time.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Bristle_rival_30.mp3"
+    ],
+    "mp3Text": "I been waiting to do that.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Bristle_rival_33.mp3"
-        ],
-        "mp3Text": "Well, that's the end of that.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Bristle_rival_32.mp3"
+    ],
+    "mp3Text": "Wasn't a draw that time.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Bristle_rival_34.mp3"
-        ],
-        "mp3Text": "Looks like I won the next round.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Bristle_rival_33.mp3"
+    ],
+    "mp3Text": "Well, that's the end of that.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Bristle_rival_36.mp3"
-        ],
-        "mp3Text": "I expected more from a Fundamental.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Bristle_rival_34.mp3"
+    ],
+    "mp3Text": "Looks like I won the next round.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Bristle_rival_37.mp3"
-        ],
-        "mp3Text": "For a Fundamental…bah, you was barely a wisp of a fighter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Bristle_rival_36.mp3"
+    ],
+    "mp3Text": "I expected more from a Fundamental.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Bristle_rival_38.mp3"
-        ],
-        "mp3Text": "Oy, shut your chimey talking mouth.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Bristle_rival_37.mp3"
+    ],
+    "mp3Text": "For a Fundamental…bah, you was barely a wisp of a fighter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_rival_39.mp3"
-        ],
-        "mp3Text": "Wha… eh, I can't understand a word you just said.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Bristle_rival_38.mp3"
+    ],
+    "mp3Text": "Oy, shut your chimey talking mouth.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Bristle_rival_40.mp3"
-        ],
-        "mp3Text": "Wha…what's that you said. No, I don't speak chimey bell talk.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_rival_39.mp3"
+    ],
+    "mp3Text": "Wha… eh, I can't understand a word you just said.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_rival_53.mp3"
-        ],
-        "mp3Text": "No, listen, I cannot understand a word you just said.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Bristle_rival_40.mp3"
+    ],
+    "mp3Text": "Wha…what's that you said. No, I don't speak chimey bell talk.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_rival_41.mp3"
-        ],
-        "mp3Text": "I thought elementals were stronger than that.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_rival_53.mp3"
+    ],
+    "mp3Text": "No, listen, I cannot understand a word you just said.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Bristle_rival_42.mp3"
-        ],
-        "mp3Text": "Terrorblade? More like terrible with a blade, haha.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
-            "name": "Terrorblade"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Bristle_rival_41.mp3"
+    ],
+    "mp3Text": "I thought elementals were stronger than that.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Bristle_rival_43.mp3"
-        ],
-        "mp3Text": "Handsome and smart? Yeah, Invoker, you had to die, mate.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Bristle_rival_42.mp3"
+    ],
+    "mp3Text": "Terrorblade? More like terrible with a blade, haha.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bristle_rival_44.mp3"
-        ],
-        "mp3Text": "It's hard being uglier than me, Slardar, but you did pull it off, mate. Hats off to ya.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
-            "name": "Slardar"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
+        "name": "Terrorblade"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Bristle_rival_43.mp3"
+    ],
+    "mp3Text": "Handsome and smart? Yeah, Invoker, you had to die, mate.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Bristle_rival_45.mp3"
-        ],
-        "mp3Text": "The only good Keen is a dead Keen.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
-            "name": "Clockwerk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Bristle_rival_44.mp3"
+    ],
+    "mp3Text": "It's hard being uglier than me, Slardar, but you did pull it off, mate. Hats off to ya.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_rival_48.mp3"
-        ],
-        "mp3Text": "I hate keens.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ef/Slardar_minimap_icon.png/16px-Slardar_minimap_icon.png?version=12b39433122c887093e82d811a305ec9",
+        "name": "Slardar"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Bristle_rival_45.mp3"
+    ],
+    "mp3Text": "The only good Keen is a dead Keen.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Bristle_rival_49.mp3"
-        ],
-        "mp3Text": "The Oglodi always put up a good fight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/12/Clockwerk_minimap_icon.png/16px-Clockwerk_minimap_icon.png?version=6f691e0ef0e4f632e9bcdef8694712e4",
+        "name": "Clockwerk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_rival_48.mp3"
+    ],
+    "mp3Text": "I hate keens.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Bristle_rival_50.mp3"
-        ],
-        "mp3Text": "The Oglodi, they don't die easy, I will give em that.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/74/Lifestealer_minimap_icon.png/16px-Lifestealer_minimap_icon.png?version=dacc265e791acb553a5d3338c6a0c457",
-            "name": "Lifestealer"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Bristle_rival_49.mp3"
+    ],
+    "mp3Text": "The Oglodi always put up a good fight.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Bristle_rival_51.mp3"
-        ],
-        "mp3Text": "You Oglodi fighters is tough, yeah, I admit it.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-            "name": "Disruptor"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Bristle_rival_50.mp3"
+    ],
+    "mp3Text": "The Oglodi, they don't die easy, I will give em that.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/74/Lifestealer_minimap_icon.png/16px-Lifestealer_minimap_icon.png?version=dacc265e791acb553a5d3338c6a0c457",
+        "name": "Lifestealer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Bristle_rival_51.mp3"
+    ],
+    "mp3Text": "You Oglodi fighters is tough, yeah, I admit it.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+        "name": "Disruptor"
       }
     ]
   },
@@ -1307,26 +1383,25 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Bristle_firstblood_01.mp3"
-        ],
-        "mp3Text": "Well, if it ain't first bloody blood."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Bristle_firstblood_02.mp3"
-        ],
-        "mp3Text": "A little blood? First thing in the morning, Hah Hah haha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_firstblood_03.mp3"
-        ],
-        "mp3Text": "Well, look who's first."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Bristle_firstblood_01.mp3"
+    ],
+    "mp3Text": "Well, if it ain't first bloody blood."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Bristle_firstblood_02.mp3"
+    ],
+    "mp3Text": "A little blood? First thing in the morning, Hah Hah haha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_firstblood_03.mp3"
+    ],
+    "mp3Text": "Well, look who's first."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1337,186 +1412,197 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Bristle_ally_01.mp3"
+    ],
+    "mp3Text": "Let's you me and Tusk throw back a tumbler after this, eh?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Bristle_ally_01.mp3"
-        ],
-        "mp3Text": "Let's you me and Tusk throw back a tumbler after this, eh?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_ally_03.mp3"
+    ],
+    "mp3Text": "I'll split that keg with ya when we're through.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_ally_03.mp3"
-        ],
-        "mp3Text": "I'll split that keg with ya when we're through.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Bristle_ally_04.mp3"
+    ],
+    "mp3Text": "Hey, you keep that keg handy.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Bristle_ally_04.mp3"
-        ],
-        "mp3Text": "Hey, you keep that keg handy.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
-            "name": "Brewmaster"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9b/Brewmaster_minimap_icon.png/16px-Brewmaster_minimap_icon.png?version=19bea06561178ab5c5262e8ba22b1176",
+        "name": "Brewmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_ally_05.mp3"
+    ],
+    "mp3Text": "Come on, big fella.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Bristle_ally_05.mp3"
-        ],
-        "mp3Text": "Come on, big fella.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
-            "name": "Treant Protector"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8f/Treant_Protector_minimap_icon.png/16px-Treant_Protector_minimap_icon.png?version=fef62cda4d07f0ed474feb894f34387e",
+        "name": "Treant Protector"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Bristle_ally_06.mp3"
+    ],
+    "mp3Text": "Ooh, ain't you a bonnie fair.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Bristle_ally_06.mp3"
-        ],
-        "mp3Text": "Ooh, ain't you a bonnie fair.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
-            "name": "Medusa"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/64/Medusa_minimap_icon.png/16px-Medusa_minimap_icon.png?version=7a304f65a773b48b22983c77029d5b29",
+        "name": "Medusa"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Bristle_ally_07.mp3"
+    ],
+    "mp3Text": "That barkeep got us into this, we'll get ourselves out.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Bristle_ally_07.mp3"
-        ],
-        "mp3Text": "That barkeep got us into this, we'll get ourselves out.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Bristle_ally_08.mp3"
+    ],
+    "mp3Text": "Let's put our differences behind us. What do you say?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Bristle_ally_08.mp3"
-        ],
-        "mp3Text": "Let's put our differences behind us. What do you say?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_ally_09.mp3"
+    ],
+    "mp3Text": "Tusk, let's partner up on this one.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_ally_09.mp3"
-        ],
-        "mp3Text": "Tusk, let's partner up on this one.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Bristle_ally_11.mp3"
+    ],
+    "mp3Text": "Looks like it's you and me, Tusk.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Bristle_ally_11.mp3"
-        ],
-        "mp3Text": "Looks like it's you and me, Tusk.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Bristle_ally_10.mp3"
+    ],
+    "mp3Text": "Now look, we can all fight each other once the killing is done.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Bristle_ally_10.mp3"
-        ],
-        "mp3Text": "Now look, we can all fight each other once the killing is done.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
-            "name": "Troll Warlord"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
+        "name": "Troll Warlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Bristle_ally_13.mp3"
+    ],
+    "mp3Text": "Hmm, for the Keen Folk, you ain't half bad.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Bristle_ally_13.mp3"
-        ],
-        "mp3Text": "Hmm, for the Keen Folk, you ain't half bad.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_ally_14.mp3"
+    ],
+    "mp3Text": "I'll hit em. You stand there looking small and weak.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_ally_14.mp3"
-        ],
-        "mp3Text": "I'll hit em. You stand there looking small and weak.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
-            "name": "Tinker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1b/Tinker_minimap_icon.png/16px-Tinker_minimap_icon.png?version=acf8d7d107203801c16684692f2306a5",
+        "name": "Tinker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Bristle_ally_15.mp3"
+    ],
+    "mp3Text": "I tell you what, it's nice to know an Oglodi's got me back.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Bristle_ally_15.mp3"
-        ],
-        "mp3Text": "I tell you what, it's nice to know an Oglodi's got me back.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Bristle_ally_16.mp3"
+    ],
+    "mp3Text": "Between you and me, we got this lane, Oglodi.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Bristle_ally_16.mp3"
-        ],
-        "mp3Text": "Between you and me, we got this lane, Oglodi.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Bristle_ally_18.mp3"
+    ],
+    "mp3Text": "Okay, here's the plan. Look, I'll hit em, and you just stand there looking… small and…and weak.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Bristle_ally_18.mp3"
-        ],
-        "mp3Text": "Okay, here's the plan. Look, I'll hit em, and you just stand there looking… small and…and weak.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
-            "name": "Sniper"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f1/Sniper_minimap_icon.png/16px-Sniper_minimap_icon.png?version=239ac86b5e84edd303b2ecf086d96a81",
+        "name": "Sniper"
       }
     ]
   },
@@ -1525,418 +1611,446 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_lasthit_01.mp3"
-        ],
-        "mp3Text": "That's for me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_lasthit_02.mp3"
-        ],
-        "mp3Text": "Gold for me teeth."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_lasthit_03.mp3"
-        ],
-        "mp3Text": "Bash'n grab."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Bristle_lasthit_04.mp3"
-        ],
-        "mp3Text": "A dash of the honey."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Bristle_lasthit_05.mp3"
-        ],
-        "mp3Text": "A bit of jangle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_lasthit_06.mp3"
-        ],
-        "mp3Text": "Eh, he didn't need that anyway."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Bristle_lasthit_07.mp3"
-        ],
-        "mp3Text": "Pilfered proper."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Bristle_lasthit_08.mp3"
-        ],
-        "mp3Text": "Bash we go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Bristle_lasthit_09.mp3"
-        ],
-        "mp3Text": "You're dead."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Bristle_lasthit_10.mp3"
-        ],
-        "mp3Text": "Flat busted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_lasthit_11.mp3"
-        ],
-        "mp3Text": "Oopsy daisy."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Bristle_lasthit_12.mp3"
-        ],
-        "mp3Text": "Dead broke."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_lasthit_13.mp3"
-        ],
-        "mp3Text": "Fat for me purse."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Bristle_lasthit_14.mp3"
-        ],
-        "mp3Text": "Tough luck."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Bristle_lasthit_15.mp3"
-        ],
-        "mp3Text": "Boom!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_lasthit_01.mp3"
+    ],
+    "mp3Text": "That's for me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_lasthit_02.mp3"
+    ],
+    "mp3Text": "Gold for me teeth."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_lasthit_03.mp3"
+    ],
+    "mp3Text": "Bash'n grab."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Bristle_lasthit_04.mp3"
+    ],
+    "mp3Text": "A dash of the honey."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Bristle_lasthit_05.mp3"
+    ],
+    "mp3Text": "A bit of jangle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_lasthit_06.mp3"
+    ],
+    "mp3Text": "Eh, he didn't need that anyway."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Bristle_lasthit_07.mp3"
+    ],
+    "mp3Text": "Pilfered proper."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Bristle_lasthit_08.mp3"
+    ],
+    "mp3Text": "Bash we go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Bristle_lasthit_09.mp3"
+    ],
+    "mp3Text": "You're dead."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Bristle_lasthit_10.mp3"
+    ],
+    "mp3Text": "Flat busted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_lasthit_11.mp3"
+    ],
+    "mp3Text": "Oopsy daisy."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Bristle_lasthit_12.mp3"
+    ],
+    "mp3Text": "Dead broke."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_lasthit_13.mp3"
+    ],
+    "mp3Text": "Fat for me purse."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Bristle_lasthit_14.mp3"
+    ],
+    "mp3Text": "Tough luck."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Bristle_lasthit_15.mp3"
+    ],
+    "mp3Text": "Boom!"
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_21.mp3"
-        ],
-        "mp3Text": "Oh, you fancy it, now do ya?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_attack_22.mp3"
-        ],
-        "mp3Text": "Oh, you want some of this… eh?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Bristle_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Bristle_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Bristle_deny_03.mp3"
-        ],
-        "mp3Text": "Uh, uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Bristle_deny_04.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Bristle_deny_05.mp3"
-        ],
-        "mp3Text": "No."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Bristle_deny_06.mp3"
-        ],
-        "mp3Text": "Ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Bristle_deny_07.mp3"
-        ],
-        "mp3Text": "I think not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Bristle_deny_09.mp3"
-        ],
-        "mp3Text": "You may not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_deny_10.mp3"
-        ],
-        "mp3Text": "I refuse you, heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Bristle_deny_11.mp3"
-        ],
-        "mp3Text": "Consider yourself denied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_attack_21.mp3"
+    ],
+    "mp3Text": "Oh, you fancy it, now do ya?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_attack_22.mp3"
+    ],
+    "mp3Text": "Oh, you want some of this… eh?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Bristle_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Bristle_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Bristle_deny_03.mp3"
+    ],
+    "mp3Text": "Uh, uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Bristle_deny_04.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Bristle_deny_05.mp3"
+    ],
+    "mp3Text": "No."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Bristle_deny_06.mp3"
+    ],
+    "mp3Text": "Ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Bristle_deny_07.mp3"
+    ],
+    "mp3Text": "I think not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Bristle_deny_09.mp3"
+    ],
+    "mp3Text": "You may not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_deny_10.mp3"
+    ],
+    "mp3Text": "I refuse you, heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Bristle_deny_11.mp3"
+    ],
+    "mp3Text": "Consider yourself denied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_purch_01.mp3"
-        ],
-        "mp3Text": "Aha, here we go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Bristle_purch_02.mp3"
-        ],
-        "mp3Text": "Cost more than a bit of honey."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_purch_03.mp3"
-        ],
-        "mp3Text": "This better be worth the grubbin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Bristle_purch_04.mp3"
-        ],
-        "mp3Text": "Skint me clean for this?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_purch_05.mp3"
-        ],
-        "mp3Text": "Now here we go."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_purch_01.mp3"
+    ],
+    "mp3Text": "Aha, here we go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Bristle_purch_02.mp3"
+    ],
+    "mp3Text": "Cost more than a bit of honey."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_purch_03.mp3"
+    ],
+    "mp3Text": "This better be worth the grubbin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Bristle_purch_04.mp3"
+    ],
+    "mp3Text": "Skint me clean for this?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_purch_05.mp3"
+    ],
+    "mp3Text": "Now here we go."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Bristle_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Bristle_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_scepter_02.mp3"
-        ],
-        "mp3Text": "I tell you what, this'll bash heads pretty like.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Bristle_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Bristle_blink_02.mp3"
-        ],
-        "mp3Text": "Blinkered dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Bristle_blink_03.mp3"
-        ],
-        "mp3Text": "Blink, and they're dead.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_items_01.mp3"
-        ],
-        "mp3Text": "Manta style!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-            "name": "Manta Style (4800)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Bristle_items_02.mp3"
-        ],
-        "mp3Text": "Helm of the Dominator!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
-            "name": "Helm of the Dominator (2000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Bristle_items_03.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Bristle_items_04.mp3"
-        ],
-        "mp3Text": "Assault Cuirass!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Bristle_items_05.mp3"
-        ],
-        "mp3Text": "Yeah, Satanic!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-            "name": "Satanic (5500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_items_06.mp3"
-        ],
-        "mp3Text": "Sange and Yasha!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
-            "name": "Sange and Yasha (4300)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_items_07.mp3"
-        ],
-        "mp3Text": "Pipe of Insight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
-            "name": "Pipe of Insight (3150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_items_08.mp3"
-        ],
-        "mp3Text": "Black King Bar.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Bristle_items_09.mp3"
-        ],
-        "mp3Text": "Monkey King Bar.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-            "name": "Monkey King Bar (4175)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Bristle_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Bristle_scepter_02.mp3"
+    ],
+    "mp3Text": "I tell you what, this'll bash heads pretty like.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_immort_02.mp3"
-        ],
-        "mp3Text": "A good time to fight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Bristle_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Bristle_blink_02.mp3"
+    ],
+    "mp3Text": "Blinkered dagger.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Bristle_blink_03.mp3"
+    ],
+    "mp3Text": "Blink, and they're dead.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_items_01.mp3"
+    ],
+    "mp3Text": "Manta style!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+        "name": "Manta Style (4800)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Bristle_items_02.mp3"
+    ],
+    "mp3Text": "Helm of the Dominator!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
+        "name": "Helm of the Dominator (2000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Bristle_items_03.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Bristle_items_04.mp3"
+    ],
+    "mp3Text": "Assault Cuirass!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Bristle_items_05.mp3"
+    ],
+    "mp3Text": "Yeah, Satanic!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+        "name": "Satanic (5500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Bristle_items_06.mp3"
+    ],
+    "mp3Text": "Sange and Yasha!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
+        "name": "Sange and Yasha (4300)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_items_07.mp3"
+    ],
+    "mp3Text": "Pipe of Insight.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
+        "name": "Pipe of Insight (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Bristle_items_08.mp3"
+    ],
+    "mp3Text": "Black King Bar.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Bristle_items_09.mp3"
+    ],
+    "mp3Text": "Monkey King Bar.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+        "name": "Monkey King Bar (4175)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Bristle_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Bristle_immort_02.mp3"
+    ],
+    "mp3Text": "A good time to fight.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1945,194 +2059,205 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Bristle_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_death_02.mp3"
-        ],
-        "mp3Text": "Send me quills, to me mum."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Bristle_death_03.mp3"
-        ],
-        "mp3Text": "Bury me quills down, so's to poke the devil."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Bristle_death_04.mp3"
-        ],
-        "mp3Text": "It's toes up, for me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Bristle_death_05.mp3"
-        ],
-        "mp3Text": "This ain't how I pictured it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Bristle_death_06.mp3"
-        ],
-        "mp3Text": "Ah, you bleedin' muck!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Bristle_death_08.mp3"
-        ],
-        "mp3Text": "You dirty fighter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Bristle_death_09.mp3"
-        ],
-        "mp3Text": "Oogh, I been better."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Bristle_death_10.mp3"
-        ],
-        "mp3Text": "Is…is that my blood coming out?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Bristle_death_11.mp3"
-        ],
-        "mp3Text": "Ah, that can't be good."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Bristle_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Bristle_death_02.mp3"
+    ],
+    "mp3Text": "Send me quills, to me mum."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Bristle_death_03.mp3"
+    ],
+    "mp3Text": "Bury me quills down, so's to poke the devil."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Bristle_death_04.mp3"
+    ],
+    "mp3Text": "It's toes up, for me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Bristle_death_05.mp3"
+    ],
+    "mp3Text": "This ain't how I pictured it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Bristle_death_06.mp3"
+    ],
+    "mp3Text": "Ah, you bleedin' muck!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Bristle_death_08.mp3"
+    ],
+    "mp3Text": "You dirty fighter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Bristle_death_09.mp3"
+    ],
+    "mp3Text": "Oogh, I been better."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Bristle_death_10.mp3"
+    ],
+    "mp3Text": "Is…is that my blood coming out?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Bristle_death_11.mp3"
+    ],
+    "mp3Text": "Ah, that can't be good."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_respawn_01.mp3"
-        ],
-        "mp3Text": "Oy, calm down, I just took a quick trip to the bog."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Bristle_respawn_03.mp3"
-        ],
-        "mp3Text": "Let's get back to it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Bristle_respawn_04.mp3"
-        ],
-        "mp3Text": "Back to work."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_respawn_05.mp3"
-        ],
-        "mp3Text": "Here we go again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Bristle_respawn_06.mp3"
-        ],
-        "mp3Text": "This fountain looks familiar."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Bristle_respawn_07.mp3"
-        ],
-        "mp3Text": "What's this, back again?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Bristle_respawn_08.mp3"
-        ],
-        "mp3Text": "Oh, they're a dangerous lot."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_respawn_09.mp3"
-        ],
-        "mp3Text": "Time for a little bashing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Bristle_respawn_10.mp3"
-        ],
-        "mp3Text": "The basher is here again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Bristle_respawn_12.mp3"
-        ],
-        "mp3Text": "Oy, stop whining, I'm back."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_respawn_01.mp3"
+    ],
+    "mp3Text": "Oy, calm down, I just took a quick trip to the bog."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Bristle_respawn_03.mp3"
+    ],
+    "mp3Text": "Let's get back to it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Bristle_respawn_04.mp3"
+    ],
+    "mp3Text": "Back to work."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_respawn_05.mp3"
+    ],
+    "mp3Text": "Here we go again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Bristle_respawn_06.mp3"
+    ],
+    "mp3Text": "This fountain looks familiar."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Bristle_respawn_07.mp3"
+    ],
+    "mp3Text": "What's this, back again?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Bristle_respawn_08.mp3"
+    ],
+    "mp3Text": "Oh, they're a dangerous lot."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Bristle_respawn_09.mp3"
+    ],
+    "mp3Text": "Time for a little bashing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Bristle_respawn_10.mp3"
+    ],
+    "mp3Text": "The basher is here again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cb/Bristle_respawn_12.mp3"
+    ],
+    "mp3Text": "Oy, stop whining, I'm back."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_attack_08.mp3"
-        ],
-        "mp3Text": "Back to it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_fastres_01.mp3"
-        ],
-        "mp3Text": "Back at it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Bristle_fastres_02.mp3"
-        ],
-        "mp3Text": "Don't turn your back."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_fastres_03.mp3"
-        ],
-        "mp3Text": "Look who's back."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Bristle_attack_08.mp3"
+    ],
+    "mp3Text": "Back to it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Bristle_fastres_01.mp3"
+    ],
+    "mp3Text": "Back at it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Bristle_fastres_02.mp3"
+    ],
+    "mp3Text": "Don't turn your back."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_fastres_03.mp3"
+    ],
+    "mp3Text": "Look who's back."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_bottle_01.mp3"
-        ],
-        "mp3Text": "Saved for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Bristle_bottle_02.mp3"
-        ],
-        "mp3Text": "Bottled."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_bottle_03.mp3"
-        ],
-        "mp3Text": "Well, I'll just stop the bottle up."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Bristle_bottle_01.mp3"
+    ],
+    "mp3Text": "Saved for later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Bristle_bottle_02.mp3"
+    ],
+    "mp3Text": "Bottled."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_bottle_03.mp3"
+    ],
+    "mp3Text": "Well, I'll just stop the bottle up."
   },
   {
     "headTitle": "Activating runes",
@@ -2144,14 +2269,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_move_05.mp3"
-        ],
-        "mp3Text": "Don't mind if I do."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Bristle_move_05.mp3"
+    ],
+    "mp3Text": "Don't mind if I do."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -2159,14 +2281,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_lasthit_01.mp3"
-        ],
-        "mp3Text": "That's for me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Bristle_lasthit_01.mp3"
+    ],
+    "mp3Text": "That's for me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -2174,24 +2293,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Bristle_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Bristle_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_doubdam_02.mp3"
-        ],
-        "mp3Text": "Twice the bash."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Bristle_doubdam_02.mp3"
+    ],
+    "mp3Text": "Twice the bash."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -2199,34 +2312,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Bristle_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_move_15.mp3"
-        ],
-        "mp3Text": "Bit of a hurry."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_move_15.mp3"
+    ],
+    "mp3Text": "Bit of a hurry."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Bristle_haste_02.mp3"
-        ],
-        "mp3Text": "Oh, quick now."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Bristle_haste_02.mp3"
+    ],
+    "mp3Text": "Oh, quick now."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -2234,24 +2338,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Bristle_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_illus_02.mp3"
-        ],
-        "mp3Text": "The world can't handle three of me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_illus_02.mp3"
+    ],
+    "mp3Text": "The world can't handle three of me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2259,24 +2357,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Bristle_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Bristle_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Bristle_invis_02.mp3"
-        ],
-        "mp3Text": "They won't know what hit em."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Bristle_invis_02.mp3"
+    ],
+    "mp3Text": "They won't know what hit em."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2284,24 +2376,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Bristle_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Bristle_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Bristle_regen_02.mp3"
-        ],
-        "mp3Text": "What's the green rune do again?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Bristle_regen_02.mp3"
+    ],
+    "mp3Text": "What's the green rune do again?"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2312,78 +2398,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_notyet_04.mp3"
-        ],
-        "mp3Text": "No, I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Bristle_notyet_07.mp3"
-        ],
-        "mp3Text": "It's not time yet, mate."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Bristle_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Bristle_notyet_04.mp3"
+    ],
+    "mp3Text": "No, I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Bristle_notyet_07.mp3"
+    ],
+    "mp3Text": "It's not time yet, mate."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Bristle_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Bristle_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Bristle_notyet_08.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Bristle_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Bristle_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Bristle_notyet_08.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Bristle_notyet_03.mp3"
-        ],
-        "mp3Text": "Oy, not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Bristle_notyet_06.mp3"
-        ],
-        "mp3Text": "I. Am not. Ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Bristle_notyet_09.mp3"
-        ],
-        "mp3Text": "It. Is not time yet, you get it?!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Bristle_notyet_03.mp3"
+    ],
+    "mp3Text": "Oy, not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Bristle_notyet_06.mp3"
+    ],
+    "mp3Text": "I. Am not. Ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Bristle_notyet_09.mp3"
+    ],
+    "mp3Text": "It. Is not time yet, you get it?!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2394,178 +2477,177 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Bristle_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Bristle_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana, mate."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Bristle_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Bristle_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Bristle_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana, mate."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Bristle_nomana_02.mp3"
-        ],
-        "mp3Text": "I'm out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_nomana_08.mp3"
-        ],
-        "mp3Text": "No, I ain't got enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Bristle_nomana_02.mp3"
+    ],
+    "mp3Text": "I'm out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Bristle_nomana_08.mp3"
+    ],
+    "mp3Text": "No, I ain't got enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_nomana_03.mp3"
-        ],
-        "mp3Text": "Oy, l-listen, I'm out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_nomana_06.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Bristle_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana, you idiot!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_nomana_03.mp3"
+    ],
+    "mp3Text": "Oy, l-listen, I'm out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Bristle_nomana_06.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Bristle_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana, you idiot!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Bristle_pain_01.mp3"
-        ],
-        "mp3Text": "Oogh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Bristle_pain_02.mp3"
-        ],
-        "mp3Text": "Aagh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Bristle_pain_03.mp3"
-        ],
-        "mp3Text": "Oy!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Bristle_pain_04.mp3"
-        ],
-        "mp3Text": "Agh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Bristle_pain_05.mp3"
-        ],
-        "mp3Text": "Oogh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Bristle_pain_06.mp3"
-        ],
-        "mp3Text": "Aergh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Bristle_pain_07.mp3"
-        ],
-        "mp3Text": "Oogh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Bristle_pain_08.mp3"
-        ],
-        "mp3Text": "Argh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_pain_09.mp3"
-        ],
-        "mp3Text": "Oogh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Bristle_pain_10.mp3"
-        ],
-        "mp3Text": "Aagh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Bristle_pain_11.mp3"
-        ],
-        "mp3Text": "Ooogh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_pain_12.mp3"
-        ],
-        "mp3Text": "Eghoogh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Bristle_pain_01.mp3"
+    ],
+    "mp3Text": "Oogh."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Bristle_underattack_03.mp3"
-        ],
-        "mp3Text": "I'm under attack."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Bristle_pain_02.mp3"
+    ],
+    "mp3Text": "Aagh."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Bristle_underattack_02.mp3"
-        ],
-        "mp3Text": "Agh! They got the drop on me!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Bristle_pain_03.mp3"
+    ],
+    "mp3Text": "Oy!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Bristle_pain_04.mp3"
+    ],
+    "mp3Text": "Agh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Bristle_pain_05.mp3"
+    ],
+    "mp3Text": "Oogh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Bristle_pain_06.mp3"
+    ],
+    "mp3Text": "Aergh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Bristle_pain_07.mp3"
+    ],
+    "mp3Text": "Oogh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Bristle_pain_08.mp3"
+    ],
+    "mp3Text": "Argh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Bristle_pain_09.mp3"
+    ],
+    "mp3Text": "Oogh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Bristle_pain_10.mp3"
+    ],
+    "mp3Text": "Aagh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Bristle_pain_11.mp3"
+    ],
+    "mp3Text": "Ooogh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Bristle_pain_12.mp3"
+    ],
+    "mp3Text": "Eghoogh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Bristle_underattack_03.mp3"
+    ],
+    "mp3Text": "I'm under attack."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Bristle_underattack_02.mp3"
+    ],
+    "mp3Text": "Agh! They got the drop on me!"
   },
   {
     "headTitle": "Selecting",
@@ -2576,20 +2658,18 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Bristle_rare_01.mp3"
-        ],
-        "mp3Text": "It was a barkeep that got me into this mess. Yeah, I think I'll pay em a visit when this is done."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Bristle_rare_02.mp3"
-        ],
-        "mp3Text": "I'm more than a pretty face."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Bristle_rare_01.mp3"
+    ],
+    "mp3Text": "It was a barkeep that got me into this mess. Yeah, I think I'll pay em a visit when this is done."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Bristle_rare_02.mp3"
+    ],
+    "mp3Text": "I'm more than a pretty face."
   },
   {
     "headTitle": "Chat responses",
@@ -2600,90 +2680,89 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_lanemissing_01.mp3"
-        ],
-        "mp3Text": "Top's gone missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Bristle_lanemissing_02.mp3"
-        ],
-        "mp3Text": "Missing middle!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_lanemissing_03.mp3"
-        ],
-        "mp3Text": "Bottom's gone missing, just so's ya know."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Bristle_lanemissing_01.mp3"
+    ],
+    "mp3Text": "Top's gone missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Bristle_lanemissing_02.mp3"
+    ],
+    "mp3Text": "Missing middle!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Bristle_lanemissing_03.mp3"
+    ],
+    "mp3Text": "Bottom's gone missing, just so's ya know."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Bristle_thanks_02.mp3"
-        ],
-        "mp3Text": "Ah, thanks a lot."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Bristle_thanks_03.mp3"
-        ],
-        "mp3Text": "Too kind, you are."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Bristle_thanks_04.mp3"
-        ],
-        "mp3Text": "Much appreciated."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Bristle_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Bristle_thanks_02.mp3"
+    ],
+    "mp3Text": "Ah, thanks a lot."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Bristle_thanks_03.mp3"
+    ],
+    "mp3Text": "Too kind, you are."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Bristle_thanks_04.mp3"
+    ],
+    "mp3Text": "Much appreciated."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Bristle_laugh_01.mp3"
-        ],
-        "mp3Text": "Hahahahaha haha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_laugh_02.mp3"
-        ],
-        "mp3Text": "Hehey hahaha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Bristle_laugh_04.mp3"
-        ],
-        "mp3Text": "Hoho hah ah ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Bristle_laugh_01.mp3"
+    ],
+    "mp3Text": "Hahahahaha haha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_laugh_02.mp3"
+    ],
+    "mp3Text": "Hehey hahaha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Bristle_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Bristle_laugh_04.mp3"
+    ],
+    "mp3Text": "Hoho hah ah ha ha ha."
   },
   {
     "headTitle": "Match end",
@@ -2694,80 +2773,78 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Bristle_win_01.mp3"
-        ],
-        "mp3Text": "Yessss!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Bristle_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_win_03.mp3"
-        ],
-        "mp3Text": "Aheh hah. It was only a matter of time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Bristle_win_04.mp3"
-        ],
-        "mp3Text": "I never had a doubt in me mind."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Bristle_win_01.mp3"
+    ],
+    "mp3Text": "Yessss!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Bristle_ally_02.mp3"
-        ],
-        "mp3Text": "Oy, oy, oy, save some of that keg for me, will ya, lads?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Bristle_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Bristle_win_03.mp3"
+    ],
+    "mp3Text": "Aheh hah. It was only a matter of time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Bristle_win_04.mp3"
+    ],
+    "mp3Text": "I never had a doubt in me mind."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Bristle_ally_02.mp3"
+    ],
+    "mp3Text": "Oy, oy, oy, save some of that keg for me, will ya, lads?"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Bristle_lose_01.mp3"
-        ],
-        "mp3Text": "Oh, bollocks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Bristle_lose_02.mp3"
-        ],
-        "mp3Text": "Oh, defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Bristle_lose_03.mp3"
-        ],
-        "mp3Text": "Aw, well that's the end of that, innit?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Bristle_lose_04.mp3"
-        ],
-        "mp3Text": "Aw no, you've got to be kidding me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Bristle_lose_05.mp3"
-        ],
-        "mp3Text": "Oh, no, no, no, no, no."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Bristle_lose_01.mp3"
+    ],
+    "mp3Text": "Oh, bollocks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Bristle_lose_02.mp3"
+    ],
+    "mp3Text": "Oh, defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Bristle_lose_03.mp3"
+    ],
+    "mp3Text": "Aw, well that's the end of that, innit?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Bristle_lose_04.mp3"
+    ],
+    "mp3Text": "Aw no, you've got to be kidding me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Bristle_lose_05.mp3"
+    ],
+    "mp3Text": "Oh, no, no, no, no, no."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2778,41 +2855,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Bristle_move_12.mp3"
-        ],
-        "mp3Text": "Here we go."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/Bristle_move_12.mp3"
+    ],
+    "mp3Text": "Here we go."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_rival_31.mp3"
-        ],
-        "mp3Text": "Ah, now I feel better."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Bristle_rival_31.mp3"
+    ],
+    "mp3Text": "Ah, now I feel better."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_spawn_03.mp3"
-        ],
-        "mp3Text": "Well, what have we here."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Bristle_spawn_03.mp3"
+    ],
+    "mp3Text": "Well, what have we here."
   }
 ]

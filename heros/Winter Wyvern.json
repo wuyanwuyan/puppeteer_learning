@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Merle_Dandridge",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/06/Winter_Wyvern_minimap_icon.png/20px-Winter_Wyvern_minimap_icon.png?version=5f13d82e4a1ca007cc7b65405358b652",
     "heroName": "Winter Wyvern",
-    "href": "https://dota2.gamepedia.com/Winter_Wyvern/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/winter_wyvern_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/winterwyvern.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
-        ],
-        "mp3Text": "Winter Wyvern!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Winwyv_spawn_02.mp3"
-        ],
-        "mp3Text": "In I fly on wings of winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_spawn_03.mp3"
-        ],
-        "mp3Text": "From the roost of winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_04.mp3"
-        ],
-        "mp3Text": "I'll chase away the autumn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_05.mp3"
-        ],
-        "mp3Text": "Some breathe fire. I breathe ice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Winwyv_attack_07.mp3"
-        ],
-        "mp3Text": "I carry winter wherever I go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Winwyv_spawn_07.mp3"
-        ],
-        "mp3Text": "I'll chase away the autumn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_attack_09.mp3"
-        ],
-        "mp3Text": "A wyvern's breath!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_cast_03.mp3"
-        ],
-        "mp3Text": "You've called winter down upon you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_respawn_02.mp3"
-        ],
-        "mp3Text": "I bring the breath of winter to the field of war."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_move_09.mp3"
-        ],
-        "mp3Text": "In on wings of winter!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_coldembrace_03.mp3"
-        ],
-        "mp3Text": "In cold there is comfort."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
+    ],
+    "mp3Text": "Winter Wyvern!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Winwyv_spawn_02.mp3"
+    ],
+    "mp3Text": "In I fly on wings of winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_spawn_03.mp3"
+    ],
+    "mp3Text": "From the roost of winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_04.mp3"
+    ],
+    "mp3Text": "I'll chase away the autumn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_05.mp3"
+    ],
+    "mp3Text": "Some breathe fire. I breathe ice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Winwyv_attack_07.mp3"
+    ],
+    "mp3Text": "I carry winter wherever I go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Winwyv_spawn_07.mp3"
+    ],
+    "mp3Text": "I'll chase away the autumn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_attack_09.mp3"
+    ],
+    "mp3Text": "A wyvern's breath!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_cast_03.mp3"
+    ],
+    "mp3Text": "You've called winter down upon you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_respawn_02.mp3"
+    ],
+    "mp3Text": "I bring the breath of winter to the field of war."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_move_09.mp3"
+    ],
+    "mp3Text": "In on wings of winter!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_coldembrace_03.mp3"
+    ],
+    "mp3Text": "In cold there is comfort."
   },
   {
     "headTitle": "Drafting",
@@ -101,302 +108,315 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
-        ],
-        "mp3Text": "Winter Wyvern!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
+    ],
+    "mp3Text": "Winter Wyvern!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Winwyv_anger_07.mp3"
-        ],
-        "mp3Text": "Huh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Winwyv_anger_07.mp3"
+    ],
+    "mp3Text": "Huh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
-        ],
-        "mp3Text": "Winter Wyvern!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Winwyv_spawn_02.mp3"
-        ],
-        "mp3Text": "In I fly on wings of winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_spawn_03.mp3"
-        ],
-        "mp3Text": "From the roost of winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_04.mp3"
-        ],
-        "mp3Text": "I'll chase away the autumn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_05.mp3"
-        ],
-        "mp3Text": "Some breathe fire. I breathe ice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Winwyv_spawn_06.mp3"
-        ],
-        "mp3Text": "Auroth."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Winwyv_spawn_07.mp3"
-        ],
-        "mp3Text": "I'll chase away the autumn."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_spawn_01.mp3"
+    ],
+    "mp3Text": "Winter Wyvern!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Winwyv_spawn_02.mp3"
+    ],
+    "mp3Text": "In I fly on wings of winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_spawn_03.mp3"
+    ],
+    "mp3Text": "From the roost of winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_04.mp3"
+    ],
+    "mp3Text": "I'll chase away the autumn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_spawn_05.mp3"
+    ],
+    "mp3Text": "Some breathe fire. I breathe ice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Winwyv_spawn_06.mp3"
+    ],
+    "mp3Text": "Auroth."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Winwyv_spawn_07.mp3"
+    ],
+    "mp3Text": "I'll chase away the autumn."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_inthebag_01.mp3"
-        ],
-        "mp3Text": "This must be the battle sung of in the Eldwurm's Edda: the battle that was truly in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_inthebag_01.mp3"
+    ],
+    "mp3Text": "This must be the battle sung of in the Eldwurm's Edda: the battle that was truly in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Let them all fall still beneath my shadow!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Let them all fall still beneath my shadow!"
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Winwyv_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Winwyv_move_02.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Winwyv_move_03.mp3"
-        ],
-        "mp3Text": "Very well."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Winwyv_move_04.mp3"
-        ],
-        "mp3Text": "You know, I think I just might."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Winwyv_move_05.mp3"
-        ],
-        "mp3Text": "Mm mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Winwyv_move_06.mp3"
-        ],
-        "mp3Text": "You know I will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Winwyv_move_08.mp3"
-        ],
-        "mp3Text": "Wings beating!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_move_10.mp3"
-        ],
-        "mp3Text": "Have patience, child."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Winwyv_move_11.mp3"
-        ],
-        "mp3Text": "I know the way to go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Winwyv_move_12.mp3"
-        ],
-        "mp3Text": "Trouble yourself not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Winwyv_move_13.mp3"
-        ],
-        "mp3Text": "Have a care!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Winwyv_move_14.mp3"
-        ],
-        "mp3Text": "Watch for winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_move_15.mp3"
-        ],
-        "mp3Text": "Ah, that seems wise."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Winwyv_move_16.mp3"
-        ],
-        "mp3Text": "Understood."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_move_17.mp3"
-        ],
-        "mp3Text": "Watch yourself."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_move_18.mp3"
-        ],
-        "mp3Text": "Yes, child."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Winwyv_move_20.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_move_21.mp3"
-        ],
-        "mp3Text": "Understood."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Winwyv_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Winwyv_move_02.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Winwyv_move_03.mp3"
+    ],
+    "mp3Text": "Very well."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Winwyv_move_04.mp3"
+    ],
+    "mp3Text": "You know, I think I just might."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Winwyv_move_05.mp3"
+    ],
+    "mp3Text": "Mm mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Winwyv_move_06.mp3"
+    ],
+    "mp3Text": "You know I will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Winwyv_move_08.mp3"
+    ],
+    "mp3Text": "Wings beating!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_move_10.mp3"
+    ],
+    "mp3Text": "Have patience, child."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Winwyv_move_11.mp3"
+    ],
+    "mp3Text": "I know the way to go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Winwyv_move_12.mp3"
+    ],
+    "mp3Text": "Trouble yourself not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Winwyv_move_13.mp3"
+    ],
+    "mp3Text": "Have a care!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Winwyv_move_14.mp3"
+    ],
+    "mp3Text": "Watch for winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_move_15.mp3"
+    ],
+    "mp3Text": "Ah, that seems wise."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Winwyv_move_16.mp3"
+    ],
+    "mp3Text": "Understood."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_move_17.mp3"
+    ],
+    "mp3Text": "Watch yourself."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_move_18.mp3"
+    ],
+    "mp3Text": "Yes, child."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Winwyv_move_20.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_move_21.mp3"
+    ],
+    "mp3Text": "Understood."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_attack_02.mp3"
-        ],
-        "mp3Text": "Swiftly!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Winwyv_attack_03.mp3"
-        ],
-        "mp3Text": "I'll cook you with coldness!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Winwyv_attack_04.mp3"
-        ],
-        "mp3Text": "In a frozen blast!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Winwyv_attack_05.mp3"
-        ],
-        "mp3Text": "Freeze where you are!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Winwyv_attack_06.mp3"
-        ],
-        "mp3Text": "Fly before me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Winwyv_attack_07.mp3"
-        ],
-        "mp3Text": "I carry winter wherever I go!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Winwyv_attack_08.mp3"
-        ],
-        "mp3Text": "You'll catch your death!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_attack_09.mp3"
-        ],
-        "mp3Text": "A wyvern's breath!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_attack_10.mp3"
-        ],
-        "mp3Text": "Cold winds carry me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_attack_11.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Winwyv_attack_12.mp3"
-        ],
-        "mp3Text": "Swiftly!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_attack_02.mp3"
+    ],
+    "mp3Text": "Swiftly!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Winwyv_attack_03.mp3"
+    ],
+    "mp3Text": "I'll cook you with coldness!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Winwyv_attack_04.mp3"
+    ],
+    "mp3Text": "In a frozen blast!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Winwyv_attack_05.mp3"
+    ],
+    "mp3Text": "Freeze where you are!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Winwyv_attack_06.mp3"
+    ],
+    "mp3Text": "Fly before me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Winwyv_attack_07.mp3"
+    ],
+    "mp3Text": "I carry winter wherever I go!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Winwyv_attack_08.mp3"
+    ],
+    "mp3Text": "You'll catch your death!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_attack_09.mp3"
+    ],
+    "mp3Text": "A wyvern's breath!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_attack_10.mp3"
+    ],
+    "mp3Text": "Cold winds carry me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_attack_11.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Winwyv_attack_12.mp3"
+    ],
+    "mp3Text": "Swiftly!"
   },
   {
     "headTitle": "Abilities",
@@ -412,58 +432,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_move_07.mp3"
-        ],
-        "mp3Text": "On a cold gust."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_move_09.mp3"
-        ],
-        "mp3Text": "In on wings of winter!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_move_07.mp3"
+    ],
+    "mp3Text": "On a cold gust."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_move_09.mp3"
+    ],
+    "mp3Text": "In on wings of winter!"
   },
   {
     "text": "Attacking",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_cast_03.mp3"
-        ],
-        "mp3Text": "You've called winter down upon you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Winwyv_articburn_01.mp3"
-        ],
-        "mp3Text": "Burns like ice!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Winwyv_articburn_02.mp3"
-        ],
-        "mp3Text": "Wyvern's kiss."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Winwyv_articburn_03.mp3"
-        ],
-        "mp3Text": "Burned!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Winwyv_articburn_04.mp3"
-        ],
-        "mp3Text": "Arctic burn!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_cast_03.mp3"
+    ],
+    "mp3Text": "You've called winter down upon you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Winwyv_articburn_01.mp3"
+    ],
+    "mp3Text": "Burns like ice!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Winwyv_articburn_02.mp3"
+    ],
+    "mp3Text": "Wyvern's kiss."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Winwyv_articburn_03.mp3"
+    ],
+    "mp3Text": "Burned!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Winwyv_articburn_04.mp3"
+    ],
+    "mp3Text": "Arctic burn!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8a/Cold_Embrace_icon.png/16px-Cold_Embrace_icon.png?version=6f5124f68e122e5e8170202a6e6d2d26",
@@ -475,38 +494,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Winwyv_coldembrace_01.mp3"
-        ],
-        "mp3Text": "Sleep and heal."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_coldembrace_02.mp3"
-        ],
-        "mp3Text": "Cold wings keep you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_coldembrace_03.mp3"
-        ],
-        "mp3Text": "In cold there is comfort."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Winwyv_coldembrace_04.mp3"
-        ],
-        "mp3Text": "Cold comfort."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Winwyv_coldembrace_05.mp3"
-        ],
-        "mp3Text": "Sleep and heal."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Winwyv_coldembrace_01.mp3"
+    ],
+    "mp3Text": "Sleep and heal."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_coldembrace_02.mp3"
+    ],
+    "mp3Text": "Cold wings keep you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_coldembrace_03.mp3"
+    ],
+    "mp3Text": "In cold there is comfort."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Winwyv_coldembrace_04.mp3"
+    ],
+    "mp3Text": "Cold comfort."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Winwyv_coldembrace_05.mp3"
+    ],
+    "mp3Text": "Sleep and heal."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Winter%27s_Curse_icon.png/16px-Winter%27s_Curse_icon.png?version=7421c29c8948c3ec51648b9e7c736954",
@@ -518,510 +538,548 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_winterscurse_01.mp3"
-        ],
-        "mp3Text": "Fall upon your friend."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Winwyv_winterscurse_02.mp3"
-        ],
-        "mp3Text": "Winter's curse!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Winwyv_winterscurse_04.mp3"
-        ],
-        "mp3Text": "Fear your friends!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_winterscurse_05.mp3"
-        ],
-        "mp3Text": "Curse of winter on you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Winwyv_winterscurse_06.mp3"
-        ],
-        "mp3Text": "Eldwurm's bane!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Winwyv_winterscurse_12.mp3"
-        ],
-        "mp3Text": "Winter's curse!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_winterscurse_01.mp3"
+    ],
+    "mp3Text": "Fall upon your friend."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Winwyv_winterscurse_03.mp3"
-        ],
-        "mp3Text": "Foul weather friends!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Winwyv_winterscurse_13.mp3"
-        ],
-        "mp3Text": "Foul weather friends!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Winwyv_winterscurse_02.mp3"
+    ],
+    "mp3Text": "Winter's curse!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Winwyv_winterscurse_04.mp3"
+    ],
+    "mp3Text": "Fear your friends!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Winwyv_winterscurse_05.mp3"
+    ],
+    "mp3Text": "Curse of winter on you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Winwyv_winterscurse_06.mp3"
+    ],
+    "mp3Text": "Eldwurm's bane!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Winwyv_winterscurse_12.mp3"
+    ],
+    "mp3Text": "Winter's curse!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Winwyv_winterscurse_03.mp3"
+    ],
+    "mp3Text": "Foul weather friends!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Winwyv_winterscurse_13.mp3"
+    ],
+    "mp3Text": "Foul weather friends!"
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Winwyv_winterscurse_07.mp3"
-        ],
-        "mp3Text": "Beautiful!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_winterscurse_08.mp3"
-        ],
-        "mp3Text": "How fitting!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Winwyv_winterscurse_09.mp3"
-        ],
-        "mp3Text": "Well deserved!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Winwyv_winterscurse_11.mp3"
-        ],
-        "mp3Text": "Well deserved!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Winwyv_winterscurse_14.mp3"
-        ],
-        "mp3Text": "Ah! Beautiful!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Winwyv_winterscurse_07.mp3"
+    ],
+    "mp3Text": "Beautiful!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_winterscurse_08.mp3"
+    ],
+    "mp3Text": "How fitting!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Winwyv_winterscurse_09.mp3"
+    ],
+    "mp3Text": "Well deserved!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Winwyv_winterscurse_11.mp3"
+    ],
+    "mp3Text": "Well deserved!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Winwyv_winterscurse_14.mp3"
+    ],
+    "mp3Text": "Ah! Beautiful!"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Winwyv_levelup_01.mp3"
-        ],
-        "mp3Text": "Ah, I haven't felt this young in a dragon's age."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_levelup_02.mp3"
-        ],
-        "mp3Text": "By the sweep of my wings, that feels good!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Winwyv_levelup_03.mp3"
-        ],
-        "mp3Text": "My old wings beat with youthful strength!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_levelup_04.mp3"
-        ],
-        "mp3Text": "What wyvern can resist such power?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_levelup_06.mp3"
-        ],
-        "mp3Text": "A coldness grows in my breast. Delicious!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Winwyv_levelup_07.mp3"
-        ],
-        "mp3Text": "I've not felt this fresh since I sprang from the egg!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Winwyv_levelup_08.mp3"
-        ],
-        "mp3Text": "Ah, I've never felt this good! Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_levelup_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Winwyv_levelup_10.mp3"
-        ],
-        "mp3Text": "Ah! Ah ha ha ha ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Winwyv_levelup_11.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Winwyv_levelup_01.mp3"
+    ],
+    "mp3Text": "Ah, I haven't felt this young in a dragon's age."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_levelup_02.mp3"
+    ],
+    "mp3Text": "By the sweep of my wings, that feels good!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Winwyv_levelup_03.mp3"
+    ],
+    "mp3Text": "My old wings beat with youthful strength!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_levelup_04.mp3"
+    ],
+    "mp3Text": "What wyvern can resist such power?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_levelup_06.mp3"
+    ],
+    "mp3Text": "A coldness grows in my breast. Delicious!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Winwyv_levelup_07.mp3"
+    ],
+    "mp3Text": "I've not felt this fresh since I sprang from the egg!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Winwyv_levelup_08.mp3"
+    ],
+    "mp3Text": "Ah, I've never felt this good! Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_levelup_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Winwyv_levelup_10.mp3"
+    ],
+    "mp3Text": "Ah! Ah ha ha ha ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Winwyv_levelup_11.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Winwyv_cast_01.mp3"
-        ],
-        "mp3Text": "You have tangled with an Eldwurm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Winwyv_kill_02.mp3"
-        ],
-        "mp3Text": "Mewling brat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_kill_03.mp3"
-        ],
-        "mp3Text": "Never ask a wyvern why."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Winwyv_kill_04.mp3"
-        ],
-        "mp3Text": "Was that wise?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_kill_05.mp3"
-        ],
-        "mp3Text": "You let my cold wings shadow you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Winwyv_kill_06.mp3"
-        ],
-        "mp3Text": "I was wise to you all along."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_kill_07.mp3"
-        ],
-        "mp3Text": "A wyvern's wisdom is not to be questioned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Winwyv_kill_08.mp3"
-        ],
-        "mp3Text": "You were expecting fire?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_kill_09.mp3"
-        ],
-        "mp3Text": "I'll not be trifled with."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Winwyv_kill_10.mp3"
-        ],
-        "mp3Text": "You'll never touch my treasure now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Winwyv_kill_11.mp3"
-        ],
-        "mp3Text": "Windchill factor minus hero."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Winwyv_kill_12.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Winwyv_kill_13.mp3"
-        ],
-        "mp3Text": "Hm. I killed you with coldness."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Winwyv_kill_14.mp3"
-        ],
-        "mp3Text": "Ah, ah ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Winwyv_deny_07.mp3"
-        ],
-        "mp3Text": "Oh, catch a chill"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Winwyv_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha! Oh ho ho ho ho hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_03.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_laugh_07.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_laugh_08.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_laugh_09.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_10.mp3"
-        ],
-        "mp3Text": "Oh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Winwyv_cast_01.mp3"
+    ],
+    "mp3Text": "You have tangled with an Eldwurm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Winwyv_kill_02.mp3"
+    ],
+    "mp3Text": "Mewling brat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_kill_03.mp3"
+    ],
+    "mp3Text": "Never ask a wyvern why."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Winwyv_kill_04.mp3"
+    ],
+    "mp3Text": "Was that wise?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_kill_05.mp3"
+    ],
+    "mp3Text": "You let my cold wings shadow you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Winwyv_kill_06.mp3"
+    ],
+    "mp3Text": "I was wise to you all along."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_kill_07.mp3"
+    ],
+    "mp3Text": "A wyvern's wisdom is not to be questioned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Winwyv_kill_08.mp3"
+    ],
+    "mp3Text": "You were expecting fire?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_kill_09.mp3"
+    ],
+    "mp3Text": "I'll not be trifled with."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Winwyv_kill_10.mp3"
+    ],
+    "mp3Text": "You'll never touch my treasure now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Winwyv_kill_11.mp3"
+    ],
+    "mp3Text": "Windchill factor minus hero."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Winwyv_kill_12.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Winwyv_kill_13.mp3"
+    ],
+    "mp3Text": "Hm. I killed you with coldness."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Winwyv_kill_14.mp3"
+    ],
+    "mp3Text": "Ah, ah ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Winwyv_deny_07.mp3"
+    ],
+    "mp3Text": "Oh, catch a chill"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Winwyv_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha! Oh ho ho ho ho hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_03.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_laugh_07.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_laugh_08.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_laugh_09.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_10.mp3"
+    ],
+    "mp3Text": "Oh."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_rival_02.mp3"
+    ],
+    "mp3Text": "He had a bad case of the vapors.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_rival_02.mp3"
-        ],
-        "mp3Text": "He had a bad case of the vapors.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
-            "name": "Abaddon"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
+        "name": "Abaddon"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_rival_03.mp3"
+    ],
+    "mp3Text": "I've got your number, Lich.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_rival_03.mp3"
-        ],
-        "mp3Text": "I've got your number, Lich.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Winwyv_rival_04.mp3"
+    ],
+    "mp3Text": "Now I'm the numb-er one!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/Winwyv_rival_04.mp3"
-        ],
-        "mp3Text": "Now I'm the numb-er one!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
-            "name": "Lich"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lich_minimap_icon.png/16px-Lich_minimap_icon.png?version=44834ffa805822e981acdca19b4a2dd3",
+        "name": "Lich"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_rival_05.mp3"
+    ],
+    "mp3Text": "I knew Slyrak, Dragon Knight. You're no Slyrak.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_rival_05.mp3"
-        ],
-        "mp3Text": "I knew Slyrak, Dragon Knight. You're no Slyrak.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Winwyv_rival_06.mp3"
+    ],
+    "mp3Text": "All your dragons came home to roost.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Winwyv_rival_06.mp3"
-        ],
-        "mp3Text": "All your dragons came home to roost.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_rival_07.mp3"
+    ],
+    "mp3Text": "These are unfriendly skies for a viper.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_rival_07.mp3"
-        ],
-        "mp3Text": "These are unfriendly skies for a viper.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
-            "name": "Viper"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cb/Viper_minimap_icon.png/16px-Viper_minimap_icon.png?version=6cb46db6fa4ef706f4d4b324dd71a8f1",
+        "name": "Viper"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_rival_08.mp3"
+    ],
+    "mp3Text": "Uh, furry wings? Unnatural.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Winwyv_rival_08.mp3"
-        ],
-        "mp3Text": "Uh, furry wings? Unnatural.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Winwyv_rival_09.mp3"
+    ],
+    "mp3Text": "Ah ha! That was unequal combat.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/92/Winwyv_rival_09.mp3"
-        ],
-        "mp3Text": "Ah ha! That was unequal combat.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Winwyv_rival_10.mp3"
+    ],
+    "mp3Text": "I should have crushed you in the nest.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Winwyv_rival_10.mp3"
-        ],
-        "mp3Text": "I should have crushed you in the nest.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Winwyv_rival_11.mp3"
+    ],
+    "mp3Text": "I'm an Eldwurm now, but I was once a Maidenwurm.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Winwyv_rival_11.mp3"
-        ],
-        "mp3Text": "I'm an Eldwurm now, but I was once a Maidenwurm.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-            "name": "Crystal Maiden"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+        "name": "Crystal Maiden"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_rival_12.mp3"
+    ],
+    "mp3Text": "I thought Io would add a nice glimmer to my hoard.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_rival_12.mp3"
-        ],
-        "mp3Text": "I thought Io would add a nice glimmer to my hoard.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Winwyv_rival_13.mp3"
+    ],
+    "mp3Text": "Lina, I don't find you hot at all.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Winwyv_rival_13.mp3"
-        ],
-        "mp3Text": "Lina, I don't find you hot at all.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Winwyv_rival_16.mp3"
+    ],
+    "mp3Text": "Stone wings? An abomination!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Winwyv_rival_16.mp3"
-        ],
-        "mp3Text": "Stone wings? An abomination!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
-            "name": "Outworld Devourer"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
+        "name": "Outworld Devourer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_rival_17.mp3"
+    ],
+    "mp3Text": "That'll teach you to hunt dragons.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_rival_17.mp3"
-        ],
-        "mp3Text": "That'll teach you to hunt dragons.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
-            "name": "Bounty Hunter"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
+        "name": "Bounty Hunter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Winwyv_rival_18.mp3"
+    ],
+    "mp3Text": "You only wear your wings when none can see them!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Winwyv_rival_18.mp3"
-        ],
-        "mp3Text": "You only wear your wings when none can see them!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Winwyv_rival_19.mp3"
+    ],
+    "mp3Text": "Was that ice you were shooting? I hardly noticed.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Winwyv_rival_19.mp3"
-        ],
-        "mp3Text": "Was that ice you were shooting? I hardly noticed.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
-            "name": "Drow Ranger"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/63/Drow_Ranger_minimap_icon.png/16px-Drow_Ranger_minimap_icon.png?version=be7c0b5ef88fa9f514a2a9065f1d5a18",
+        "name": "Drow Ranger"
       }
     ]
   },
@@ -1030,14 +1088,11 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood comes with the first breath of winter."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood comes with the first breath of winter."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1048,290 +1103,303 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_rival_01.mp3"
+    ],
+    "mp3Text": "You're the ice cold wind beneath my wings.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Winwyv_rival_01.mp3"
-        ],
-        "mp3Text": "You're the ice cold wind beneath my wings.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
-            "name": "Ancient Apparition"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_ally_01.mp3"
-        ],
-        "mp3Text": "Feathered wings, Skywrath Mage? Is that really wise?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
-            "name": "Skywrath Mage"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_ally_04.mp3"
-        ],
-        "mp3Text": "Abaddon, your presence helps dispel the fog of war.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
-            "name": "Abaddon"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Winwyv_ally_05.mp3"
-        ],
-        "mp3Text": "Let's talk tactics another time, Tresdin.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
-            "name": "Legion Commander"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Winwyv_ally_06.mp3"
-        ],
-        "mp3Text": "Ah, Tusk. Let's show them the chill of home.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
-            "name": "Tusk"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_ally_07.mp3"
-        ],
-        "mp3Text": "The sky is on fire, Phoenix!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Winwyv_ally_08.mp3"
-        ],
-        "mp3Text": "Plant your mines where you will, Techies. I'll just fly over them.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
-            "name": "Techies"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Winwyv_ally_09.mp3"
-        ],
-        "mp3Text": "Let us keep to the path of terror!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
-            "name": "Terrorblade"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_ally_10.mp3"
-        ],
-        "mp3Text": "Arc Warden, you have such a magnetic personality.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e9/Arc_Warden_minimap_icon.png/16px-Arc_Warden_minimap_icon.png?version=4bd74c631f884dddb6bcdfc0e0193d68",
-            "name": "Arc Warden"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_ally_11.mp3"
-        ],
-        "mp3Text": "Not so close, Ember Spirit. You're warming my wings.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
-            "name": "Ember Spirit"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Winwyv_ally_12.mp3"
-        ],
-        "mp3Text": "Your disruptive influence is most welcome.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
-            "name": "Disruptor"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Winwyv_ally_13.mp3"
-        ],
-        "mp3Text": "Hello Maiden, and how fare the wolves of Icewrack.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-            "name": "Crystal Maiden"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Winwyv_ally_14.mp3"
-        ],
-        "mp3Text": "Ah, child, your eyes shine like the Blueheart Glacier.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-            "name": "Crystal Maiden"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_ally_15.mp3"
-        ],
-        "mp3Text": "Lina, you could learn a lot from your sister.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_ally_17.mp3"
-        ],
-        "mp3Text": "Greetings Io! Let's get up to some mischief together, shall we?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_ally_18.mp3"
-        ],
-        "mp3Text": "Dark Seer, you can vacuum up the mess I make.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
-            "name": "Dark Seer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_ally_19.mp3"
-        ],
-        "mp3Text": "In this world, nothing is certain but ice and axes.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_ally_20.mp3"
-        ],
-        "mp3Text": "Dear Axe, you and I go together like cold and steel.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
-            "name": "Axe"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Winwyv_ally_21.mp3"
-        ],
-        "mp3Text": "Well, Storm Spirit. Isn't this a wintry mix?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
-            "name": "Storm Spirit"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/25/Ancient_Apparition_minimap_icon.png/16px-Ancient_Apparition_minimap_icon.png?version=477ee6400ce4265a10f9a2d772258a55",
+        "name": "Ancient Apparition"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_ally_01.mp3"
+    ],
+    "mp3Text": "Feathered wings, Skywrath Mage? Is that really wise?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Winwyv_ally_02.mp3"
-        ],
-        "mp3Text": "Oh Elder Titan, you make me feel young.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
-            "name": "Elder Titan"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Skywrath_Mage_minimap_icon.png/16px-Skywrath_Mage_minimap_icon.png?version=64095d722ff38549a628fd0026c0c1c8",
+        "name": "Skywrath Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_ally_04.mp3"
+    ],
+    "mp3Text": "Abaddon, your presence helps dispel the fog of war.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/cc/Abaddon_minimap_icon.png/16px-Abaddon_minimap_icon.png?version=e13493f75a4dc43952ce089f195b9138",
+        "name": "Abaddon"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Winwyv_ally_05.mp3"
+    ],
+    "mp3Text": "Let's talk tactics another time, Tresdin.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Legion_Commander_minimap_icon.png/16px-Legion_Commander_minimap_icon.png?version=738f2c999028bd8165743d103a10dcb7",
+        "name": "Legion Commander"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Winwyv_ally_06.mp3"
+    ],
+    "mp3Text": "Ah, Tusk. Let's show them the chill of home.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Tusk_minimap_icon.png/16px-Tusk_minimap_icon.png?version=6ddee854111d88f1b59337255754a180",
+        "name": "Tusk"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_ally_07.mp3"
+    ],
+    "mp3Text": "The sky is on fire, Phoenix!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Winwyv_ally_08.mp3"
+    ],
+    "mp3Text": "Plant your mines where you will, Techies. I'll just fly over them.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0c/Techies_minimap_icon.png/16px-Techies_minimap_icon.png?version=f43cca7bd0527cf801c9107736496bfd",
+        "name": "Techies"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Winwyv_ally_09.mp3"
+    ],
+    "mp3Text": "Let us keep to the path of terror!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Terrorblade_minimap_icon.png/16px-Terrorblade_minimap_icon.png?version=f72c768332d2ef89d01a8b81482f3811",
+        "name": "Terrorblade"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_ally_10.mp3"
+    ],
+    "mp3Text": "Arc Warden, you have such a magnetic personality.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e9/Arc_Warden_minimap_icon.png/16px-Arc_Warden_minimap_icon.png?version=4bd74c631f884dddb6bcdfc0e0193d68",
+        "name": "Arc Warden"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_ally_11.mp3"
+    ],
+    "mp3Text": "Not so close, Ember Spirit. You're warming my wings.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
+        "name": "Ember Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Winwyv_ally_12.mp3"
+    ],
+    "mp3Text": "Your disruptive influence is most welcome.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b9/Disruptor_minimap_icon.png/16px-Disruptor_minimap_icon.png?version=5e01e16c6a75bdfa93a17c30ce5277e9",
+        "name": "Disruptor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Winwyv_ally_13.mp3"
+    ],
+    "mp3Text": "Hello Maiden, and how fare the wolves of Icewrack.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+        "name": "Crystal Maiden"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Winwyv_ally_14.mp3"
+    ],
+    "mp3Text": "Ah, child, your eyes shine like the Blueheart Glacier.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+        "name": "Crystal Maiden"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_ally_15.mp3"
+    ],
+    "mp3Text": "Lina, you could learn a lot from your sister.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_ally_17.mp3"
+    ],
+    "mp3Text": "Greetings Io! Let's get up to some mischief together, shall we?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_ally_18.mp3"
+    ],
+    "mp3Text": "Dark Seer, you can vacuum up the mess I make.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Dark_Seer_minimap_icon.png/16px-Dark_Seer_minimap_icon.png?version=ec1334300c8556df1723683d77aca910",
+        "name": "Dark Seer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_ally_19.mp3"
+    ],
+    "mp3Text": "In this world, nothing is certain but ice and axes.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_ally_20.mp3"
+    ],
+    "mp3Text": "Dear Axe, you and I go together like cold and steel.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Axe_minimap_icon.png/16px-Axe_minimap_icon.png?version=08c15a4e86feeaa0e8e849e3747c9556",
+        "name": "Axe"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Winwyv_ally_21.mp3"
+    ],
+    "mp3Text": "Well, Storm Spirit. Isn't this a wintry mix?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d6/Storm_Spirit_minimap_icon.png/16px-Storm_Spirit_minimap_icon.png?version=98975eac37142de36d781138efa9de3d",
+        "name": "Storm Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Winwyv_ally_02.mp3"
+    ],
+    "mp3Text": "Oh Elder Titan, you make me feel young.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
+        "name": "Elder Titan"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Winwyv_ally_03.mp3"
+    ],
+    "mp3Text": "Keep your flames under control in my presence.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Winwyv_ally_03.mp3"
-        ],
-        "mp3Text": "Keep your flames under control in my presence.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
-            "name": "Ember Spirit"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-            "name": "Shadow Fiend"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
-            "name": "Batrider"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
+        "name": "Ember Spirit"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+        "name": "Shadow Fiend"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Batrider_minimap_icon.png/16px-Batrider_minimap_icon.png?version=df3a24b4e4f24e15c712380fdac0040b",
+        "name": "Batrider"
       }
     ]
   },
@@ -1340,538 +1408,580 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_lasthit_01.mp3"
-        ],
-        "mp3Text": "For the Eldwurm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_lasthit_02.mp3"
-        ],
-        "mp3Text": "One for my hoard."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Winwyv_lasthit_03.mp3"
-        ],
-        "mp3Text": "Huh. Such a little one."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_lasthit_05.mp3"
-        ],
-        "mp3Text": "What a mite."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_lasthit_06.mp3"
-        ],
-        "mp3Text": "A tiny increase."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Winwyv_lasthit_07.mp3"
-        ],
-        "mp3Text": "Poor dear."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Winwyv_lasthit_08.mp3"
-        ],
-        "mp3Text": "Last and least."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Winwyv_lasthit_09.mp3"
-        ],
-        "mp3Text": "A winter wish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Winwyv_lasthit_10.mp3"
-        ],
-        "mp3Text": "Don't mind if I do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_lasthit_11.mp3"
-        ],
-        "mp3Text": "Why ever not? Hm hm hm hm hm hm hm hm hm hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Winwyv_lasthit_12.mp3"
-        ],
-        "mp3Text": "Cool."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_lasthit_13.mp3"
-        ],
-        "mp3Text": "Very cool."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Winwyv_lasthit_14.mp3"
-        ],
-        "mp3Text": "For the Eldwurm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_lasthit_15.mp3"
-        ],
-        "mp3Text": "Poor dear."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Winwyv_lasthit_16.mp3"
-        ],
-        "mp3Text": "Poor dear."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Winwyv_lasthit_17.mp3"
-        ],
-        "mp3Text": "That's cool."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_lasthit_01.mp3"
+    ],
+    "mp3Text": "For the Eldwurm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_lasthit_02.mp3"
+    ],
+    "mp3Text": "One for my hoard."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Winwyv_lasthit_03.mp3"
+    ],
+    "mp3Text": "Huh. Such a little one."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_lasthit_05.mp3"
+    ],
+    "mp3Text": "What a mite."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_lasthit_06.mp3"
+    ],
+    "mp3Text": "A tiny increase."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Winwyv_lasthit_07.mp3"
+    ],
+    "mp3Text": "Poor dear."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Winwyv_lasthit_08.mp3"
+    ],
+    "mp3Text": "Last and least."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Winwyv_lasthit_09.mp3"
+    ],
+    "mp3Text": "A winter wish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Winwyv_lasthit_10.mp3"
+    ],
+    "mp3Text": "Don't mind if I do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Winwyv_lasthit_11.mp3"
+    ],
+    "mp3Text": "Why ever not? Hm hm hm hm hm hm hm hm hm hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Winwyv_lasthit_12.mp3"
+    ],
+    "mp3Text": "Cool."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_lasthit_13.mp3"
+    ],
+    "mp3Text": "Very cool."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Winwyv_lasthit_14.mp3"
+    ],
+    "mp3Text": "For the Eldwurm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_lasthit_15.mp3"
+    ],
+    "mp3Text": "Poor dear."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Winwyv_lasthit_16.mp3"
+    ],
+    "mp3Text": "Poor dear."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Winwyv_lasthit_17.mp3"
+    ],
+    "mp3Text": "That's cool."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Winwyv_deny_03.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_deny_04.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_deny_05.mp3"
-        ],
-        "mp3Text": "You think I'm cold?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Winwyv_deny_06.mp3"
-        ],
-        "mp3Text": "Nothing for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_deny_08.mp3"
-        ],
-        "mp3Text": "Chill, baby."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Winwyv_deny_09.mp3"
-        ],
-        "mp3Text": "Not cool."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_deny_10.mp3"
-        ],
-        "mp3Text": "No, child."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Winwyv_deny_11.mp3"
-        ],
-        "mp3Text": "Mm mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Winwyv_deny_12.mp3"
-        ],
-        "mp3Text": "Wyvern's will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_deny_13.mp3"
-        ],
-        "mp3Text": "Uh uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Winwyv_deny_14.mp3"
-        ],
-        "mp3Text": "Hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Winwyv_deny_15.mp3"
-        ],
-        "mp3Text": "Zero for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_deny_16.mp3"
-        ],
-        "mp3Text": "Uh ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Winwyv_deny_17.mp3"
-        ],
-        "mp3Text": "Oh hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_deny_18.mp3"
-        ],
-        "mp3Text": "Oh ho ho ho hm"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Winwyv_deny_19.mp3"
-        ],
-        "mp3Text": "Oh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Winwyv_deny_20.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Winwyv_deny_21.mp3"
-        ],
-        "mp3Text": "Oh, nothing for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_deny_22.mp3"
-        ],
-        "mp3Text": "Ah! Ah ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Winwyv_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Winwyv_deny_03.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_deny_04.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Winwyv_deny_05.mp3"
+    ],
+    "mp3Text": "You think I'm cold?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Winwyv_deny_06.mp3"
+    ],
+    "mp3Text": "Nothing for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c5/Winwyv_deny_08.mp3"
+    ],
+    "mp3Text": "Chill, baby."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Winwyv_deny_09.mp3"
+    ],
+    "mp3Text": "Not cool."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/Winwyv_deny_10.mp3"
+    ],
+    "mp3Text": "No, child."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Winwyv_deny_11.mp3"
+    ],
+    "mp3Text": "Mm mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Winwyv_deny_12.mp3"
+    ],
+    "mp3Text": "Wyvern's will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_deny_13.mp3"
+    ],
+    "mp3Text": "Uh uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Winwyv_deny_14.mp3"
+    ],
+    "mp3Text": "Hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Winwyv_deny_15.mp3"
+    ],
+    "mp3Text": "Zero for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_deny_16.mp3"
+    ],
+    "mp3Text": "Uh ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Winwyv_deny_17.mp3"
+    ],
+    "mp3Text": "Oh hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_deny_18.mp3"
+    ],
+    "mp3Text": "Oh ho ho ho hm"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Winwyv_deny_19.mp3"
+    ],
+    "mp3Text": "Oh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Winwyv_deny_20.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Winwyv_deny_21.mp3"
+    ],
+    "mp3Text": "Oh, nothing for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Winwyv_deny_22.mp3"
+    ],
+    "mp3Text": "Ah! Ah ha ha ha ha."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Winwyv_purch_01.mp3"
-        ],
-        "mp3Text": "Twas worth a wyvern's hoard!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Winwyv_purch_02.mp3"
-        ],
-        "mp3Text": "This Eldwurm knows a bargain when she sees one."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_purch_03.mp3"
-        ],
-        "mp3Text": "Mine, all mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Winwyv_purch_01.mp3"
+    ],
+    "mp3Text": "Twas worth a wyvern's hoard!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Winwyv_purch_02.mp3"
+    ],
+    "mp3Text": "This Eldwurm knows a bargain when she sees one."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_purch_03.mp3"
+    ],
+    "mp3Text": "Mine, all mine."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Winwyv_scepter_02.mp3"
-        ],
-        "mp3Text": "Winter's wand.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_blink_02.mp3"
-        ],
-        "mp3Text": "Why fly when I can blink?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Winwyv_items_01.mp3"
-        ],
-        "mp3Text": "Urn of Shadows!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/58/Urn_of_Shadows_icon.png/20px-Urn_of_Shadows_icon.png?version=ce440a46be302d8c920bebab4b4cb16e",
-            "name": "Urn of Shadows (875)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Winwyv_items_02.mp3"
-        ],
-        "mp3Text": "Shadow Blade!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
-            "name": "Shadow Blade (2800)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_items_03.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_items_04.mp3"
-        ],
-        "mp3Text": "Scepter of Divinity!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Winwyv_items_05.mp3"
-        ],
-        "mp3Text": "Orchid Malevolence!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
-            "name": "Orchid Malevolence (4075)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_items_06.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_items_07.mp3"
-        ],
-        "mp3Text": "Mekansm!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-            "name": "Mekansm (2350)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Winwyv_items_17.mp3"
-        ],
-        "mp3Text": "Mm! Mekansm!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-            "name": "Mekansm (2350)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Winwyv_items_08.mp3"
-        ],
-        "mp3Text": "Pipe of Insight!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
-            "name": "Pipe of Insight (3150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Winwyv_items_11.mp3"
-        ],
-        "mp3Text": "Refresher!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
-            "name": "Refresher Orb (5100)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_items_12.mp3"
-        ],
-        "mp3Text": "Mm, Force Staff!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Winwyv_items_13.mp3"
-        ],
-        "mp3Text": "Eye of Skadi!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
-            "name": "Eye of Skadi (5500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Winwyv_items_14.mp3"
-        ],
-        "mp3Text": "Divine Rapier!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
-            "name": "Divine Rapier (6000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Winwyv_items_15.mp3"
-        ],
-        "mp3Text": "Mm, Daedalus!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
-            "name": "Daedalus (5330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_items_16.mp3"
-        ],
-        "mp3Text": "Mmhmm! Mjollnir!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
-            "name": "Mjollnir (5600)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Winwyv_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Winwyv_scepter_02.mp3"
+    ],
+    "mp3Text": "Winter's wand.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_items_10.mp3"
-        ],
-        "mp3Text": "Pipe of Inflight!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
-            "name": "Pipe of Insight (3150)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_immort_02.mp3"
-        ],
-        "mp3Text": "An Eldwurm never tells her age.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_blink_02.mp3"
+    ],
+    "mp3Text": "Why fly when I can blink?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Winwyv_items_01.mp3"
+    ],
+    "mp3Text": "Urn of Shadows!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/58/Urn_of_Shadows_icon.png/20px-Urn_of_Shadows_icon.png?version=ce440a46be302d8c920bebab4b4cb16e",
+        "name": "Urn of Shadows (875)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Winwyv_items_02.mp3"
+    ],
+    "mp3Text": "Shadow Blade!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
+        "name": "Shadow Blade (2800)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Winwyv_items_03.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_items_04.mp3"
+    ],
+    "mp3Text": "Scepter of Divinity!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Winwyv_items_05.mp3"
+    ],
+    "mp3Text": "Orchid Malevolence!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
+        "name": "Orchid Malevolence (4075)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Winwyv_items_06.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_items_07.mp3"
+    ],
+    "mp3Text": "Mekansm!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+        "name": "Mekansm (2350)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Winwyv_items_17.mp3"
+    ],
+    "mp3Text": "Mm! Mekansm!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+        "name": "Mekansm (2350)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Winwyv_items_08.mp3"
+    ],
+    "mp3Text": "Pipe of Insight!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
+        "name": "Pipe of Insight (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Winwyv_items_11.mp3"
+    ],
+    "mp3Text": "Refresher!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
+        "name": "Refresher Orb (5100)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_items_12.mp3"
+    ],
+    "mp3Text": "Mm, Force Staff!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Winwyv_items_13.mp3"
+    ],
+    "mp3Text": "Eye of Skadi!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
+        "name": "Eye of Skadi (5500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Winwyv_items_14.mp3"
+    ],
+    "mp3Text": "Divine Rapier!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
+        "name": "Divine Rapier (6000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Winwyv_items_15.mp3"
+    ],
+    "mp3Text": "Mm, Daedalus!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
+        "name": "Daedalus (5330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_items_16.mp3"
+    ],
+    "mp3Text": "Mmhmm! Mjollnir!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
+        "name": "Mjollnir (5600)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Winwyv_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Winwyv_items_10.mp3"
+    ],
+    "mp3Text": "Pipe of Inflight!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Pipe_of_Insight_icon.png/20px-Pipe_of_Insight_icon.png?version=e35f1715da2b6d889a9a818d728efe1c",
+        "name": "Pipe of Insight (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_immort_02.mp3"
+    ],
+    "mp3Text": "An Eldwurm never tells her age.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1880,216 +1990,226 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Winwyv_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_death_02.mp3"
-        ],
-        "mp3Text": "Why oh why!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Winwyv_death_03.mp3"
-        ],
-        "mp3Text": "Fall into the fire!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_death_04.mp3"
-        ],
-        "mp3Text": "You'll never find my hoard!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_death_05.mp3"
-        ],
-        "mp3Text": "The last of the Eldwurms!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Winwyv_death_06.mp3"
-        ],
-        "mp3Text": "So far from my roost!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_death_09.mp3"
-        ],
-        "mp3Text": "That was not wise!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Winwyv_death_10.mp3"
-        ],
-        "mp3Text": "Fancy that, huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Winwyv_death_11.mp3"
-        ],
-        "mp3Text": "Who will keep the Eldwurm's Edda now?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Winwyv_death_12.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_death_13.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Winwyv_death_15.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_death_16.mp3"
-        ],
-        "mp3Text": "Why oh why!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Winwyv_death_01.mp3"
+    ],
+    "mp3Text": "No!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_death_07.mp3"
-        ],
-        "mp3Text": "Winds of winter carry me home!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_death_08.mp3"
-        ],
-        "mp3Text": "I'm melting!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Winwyv_death_14.mp3"
-        ],
-        "mp3Text": "Winds of winter carry me home!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_death_02.mp3"
+    ],
+    "mp3Text": "Why oh why!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Winwyv_death_03.mp3"
+    ],
+    "mp3Text": "Fall into the fire!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_death_04.mp3"
+    ],
+    "mp3Text": "You'll never find my hoard!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_death_05.mp3"
+    ],
+    "mp3Text": "The last of the Eldwurms!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Winwyv_death_06.mp3"
+    ],
+    "mp3Text": "So far from my roost!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_death_09.mp3"
+    ],
+    "mp3Text": "That was not wise!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Winwyv_death_10.mp3"
+    ],
+    "mp3Text": "Fancy that, huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Winwyv_death_11.mp3"
+    ],
+    "mp3Text": "Who will keep the Eldwurm's Edda now?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Winwyv_death_12.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_death_13.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Winwyv_death_15.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Winwyv_death_16.mp3"
+    ],
+    "mp3Text": "Why oh why!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_death_07.mp3"
+    ],
+    "mp3Text": "Winds of winter carry me home!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_death_08.mp3"
+    ],
+    "mp3Text": "I'm melting!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Winwyv_death_14.mp3"
+    ],
+    "mp3Text": "Winds of winter carry me home!"
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_respawn_01.mp3"
-        ],
-        "mp3Text": "An Eldwurm keeps her promise to return."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_respawn_02.mp3"
-        ],
-        "mp3Text": "I bring the breath of winter to the field of war."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Winwyv_respawn_03.mp3"
-        ],
-        "mp3Text": "War and winter travel wing in wing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Winwyv_respawn_04.mp3"
-        ],
-        "mp3Text": "I'll not abandon my friends to a world without winter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Winwyv_respawn_05.mp3"
-        ],
-        "mp3Text": "Back to the roost well rested."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Winwyv_respawn_06.mp3"
-        ],
-        "mp3Text": "The winter wurm has turned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Winwyv_respawn_07.mp3"
-        ],
-        "mp3Text": "That gave me a little time to work on the Edda."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Winwyv_respawn_10.mp3"
-        ],
-        "mp3Text": "Cold wings, warm heart.!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Winwyv_respawn_11.mp3"
-        ],
-        "mp3Text": "Who's been at my hoard?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Winwyv_respawn_12.mp3"
-        ],
-        "mp3Text": "Let me just quickly count my treasure and I'll be off."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_respawn_01.mp3"
+    ],
+    "mp3Text": "An Eldwurm keeps her promise to return."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Winwyv_respawn_02.mp3"
+    ],
+    "mp3Text": "I bring the breath of winter to the field of war."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Winwyv_respawn_03.mp3"
+    ],
+    "mp3Text": "War and winter travel wing in wing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Winwyv_respawn_04.mp3"
+    ],
+    "mp3Text": "I'll not abandon my friends to a world without winter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Winwyv_respawn_05.mp3"
+    ],
+    "mp3Text": "Back to the roost well rested."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Winwyv_respawn_06.mp3"
+    ],
+    "mp3Text": "The winter wurm has turned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Winwyv_respawn_07.mp3"
+    ],
+    "mp3Text": "That gave me a little time to work on the Edda."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Winwyv_respawn_10.mp3"
+    ],
+    "mp3Text": "Cold wings, warm heart.!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Winwyv_respawn_11.mp3"
+    ],
+    "mp3Text": "Who's been at my hoard?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Winwyv_respawn_12.mp3"
+    ],
+    "mp3Text": "Let me just quickly count my treasure and I'll be off."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_fastres_01.mp3"
-        ],
-        "mp3Text": "In a cold blast, I'm back!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Winwyv_fastres_01.mp3"
+    ],
+    "mp3Text": "In a cold blast, I'm back!"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Winwyv_bottle_01.mp3"
-        ],
-        "mp3Text": "I'll keep this on ice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Winwyv_bottle_02.mp3"
-        ],
-        "mp3Text": "A cold flask."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Winwyv_bottle_03.mp3"
-        ],
-        "mp3Text": "Mm, patience."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Winwyv_bottle_01.mp3"
+    ],
+    "mp3Text": "I'll keep this on ice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Winwyv_bottle_02.mp3"
+    ],
+    "mp3Text": "A cold flask."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Winwyv_bottle_03.mp3"
+    ],
+    "mp3Text": "Mm, patience."
   },
   {
     "headTitle": "Activating runes",
@@ -2101,14 +2221,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_purch_03.mp3"
-        ],
-        "mp3Text": "Mine, all mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Winwyv_purch_03.mp3"
+    ],
+    "mp3Text": "Mine, all mine."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -2116,14 +2233,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Winwyv_lasthit_10.mp3"
-        ],
-        "mp3Text": "Don't mind if I do."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Winwyv_lasthit_10.mp3"
+    ],
+    "mp3Text": "Don't mind if I do."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -2131,24 +2245,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Winwyv_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Winwyv_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_doubdam_02.mp3"
-        ],
-        "mp3Text": "Twin wings of damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_doubdam_02.mp3"
+    ],
+    "mp3Text": "Twin wings of damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -2156,24 +2264,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_haste_01.mp3"
-        ],
-        "mp3Text": "Haste"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_haste_01.mp3"
+    ],
+    "mp3Text": "Haste"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_haste_02.mp3"
-        ],
-        "mp3Text": "Cold wings carry me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Winwyv_haste_02.mp3"
+    ],
+    "mp3Text": "Cold wings carry me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -2181,14 +2283,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Winwyv_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2196,24 +2295,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_invis_02.mp3"
-        ],
-        "mp3Text": "I'll cloud their minds."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Winwyv_invis_02.mp3"
+    ],
+    "mp3Text": "I'll cloud their minds."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2221,24 +2314,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/Winwyv_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Winwyv_regen_02.mp3"
-        ],
-        "mp3Text": "An icy chill restores me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Winwyv_regen_02.mp3"
+    ],
+    "mp3Text": "An icy chill restores me."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2249,78 +2336,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Winwyv_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_notyet_04.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Winwyv_notyet_07.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Winwyv_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Winwyv_notyet_04.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Winwyv_notyet_07.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Winwyv_notyet_03.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Winwyv_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Winwyv_notyet_08.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Winwyv_notyet_03.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Winwyv_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Winwyv_notyet_08.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Winwyv_notyet_06.mp3"
-        ],
-        "mp3Text": "I'm not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Winwyv_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Winwyv_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Winwyv_notyet_06.mp3"
+    ],
+    "mp3Text": "I'm not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Winwyv_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2331,174 +2415,177 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Winwyv_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Winwyv_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Winwyv_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Winwyv_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Winwyv_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Winwyv_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Winwyv_nomana_02.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Winwyv_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Winwyv_nomana_08.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Winwyv_nomana_02.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Winwyv_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Winwyv_nomana_08.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_nomana_03.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Winwyv_nomana_06.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Winwyv_nomana_03.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Winwyv_nomana_06.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_pain_01.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Winwyv_pain_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Winwyv_pain_03.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Winwyv_pain_04.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Winwyv_pain_05.mp3"
-        ],
-        "mp3Text": "Hh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_pain_06.mp3"
-        ],
-        "mp3Text": "Hh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Winwyv_pain_07.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Winwyv_pain_08.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_pain_09.mp3"
-        ],
-        "mp3Text": "Oh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_pain_10.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Winwyv_pain_11.mp3"
-        ],
-        "mp3Text": "Ooh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_pain_12.mp3"
-        ],
-        "mp3Text": "Uh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_pain_13.mp3"
-        ],
-        "mp3Text": "Mm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_pain_01.mp3"
+    ],
+    "mp3Text": "Oh!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Winwyv_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Winwyv_pain_02.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Winwyv_pain_03.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Winwyv_pain_04.mp3"
+    ],
+    "mp3Text": "Oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Winwyv_pain_05.mp3"
+    ],
+    "mp3Text": "Hh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_pain_06.mp3"
+    ],
+    "mp3Text": "Hh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Winwyv_pain_07.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Winwyv_pain_08.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_pain_09.mp3"
+    ],
+    "mp3Text": "Oh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Winwyv_pain_10.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Winwyv_pain_11.mp3"
+    ],
+    "mp3Text": "Ooh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Winwyv_pain_12.mp3"
+    ],
+    "mp3Text": "Uh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Winwyv_pain_13.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Winwyv_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2509,44 +2596,46 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Winwyv_cast_02.mp3"
-        ],
-        "mp3Text": "I'm not just an Eldwurm, I'm the eldest wurm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Winwyv_rare_01.mp3"
-        ],
-        "mp3Text": "Spring dare not show its face when I'm around."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Winwyv_rare_02.mp3"
-        ],
-        "mp3Text": "Winter is coming. Winter wyvern that is."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_rare_03.mp3"
-        ],
-        "mp3Text": "Wyvern? Why not."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Winwyv_rare_04.mp3"
-        ],
-        "mp3Text": "I saw this field from where the Eldwurms roost and knew one day it would cool beneath my shadow."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_rare_05.mp3"
-        ],
-        "mp3Text": "How old am I? We speak of sage dragons. Not of a dragon's age."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Winwyv_cast_02.mp3"
+    ],
+    "mp3Text": "I'm not just an Eldwurm, I'm the eldest wurm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Winwyv_rare_01.mp3"
+    ],
+    "mp3Text": "Spring dare not show its face when I'm around."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Winwyv_rare_02.mp3"
+    ],
+    "mp3Text": "Winter is coming. Winter wyvern that is."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Winwyv_rare_03.mp3"
+    ],
+    "mp3Text": "Wyvern? Why not."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Winwyv_rare_04.mp3"
+    ],
+    "mp3Text": "I saw this field from where the Eldwurms roost and knew one day it would cool beneath my shadow."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Winwyv_rare_05.mp3"
+    ],
+    "mp3Text": "How old am I? We speak of sage dragons. Not of a dragon's age."
   },
   {
     "headTitle": "Chat responses",
@@ -2557,132 +2646,138 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Winwyv_lanemissing_01.mp3"
-        ],
-        "mp3Text": "Missing top"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Winwyv_lanemissing_02.mp3"
-        ],
-        "mp3Text": "Top is missing"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Winwyv_lanemissing_03.mp3"
-        ],
-        "mp3Text": "Missing middle"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Winwyv_lanemissing_04.mp3"
-        ],
-        "mp3Text": "Middle is missing"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Winwyv_lanemissing_05.mp3"
-        ],
-        "mp3Text": "Missing bottom"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Winwyv_lanemissing_06.mp3"
-        ],
-        "mp3Text": "Bottom is missing"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Winwyv_lanemissing_01.mp3"
+    ],
+    "mp3Text": "Missing top"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Winwyv_lanemissing_02.mp3"
+    ],
+    "mp3Text": "Top is missing"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Winwyv_lanemissing_03.mp3"
+    ],
+    "mp3Text": "Missing middle"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Winwyv_lanemissing_04.mp3"
+    ],
+    "mp3Text": "Middle is missing"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Winwyv_lanemissing_05.mp3"
+    ],
+    "mp3Text": "Missing bottom"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Winwyv_lanemissing_06.mp3"
+    ],
+    "mp3Text": "Bottom is missing"
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Winwyv_thanks_01.mp3"
-        ],
-        "mp3Text": "Wonderful!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_thanks_02.mp3"
-        ],
-        "mp3Text": "You've earned a wyvern's gratitude."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Winwyv_thanks_03.mp3"
-        ],
-        "mp3Text": "Thank you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_thanks_04.mp3"
-        ],
-        "mp3Text": "You're wonderful."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Winwyv_thanks_01.mp3"
+    ],
+    "mp3Text": "Wonderful!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Winwyv_thanks_02.mp3"
+    ],
+    "mp3Text": "You've earned a wyvern's gratitude."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Winwyv_thanks_03.mp3"
+    ],
+    "mp3Text": "Thank you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Winwyv_thanks_04.mp3"
+    ],
+    "mp3Text": "You're wonderful."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Winwyv_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha! Oh ho ho ho ho hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_03.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_laugh_06.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_laugh_07.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_laugh_08.mp3"
-        ],
-        "mp3Text": "Mm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_laugh_09.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_10.mp3"
-        ],
-        "mp3Text": "Oh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Winwyv_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha! Oh ho ho ho ho hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_03.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Winwyv_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Winwyv_laugh_06.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Winwyv_laugh_07.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Winwyv_laugh_08.mp3"
+    ],
+    "mp3Text": "Mm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Winwyv_laugh_09.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Winwyv_laugh_10.mp3"
+    ],
+    "mp3Text": "Oh."
   },
   {
     "headTitle": "Match end",
@@ -2693,62 +2788,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Winwyv_respawn_09.mp3"
-        ],
-        "mp3Text": "From subzero to hero."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Winwyv_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Winwyv_respawn_09.mp3"
+    ],
+    "mp3Text": "From subzero to hero."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Winwyv_win_03.mp3"
-        ],
-        "mp3Text": "This day shall be hailed in the Eldwurm Eddas!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Winwyv_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Winwyv_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Winwyv_win_03.mp3"
+    ],
+    "mp3Text": "This day shall be hailed in the Eldwurm Eddas!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Winwyv_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_lose_02.mp3"
-        ],
-        "mp3Text": "Ah! Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_lose_03.mp3"
-        ],
-        "mp3Text": "You have made an Eldwurm very disappointed!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Winwyv_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Winwyv_lose_02.mp3"
+    ],
+    "mp3Text": "Ah! Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Winwyv_lose_03.mp3"
+    ],
+    "mp3Text": "You have made an Eldwurm very disappointed!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2759,41 +2849,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_itemcommon_01.mp3"
-        ],
-        "mp3Text": "Mm, a shiny for my ever-growing hoard!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Winwyv_itemcommon_01.mp3"
+    ],
+    "mp3Text": "Mm, a shiny for my ever-growing hoard!"
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Winwyv_itemmoderate_01.mp3"
-        ],
-        "mp3Text": "The fates have been kind to this frosty old Eldwurm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Winwyv_itemmoderate_01.mp3"
+    ],
+    "mp3Text": "The fates have been kind to this frosty old Eldwurm!"
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Winwyv_itemrare_01.mp3"
-        ],
-        "mp3Text": "I'm putting this on the very tip top of my mountainous hoard!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Winwyv_itemrare_01.mp3"
+    ],
+    "mp3Text": "I'm putting this on the very tip top of my mountainous hoard!"
   }
 ]

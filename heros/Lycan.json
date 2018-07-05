@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Nolan_North",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4f/Lycan_minimap_icon.png/20px-Lycan_minimap_icon.png?version=090b8f36d0e612b8f0b24cfff697e59d",
     "heroName": "Lycan",
-    "href": "https://dota2.gamepedia.com/Lycan/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/lycan_full.png",
     "primaryAttribute": "Strength",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/lycan.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
-        ],
-        "mp3Text": "Lycan!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_spawn_02.mp3"
-        ],
-        "mp3Text": "A wolf in man's clothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_spawn_03.mp3"
-        ],
-        "mp3Text": "Who keeps the company of wolves?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Lycan_spawn_04.mp3"
-        ],
-        "mp3Text": "The rogue wolf comes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_battlebegins_02.mp3"
-        ],
-        "mp3Text": "The trails will run red."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Lycan_ability_summon_04.mp3"
-        ],
-        "mp3Text": "In the company of wolves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Lycan_level_05.mp3"
-        ],
-        "mp3Text": "I am the alpha wolf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_respawn_06.mp3"
-        ],
-        "mp3Text": "The wolf rises."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_wolf_move_11.mp3"
-        ],
-        "mp3Text": "I lope to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_12.mp3"
-        ],
-        "mp3Text": "Fealty to none."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_wolf_move_14.mp3"
-        ],
-        "mp3Text": "Called to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_wolf_move_18.mp3"
-        ],
-        "mp3Text": "Beware the wolf."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
+    ],
+    "mp3Text": "Lycan!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_spawn_02.mp3"
+    ],
+    "mp3Text": "A wolf in man's clothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_spawn_03.mp3"
+    ],
+    "mp3Text": "Who keeps the company of wolves?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Lycan_spawn_04.mp3"
+    ],
+    "mp3Text": "The rogue wolf comes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_battlebegins_02.mp3"
+    ],
+    "mp3Text": "The trails will run red."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Lycan_ability_summon_04.mp3"
+    ],
+    "mp3Text": "In the company of wolves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Lycan_level_05.mp3"
+    ],
+    "mp3Text": "I am the alpha wolf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_respawn_06.mp3"
+    ],
+    "mp3Text": "The wolf rises."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_wolf_move_11.mp3"
+    ],
+    "mp3Text": "I lope to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_12.mp3"
+    ],
+    "mp3Text": "Fealty to none."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_wolf_move_14.mp3"
+    ],
+    "mp3Text": "Called to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_wolf_move_18.mp3"
+    ],
+    "mp3Text": "Beware the wolf."
   },
   {
     "headTitle": "Drafting",
@@ -101,335 +108,343 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
-        ],
-        "mp3Text": "Lycan!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
+    ],
+    "mp3Text": "Lycan!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Lycan_anger_03.mp3"
-        ],
-        "mp3Text": "Grr."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Lycan_anger_03.mp3"
+    ],
+    "mp3Text": "Grr."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
-        ],
-        "mp3Text": "Lycan!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_spawn_02.mp3"
-        ],
-        "mp3Text": "A wolf in man's clothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_spawn_03.mp3"
-        ],
-        "mp3Text": "Who keeps the company of wolves?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Lycan_spawn_04.mp3"
-        ],
-        "mp3Text": "The rogue wolf comes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_spawn_01.mp3"
+    ],
+    "mp3Text": "Lycan!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_spawn_02.mp3"
+    ],
+    "mp3Text": "A wolf in man's clothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_spawn_03.mp3"
+    ],
+    "mp3Text": "Who keeps the company of wolves?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Lycan_spawn_04.mp3"
+    ],
+    "mp3Text": "The rogue wolf comes."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_inthebag_01.mp3"
-        ],
-        "mp3Text": "I assure you that this one is in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_inthebag_01.mp3"
+    ],
+    "mp3Text": "I assure you that this one is in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Lycan_battlebegins_01.mp3"
-        ],
-        "mp3Text": "Ha! The savagery starts now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_battlebegins_02.mp3"
-        ],
-        "mp3Text": "The trails will run red."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Lycan_battlebegins_01.mp3"
+    ],
+    "mp3Text": "Ha! The savagery starts now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_battlebegins_02.mp3"
+    ],
+    "mp3Text": "The trails will run red."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_move_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Lycan_wolf_move_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Lycan_move_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_wolf_move_02.mp3"
-        ],
-        "mp3Text": "Uh! / Grraf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_move_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Lycan_wolf_move_03.mp3"
-        ],
-        "mp3Text": "Ah! / Rorf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_move_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Lycan_wolf_move_04.mp3"
-        ],
-        "mp3Text": "The wolf runs."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_move_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Lycan_wolf_move_05.mp3"
-        ],
-        "mp3Text": "So you say."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Lycan_move_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lycan_wolf_move_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Lycan_wolf_move_07.mp3"
-        ],
-        "mp3Text": "Hunting."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Lycan_move_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Lycan_wolf_move_08.mp3"
-        ],
-        "mp3Text": "As it please you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Lycan_move_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Lycan_wolf_move_09.mp3"
-        ],
-        "mp3Text": "Onward. / Onwards."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Lycan_move_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_10.mp3"
-        ],
-        "mp3Text": "Of course."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Lycan_move_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_wolf_move_11.mp3"
-        ],
-        "mp3Text": "I lope to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_move_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_12.mp3"
-        ],
-        "mp3Text": "Fealty to none."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_move_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_wolf_move_13.mp3"
-        ],
-        "mp3Text": "On the trail."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Lycan_move_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_wolf_move_14.mp3"
-        ],
-        "mp3Text": "Call to battle. / Called to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_move_14.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_wolf_move_15.mp3"
-        ],
-        "mp3Text": "Indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Lycan_move_15.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Lycan_wolf_move_16.mp3"
-        ],
-        "mp3Text": "As must be."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Lycan_move_16.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Lycan_wolf_move_17.mp3"
-        ],
-        "mp3Text": "Ah, my instincts are keen. / My instincts are keen."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Lycan_move_17.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_wolf_move_18.mp3"
-        ],
-        "mp3Text": "Beware the wolf."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_move_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Lycan_wolf_move_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Lycan_move_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_wolf_move_02.mp3"
+    ],
+    "mp3Text": "Uh! / Grraf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_move_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Lycan_wolf_move_03.mp3"
+    ],
+    "mp3Text": "Ah! / Rorf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_move_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Lycan_wolf_move_04.mp3"
+    ],
+    "mp3Text": "The wolf runs."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_move_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Lycan_wolf_move_05.mp3"
+    ],
+    "mp3Text": "So you say."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Lycan_move_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lycan_wolf_move_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Lycan_wolf_move_07.mp3"
+    ],
+    "mp3Text": "Hunting."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Lycan_move_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Lycan_wolf_move_08.mp3"
+    ],
+    "mp3Text": "As it please you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Lycan_move_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Lycan_wolf_move_09.mp3"
+    ],
+    "mp3Text": "Onward. / Onwards."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Lycan_move_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_10.mp3"
+    ],
+    "mp3Text": "Of course."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Lycan_move_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_wolf_move_11.mp3"
+    ],
+    "mp3Text": "I lope to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_move_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Lycan_wolf_move_12.mp3"
+    ],
+    "mp3Text": "Fealty to none."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_move_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_wolf_move_13.mp3"
+    ],
+    "mp3Text": "On the trail."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Lycan_move_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_wolf_move_14.mp3"
+    ],
+    "mp3Text": "Call to battle. / Called to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_move_14.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Lycan_wolf_move_15.mp3"
+    ],
+    "mp3Text": "Indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Lycan_move_15.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Lycan_wolf_move_16.mp3"
+    ],
+    "mp3Text": "As must be."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Lycan_move_16.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Lycan_wolf_move_17.mp3"
+    ],
+    "mp3Text": "Ah, my instincts are keen. / My instincts are keen."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Lycan_move_17.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_wolf_move_18.mp3"
+    ],
+    "mp3Text": "Beware the wolf."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_attack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Lycan_wolf_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Lycan_attack_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_wolf_attack_02.mp3"
-        ],
-        "mp3Text": "The wolf is at your door."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Lycan_attack_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_wolf_attack_03.mp3"
-        ],
-        "mp3Text": "Tooth and nail."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Lycan_attack_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Lycan_wolf_attack_04.mp3"
-        ],
-        "mp3Text": "Rip your throat. / Ripped your throat."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Lycan_attack_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Lycan_wolf_attack_05.mp3"
-        ],
-        "mp3Text": "Wolves need no armor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Lycan_attack_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Lycan_wolf_attack_06.mp3"
-        ],
-        "mp3Text": "For the honor of my house."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Lycan_attack_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Lycan_wolf_attack_07.mp3"
-        ],
-        "mp3Text": "In my father's name."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Lycan_attack_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Lycan_wolf_attack_08.mp3"
-        ],
-        "mp3Text": "I rip your flesh. / I ribbon your flesh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Lycan_attack_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Lycan_wolf_attack_09.mp3"
-        ],
-        "mp3Text": "Rent asunder."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Lycan_attack_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_wolf_attack_10.mp3"
-        ],
-        "mp3Text": "Shredded."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_attack_11.mp3"
-        ],
-        "mp3Text": "In savage fury."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_attack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Lycan_wolf_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Lycan_attack_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_wolf_attack_02.mp3"
+    ],
+    "mp3Text": "The wolf is at your door."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Lycan_attack_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_wolf_attack_03.mp3"
+    ],
+    "mp3Text": "Tooth and nail."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Lycan_attack_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Lycan_wolf_attack_04.mp3"
+    ],
+    "mp3Text": "Rip your throat. / Ripped your throat."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Lycan_attack_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Lycan_wolf_attack_05.mp3"
+    ],
+    "mp3Text": "Wolves need no armor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Lycan_attack_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Lycan_wolf_attack_06.mp3"
+    ],
+    "mp3Text": "For the honor of my house."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Lycan_attack_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Lycan_wolf_attack_07.mp3"
+    ],
+    "mp3Text": "In my father's name."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Lycan_attack_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Lycan_wolf_attack_08.mp3"
+    ],
+    "mp3Text": "I rip your flesh. / I ribbon your flesh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Lycan_attack_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Lycan_wolf_attack_09.mp3"
+    ],
+    "mp3Text": "Rent asunder."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Lycan_attack_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_wolf_attack_10.mp3"
+    ],
+    "mp3Text": "Shredded."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_attack_11.mp3"
+    ],
+    "mp3Text": "In savage fury."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Lycan_cast_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Lycan_wolf_cast_01.mp3"
-        ],
-        "mp3Text": "Careful now, I bite."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Lycan_cast_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Lycan_wolf_cast_02.mp3"
-        ],
-        "mp3Text": "I've taken a Lycan to you. Ha ha ha ha ha. / I've taken a Lycan to you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Lycan_cast_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_wolf_cast_03.mp3"
-        ],
-        "mp3Text": "On your trail."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Lycan_cast_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Lycan_wolf_cast_01.mp3"
+    ],
+    "mp3Text": "Careful now, I bite."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/Lycan_cast_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Lycan_wolf_cast_02.mp3"
+    ],
+    "mp3Text": "I've taken a Lycan to you. Ha ha ha ha ha. / I've taken a Lycan to you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Lycan_cast_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_wolf_cast_03.mp3"
+    ],
+    "mp3Text": "On your trail."
   },
   {
     "headTitle": "Abilities",
@@ -445,26 +460,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Lycan_ability_summon_03.mp3"
-        ],
-        "mp3Text": "Gather, wolves!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_ability_summon_05.mp3"
-        ],
-        "mp3Text": "Now my wolves will feast."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_ability_summon_06.mp3"
-        ],
-        "mp3Text": "Gather, wolves!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Lycan_ability_summon_03.mp3"
+    ],
+    "mp3Text": "Gather, wolves!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Lycan_ability_summon_05.mp3"
+    ],
+    "mp3Text": "Now my wolves will feast."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_ability_summon_06.mp3"
+    ],
+    "mp3Text": "Gather, wolves!"
   },
   {
     "voices": []
@@ -483,520 +497,559 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_ally_03.mp3"
-        ],
-        "mp3Text": "Run with me brother."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_ally_04.mp3"
-        ],
-        "mp3Text": "Welcome to the pack."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_ally_05.mp3"
-        ],
-        "mp3Text": "We are pack brothers now."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_ally_03.mp3"
+    ],
+    "mp3Text": "Run with me brother."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_ally_04.mp3"
+    ],
+    "mp3Text": "Welcome to the pack."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_ally_05.mp3"
+    ],
+    "mp3Text": "We are pack brothers now."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Lycan_level_01.mp3"
-        ],
-        "mp3Text": "A shift in power!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_level_02.mp3"
-        ],
-        "mp3Text": "Metamorphosis!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_level_03.mp3"
-        ],
-        "mp3Text": "The honor of my house increases."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_level_04.mp3"
-        ],
-        "mp3Text": "My territory expands."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Lycan_level_05.mp3"
-        ],
-        "mp3Text": "I am the alpha wolf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_laugh_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Lycan_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_laugh_12.mp3"
-        ],
-        "mp3Text": "Mm ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Lycan_level_01.mp3"
+    ],
+    "mp3Text": "A shift in power!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_level_02.mp3"
+    ],
+    "mp3Text": "Metamorphosis!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_level_03.mp3"
+    ],
+    "mp3Text": "The honor of my house increases."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_level_04.mp3"
+    ],
+    "mp3Text": "My territory expands."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Lycan_level_05.mp3"
+    ],
+    "mp3Text": "I am the alpha wolf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_laugh_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Lycan_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_laugh_12.mp3"
+    ],
+    "mp3Text": "Mm ha ha ha ha ha ha."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Lycan_kill_01.mp3"
-        ],
-        "mp3Text": "Ha! That was a mauling."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_kill_02.mp3"
-        ],
-        "mp3Text": "Tasty morsel."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Lycan_kill_03.mp3"
-        ],
-        "mp3Text": "You die by the House of Ambry."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Lycan_kill_04.mp3"
-        ],
-        "mp3Text": "You fought well and true."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Lycan_kill_05.mp3"
-        ],
-        "mp3Text": "Tis no dishonor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_kill_06.mp3"
-        ],
-        "mp3Text": "May your house long record your name."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Lycan_kill_07.mp3"
-        ],
-        "mp3Text": "Thrown to the wolves. He he he he heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_kill_08.mp3"
-        ],
-        "mp3Text": "Avengement is mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Lycan_kill_09.mp3"
-        ],
-        "mp3Text": "In my father's name I strike you down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Lycan_kill_10.mp3"
-        ],
-        "mp3Text": "I shake your corpse in my jaws."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Lycan_kill_11.mp3"
-        ],
-        "mp3Text": "My claws bathe in your blood."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Lycan_kill_12.mp3"
-        ],
-        "mp3Text": "The alpha wolf is your omega."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Lycan_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Lycan_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_laugh_03.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Lycan_laugh_06.mp3"
-        ],
-        "mp3Text": "He he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_laugh_07.mp3"
-        ],
-        "mp3Text": "He he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_laugh_08.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha…heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_laugh_13.mp3"
-        ],
-        "mp3Text": "Eh he he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Lycan_laugh_14.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_laugh_15.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_laugh_16.mp3"
-        ],
-        "mp3Text": "Eh he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Lycan_laugh_17.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Lycan_kill_01.mp3"
+    ],
+    "mp3Text": "Ha! That was a mauling."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_kill_02.mp3"
+    ],
+    "mp3Text": "Tasty morsel."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Lycan_kill_03.mp3"
+    ],
+    "mp3Text": "You die by the House of Ambry."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Lycan_kill_04.mp3"
+    ],
+    "mp3Text": "You fought well and true."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Lycan_kill_05.mp3"
+    ],
+    "mp3Text": "Tis no dishonor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_kill_06.mp3"
+    ],
+    "mp3Text": "May your house long record your name."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Lycan_kill_07.mp3"
+    ],
+    "mp3Text": "Thrown to the wolves. He he he he heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_kill_08.mp3"
+    ],
+    "mp3Text": "Avengement is mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Lycan_kill_09.mp3"
+    ],
+    "mp3Text": "In my father's name I strike you down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/Lycan_kill_10.mp3"
+    ],
+    "mp3Text": "I shake your corpse in my jaws."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Lycan_kill_11.mp3"
+    ],
+    "mp3Text": "My claws bathe in your blood."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Lycan_kill_12.mp3"
+    ],
+    "mp3Text": "The alpha wolf is your omega."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Lycan_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Lycan_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_laugh_03.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Lycan_laugh_06.mp3"
+    ],
+    "mp3Text": "He he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_laugh_07.mp3"
+    ],
+    "mp3Text": "He he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_laugh_08.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha…heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_laugh_13.mp3"
+    ],
+    "mp3Text": "Eh he he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Lycan_laugh_14.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_laugh_15.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_laugh_16.mp3"
+    ],
+    "mp3Text": "Eh he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Lycan_laugh_17.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Lycan_rival_01.mp3"
+    ],
+    "mp3Text": "Shapeshift your way out of that!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Lycan_rival_01.mp3"
-        ],
-        "mp3Text": "Shapeshift your way out of that!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Lycan_rival_02.mp3"
-        ],
-        "mp3Text": "You shift into death.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lycan_rival_03.mp3"
-        ],
-        "mp3Text": "Even shapeshifting can't help you now.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Lycan_rival_04.mp3"
-        ],
-        "mp3Text": "Were you bear conjured into man, or man conjured into bear?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Lycan_rival_05.mp3"
-        ],
-        "mp3Text": "Ha, bears are no match for the cunning of wolves.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Lycan_rival_06.mp3"
-        ],
-        "mp3Text": "What bears do with strength, a wolf does with cunning.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
-            "name": "Ursa"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Lycan_rival_12.mp3"
-        ],
-        "mp3Text": "Your pelt shall make a fine rug.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
-            "name": "Ursa"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Lycan_rival_09.mp3"
-        ],
-        "mp3Text": "Look who's silent now.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-            "name": "Silencer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Lycan_rival_10.mp3"
-        ],
-        "mp3Text": "You were no master of me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5c/Beastmaster_minimap_icon.png/16px-Beastmaster_minimap_icon.png?version=63ad89be49d1b262a443f200c6eaea1f",
-            "name": "Beastmaster"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Lycan_rival_11.mp3"
-        ],
-        "mp3Text": "You crumble like the kingdom of Slom.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
-            "name": "Tiny"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Lycan_rival_14.mp3"
-        ],
-        "mp3Text": "All those eyes and you didn't see me coming.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
-            "name": "Broodmother"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Lycan_rival_15.mp3"
-        ],
-        "mp3Text": "Tis no treason to kill a tyrant king.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Lycan_rival_16.mp3"
-        ],
-        "mp3Text": "When you strike a king's neck, you better take his head.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
-            "name": "Wraith King"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Lycan_rival_17.mp3"
-        ],
-        "mp3Text": "The day has eyes. Night, ears. The wolf, teeth.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Lycan_rival_28.mp3"
-        ],
-        "mp3Text": "Even you should fear the full moon.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lycan_rival_29.mp3"
-        ],
-        "mp3Text": "The night needs nobility, not a beastly fairy tale.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_rival_30.mp3"
-        ],
-        "mp3Text": "Behold the night's new ruler!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
-            "name": "Night Stalker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Lycan_rival_19.mp3"
-        ],
-        "mp3Text": "Stop complaining. You're already a skeleton for God's sake.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Lycan_rival_23.mp3"
-        ],
-        "mp3Text": "You'll collect no bounty for my pelt.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
-            "name": "Bounty Hunter"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_rival_24.mp3"
-        ],
-        "mp3Text": "I send you back to Seventh Hell!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_rival_25.mp3"
-        ],
-        "mp3Text": "You were a disgrace to the Pyrexae!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Lycan_rival_02.mp3"
+    ],
+    "mp3Text": "You shift into death.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Lycan_rival_18.mp3"
-        ],
-        "mp3Text": "Ah… I mark your snow.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
-            "name": "Crystal Maiden"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lycan_rival_03.mp3"
+    ],
+    "mp3Text": "Even shapeshifting can't help you now.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Lycan_rival_04.mp3"
+    ],
+    "mp3Text": "Were you bear conjured into man, or man conjured into bear?",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Lycan_rival_05.mp3"
+    ],
+    "mp3Text": "Ha, bears are no match for the cunning of wolves.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Lycan_rival_06.mp3"
+    ],
+    "mp3Text": "What bears do with strength, a wolf does with cunning.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
+        "name": "Ursa"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Lycan_rival_12.mp3"
+    ],
+    "mp3Text": "Your pelt shall make a fine rug.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ee/Ursa_minimap_icon.png/16px-Ursa_minimap_icon.png?version=4b27d2cb26f2481ed252223c22886b33",
+        "name": "Ursa"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Lycan_rival_09.mp3"
+    ],
+    "mp3Text": "Look who's silent now.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+        "name": "Silencer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Lycan_rival_10.mp3"
+    ],
+    "mp3Text": "You were no master of me.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5c/Beastmaster_minimap_icon.png/16px-Beastmaster_minimap_icon.png?version=63ad89be49d1b262a443f200c6eaea1f",
+        "name": "Beastmaster"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Lycan_rival_11.mp3"
+    ],
+    "mp3Text": "You crumble like the kingdom of Slom.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b2/Tiny_minimap_icon.png/16px-Tiny_minimap_icon.png?version=54cac2dd87f0efc90368941f9911ebb2",
+        "name": "Tiny"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Lycan_rival_14.mp3"
+    ],
+    "mp3Text": "All those eyes and you didn't see me coming.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/19/Broodmother_minimap_icon.png/16px-Broodmother_minimap_icon.png?version=f7301992e95b62cbc9039cb189049e9b",
+        "name": "Broodmother"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Lycan_rival_15.mp3"
+    ],
+    "mp3Text": "Tis no treason to kill a tyrant king.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Lycan_rival_16.mp3"
+    ],
+    "mp3Text": "When you strike a king's neck, you better take his head.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/22/Wraith_King_minimap_icon.png/16px-Wraith_King_minimap_icon.png?version=3322775d648f4823ba71672dfa8c9005",
+        "name": "Wraith King"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Lycan_rival_17.mp3"
+    ],
+    "mp3Text": "The day has eyes. Night, ears. The wolf, teeth.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Lycan_rival_28.mp3"
+    ],
+    "mp3Text": "Even you should fear the full moon.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Lycan_rival_29.mp3"
+    ],
+    "mp3Text": "The night needs nobility, not a beastly fairy tale.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_rival_30.mp3"
+    ],
+    "mp3Text": "Behold the night's new ruler!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7f/Night_Stalker_minimap_icon.png/16px-Night_Stalker_minimap_icon.png?version=f5c9df05eca36871c528f99a1fd1a395",
+        "name": "Night Stalker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Lycan_rival_19.mp3"
+    ],
+    "mp3Text": "Stop complaining. You're already a skeleton for God's sake.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Lycan_rival_23.mp3"
+    ],
+    "mp3Text": "You'll collect no bounty for my pelt.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9c/Bounty_Hunter_minimap_icon.png/16px-Bounty_Hunter_minimap_icon.png?version=e240117a94bc8a98d5cc269fa115b1be",
+        "name": "Bounty Hunter"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Lycan_rival_24.mp3"
+    ],
+    "mp3Text": "I send you back to Seventh Hell!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_rival_25.mp3"
+    ],
+    "mp3Text": "You were a disgrace to the Pyrexae!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Lycan_rival_18.mp3"
+    ],
+    "mp3Text": "Ah… I mark your snow.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Crystal_Maiden_minimap_icon.png/16px-Crystal_Maiden_minimap_icon.png?version=59665ca0959822fbf22d2b88a8e1dce2",
+        "name": "Crystal Maiden"
       }
     ]
   },
@@ -1005,20 +1058,18 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Lycan_firstblood_01.mp3"
-        ],
-        "mp3Text": "First Blood! Ha ha hah! But far from the last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Lycan_firstblood_02.mp3"
-        ],
-        "mp3Text": "First Blood! I am the alpha wolf."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Lycan_firstblood_01.mp3"
+    ],
+    "mp3Text": "First Blood! Ha ha hah! But far from the last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Lycan_firstblood_02.mp3"
+    ],
+    "mp3Text": "First Blood! I am the alpha wolf."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1029,30 +1080,28 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Lycan_ally_01.mp3"
+    ],
+    "mp3Text": "We shapeshifters should stick together.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Lycan_ally_01.mp3"
-        ],
-        "mp3Text": "We shapeshifters should stick together.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
-            "name": "Dragon Knight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/16px-Dragon_Knight_minimap_icon.png?version=5130f6320e974d274cc484b248968c4d",
+        "name": "Dragon Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_ally_02.mp3"
+    ],
+    "mp3Text": "Ah, Lone Druid, a kindred spirit.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Lycan_ally_02.mp3"
-        ],
-        "mp3Text": "Ah, Lone Druid, a kindred spirit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
       }
     ]
   },
@@ -1061,310 +1110,323 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Lycan_lasthit_01.mp3"
-        ],
-        "mp3Text": "Lone wolf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_lasthit_02.mp3"
-        ],
-        "mp3Text": "I take that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_lasthit_03.mp3"
-        ],
-        "mp3Text": "Mine now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Lycan_lasthit_04.mp3"
-        ],
-        "mp3Text": "Dearly paid."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Lycan_lasthit_05.mp3"
-        ],
-        "mp3Text": "For the wealth of my house."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Lycan_lasthit_06.mp3"
-        ],
-        "mp3Text": "Gold for me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Lycan_lasthit_07.mp3"
-        ],
-        "mp3Text": "Nobly done."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Lycan_lasthit_01.mp3"
+    ],
+    "mp3Text": "Lone wolf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_lasthit_02.mp3"
+    ],
+    "mp3Text": "I take that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_lasthit_03.mp3"
+    ],
+    "mp3Text": "Mine now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Lycan_lasthit_04.mp3"
+    ],
+    "mp3Text": "Dearly paid."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Lycan_lasthit_05.mp3"
+    ],
+    "mp3Text": "For the wealth of my house."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Lycan_lasthit_06.mp3"
+    ],
+    "mp3Text": "Gold for me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Lycan_lasthit_07.mp3"
+    ],
+    "mp3Text": "Nobly done."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Lycan_deny_03.mp3"
-        ],
-        "mp3Text": "Ah ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Lycan_deny_04.mp3"
-        ],
-        "mp3Text": "Not for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Lycan_deny_05.mp3"
-        ],
-        "mp3Text": "Not for you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Lycan_deny_06.mp3"
-        ],
-        "mp3Text": "A penny denied is a penny earned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Lycan_deny_07.mp3"
-        ],
-        "mp3Text": "Not on my watch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Lycan_deny_08.mp3"
-        ],
-        "mp3Text": "No gold for you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Lycan_deny_09.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_deny_10.mp3"
-        ],
-        "mp3Text": "Dee. Nied."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Lycan_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Lycan_deny_03.mp3"
+    ],
+    "mp3Text": "Ah ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Lycan_deny_04.mp3"
+    ],
+    "mp3Text": "Not for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Lycan_deny_05.mp3"
+    ],
+    "mp3Text": "Not for you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Lycan_deny_06.mp3"
+    ],
+    "mp3Text": "A penny denied is a penny earned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Lycan_deny_07.mp3"
+    ],
+    "mp3Text": "Not on my watch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Lycan_deny_08.mp3"
+    ],
+    "mp3Text": "No gold for you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Lycan_deny_09.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Lycan_deny_10.mp3"
+    ],
+    "mp3Text": "Dee. Nied."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_purch_01.mp3"
-        ],
-        "mp3Text": "Long I've waited."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Lycan_purch_02.mp3"
-        ],
-        "mp3Text": "Finally."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_purch_03.mp3"
-        ],
-        "mp3Text": "For a noble cause."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_purch_01.mp3"
+    ],
+    "mp3Text": "Long I've waited."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Lycan_purch_02.mp3"
+    ],
+    "mp3Text": "Finally."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_purch_03.mp3"
+    ],
+    "mp3Text": "For a noble cause."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_blink_01.mp3"
+    ],
+    "mp3Text": "Blink Dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Lycan_blink_01.mp3"
-        ],
-        "mp3Text": "Blink Dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Lycan_blink_02.mp3"
-        ],
-        "mp3Text": "Wolf Dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Lycan_scepter_01.mp3"
-        ],
-        "mp3Text": "Scepter at last!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Lycan_scepter_02.mp3"
-        ],
-        "mp3Text": "Ah…Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_item_01.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Lycan_item_02.mp3"
-        ],
-        "mp3Text": "Black Wolf Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Lycan_item_03.mp3"
-        ],
-        "mp3Text": "Wolf King Bar!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
-            "name": "Monkey King Bar (4175)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Lycan_item_04.mp3"
-        ],
-        "mp3Text": "Assault Cuirass!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_item_05.mp3"
-        ],
-        "mp3Text": "Vladmir!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
-            "name": "Vladmir's Offering (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Lycan_item_06.mp3"
-        ],
-        "mp3Text": "Helm of the Dominator.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
-            "name": "Helm of the Dominator (2000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Lycan_item_07.mp3"
-        ],
-        "mp3Text": "Drum of Endurance.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-            "name": "Drum of Endurance (1615)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Lycan_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Lycan_blink_02.mp3"
+    ],
+    "mp3Text": "Wolf Dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_immort_02.mp3"
-        ],
-        "mp3Text": "Go ahead, just try to kill me!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Lycan_scepter_01.mp3"
+    ],
+    "mp3Text": "Scepter at last!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Lycan_scepter_02.mp3"
+    ],
+    "mp3Text": "Ah…Scepter!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_item_01.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Lycan_item_02.mp3"
+    ],
+    "mp3Text": "Black Wolf Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Lycan_item_03.mp3"
+    ],
+    "mp3Text": "Wolf King Bar!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b0/Monkey_King_Bar_icon.png/20px-Monkey_King_Bar_icon.png?version=7bb7c41483d20f1fe1b4598d2b5f9f7e",
+        "name": "Monkey King Bar (4175)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Lycan_item_04.mp3"
+    ],
+    "mp3Text": "Assault Cuirass!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_item_05.mp3"
+    ],
+    "mp3Text": "Vladmir!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Vladmir%27s_Offering_icon.png/20px-Vladmir%27s_Offering_icon.png?version=72f7ea7b7080a19cf7c717e29bcb8fb8",
+        "name": "Vladmir's Offering (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/Lycan_item_06.mp3"
+    ],
+    "mp3Text": "Helm of the Dominator.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
+        "name": "Helm of the Dominator (2000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Lycan_item_07.mp3"
+    ],
+    "mp3Text": "Drum of Endurance.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+        "name": "Drum of Endurance (1615)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Lycan_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Lycan_immort_02.mp3"
+    ],
+    "mp3Text": "Go ahead, just try to kill me!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1373,128 +1435,122 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Lycan_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Lycan_death_02.mp3"
-        ],
-        "mp3Text": "I cry wolf."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Lycan_death_03.mp3"
-        ],
-        "mp3Text": "Lay my pelt beside a fire."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_death_04.mp3"
-        ],
-        "mp3Text": "I was endangered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_death_05.mp3"
-        ],
-        "mp3Text": "Was I a wolf who dreamed he was a man?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Lycan_death_06.mp3"
-        ],
-        "mp3Text": "The House of Ambry is no more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Lycan_death_07.mp3"
-        ],
-        "mp3Text": "I join my father."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Lycan_death_08.mp3"
-        ],
-        "mp3Text": "Noble by birth, humbled by death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Lycan_death_09.mp3"
-        ],
-        "mp3Text": "Wolves shall howl my dirge tonight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_death_10.mp3"
-        ],
-        "mp3Text": "My pack fails me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Lycan_death_01.mp3"
+    ],
+    "mp3Text": "No!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Lycan_death_11.mp3"
-        ],
-        "mp3Text": "I thought you were Team Yakov!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/Lycan_death_02.mp3"
+    ],
+    "mp3Text": "I cry wolf."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Lycan_death_03.mp3"
+    ],
+    "mp3Text": "Lay my pelt beside a fire."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Lycan_death_04.mp3"
+    ],
+    "mp3Text": "I was endangered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_death_05.mp3"
+    ],
+    "mp3Text": "Was I a wolf who dreamed he was a man?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Lycan_death_06.mp3"
+    ],
+    "mp3Text": "The House of Ambry is no more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Lycan_death_07.mp3"
+    ],
+    "mp3Text": "I join my father."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Lycan_death_08.mp3"
+    ],
+    "mp3Text": "Noble by birth, humbled by death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Lycan_death_09.mp3"
+    ],
+    "mp3Text": "Wolves shall howl my dirge tonight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Lycan_death_10.mp3"
+    ],
+    "mp3Text": "My pack fails me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Lycan_death_11.mp3"
+    ],
+    "mp3Text": "I thought you were Team Yakov!"
   },
   {
     "text": "Dying to a specific hero",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Lycan_rival_27.mp3"
+    ],
+    "mp3Text": "What unnatural freak is this?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Lycan_rival_27.mp3"
-        ],
-        "mp3Text": "What unnatural freak is this?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Lycan_rival_08.mp3"
+    ],
+    "mp3Text": "You always were a shifty bastard.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Lycan_rival_08.mp3"
-        ],
-        "mp3Text": "You always were a shifty bastard.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
-            "name": "Lone Druid"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/08/Lone_Druid_minimap_icon.png/16px-Lone_Druid_minimap_icon.png?version=5720fd4737b1203903255aa02c9cdd67",
+        "name": "Lone Druid"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_rival_26.mp3"
+    ],
+    "mp3Text": "Are you an air wolf?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_rival_26.mp3"
-        ],
-        "mp3Text": "Are you an air wolf?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
-            "name": "Gyrocopter"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f8/Gyrocopter_minimap_icon.png/16px-Gyrocopter_minimap_icon.png?version=65c9ed4436696edbbbfcb31fb4fc4fbf",
+        "name": "Gyrocopter"
       }
     ]
   },
@@ -1503,114 +1559,117 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_respawn_01.mp3"
-        ],
-        "mp3Text": "I return to hunt again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Lycan_respawn_02.mp3"
-        ],
-        "mp3Text": "To the outer wards!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Lycan_respawn_03.mp3"
-        ],
-        "mp3Text": "My birthright shall be avenged."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_respawn_04.mp3"
-        ],
-        "mp3Text": "The House of Ambry rises again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Lycan_respawn_05.mp3"
-        ],
-        "mp3Text": "The wolf comes round again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_respawn_06.mp3"
-        ],
-        "mp3Text": "The wolf rises."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Lycan_respawn_07.mp3"
-        ],
-        "mp3Text": "This disgrace shall be avenged."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Lycan_respawn_08.mp3"
-        ],
-        "mp3Text": "This disgrace shall be avenged."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Lycan_respawn_09.mp3"
-        ],
-        "mp3Text": "You can't keep a good wolf down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Lycan_respawn_10.mp3"
-        ],
-        "mp3Text": "The predator returns."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_respawn_11.mp3"
-        ],
-        "mp3Text": "Ah, I rejoin the pack."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_respawn_01.mp3"
+    ],
+    "mp3Text": "I return to hunt again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Lycan_respawn_02.mp3"
+    ],
+    "mp3Text": "To the outer wards!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Lycan_respawn_03.mp3"
+    ],
+    "mp3Text": "My birthright shall be avenged."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_respawn_04.mp3"
+    ],
+    "mp3Text": "The House of Ambry rises again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Lycan_respawn_05.mp3"
+    ],
+    "mp3Text": "The wolf comes round again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_respawn_06.mp3"
+    ],
+    "mp3Text": "The wolf rises."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Lycan_respawn_07.mp3"
+    ],
+    "mp3Text": "This disgrace shall be avenged."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Lycan_respawn_08.mp3"
+    ],
+    "mp3Text": "This disgrace shall be avenged."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Lycan_respawn_09.mp3"
+    ],
+    "mp3Text": "You can't keep a good wolf down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Lycan_respawn_10.mp3"
+    ],
+    "mp3Text": "The predator returns."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_respawn_11.mp3"
+    ],
+    "mp3Text": "Ah, I rejoin the pack."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Lycan_fastres_01.mp3"
-        ],
-        "mp3Text": "This wolf will howl again."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Lycan_fastres_01.mp3"
+    ],
+    "mp3Text": "This wolf will howl again."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Lycan_bottle_01.mp3"
-        ],
-        "mp3Text": "Saved for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Lycan_bottle_02.mp3"
-        ],
-        "mp3Text": "For when I need it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Lycan_bottle_03.mp3"
-        ],
-        "mp3Text": "This will be useful."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Lycan_bottle_01.mp3"
+    ],
+    "mp3Text": "Saved for later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Lycan_bottle_02.mp3"
+    ],
+    "mp3Text": "For when I need it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Lycan_bottle_03.mp3"
+    ],
+    "mp3Text": "This will be useful."
   },
   {
     "headTitle": "Activating runes",
@@ -1622,14 +1681,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Lycan_bottle_03.mp3"
-        ],
-        "mp3Text": "This will be useful."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Lycan_bottle_03.mp3"
+    ],
+    "mp3Text": "This will be useful."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1637,14 +1693,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Lycan_lasthit_06.mp3"
-        ],
-        "mp3Text": "Gold for me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Lycan_lasthit_06.mp3"
+    ],
+    "mp3Text": "Gold for me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1652,24 +1705,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double Damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double Damage!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Lycan_doubdam_02.mp3"
-        ],
-        "mp3Text": "I'll kill them in half the time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Lycan_doubdam_02.mp3"
+    ],
+    "mp3Text": "I'll kill them in half the time."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1677,24 +1724,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Lycan_haste_02.mp3"
-        ],
-        "mp3Text": "Ah, the quickening."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Lycan_haste_02.mp3"
+    ],
+    "mp3Text": "Ah, the quickening."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1702,30 +1743,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Lycan_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Lycan_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_illus_02.mp3"
-        ],
-        "mp3Text": "I run in a pack."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Lycan_illus_03.mp3"
-        ],
-        "mp3Text": "A pack of me."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_illus_02.mp3"
+    ],
+    "mp3Text": "I run in a pack."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Lycan_illus_03.mp3"
+    ],
+    "mp3Text": "A pack of me."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1733,24 +1769,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Lycan_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Lycan_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_invis_02.mp3"
-        ],
-        "mp3Text": "The better to sneak."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_invis_02.mp3"
+    ],
+    "mp3Text": "The better to sneak."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1758,24 +1788,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Lycan_regen_02.mp3"
-        ],
-        "mp3Text": "My flesh grows whole."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Lycan_regen_02.mp3"
+    ],
+    "mp3Text": "My flesh grows whole."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1786,78 +1810,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Lycan_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Lycan_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Lycan_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Lycan_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Lycan_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Lycan_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Lycan_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Lycan_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Lycan_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Lycan_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/Lycan_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Lycan_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Lycan_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/Lycan_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Lycan_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -1868,156 +1889,156 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Lycan_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Lycan_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Lycan_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Lycan_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Lycan_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Lycan_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Lycan_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Lycan_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Lycan_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Lycan_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Lycan_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Lycan_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Lycan_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Lycan_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Lycan_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/Lycan_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Lycan_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_pain_01.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Lycan_pain_02.mp3"
-        ],
-        "mp3Text": "Rawr!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_pain_03.mp3"
-        ],
-        "mp3Text": "Grr."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Lycan_pain_04.mp3"
-        ],
-        "mp3Text": "Arp!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_pain_05.mp3"
-        ],
-        "mp3Text": "Arp!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_pain_06.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Lycan_pain_07.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Lycan_pain_08.mp3"
-        ],
-        "mp3Text": "Grah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_pain_09.mp3"
-        ],
-        "mp3Text": "Ah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Lycan_pain_10.mp3"
-        ],
-        "mp3Text": "Dah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_pain_01.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Lycan_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Lycan_pain_02.mp3"
+    ],
+    "mp3Text": "Rawr!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_pain_03.mp3"
+    ],
+    "mp3Text": "Grr."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Lycan_pain_04.mp3"
+    ],
+    "mp3Text": "Arp!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_pain_05.mp3"
+    ],
+    "mp3Text": "Arp!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Lycan_pain_06.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Lycan_pain_07.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Lycan_pain_08.mp3"
+    ],
+    "mp3Text": "Grah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_pain_09.mp3"
+    ],
+    "mp3Text": "Ah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Lycan_pain_10.mp3"
+    ],
+    "mp3Text": "Dah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Lycan_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2028,26 +2049,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_rare_01.mp3"
-        ],
-        "mp3Text": "Sheep may talk peace with a wolf, but the wolf always answers the same. No."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_rare_02.mp3"
-        ],
-        "mp3Text": "Who fears the wolf should fear the forest."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Lycan_rare_03.mp3"
-        ],
-        "mp3Text": "A peaceful man is but a patient wolf."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/Lycan_rare_01.mp3"
+    ],
+    "mp3Text": "Sheep may talk peace with a wolf, but the wolf always answers the same. No."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_rare_02.mp3"
+    ],
+    "mp3Text": "Who fears the wolf should fear the forest."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Lycan_rare_03.mp3"
+    ],
+    "mp3Text": "A peaceful man is but a patient wolf."
   },
   {
     "headTitle": "Chat responses",
@@ -2058,162 +2078,173 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Lycan_lane_missing_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Lycan_lane_missing_02.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Lycan_lane_missing_03.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Lycan_lane_missing_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Lycan_lane_missing_02.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/Lycan_lane_missing_03.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Lycan_thanks_01.mp3"
-        ],
-        "mp3Text": "Many thanks to you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Lycan_thanks_02.mp3"
-        ],
-        "mp3Text": "Much grace to you."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Lycan_thanks_01.mp3"
+    ],
+    "mp3Text": "Many thanks to you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Lycan_thanks_02.mp3"
+    ],
+    "mp3Text": "Much grace to you."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Lycan_laugh_01.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Lycan_laugh_02.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_laugh_03.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_laugh_04.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_laugh_05.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Lycan_laugh_06.mp3"
-        ],
-        "mp3Text": "He he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_laugh_07.mp3"
-        ],
-        "mp3Text": "He he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_laugh_08.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha…heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_laugh_09.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ah ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_laugh_10.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Lycan_laugh_11.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_laugh_12.mp3"
-        ],
-        "mp3Text": "Mm ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_laugh_13.mp3"
-        ],
-        "mp3Text": "Eh he he he he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Lycan_laugh_14.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_laugh_15.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_laugh_16.mp3"
-        ],
-        "mp3Text": "Eh he he he he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Lycan_laugh_17.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Lycan_laugh_18.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f6/Lycan_laugh_01.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/64/Lycan_laugh_02.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Lycan_laugh_03.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Lycan_laugh_04.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Lycan_laugh_05.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Lycan_laugh_06.mp3"
+    ],
+    "mp3Text": "He he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/Lycan_laugh_07.mp3"
+    ],
+    "mp3Text": "He he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Lycan_laugh_08.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha…heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Lycan_laugh_09.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ah ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Lycan_laugh_10.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Lycan_laugh_11.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Lycan_laugh_12.mp3"
+    ],
+    "mp3Text": "Mm ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Lycan_laugh_13.mp3"
+    ],
+    "mp3Text": "Eh he he he he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Lycan_laugh_14.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Lycan_laugh_15.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Lycan_laugh_16.mp3"
+    ],
+    "mp3Text": "Eh he he he he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Lycan_laugh_17.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Lycan_laugh_18.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha."
   },
   {
     "headTitle": "Match end",
@@ -2224,58 +2255,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Lycan_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_win_03.mp3"
-        ],
-        "mp3Text": "Oo-awooo!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Lycan_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Lycan_win_03.mp3"
+    ],
+    "mp3Text": "Oo-awooo!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Lycan_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Lycan_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_lose_03.mp3"
-        ],
-        "mp3Text": "The pack is defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Lycan_lose_04.mp3"
-        ],
-        "mp3Text": "A pack of lies!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Lycan_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Lycan_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Lycan_lose_03.mp3"
+    ],
+    "mp3Text": "The pack is defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Lycan_lose_04.mp3"
+    ],
+    "mp3Text": "A pack of lies!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2286,53 +2316,46 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Lycan_happy_01.mp3"
-        ],
-        "mp3Text": "Ah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Lycan_happy_02.mp3"
-        ],
-        "mp3Text": "Ah!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Lycan_happy_01.mp3"
+    ],
+    "mp3Text": "Ah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Lycan_happy_02.mp3"
+    ],
+    "mp3Text": "Ah!"
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_happy_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Lycan_happy_04.mp3"
-        ],
-        "mp3Text": "Ah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f1/Lycan_happy_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Lycan_happy_04.mp3"
+    ],
+    "mp3Text": "Ah."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Lycan_laugh_18.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Lycan_laugh_18.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha."
   }
 ]

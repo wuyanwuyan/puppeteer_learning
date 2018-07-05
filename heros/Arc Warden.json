@@ -5,7 +5,6 @@
     "actorUrl": null,
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e9/Arc_Warden_minimap_icon.png/20px-Arc_Warden_minimap_icon.png?version=5d380a808da58a2046b0837922fbb1e3",
     "heroName": "Arc Warden",
-    "href": "https://dota2.gamepedia.com/Arc_Warden/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/arc_warden_full.png",
     "primaryAttribute": "Agility",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/arcwarden.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
-        ],
-        "mp3Text": "Arc Warden."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Arcwar_spawn_02.mp3"
-        ],
-        "mp3Text": "Zet is the Self, and the Self is Zet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spawn_03.mp3"
-        ],
-        "mp3Text": "The Self seeks to end the great schism."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_spawn_04.mp3"
-        ],
-        "mp3Text": "Matter has been split from its intended form. These must be made to unite."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Arcwar_spawn_05.mp3"
-        ],
-        "mp3Text": "Splinter of the Primordial Origin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_spawn_06.mp3"
-        ],
-        "mp3Text": "Self unites with Radiant self. For now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_spawn_07.mp3"
-        ],
-        "mp3Text": "A radiant alliance."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_spawn_08.mp3"
-        ],
-        "mp3Text": "Self bonds with Dire self. For the moment."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Arcwar_spawn_09.mp3"
-        ],
-        "mp3Text": "A Dire unification indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_battlebegins_03.mp3"
-        ],
-        "mp3Text": "The Self arrives at last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Arcwar_battlebegins_05.mp3"
-        ],
-        "mp3Text": "Self will crush the Dire."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Arcwar_levelup_04.mp3"
-        ],
-        "mp3Text": "The Self knows this power."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
+    ],
+    "mp3Text": "Arc Warden."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Arcwar_spawn_02.mp3"
+    ],
+    "mp3Text": "Zet is the Self, and the Self is Zet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spawn_03.mp3"
+    ],
+    "mp3Text": "The Self seeks to end the great schism."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_spawn_04.mp3"
+    ],
+    "mp3Text": "Matter has been split from its intended form. These must be made to unite."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Arcwar_spawn_05.mp3"
+    ],
+    "mp3Text": "Splinter of the Primordial Origin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_spawn_06.mp3"
+    ],
+    "mp3Text": "Self unites with Radiant self. For now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_spawn_07.mp3"
+    ],
+    "mp3Text": "A radiant alliance."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_spawn_08.mp3"
+    ],
+    "mp3Text": "Self bonds with Dire self. For the moment."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Arcwar_spawn_09.mp3"
+    ],
+    "mp3Text": "A Dire unification indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_battlebegins_03.mp3"
+    ],
+    "mp3Text": "The Self arrives at last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/Arcwar_battlebegins_05.mp3"
+    ],
+    "mp3Text": "Self will crush the Dire."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Arcwar_levelup_04.mp3"
+    ],
+    "mp3Text": "The Self knows this power."
   },
   {
     "headTitle": "Drafting",
@@ -101,406 +108,431 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
-        ],
-        "mp3Text": "Arc Warden."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
+    ],
+    "mp3Text": "Arc Warden."
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_anger_10.mp3"
-        ],
-        "mp3Text": "Mmm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_anger_10.mp3"
+    ],
+    "mp3Text": "Mmm!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
-        ],
-        "mp3Text": "Arc Warden."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Arcwar_spawn_02.mp3"
-        ],
-        "mp3Text": "Zet is the Self, and the Self is Zet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spawn_03.mp3"
-        ],
-        "mp3Text": "The Self seeks to end the great schism."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_spawn_04.mp3"
-        ],
-        "mp3Text": "Matter has been split from its intended form. These must be made to unite."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Arcwar_spawn_05.mp3"
-        ],
-        "mp3Text": "Splinter of the Primordial Origin."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Arcwar_spawn_01.mp3"
+    ],
+    "mp3Text": "Arc Warden."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c3/Arcwar_spawn_02.mp3"
+    ],
+    "mp3Text": "Zet is the Self, and the Self is Zet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spawn_03.mp3"
+    ],
+    "mp3Text": "The Self seeks to end the great schism."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_spawn_04.mp3"
+    ],
+    "mp3Text": "Matter has been split from its intended form. These must be made to unite."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/Arcwar_spawn_05.mp3"
+    ],
+    "mp3Text": "Splinter of the Primordial Origin."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_inthebag_01.mp3"
-        ],
-        "mp3Text": "Selves are in agreement: this one is in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_inthebag_01.mp3"
+    ],
+    "mp3Text": "Selves are in agreement: this one is in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_battlebegins_01.mp3"
-        ],
-        "mp3Text": "This disharmony must resolve, or be crushed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_battlebegins_02.mp3"
-        ],
-        "mp3Text": "Diruulth and Radinthul, your conflicts must be ended."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_battlebegins_03.mp3"
-        ],
-        "mp3Text": "The Self arrives at last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_battlebegins_04.mp3"
-        ],
-        "mp3Text": "The destruction of the Ancients begins."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_battlebegins_01.mp3"
+    ],
+    "mp3Text": "This disharmony must resolve, or be crushed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_battlebegins_02.mp3"
+    ],
+    "mp3Text": "Diruulth and Radinthul, your conflicts must be ended."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a7/Arcwar_battlebegins_03.mp3"
+    ],
+    "mp3Text": "The Self arrives at last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_battlebegins_04.mp3"
+    ],
+    "mp3Text": "The destruction of the Ancients begins."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Arcwar_move_02.mp3"
-        ],
-        "mp3Text": "The Self seeks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_move_03.mp3"
-        ],
-        "mp3Text": "Patrolling."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Arcwar_move_04.mp3"
-        ],
-        "mp3Text": "Coursing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Arcwar_move_05.mp3"
-        ],
-        "mp3Text": "Phasing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Arcwar_move_06.mp3"
-        ],
-        "mp3Text": "Primordial will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_move_07.mp3"
-        ],
-        "mp3Text": "It will be."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_move_08.mp3"
-        ],
-        "mp3Text": "The Self moves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Arcwar_move_11.mp3"
-        ],
-        "mp3Text": "The Self roams."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Arcwar_move_12.mp3"
-        ],
-        "mp3Text": "In unison."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Arcwar_move_13.mp3"
-        ],
-        "mp3Text": "Toward synthesis."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Arcwar_move_14.mp3"
-        ],
-        "mp3Text": "Seeking."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_move_15.mp3"
-        ],
-        "mp3Text": "Always aware."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Arcwar_move_16.mp3"
-        ],
-        "mp3Text": "Unity must be achieved."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Arcwar_move_17.mp3"
-        ],
-        "mp3Text": "Ever closer."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Arcwar_move_18.mp3"
-        ],
-        "mp3Text": "All must proceed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Arcwar_move_19.mp3"
-        ],
-        "mp3Text": "Ever forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_move_20.mp3"
-        ],
-        "mp3Text": "Ahead."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_move_21.mp3"
-        ],
-        "mp3Text": "Onward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Arcwar_move_22.mp3"
-        ],
-        "mp3Text": "Hounding."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Arcwar_move_23.mp3"
-        ],
-        "mp3Text": "Indeed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Arcwar_move_24.mp3"
-        ],
-        "mp3Text": "So it must be."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_move_25.mp3"
-        ],
-        "mp3Text": "Onward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Arcwar_move_26.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_move_27.mp3"
-        ],
-        "mp3Text": "Yes."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Arcwar_move_02.mp3"
+    ],
+    "mp3Text": "The Self seeks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_move_03.mp3"
+    ],
+    "mp3Text": "Patrolling."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Arcwar_move_04.mp3"
+    ],
+    "mp3Text": "Coursing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Arcwar_move_05.mp3"
+    ],
+    "mp3Text": "Phasing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Arcwar_move_06.mp3"
+    ],
+    "mp3Text": "Primordial will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_move_07.mp3"
+    ],
+    "mp3Text": "It will be."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_move_08.mp3"
+    ],
+    "mp3Text": "The Self moves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Arcwar_move_11.mp3"
+    ],
+    "mp3Text": "The Self roams."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Arcwar_move_12.mp3"
+    ],
+    "mp3Text": "In unison."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Arcwar_move_13.mp3"
+    ],
+    "mp3Text": "Toward synthesis."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Arcwar_move_14.mp3"
+    ],
+    "mp3Text": "Seeking."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_move_15.mp3"
+    ],
+    "mp3Text": "Always aware."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Arcwar_move_16.mp3"
+    ],
+    "mp3Text": "Unity must be achieved."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Arcwar_move_17.mp3"
+    ],
+    "mp3Text": "Ever closer."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Arcwar_move_18.mp3"
+    ],
+    "mp3Text": "All must proceed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/06/Arcwar_move_19.mp3"
+    ],
+    "mp3Text": "Ever forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_move_20.mp3"
+    ],
+    "mp3Text": "Ahead."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_move_21.mp3"
+    ],
+    "mp3Text": "Onward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Arcwar_move_22.mp3"
+    ],
+    "mp3Text": "Hounding."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Arcwar_move_23.mp3"
+    ],
+    "mp3Text": "Indeed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Arcwar_move_24.mp3"
+    ],
+    "mp3Text": "So it must be."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_move_25.mp3"
+    ],
+    "mp3Text": "Onward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Arcwar_move_26.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_move_27.mp3"
+    ],
+    "mp3Text": "Yes."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Arcwar_attack_01.mp3"
-        ],
-        "mp3Text": "Attack."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Arcwar_attack_02.mp3"
-        ],
-        "mp3Text": "Halt."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Arcwar_attack_03.mp3"
-        ],
-        "mp3Text": "You will cease."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Arcwar_attack_04.mp3"
-        ],
-        "mp3Text": "Alarm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Arcwar_attack_05.mp3"
-        ],
-        "mp3Text": "None escape the Self."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Arcwar_attack_06.mp3"
-        ],
-        "mp3Text": "The warden strikes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Arcwar_attack_07.mp3"
-        ],
-        "mp3Text": "Striken."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Arcwar_attack_08.mp3"
-        ],
-        "mp3Text": "Abide, if you dare."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Arcwar_attack_09.mp3"
-        ],
-        "mp3Text": "Action."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Arcwar_attack_10.mp3"
-        ],
-        "mp3Text": "Disunion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Arcwar_attack_11.mp3"
-        ],
-        "mp3Text": "Concede."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Arcwar_attack_12.mp3"
-        ],
-        "mp3Text": "Submit."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Arcwar_attack_13.mp3"
-        ],
-        "mp3Text": "Suffer."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Arcwar_attack_14.mp3"
-        ],
-        "mp3Text": "Justice."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_attack_15.mp3"
-        ],
-        "mp3Text": "Doggedly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_attack_16.mp3"
-        ],
-        "mp3Text": "You shall be scoured."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Arcwar_attack_17.mp3"
-        ],
-        "mp3Text": "Attack."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Arcwar_attack_01.mp3"
+    ],
+    "mp3Text": "Attack."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Arcwar_attack_02.mp3"
+    ],
+    "mp3Text": "Halt."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Arcwar_attack_03.mp3"
+    ],
+    "mp3Text": "You will cease."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Arcwar_attack_04.mp3"
+    ],
+    "mp3Text": "Alarm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/Arcwar_attack_05.mp3"
+    ],
+    "mp3Text": "None escape the Self."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Arcwar_attack_06.mp3"
+    ],
+    "mp3Text": "The warden strikes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Arcwar_attack_07.mp3"
+    ],
+    "mp3Text": "Striken."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Arcwar_attack_08.mp3"
+    ],
+    "mp3Text": "Abide, if you dare."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Arcwar_attack_09.mp3"
+    ],
+    "mp3Text": "Action."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Arcwar_attack_10.mp3"
+    ],
+    "mp3Text": "Disunion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Arcwar_attack_11.mp3"
+    ],
+    "mp3Text": "Concede."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Arcwar_attack_12.mp3"
+    ],
+    "mp3Text": "Submit."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Arcwar_attack_13.mp3"
+    ],
+    "mp3Text": "Suffer."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Arcwar_attack_14.mp3"
+    ],
+    "mp3Text": "Justice."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_attack_15.mp3"
+    ],
+    "mp3Text": "Doggedly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_attack_16.mp3"
+    ],
+    "mp3Text": "You shall be scoured."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Arcwar_attack_17.mp3"
+    ],
+    "mp3Text": "Attack."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Arcwar_cast_01.mp3"
-        ],
-        "mp3Text": "Unity is nigh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Arcwar_cast_02.mp3"
-        ],
-        "mp3Text": "The Self comes for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Arcwar_cast_03.mp3"
-        ],
-        "mp3Text": "The Arc approaches."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/Arcwar_cast_01.mp3"
+    ],
+    "mp3Text": "Unity is nigh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Arcwar_cast_02.mp3"
+    ],
+    "mp3Text": "The Self comes for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bb/Arcwar_cast_03.mp3"
+    ],
+    "mp3Text": "The Arc approaches."
   },
   {
     "headTitle": "Abilities",
@@ -516,88 +548,92 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Arcwar_flux_01.mp3"
-        ],
-        "mp3Text": "Flux!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_flux_02.mp3"
-        ],
-        "mp3Text": "Sizzle and sear!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Arcwar_flux_03.mp3"
-        ],
-        "mp3Text": "Vile voltage!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_flux_04.mp3"
-        ],
-        "mp3Text": "Arcing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Arcwar_flux_05.mp3"
-        ],
-        "mp3Text": "Electric arc!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Arcwar_flux_07.mp3"
-        ],
-        "mp3Text": "Caught!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_flux_09.mp3"
-        ],
-        "mp3Text": "Flux!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Arcwar_flux_10.mp3"
-        ],
-        "mp3Text": "Arcing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Arcwar_flux_11.mp3"
-        ],
-        "mp3Text": "Caught!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Arcwar_flux_12.mp3"
-        ],
-        "mp3Text": "Caught!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/Arcwar_flux_01.mp3"
+    ],
+    "mp3Text": "Flux!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_flux_02.mp3"
+    ],
+    "mp3Text": "Sizzle and sear!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Arcwar_flux_03.mp3"
+    ],
+    "mp3Text": "Vile voltage!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_flux_04.mp3"
+    ],
+    "mp3Text": "Arcing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Arcwar_flux_05.mp3"
+    ],
+    "mp3Text": "Electric arc!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Arcwar_flux_07.mp3"
+    ],
+    "mp3Text": "Caught!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_flux_09.mp3"
+    ],
+    "mp3Text": "Flux!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Arcwar_flux_10.mp3"
+    ],
+    "mp3Text": "Arcing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Arcwar_flux_11.mp3"
+    ],
+    "mp3Text": "Caught!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Arcwar_flux_12.mp3"
+    ],
+    "mp3Text": "Caught!"
   },
   {
     "text": "Killing enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_flux_06.mp3"
-        ],
-        "mp3Text": "Lone suffering."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Arcwar_flux_08.mp3"
-        ],
-        "mp3Text": "Busted."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_flux_06.mp3"
+    ],
+    "mp3Text": "Lone suffering."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Arcwar_flux_08.mp3"
+    ],
+    "mp3Text": "Busted."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/db/Magnetic_Field_icon.png/16px-Magnetic_Field_icon.png?version=9445293712749ba1fb59efaff8a4242d",
@@ -609,56 +645,60 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_magnetic_field_01.mp3"
-        ],
-        "mp3Text": "Magnetic field."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_magnetic_field_02.mp3"
-        ],
-        "mp3Text": "Stand firm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Arcwar_magnetic_field_03.mp3"
-        ],
-        "mp3Text": "Dynamic charge."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Arcwar_magnetic_field_04.mp3"
-        ],
-        "mp3Text": "Power conduits."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Arcwar_magnetic_field_05.mp3"
-        ],
-        "mp3Text": "Field of power."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Arcwar_magnetic_field_06.mp3"
-        ],
-        "mp3Text": "Now is the time."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_magnetic_field_07.mp3"
-        ],
-        "mp3Text": "Strengthen!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_magnetic_field_08.mp3"
-        ],
-        "mp3Text": "Quantum flicker."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_magnetic_field_01.mp3"
+    ],
+    "mp3Text": "Magnetic field."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_magnetic_field_02.mp3"
+    ],
+    "mp3Text": "Stand firm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Arcwar_magnetic_field_03.mp3"
+    ],
+    "mp3Text": "Dynamic charge."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Arcwar_magnetic_field_04.mp3"
+    ],
+    "mp3Text": "Power conduits."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Arcwar_magnetic_field_05.mp3"
+    ],
+    "mp3Text": "Field of power."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/98/Arcwar_magnetic_field_06.mp3"
+    ],
+    "mp3Text": "Now is the time."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_magnetic_field_07.mp3"
+    ],
+    "mp3Text": "Strengthen!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_magnetic_field_08.mp3"
+    ],
+    "mp3Text": "Quantum flicker."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/eb/Spark_Wraith_icon.png/16px-Spark_Wraith_icon.png?version=28d3f69193279013d0e37fcc5aec3372",
@@ -670,74 +710,81 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Arcwar_spark_wraith_01.mp3"
-        ],
-        "mp3Text": "Spark wraith."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Arcwar_spark_wraith_02.mp3"
-        ],
-        "mp3Text": "Guard this ground."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_spark_wraith_03.mp3"
-        ],
-        "mp3Text": "Let no foe come near."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Arcwar_spark_wraith_04.mp3"
-        ],
-        "mp3Text": "Hold here."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Arcwar_spark_wraith_05.mp3"
-        ],
-        "mp3Text": "Wraith of sparks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Arcwar_spark_wraith_06.mp3"
-        ],
-        "mp3Text": "Stand firm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Arcwar_spark_wraith_07.mp3"
-        ],
-        "mp3Text": "Sentinel."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Arcwar_spark_wraith_08.mp3"
-        ],
-        "mp3Text": "Fragment of Self."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spark_wraith_09.mp3"
-        ],
-        "mp3Text": "Be watchful."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_spark_wraith_10.mp3"
-        ],
-        "mp3Text": "Stand firm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Arcwar_spark_wraith_11.mp3"
-        ],
-        "mp3Text": "Stand firm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Arcwar_spark_wraith_01.mp3"
+    ],
+    "mp3Text": "Spark wraith."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Arcwar_spark_wraith_02.mp3"
+    ],
+    "mp3Text": "Guard this ground."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_spark_wraith_03.mp3"
+    ],
+    "mp3Text": "Let no foe come near."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Arcwar_spark_wraith_04.mp3"
+    ],
+    "mp3Text": "Hold here."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Arcwar_spark_wraith_05.mp3"
+    ],
+    "mp3Text": "Wraith of sparks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Arcwar_spark_wraith_06.mp3"
+    ],
+    "mp3Text": "Stand firm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Arcwar_spark_wraith_07.mp3"
+    ],
+    "mp3Text": "Sentinel."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Arcwar_spark_wraith_08.mp3"
+    ],
+    "mp3Text": "Fragment of Self."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Arcwar_spark_wraith_09.mp3"
+    ],
+    "mp3Text": "Be watchful."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_spark_wraith_10.mp3"
+    ],
+    "mp3Text": "Stand firm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Arcwar_spark_wraith_11.mp3"
+    ],
+    "mp3Text": "Stand firm."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d2/Tempest_Double_icon.png/16px-Tempest_Double_icon.png?version=eed5145a13ab2de5808045c445445e36",
@@ -749,582 +796,626 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Arcwar_tempest_double_01.mp3"
-        ],
-        "mp3Text": "Disunity!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Arcwar_tempest_double_02.mp3"
-        ],
-        "mp3Text": "The Self splinters!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_tempest_double_03.mp3"
-        ],
-        "mp3Text": "Tempest of Self!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Arcwar_tempest_double_04.mp3"
-        ],
-        "mp3Text": "Self becomes selves!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_tempest_double_05.mp3"
-        ],
-        "mp3Text": "Disjunction of Self!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Arcwar_tempest_double_06.mp3"
-        ],
-        "mp3Text": "Division of labor."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Arcwar_tempest_double_01.mp3"
+    ],
+    "mp3Text": "Disunity!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Arcwar_tempest_double_02.mp3"
+    ],
+    "mp3Text": "The Self splinters!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_tempest_double_03.mp3"
+    ],
+    "mp3Text": "Tempest of Self!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Arcwar_tempest_double_04.mp3"
+    ],
+    "mp3Text": "Self becomes selves!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_tempest_double_05.mp3"
+    ],
+    "mp3Text": "Disjunction of Self!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Arcwar_tempest_double_06.mp3"
+    ],
+    "mp3Text": "Division of labor."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Arcwar_levelup_01.mp3"
-        ],
-        "mp3Text": "Power emergent."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Arcwar_levelup_02.mp3"
-        ],
-        "mp3Text": "Primordial strength re-found."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Arcwar_levelup_03.mp3"
-        ],
-        "mp3Text": "The Self, and yet moreso."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Arcwar_levelup_04.mp3"
-        ],
-        "mp3Text": "The Self knows this power."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Arcwar_levelup_05.mp3"
-        ],
-        "mp3Text": "Sparkling infusion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Arcwar_levelup_06.mp3"
-        ],
-        "mp3Text": "Greater glory."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_levelup_07.mp3"
-        ],
-        "mp3Text": "Arc to power."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_levelup_08.mp3"
-        ],
-        "mp3Text": "The Self expands."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Arcwar_levelup_09.mp3"
-        ],
-        "mp3Text": "Higher unity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Arcwar_levelup_10.mp3"
-        ],
-        "mp3Text": "All comes together."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Arcwar_levelup_12.mp3"
-        ],
-        "mp3Text": "The arc grows brighter."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Arcwar_levelup_13.mp3"
-        ],
-        "mp3Text": "From fragments into fuller unities."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Arcwar_levelup_14.mp3"
-        ],
-        "mp3Text": "A charged reconciliation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Arcwar_levelup_15.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Arcwar_levelup_20.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Arcwar_levelup_21.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Arcwar_levelup_01.mp3"
+    ],
+    "mp3Text": "Power emergent."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Arcwar_levelup_02.mp3"
+    ],
+    "mp3Text": "Primordial strength re-found."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/Arcwar_levelup_03.mp3"
+    ],
+    "mp3Text": "The Self, and yet moreso."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Arcwar_levelup_04.mp3"
+    ],
+    "mp3Text": "The Self knows this power."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Arcwar_levelup_05.mp3"
+    ],
+    "mp3Text": "Sparkling infusion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/74/Arcwar_levelup_06.mp3"
+    ],
+    "mp3Text": "Greater glory."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_levelup_07.mp3"
+    ],
+    "mp3Text": "Arc to power."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_levelup_08.mp3"
+    ],
+    "mp3Text": "The Self expands."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Arcwar_levelup_09.mp3"
+    ],
+    "mp3Text": "Higher unity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Arcwar_levelup_10.mp3"
+    ],
+    "mp3Text": "All comes together."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Arcwar_levelup_12.mp3"
+    ],
+    "mp3Text": "The arc grows brighter."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Arcwar_levelup_13.mp3"
+    ],
+    "mp3Text": "From fragments into fuller unities."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9b/Arcwar_levelup_14.mp3"
+    ],
+    "mp3Text": "A charged reconciliation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Arcwar_levelup_15.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/Arcwar_levelup_20.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Arcwar_levelup_21.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Arcwar_kill_01.mp3"
-        ],
-        "mp3Text": "A thing of pity."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Arcwar_kill_02.mp3"
-        ],
-        "mp3Text": "Your hope fades."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Arcwar_kill_03.mp3"
-        ],
-        "mp3Text": "Mercy is yours, for the end comes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_kill_04.mp3"
-        ],
-        "mp3Text": "Escape, and find absolution."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_kill_05.mp3"
-        ],
-        "mp3Text": "Embrace your end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Arcwar_kill_07.mp3"
-        ],
-        "mp3Text": "No one to blame but yourself."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Arcwar_kill_08.mp3"
-        ],
-        "mp3Text": "You are now the ward of death itself."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Arcwar_kill_09.mp3"
-        ],
-        "mp3Text": "You meet your true self at last."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_kill_10.mp3"
-        ],
-        "mp3Text": "Your self is no more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Arcwar_kill_11.mp3"
-        ],
-        "mp3Text": "Life is prison. You are free."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Arcwar_kill_12.mp3"
-        ],
-        "mp3Text": "You will just have to accept this, and move on."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Arcwar_kill_13.mp3"
-        ],
-        "mp3Text": "Into Ancient embrace."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_kill_14.mp3"
-        ],
-        "mp3Text": "You will be back."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_kill_15.mp3"
-        ],
-        "mp3Text": "Rest from your enslavement."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Arcwar_kill_16.mp3"
-        ],
-        "mp3Text": "Selfie."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Arcwar_kill_17.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_kill_24.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Arcwar_kill_25.mp3"
-        ],
-        "mp3Text": "Resist and perish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_laugh_01.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_laugh_02.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Arcwar_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_laugh_04.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_laugh_05.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm ho ho ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Arcwar_laugh_06.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Arcwar_kill_01.mp3"
+    ],
+    "mp3Text": "A thing of pity."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Arcwar_kill_02.mp3"
+    ],
+    "mp3Text": "Your hope fades."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Arcwar_kill_03.mp3"
+    ],
+    "mp3Text": "Mercy is yours, for the end comes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_kill_04.mp3"
+    ],
+    "mp3Text": "Escape, and find absolution."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/Arcwar_kill_05.mp3"
+    ],
+    "mp3Text": "Embrace your end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Arcwar_kill_07.mp3"
+    ],
+    "mp3Text": "No one to blame but yourself."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/Arcwar_kill_08.mp3"
+    ],
+    "mp3Text": "You are now the ward of death itself."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Arcwar_kill_09.mp3"
+    ],
+    "mp3Text": "You meet your true self at last."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_kill_10.mp3"
+    ],
+    "mp3Text": "Your self is no more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Arcwar_kill_11.mp3"
+    ],
+    "mp3Text": "Life is prison. You are free."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Arcwar_kill_12.mp3"
+    ],
+    "mp3Text": "You will just have to accept this, and move on."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Arcwar_kill_13.mp3"
+    ],
+    "mp3Text": "Into Ancient embrace."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_kill_14.mp3"
+    ],
+    "mp3Text": "You will be back."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_kill_15.mp3"
+    ],
+    "mp3Text": "Rest from your enslavement."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/Arcwar_kill_16.mp3"
+    ],
+    "mp3Text": "Selfie."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Arcwar_kill_17.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_kill_24.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Arcwar_kill_25.mp3"
+    ],
+    "mp3Text": "Resist and perish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_laugh_01.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_laugh_02.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Arcwar_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_laugh_04.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_laugh_05.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm ho ho ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Arcwar_laugh_06.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_01.mp3"
+    ],
+    "mp3Text": "Thine own self, be gone.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_01.mp3"
-        ],
-        "mp3Text": "Thine own self, be gone.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_02.mp3"
-        ],
-        "mp3Text": "You are silenced.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
-            "name": "Silencer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_rival_03.mp3"
-        ],
-        "mp3Text": "World breaker, this is justice.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
-            "name": "Elder Titan"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_rival_06.mp3"
-        ],
-        "mp3Text": "The traveler returns to darkness.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_07.mp3"
-        ],
-        "mp3Text": "The last of your light is cast.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Arcwar_rival_08.mp3"
-        ],
-        "mp3Text": "In all things you were. In nothing you become.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Arcwar_rival_10.mp3"
-        ],
-        "mp3Text": "May your disunity end with you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_rival_11.mp3"
-        ],
-        "mp3Text": "It seems time has finally caught up to you.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_rival_12.mp3"
-        ],
-        "mp3Text": "Your vigil ends.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_rival_13.mp3"
-        ],
-        "mp3Text": "You devour your last.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
-            "name": "Outworld Devourer"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Arcwar_rival_15.mp3"
-        ],
-        "mp3Text": "Short circuit.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
-            "name": "Razor"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Arcwar_rival_16.mp3"
-        ],
-        "mp3Text": "Your conduit is no more.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
-            "name": "Razor"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Arcwar_rival_17.mp3"
-        ],
-        "mp3Text": "Such a feeble spark.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
-            "name": "Razor"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_rival_18.mp3"
-        ],
-        "mp3Text": "You meddle with powers you cannot comprehend.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_rival_19.mp3"
-        ],
-        "mp3Text": "For all your claims, you are still a fool.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Arcwar_rival_20.mp3"
-        ],
-        "mp3Text": "Inferior form.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4f/Lycan_minimap_icon.png/16px-Lycan_minimap_icon.png?version=10c7add0c32cef57173eb124673679cc",
-            "name": "Lycan"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_rival_21.mp3"
-        ],
-        "mp3Text": "Apex predator, you are not.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4f/Lycan_minimap_icon.png/16px-Lycan_minimap_icon.png?version=10c7add0c32cef57173eb124673679cc",
-            "name": "Lycan"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_02.mp3"
+    ],
+    "mp3Text": "You are silenced.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_rival_05.mp3"
-        ],
-        "mp3Text": "You do not have to be mad.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
-            "name": "Troll Warlord"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Arcwar_rival_09.mp3"
-        ],
-        "mp3Text": "Gravity alone cannot achieve unity.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_rival_14.mp3"
-        ],
-        "mp3Text": "Flame is no match for the Arc.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
-            "name": "Ember Spirit"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Silencer_minimap_icon.png/16px-Silencer_minimap_icon.png?version=f46249049ab8b1e530a786387a6b999a",
+        "name": "Silencer"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_rival_03.mp3"
+    ],
+    "mp3Text": "World breaker, this is justice.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Arcwar_rival_04.mp3"
-        ],
-        "mp3Text": "Perhaps death will put you in a better mood.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
-            "name": "Troll Warlord"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
+        "name": "Elder Titan"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_rival_06.mp3"
+    ],
+    "mp3Text": "The traveler returns to darkness.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Arcwar_rival_07.mp3"
+    ],
+    "mp3Text": "The last of your light is cast.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Arcwar_rival_08.mp3"
+    ],
+    "mp3Text": "In all things you were. In nothing you become.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Arcwar_rival_10.mp3"
+    ],
+    "mp3Text": "May your disunity end with you.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_rival_11.mp3"
+    ],
+    "mp3Text": "It seems time has finally caught up to you.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_rival_12.mp3"
+    ],
+    "mp3Text": "Your vigil ends.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_rival_13.mp3"
+    ],
+    "mp3Text": "You devour your last.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Outworld_Devourer_minimap_icon.png/16px-Outworld_Devourer_minimap_icon.png?version=fd15dfdb387ee664662c7b0b4dd0c992",
+        "name": "Outworld Devourer"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Arcwar_rival_15.mp3"
+    ],
+    "mp3Text": "Short circuit.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
+        "name": "Razor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Arcwar_rival_16.mp3"
+    ],
+    "mp3Text": "Your conduit is no more.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
+        "name": "Razor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Arcwar_rival_17.mp3"
+    ],
+    "mp3Text": "Such a feeble spark.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
+        "name": "Razor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_rival_18.mp3"
+    ],
+    "mp3Text": "You meddle with powers you cannot comprehend.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_rival_19.mp3"
+    ],
+    "mp3Text": "For all your claims, you are still a fool.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Arcwar_rival_20.mp3"
+    ],
+    "mp3Text": "Inferior form.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4f/Lycan_minimap_icon.png/16px-Lycan_minimap_icon.png?version=10c7add0c32cef57173eb124673679cc",
+        "name": "Lycan"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/Arcwar_rival_21.mp3"
+    ],
+    "mp3Text": "Apex predator, you are not.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4f/Lycan_minimap_icon.png/16px-Lycan_minimap_icon.png?version=10c7add0c32cef57173eb124673679cc",
+        "name": "Lycan"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_rival_05.mp3"
+    ],
+    "mp3Text": "You do not have to be mad.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
+        "name": "Troll Warlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Arcwar_rival_09.mp3"
+    ],
+    "mp3Text": "Gravity alone cannot achieve unity.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_rival_14.mp3"
+    ],
+    "mp3Text": "Flame is no match for the Arc.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
       },
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_rival_22.mp3"
-        ],
-        "mp3Text": "Self knows what you once were.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Ember_Spirit_minimap_icon.png/16px-Ember_Spirit_minimap_icon.png?version=18417ab6b922770adfd2a44209e96c44",
+        "name": "Ember Spirit"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Arcwar_rival_04.mp3"
+    ],
+    "mp3Text": "Perhaps death will put you in a better mood.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Troll_Warlord_minimap_icon.png/16px-Troll_Warlord_minimap_icon.png?version=0012f7712ff694c138234c6335c48374",
+        "name": "Troll Warlord"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_rival_22.mp3"
+    ],
+    "mp3Text": "Self knows what you once were.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
       }
     ]
   },
@@ -1333,26 +1424,25 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Arcwar_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_firstblood_02.mp3"
-        ],
-        "mp3Text": "First blood. And so the Great Unification commences."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Arcwar_firstblood_05.mp3"
-        ],
-        "mp3Text": "First blood."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/Arcwar_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_firstblood_02.mp3"
+    ],
+    "mp3Text": "First blood. And so the Great Unification commences."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Arcwar_firstblood_05.mp3"
+    ],
+    "mp3Text": "First blood."
   },
   {
     "headTitle": "Meeting an ally",
@@ -1363,70 +1453,66 @@
     "type": "small"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Arcwar_ally_01.mp3"
+    ],
+    "mp3Text": "Titan, let us unify what has been torn apart.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Arcwar_ally_01.mp3"
-        ],
-        "mp3Text": "Titan, let us unify what has been torn apart.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
-            "name": "Elder Titan"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_ally_03.mp3"
-        ],
-        "mp3Text": "Phoenix, your light glittered from afar as Self traveled the cosmos.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
-            "name": "Phoenix"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Arcwar_ally_04.mp3"
-        ],
-        "mp3Text": "Timeless one, perhaps the end finally draws nigh.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
-            "name": "Faceless Void"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Elder_Titan_minimap_icon.png/16px-Elder_Titan_minimap_icon.png?version=82d08f2f5afb97ebc6ac709217ba521a",
+        "name": "Elder Titan"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_ally_03.mp3"
+    ],
+    "mp3Text": "Phoenix, your light glittered from afar as Self traveled the cosmos.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Arcwar_ally_02.mp3"
-        ],
-        "mp3Text": "The aid of a Fundamental is most welcome.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
-            "name": "Enigma"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
-            "name": "Io"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
-            "name": "Keeper of the Light"
-          },
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
-            "name": "Chaos Knight"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Phoenix_minimap_icon.png/16px-Phoenix_minimap_icon.png?version=a6c3c6b234d35310ef19cbbcff9b7292",
+        "name": "Phoenix"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b5/Arcwar_ally_04.mp3"
+    ],
+    "mp3Text": "Timeless one, perhaps the end finally draws nigh.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/8e/Faceless_Void_minimap_icon.png/16px-Faceless_Void_minimap_icon.png?version=a8a7acc8b172471a1a93b7e51ccd1219",
+        "name": "Faceless Void"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Arcwar_ally_02.mp3"
+    ],
+    "mp3Text": "The aid of a Fundamental is most welcome.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/03/Enigma_minimap_icon.png/16px-Enigma_minimap_icon.png?version=8ce081172d05705c9da33efcb2e66b0a",
+        "name": "Enigma"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/86/Io_minimap_icon.png/16px-Io_minimap_icon.png?version=baf27812e0597a94a1f5c393b163339f",
+        "name": "Io"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Keeper_of_the_Light_minimap_icon.png/16px-Keeper_of_the_Light_minimap_icon.png?version=b78175ef790ea16c1310d14ebb2a402c",
+        "name": "Keeper of the Light"
+      },
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9f/Chaos_Knight_minimap_icon.png/16px-Chaos_Knight_minimap_icon.png?version=d168bc6c5e970588359e011003f50750",
+        "name": "Chaos Knight"
       }
     ]
   },
@@ -1435,780 +1521,829 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Arcwar_lasthit_01.mp3"
-        ],
-        "mp3Text": "Recycled soul."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Arcwar_lasthit_02.mp3"
-        ],
-        "mp3Text": "Pitysome fragment."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_lasthit_03.mp3"
-        ],
-        "mp3Text": "Rest for now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Arcwar_lasthit_04.mp3"
-        ],
-        "mp3Text": "Lowly pawn."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_lasthit_05.mp3"
-        ],
-        "mp3Text": "The gift of death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_lasthit_06.mp3"
-        ],
-        "mp3Text": "Return to your master."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Arcwar_lasthit_07.mp3"
-        ],
-        "mp3Text": "Gold claimed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_lasthit_08.mp3"
-        ],
-        "mp3Text": "A timely reward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Arcwar_lasthit_09.mp3"
-        ],
-        "mp3Text": "Futile creature."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/Arcwar_lasthit_01.mp3"
+    ],
+    "mp3Text": "Recycled soul."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Arcwar_lasthit_02.mp3"
+    ],
+    "mp3Text": "Pitysome fragment."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_lasthit_03.mp3"
+    ],
+    "mp3Text": "Rest for now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Arcwar_lasthit_04.mp3"
+    ],
+    "mp3Text": "Lowly pawn."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_lasthit_05.mp3"
+    ],
+    "mp3Text": "The gift of death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_lasthit_06.mp3"
+    ],
+    "mp3Text": "Return to your master."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Arcwar_lasthit_07.mp3"
+    ],
+    "mp3Text": "Gold claimed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_lasthit_08.mp3"
+    ],
+    "mp3Text": "A timely reward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Arcwar_lasthit_09.mp3"
+    ],
+    "mp3Text": "Futile creature."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Arcwar_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_deny_02.mp3"
-        ],
-        "mp3Text": "Not for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Arcwar_deny_03.mp3"
-        ],
-        "mp3Text": "By Self right."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Arcwar_deny_04.mp3"
-        ],
-        "mp3Text": "It is no use."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Arcwar_deny_05.mp3"
-        ],
-        "mp3Text": "Pointless effort."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Arcwar_deny_06.mp3"
-        ],
-        "mp3Text": "Resistance serves nothing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Arcwar_deny_07.mp3"
-        ],
-        "mp3Text": "That gold is claimed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_deny_08.mp3"
-        ],
-        "mp3Text": "Seek elsewhere."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Arcwar_deny_09.mp3"
-        ],
-        "mp3Text": "No farm for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_deny_10.mp3"
-        ],
-        "mp3Text": "Do not be selfish."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Arcwar_deny_11.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Arcwar_deny_12.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Arcwar_deny_13.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Arcwar_deny_14.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Arcwar_deny_15.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Arcwar_deny_16.mp3"
-        ],
-        "mp3Text": "Sorry."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Arcwar_deny_17.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Arcwar_deny_18.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Arcwar_deny_19.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Arcwar_deny_20.mp3"
-        ],
-        "mp3Text": "Mm-mm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Arcwar_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_deny_02.mp3"
+    ],
+    "mp3Text": "Not for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Arcwar_deny_03.mp3"
+    ],
+    "mp3Text": "By Self right."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Arcwar_deny_04.mp3"
+    ],
+    "mp3Text": "It is no use."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Arcwar_deny_05.mp3"
+    ],
+    "mp3Text": "Pointless effort."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Arcwar_deny_06.mp3"
+    ],
+    "mp3Text": "Resistance serves nothing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Arcwar_deny_07.mp3"
+    ],
+    "mp3Text": "That gold is claimed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Arcwar_deny_08.mp3"
+    ],
+    "mp3Text": "Seek elsewhere."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Arcwar_deny_09.mp3"
+    ],
+    "mp3Text": "No farm for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Arcwar_deny_10.mp3"
+    ],
+    "mp3Text": "Do not be selfish."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4e/Arcwar_deny_11.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Arcwar_deny_12.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Arcwar_deny_13.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Arcwar_deny_14.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Arcwar_deny_15.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/Arcwar_deny_16.mp3"
+    ],
+    "mp3Text": "Sorry."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Arcwar_deny_17.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Arcwar_deny_18.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Arcwar_deny_19.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Arcwar_deny_20.mp3"
+    ],
+    "mp3Text": "Mm-mm."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Arcwar_items_01.mp3"
-        ],
-        "mp3Text": "Worth its weight in gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_items_02.mp3"
-        ],
-        "mp3Text": "This will change the course of battle."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Arcwar_items_01.mp3"
+    ],
+    "mp3Text": "Worth its weight in gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_items_02.mp3"
+    ],
+    "mp3Text": "This will change the course of battle."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Arcwar_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Arcwar_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Arcwar_scepter_02.mp3"
-        ],
-        "mp3Text": "The Self makes use of the scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_blink_02.mp3"
-        ],
-        "mp3Text": "Arc dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Arcwar_items_05.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Arcwar_items_06.mp3"
-        ],
-        "mp3Text": "Desolator.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
-            "name": "Desolator (3500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Arcwar_items_07.mp3"
-        ],
-        "mp3Text": "Ethereal Blade.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
-            "name": "Ethereal Blade (4700)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Arcwar_items_08.mp3"
-        ],
-        "mp3Text": "Hand of Midas.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Hand_of_Midas_icon.png/20px-Hand_of_Midas_icon.png?version=9e871557369484b0c020053c8affde24",
-            "name": "Hand of Midas (2150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Arcwar_items_09.mp3"
-        ],
-        "mp3Text": "Orchid Malevolence.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
-            "name": "Orchid Malevolence (4075)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_items_10.mp3"
-        ],
-        "mp3Text": "Shiva's Guard.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Arcwar_items_11.mp3"
-        ],
-        "mp3Text": "Black King Bar.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_items_12.mp3"
-        ],
-        "mp3Text": "Boots of Travel.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6d/Boots_of_Travel_1_icon.png/20px-Boots_of_Travel_1_icon.png?version=447255a2d732576d7cf3558367c11761",
-            "name": "Boots of Travel (2500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Arcwar_items_13.mp3"
-        ],
-        "mp3Text": "Divine Rapier.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
-            "name": "Divine Rapier (6000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Arcwar_items_14.mp3"
-        ],
-        "mp3Text": "Daedalus.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
-            "name": "Daedalus (5330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_items_15.mp3"
-        ],
-        "mp3Text": "Drum of Endurance.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
-            "name": "Drum of Endurance (1615)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Arcwar_items_16.mp3"
-        ],
-        "mp3Text": "Linken's Sphere.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
-            "name": "Linken's Sphere (5050)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_items_17.mp3"
-        ],
-        "mp3Text": "Refresher Orb.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
-            "name": "Refresher Orb (5100)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Arcwar_items_18.mp3"
-        ],
-        "mp3Text": "Rod of Atos.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/66/Rod_of_Atos_icon.png/20px-Rod_of_Atos_icon.png?version=a63eef59920bdd2e39a5566345040199",
-            "name": "Rod of Atos (2930)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_items_19.mp3"
-        ],
-        "mp3Text": "Scepter of Divinity.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
-            "name": "Eul's Scepter of Divinity (2750)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Arcwar_items_20.mp3"
-        ],
-        "mp3Text": "Shadow Blade.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
-            "name": "Shadow Blade (2800)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Arcwar_items_21.mp3"
-        ],
-        "mp3Text": "Butterfly.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_items_22.mp3"
-        ],
-        "mp3Text": "Diffusal Blade.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Diffusal_Blade_1_icon.png/20px-Diffusal_Blade_1_icon.png?version=6383f6f085ff2897b51cf5da7b4b5a76",
-            "name": "Diffusal Blade (3150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Arcwar_items_23.mp3"
-        ],
-        "mp3Text": "Eye of Skadi.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
-            "name": "Eye of Skadi (5500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Arcwar_items_24.mp3"
-        ],
-        "mp3Text": "Force Staff.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Arcwar_items_25.mp3"
-        ],
-        "mp3Text": "Heart of Tarrasque.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
-            "name": "Heart of Tarrasque (5200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Arcwar_items_26.mp3"
-        ],
-        "mp3Text": "Helm of the Dominator.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
-            "name": "Helm of the Dominator (2000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_items_27.mp3"
-        ],
-        "mp3Text": "Mask of Madness.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
-            "name": "Mask of Madness (1975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_items_28.mp3"
-        ],
-        "mp3Text": "Mekansm.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
-            "name": "Mekansm (2350)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Arcwar_items_29.mp3"
-        ],
-        "mp3Text": "Veil of Discord.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
-            "name": "Veil of Discord (2330)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Arcwar_items_30.mp3"
-        ],
-        "mp3Text": "Yasha",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d1/Yasha_icon.png/20px-Yasha_icon.png?version=f97ba51c9a6c86860e9b7c286b2d4659",
-            "name": "Yasha (2150)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Arcwar_items_31.mp3"
-        ],
-        "mp3Text": "Sange & Yasha.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
-            "name": "Sange and Yasha (4300)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_items_32.mp3"
-        ],
-        "mp3Text": "Manta Style.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-            "name": "Manta Style (4800)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Arcwar_items_35.mp3"
-        ],
-        "mp3Text": "Lotus Orb.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c8/Lotus_Orb_icon.png/20px-Lotus_Orb_icon.png?version=c42f82b16c5c7616be5c3a86bd3bae10",
-            "name": "Lotus Orb (4000)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Arcwar_items_36.mp3"
-        ],
-        "mp3Text": "Silver Edge.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Silver_Edge_icon.png/20px-Silver_Edge_icon.png?version=f8c614e702bdec7fa65607c68c7a5e1c",
-            "name": "Silver Edge (5550)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Arcwar_items_37.mp3"
-        ],
-        "mp3Text": "Glimmer Cape.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/ce/Glimmer_Cape_icon.png/20px-Glimmer_Cape_icon.png?version=a471d0fa0f10594057b47654fbe7bad1",
-            "name": "Glimmer Cape (1950)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Arcwar_items_38.mp3"
-        ],
-        "mp3Text": "Solar Crest.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/36/Solar_Crest_icon.png/20px-Solar_Crest_icon.png?version=13eb92149aaa62a0070bc2a00880ebe6",
-            "name": "Solar Crest (2575)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Arcwar_items_39.mp3"
-        ],
-        "mp3Text": "Necronomicon.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
-            "name": "Necronomicon (2400)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Arcwar_items_40.mp3"
-        ],
-        "mp3Text": "Dagon.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
-            "name": "Dagon (2715)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_items_41.mp3"
-        ],
-        "mp3Text": "Mjollnir.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
-            "name": "Mjollnir (5600)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_items_43.mp3"
-        ],
-        "mp3Text": "Assault Cuirass.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Arcwar_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/Arcwar_scepter_02.mp3"
+    ],
+    "mp3Text": "The Self makes use of the scepter.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_immort_02.mp3"
-        ],
-        "mp3Text": "Unity eternal.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Arcwar_items_33.mp3"
-        ],
-        "mp3Text": "So many more selves.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
-            "name": "Manta Style (4800)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Arcwar_items_42.mp3"
-        ],
-        "mp3Text": "Mjollnir. The arc shudders with power.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
-            "name": "Mjollnir (5600)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Arcwar_items_44.mp3"
-        ],
-        "mp3Text": "Pretty Butterfly.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
-            "name": "Butterfly (5475)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Arcwar_blink_02.mp3"
+    ],
+    "mp3Text": "Arc dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Arcwar_items_34.mp3"
-        ],
-        "mp3Text": "Warding Warden.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f6/Observer_Ward_icon.png/20px-Observer_Ward_icon.png?version=889d638a59b727298699fe9024fded3a",
-            "name": "Observer Ward (75)"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Arcwar_items_05.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Arcwar_items_06.mp3"
+    ],
+    "mp3Text": "Desolator.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Desolator_icon.png/20px-Desolator_icon.png?version=6799c37495e122a7036267841f8d87ef",
+        "name": "Desolator (3500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Arcwar_items_07.mp3"
+    ],
+    "mp3Text": "Ethereal Blade.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Ethereal_Blade_icon.png/20px-Ethereal_Blade_icon.png?version=40fe8061bdbd408607d77b7ad3172da6",
+        "name": "Ethereal Blade (4700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Arcwar_items_08.mp3"
+    ],
+    "mp3Text": "Hand of Midas.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5b/Hand_of_Midas_icon.png/20px-Hand_of_Midas_icon.png?version=9e871557369484b0c020053c8affde24",
+        "name": "Hand of Midas (2150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Arcwar_items_09.mp3"
+    ],
+    "mp3Text": "Orchid Malevolence.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/ad/Orchid_Malevolence_icon.png/20px-Orchid_Malevolence_icon.png?version=f365defde2cf528f5061df877451b861",
+        "name": "Orchid Malevolence (4075)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_items_10.mp3"
+    ],
+    "mp3Text": "Shiva's Guard.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/Arcwar_items_11.mp3"
+    ],
+    "mp3Text": "Black King Bar.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_items_12.mp3"
+    ],
+    "mp3Text": "Boots of Travel.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/6d/Boots_of_Travel_1_icon.png/20px-Boots_of_Travel_1_icon.png?version=447255a2d732576d7cf3558367c11761",
+        "name": "Boots of Travel (2500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/Arcwar_items_13.mp3"
+    ],
+    "mp3Text": "Divine Rapier.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b1/Divine_Rapier_icon.png/20px-Divine_Rapier_icon.png?version=23cc8b9723d5f3746da9268dea6bdd3a",
+        "name": "Divine Rapier (6000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Arcwar_items_14.mp3"
+    ],
+    "mp3Text": "Daedalus.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/24/Daedalus_icon.png/20px-Daedalus_icon.png?version=d46d419859295513f7b7eec7da36b56c",
+        "name": "Daedalus (5330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_items_15.mp3"
+    ],
+    "mp3Text": "Drum of Endurance.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Drum_of_Endurance_icon.png/20px-Drum_of_Endurance_icon.png?version=8416560478363fc1fa177606f1d1a15f",
+        "name": "Drum of Endurance (1615)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Arcwar_items_16.mp3"
+    ],
+    "mp3Text": "Linken's Sphere.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/23/Linken%27s_Sphere_icon.png/20px-Linken%27s_Sphere_icon.png?version=aec4a2be8f4bd61ae9ac264d4099dafb",
+        "name": "Linken's Sphere (5050)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_items_17.mp3"
+    ],
+    "mp3Text": "Refresher Orb.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e2/Refresher_Orb_icon.png/20px-Refresher_Orb_icon.png?version=2cbe4b8f842a0c6829f33c8726c926ae",
+        "name": "Refresher Orb (5100)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Arcwar_items_18.mp3"
+    ],
+    "mp3Text": "Rod of Atos.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/66/Rod_of_Atos_icon.png/20px-Rod_of_Atos_icon.png?version=a63eef59920bdd2e39a5566345040199",
+        "name": "Rod of Atos (2930)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Arcwar_items_19.mp3"
+    ],
+    "mp3Text": "Scepter of Divinity.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/80/Eul%27s_Scepter_of_Divinity_icon.png/20px-Eul%27s_Scepter_of_Divinity_icon.png?version=3098d1f1dc8cefd280e2b3bbe125badc",
+        "name": "Eul's Scepter of Divinity (2750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b7/Arcwar_items_20.mp3"
+    ],
+    "mp3Text": "Shadow Blade.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0f/Shadow_Blade_icon.png/20px-Shadow_Blade_icon.png?version=6549112200134a2193d866bfd57ad623",
+        "name": "Shadow Blade (2800)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Arcwar_items_21.mp3"
+    ],
+    "mp3Text": "Butterfly.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_items_22.mp3"
+    ],
+    "mp3Text": "Diffusal Blade.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/65/Diffusal_Blade_1_icon.png/20px-Diffusal_Blade_1_icon.png?version=6383f6f085ff2897b51cf5da7b4b5a76",
+        "name": "Diffusal Blade (3150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Arcwar_items_23.mp3"
+    ],
+    "mp3Text": "Eye of Skadi.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1e/Eye_of_Skadi_icon.png/20px-Eye_of_Skadi_icon.png?version=500afbaf794a79f69a3145e52b45362c",
+        "name": "Eye of Skadi (5500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Arcwar_items_24.mp3"
+    ],
+    "mp3Text": "Force Staff.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Arcwar_items_25.mp3"
+    ],
+    "mp3Text": "Heart of Tarrasque.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/75/Heart_of_Tarrasque_icon.png/20px-Heart_of_Tarrasque_icon.png?version=87f7d9fcd0ffd6b9d6de9e384829df9e",
+        "name": "Heart of Tarrasque (5200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/Arcwar_items_26.mp3"
+    ],
+    "mp3Text": "Helm of the Dominator.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/97/Helm_of_the_Dominator_icon.png/20px-Helm_of_the_Dominator_icon.png?version=b1baef82e432df49ff7ab1d5f6aa85c5",
+        "name": "Helm of the Dominator (2000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_items_27.mp3"
+    ],
+    "mp3Text": "Mask of Madness.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/76/Mask_of_Madness_icon.png/20px-Mask_of_Madness_icon.png?version=43f18984d8b36f077e4f00e7a48ad809",
+        "name": "Mask of Madness (1975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_items_28.mp3"
+    ],
+    "mp3Text": "Mekansm.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f7/Mekansm_icon.png/20px-Mekansm_icon.png?version=c9424d53e73ea243b0063f174c3b352a",
+        "name": "Mekansm (2350)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Arcwar_items_29.mp3"
+    ],
+    "mp3Text": "Veil of Discord.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Veil_of_Discord_icon.png/20px-Veil_of_Discord_icon.png?version=a1fde1055923a013b0917ba0e89b6d69",
+        "name": "Veil of Discord (2330)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Arcwar_items_30.mp3"
+    ],
+    "mp3Text": "Yasha",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d1/Yasha_icon.png/20px-Yasha_icon.png?version=f97ba51c9a6c86860e9b7c286b2d4659",
+        "name": "Yasha (2150)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Arcwar_items_31.mp3"
+    ],
+    "mp3Text": "Sange & Yasha.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b4/Sange_and_Yasha_icon.png/20px-Sange_and_Yasha_icon.png?version=05422932a56c3741e4a88b1c5fe68c77",
+        "name": "Sange and Yasha (4300)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_items_32.mp3"
+    ],
+    "mp3Text": "Manta Style.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+        "name": "Manta Style (4800)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Arcwar_items_35.mp3"
+    ],
+    "mp3Text": "Lotus Orb.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c8/Lotus_Orb_icon.png/20px-Lotus_Orb_icon.png?version=c42f82b16c5c7616be5c3a86bd3bae10",
+        "name": "Lotus Orb (4000)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Arcwar_items_36.mp3"
+    ],
+    "mp3Text": "Silver Edge.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/91/Silver_Edge_icon.png/20px-Silver_Edge_icon.png?version=f8c614e702bdec7fa65607c68c7a5e1c",
+        "name": "Silver Edge (5550)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/Arcwar_items_37.mp3"
+    ],
+    "mp3Text": "Glimmer Cape.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/ce/Glimmer_Cape_icon.png/20px-Glimmer_Cape_icon.png?version=a471d0fa0f10594057b47654fbe7bad1",
+        "name": "Glimmer Cape (1950)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/Arcwar_items_38.mp3"
+    ],
+    "mp3Text": "Solar Crest.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/36/Solar_Crest_icon.png/20px-Solar_Crest_icon.png?version=13eb92149aaa62a0070bc2a00880ebe6",
+        "name": "Solar Crest (2575)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Arcwar_items_39.mp3"
+    ],
+    "mp3Text": "Necronomicon.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
+        "name": "Necronomicon (2400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Arcwar_items_40.mp3"
+    ],
+    "mp3Text": "Dagon.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/bc/Dagon_1_icon.png/20px-Dagon_1_icon.png?version=6e2cc285a58a6a18a0b1e31809732ecc",
+        "name": "Dagon (2715)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_items_41.mp3"
+    ],
+    "mp3Text": "Mjollnir.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
+        "name": "Mjollnir (5600)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_items_43.mp3"
+    ],
+    "mp3Text": "Assault Cuirass.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Arcwar_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Arcwar_immort_02.mp3"
+    ],
+    "mp3Text": "Unity eternal.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/Arcwar_items_33.mp3"
+    ],
+    "mp3Text": "So many more selves.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/8/84/Manta_Style_icon.png/20px-Manta_Style_icon.png?version=3c4e36850b80d5091af6573e4c0dfd07",
+        "name": "Manta Style (4800)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/Arcwar_items_42.mp3"
+    ],
+    "mp3Text": "Mjollnir. The arc shudders with power.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/9d/Mjollnir_icon.png/20px-Mjollnir_icon.png?version=c68657ba98ceb69248241ecfd2e09946",
+        "name": "Mjollnir (5600)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/Arcwar_items_44.mp3"
+    ],
+    "mp3Text": "Pretty Butterfly.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/28/Butterfly_icon.png/20px-Butterfly_icon.png?version=11a84ad630b85968161d8e38ccdb042d",
+        "name": "Butterfly (5475)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Arcwar_items_34.mp3"
+    ],
+    "mp3Text": "Warding Warden.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f6/Observer_Ward_icon.png/20px-Observer_Ward_icon.png?version=889d638a59b727298699fe9024fded3a",
+        "name": "Observer Ward (75)"
       }
     ]
   },
@@ -2217,188 +2352,198 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Arcwar_death_01.mp3"
-        ],
-        "mp3Text": "No…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_death_02.mp3"
-        ],
-        "mp3Text": "What have you done?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Arcwar_death_03.mp3"
-        ],
-        "mp3Text": "You fool."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_death_04.mp3"
-        ],
-        "mp3Text": "The Self is shattered."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_death_05.mp3"
-        ],
-        "mp3Text": "The Self sees the origin."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_death_06.mp3"
-        ],
-        "mp3Text": "The Self has lost its self."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Arcwar_death_07.mp3"
-        ],
-        "mp3Text": "The Self is no more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_death_08.mp3"
-        ],
-        "mp3Text": "You know not what you do."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_death_09.mp3"
-        ],
-        "mp3Text": "The entity dies."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Arcwar_death_10.mp3"
-        ],
-        "mp3Text": "Two becomes none."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_death_11.mp3"
-        ],
-        "mp3Text": "Into Ancient embrace…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Arcwar_death_13.mp3"
-        ],
-        "mp3Text": "No…"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Arcwar_death_01.mp3"
+    ],
+    "mp3Text": "No…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_death_02.mp3"
+    ],
+    "mp3Text": "What have you done?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Arcwar_death_03.mp3"
+    ],
+    "mp3Text": "You fool."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_death_04.mp3"
+    ],
+    "mp3Text": "The Self is shattered."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_death_05.mp3"
+    ],
+    "mp3Text": "The Self sees the origin."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_death_06.mp3"
+    ],
+    "mp3Text": "The Self has lost its self."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/Arcwar_death_07.mp3"
+    ],
+    "mp3Text": "The Self is no more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/Arcwar_death_08.mp3"
+    ],
+    "mp3Text": "You know not what you do."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Arcwar_death_09.mp3"
+    ],
+    "mp3Text": "The entity dies."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Arcwar_death_10.mp3"
+    ],
+    "mp3Text": "Two becomes none."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_death_11.mp3"
+    ],
+    "mp3Text": "Into Ancient embrace…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/Arcwar_death_13.mp3"
+    ],
+    "mp3Text": "No…"
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_respawn_01.mp3"
-        ],
-        "mp3Text": "Victory walks upon a wire. The Self must not fail."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Arcwar_respawn_02.mp3"
-        ],
-        "mp3Text": "These fools must learn what they stand against."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Arcwar_respawn_03.mp3"
-        ],
-        "mp3Text": "Such life is and can be when it is given by a foe."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Arcwar_respawn_04.mp3"
-        ],
-        "mp3Text": "One divided against its Self cannot stand."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Arcwar_respawn_05.mp3"
-        ],
-        "mp3Text": "Splintered once more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Arcwar_respawn_06.mp3"
-        ],
-        "mp3Text": "What was none becomes one again."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_respawn_07.mp3"
-        ],
-        "mp3Text": "The Self is because it believes it is."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Arcwar_respawn_08.mp3"
-        ],
-        "mp3Text": "The Self stirs once more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_respawn_09.mp3"
-        ],
-        "mp3Text": "Returned from Ancient darkness."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/51/Arcwar_respawn_01.mp3"
+    ],
+    "mp3Text": "Victory walks upon a wire. The Self must not fail."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Arcwar_respawn_02.mp3"
+    ],
+    "mp3Text": "These fools must learn what they stand against."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/Arcwar_respawn_03.mp3"
+    ],
+    "mp3Text": "Such life is and can be when it is given by a foe."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Arcwar_respawn_04.mp3"
+    ],
+    "mp3Text": "One divided against its Self cannot stand."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/Arcwar_respawn_05.mp3"
+    ],
+    "mp3Text": "Splintered once more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Arcwar_respawn_06.mp3"
+    ],
+    "mp3Text": "What was none becomes one again."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Arcwar_respawn_07.mp3"
+    ],
+    "mp3Text": "The Self is because it believes it is."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Arcwar_respawn_08.mp3"
+    ],
+    "mp3Text": "The Self stirs once more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ec/Arcwar_respawn_09.mp3"
+    ],
+    "mp3Text": "Returned from Ancient darkness."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Arcwar_fastres_01.mp3"
-        ],
-        "mp3Text": "Life is a cycle that knows no end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Arcwar_fastres_02.mp3"
-        ],
-        "mp3Text": "The Self cannot be extinguished."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Arcwar_fastres_01.mp3"
+    ],
+    "mp3Text": "Life is a cycle that knows no end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Arcwar_fastres_02.mp3"
+    ],
+    "mp3Text": "The Self cannot be extinguished."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_bottle_01.mp3"
-        ],
-        "mp3Text": "Selfishly claimed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Arcwar_bottle_02.mp3"
-        ],
-        "mp3Text": "Saved for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Arcwar_bottle_03.mp3"
-        ],
-        "mp3Text": "Bottled."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Arcwar_bottle_01.mp3"
+    ],
+    "mp3Text": "Selfishly claimed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Arcwar_bottle_02.mp3"
+    ],
+    "mp3Text": "Saved for later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Arcwar_bottle_03.mp3"
+    ],
+    "mp3Text": "Bottled."
   },
   {
     "headTitle": "Activating runes",
@@ -2410,14 +2555,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Arcwar_deny_03.mp3"
-        ],
-        "mp3Text": "By Self right."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Arcwar_deny_03.mp3"
+    ],
+    "mp3Text": "By Self right."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -2425,14 +2567,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_bounty_01.mp3"
-        ],
-        "mp3Text": "Balance the scale."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_bounty_01.mp3"
+    ],
+    "mp3Text": "Balance the scale."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -2440,24 +2579,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Arcwar_doubledamage_01.mp3"
-        ],
-        "mp3Text": "Double damage."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/97/Arcwar_doubledamage_01.mp3"
+    ],
+    "mp3Text": "Double damage."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Arcwar_doubledamage_02.mp3"
-        ],
-        "mp3Text": "Self crackles with power."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Arcwar_doubledamage_02.mp3"
+    ],
+    "mp3Text": "Self crackles with power."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -2465,24 +2598,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Arcwar_haste_01.mp3"
-        ],
-        "mp3Text": "Haste."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Arcwar_haste_01.mp3"
+    ],
+    "mp3Text": "Haste."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Arcwar_haste_02.mp3"
-        ],
-        "mp3Text": "A red rune."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Arcwar_haste_02.mp3"
+    ],
+    "mp3Text": "A red rune."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -2490,26 +2617,25 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Arcwar_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Arcwar_illus_02.mp3"
-        ],
-        "mp3Text": "So many selves."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Arcwar_illus_03.mp3"
-        ],
-        "mp3Text": "So many selves, so little time."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Arcwar_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Arcwar_illus_02.mp3"
+    ],
+    "mp3Text": "So many selves."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Arcwar_illus_03.mp3"
+    ],
+    "mp3Text": "So many selves, so little time."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -2517,24 +2643,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Arcwar_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Arcwar_invis_02.mp3"
-        ],
-        "mp3Text": "Subtle self."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Arcwar_invis_02.mp3"
+    ],
+    "mp3Text": "Subtle self."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -2542,24 +2662,18 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Arcwar_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Arcwar_regen_02.mp3"
-        ],
-        "mp3Text": "The Self is made whole."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Arcwar_regen_02.mp3"
+    ],
+    "mp3Text": "The Self is made whole."
   },
   {
     "headTitle": "Ability on cooldown",
@@ -2570,78 +2684,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Arcwar_notyet_04.mp3"
-        ],
-        "mp3Text": "The Self is not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Arcwar_notyet_07.mp3"
-        ],
-        "mp3Text": "It is not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Arcwar_notyet_04.mp3"
+    ],
+    "mp3Text": "The Self is not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Arcwar_notyet_07.mp3"
+    ],
+    "mp3Text": "It is not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Arcwar_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Arcwar_notyet_05.mp3"
-        ],
-        "mp3Text": "The Self is not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_notyet_08.mp3"
-        ],
-        "mp3Text": "It is not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Arcwar_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Arcwar_notyet_05.mp3"
+    ],
+    "mp3Text": "The Self is not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arcwar_notyet_08.mp3"
+    ],
+    "mp3Text": "It is not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Arcwar_notyet_03.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_notyet_06.mp3"
-        ],
-        "mp3Text": "The Self is not ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Arcwar_notyet_09.mp3"
-        ],
-        "mp3Text": "It is not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Arcwar_notyet_03.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/42/Arcwar_notyet_06.mp3"
+    ],
+    "mp3Text": "The Self is not ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Arcwar_notyet_09.mp3"
+    ],
+    "mp3Text": "It is not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -2652,228 +2763,240 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Arcwar_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Arcwar_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Arcwar_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Arcwar_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Arcwar_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_nomana_02.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Arcwar_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Arcwar_nomana_08.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_nomana_02.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/Arcwar_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Arcwar_nomana_08.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Arcwar_nomana_03.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_nomana_06.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Arcwar_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Arcwar_nomana_03.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Arcwar_nomana_06.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Arcwar_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Arcwar_pain_01.mp3"
-        ],
-        "mp3Text": "Ouch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Arcwar_pain_02.mp3"
-        ],
-        "mp3Text": "Ugh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_pain_03.mp3"
-        ],
-        "mp3Text": "Mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_pain_04.mp3"
-        ],
-        "mp3Text": "Err."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Arcwar_pain_05.mp3"
-        ],
-        "mp3Text": "Uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_pain_06.mp3"
-        ],
-        "mp3Text": "Mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_pain_07.mp3"
-        ],
-        "mp3Text": "Mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_pain_08.mp3"
-        ],
-        "mp3Text": "Mm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_pain_09.mp3"
-        ],
-        "mp3Text": "Uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Arcwar_pain_10.mp3"
-        ],
-        "mp3Text": "Oof."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Arcwar_pain_11.mp3"
-        ],
-        "mp3Text": "Ah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_pain_12.mp3"
-        ],
-        "mp3Text": "Eugh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Arcwar_pain_13.mp3"
-        ],
-        "mp3Text": "Er!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Arcwar_pain_14.mp3"
-        ],
-        "mp3Text": "Ugh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Arcwar_pain_15.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_pain_16.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Arcwar_pain_17.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Arcwar_pain_18.mp3"
-        ],
-        "mp3Text": "Mmm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Arcwar_pain_19.mp3"
-        ],
-        "mp3Text": "Ugh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Arcwar_pain_20.mp3"
-        ],
-        "mp3Text": "Eugh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Arcwar_pain_21.mp3"
-        ],
-        "mp3Text": "Mm!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Arcwar_pain_22.mp3"
-        ],
-        "mp3Text": "Mm!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/39/Arcwar_pain_01.mp3"
+    ],
+    "mp3Text": "Ouch."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_underattack_01.mp3"
-        ],
-        "mp3Text": "Self is under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/Arcwar_pain_02.mp3"
+    ],
+    "mp3Text": "Ugh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_pain_03.mp3"
+    ],
+    "mp3Text": "Mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_pain_04.mp3"
+    ],
+    "mp3Text": "Err."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Arcwar_pain_05.mp3"
+    ],
+    "mp3Text": "Uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/Arcwar_pain_06.mp3"
+    ],
+    "mp3Text": "Mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Arcwar_pain_07.mp3"
+    ],
+    "mp3Text": "Mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Arcwar_pain_08.mp3"
+    ],
+    "mp3Text": "Mm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Arcwar_pain_09.mp3"
+    ],
+    "mp3Text": "Uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Arcwar_pain_10.mp3"
+    ],
+    "mp3Text": "Oof."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Arcwar_pain_11.mp3"
+    ],
+    "mp3Text": "Ah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Arcwar_pain_12.mp3"
+    ],
+    "mp3Text": "Eugh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Arcwar_pain_13.mp3"
+    ],
+    "mp3Text": "Er!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Arcwar_pain_14.mp3"
+    ],
+    "mp3Text": "Ugh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Arcwar_pain_15.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_pain_16.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/Arcwar_pain_17.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7c/Arcwar_pain_18.mp3"
+    ],
+    "mp3Text": "Mmm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/Arcwar_pain_19.mp3"
+    ],
+    "mp3Text": "Ugh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Arcwar_pain_20.mp3"
+    ],
+    "mp3Text": "Eugh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Arcwar_pain_21.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Arcwar_pain_22.mp3"
+    ],
+    "mp3Text": "Mm!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c0/Arcwar_underattack_01.mp3"
+    ],
+    "mp3Text": "Self is under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -2884,20 +3007,18 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_rare_01.mp3"
-        ],
-        "mp3Text": "From the Primordial Consciousness all came. Return to it, all must."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Arcwar_rare_02.mp3"
-        ],
-        "mp3Text": "It is not to aid the Ancients that this war is joined, but to destroy them both. This disunity must end."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Arcwar_rare_01.mp3"
+    ],
+    "mp3Text": "From the Primordial Consciousness all came. Return to it, all must."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Arcwar_rare_02.mp3"
+    ],
+    "mp3Text": "It is not to aid the Ancients that this war is joined, but to destroy them both. This disunity must end."
   },
   {
     "headTitle": "Chat responses",
@@ -2908,96 +3029,96 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Arcwar_lanemissing_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Arcwar_lanemissing_02.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_lanemissing_03.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Arcwar_lanemissing_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/Arcwar_lanemissing_02.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Arcwar_lanemissing_03.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Arcwar_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Arcwar_thanks_02.mp3"
-        ],
-        "mp3Text": "Your grace is noted."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Arcwar_thanks_03.mp3"
-        ],
-        "mp3Text": "A selfless act."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Arcwar_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Arcwar_thanks_02.mp3"
+    ],
+    "mp3Text": "Your grace is noted."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7b/Arcwar_thanks_03.mp3"
+    ],
+    "mp3Text": "A selfless act."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_laugh_01.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_laugh_02.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Arcwar_laugh_03.mp3"
-        ],
-        "mp3Text": "Hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_laugh_04.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_laugh_05.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm ho ho ha ha ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Arcwar_laugh_06.mp3"
-        ],
-        "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Arcwar_laugh_01.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Arcwar_laugh_02.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Arcwar_laugh_03.mp3"
+    ],
+    "mp3Text": "Hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Arcwar_laugh_04.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Arcwar_laugh_05.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm ho ho ha ha ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Arcwar_laugh_06.mp3"
+    ],
+    "mp3Text": "Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm."
   },
   {
     "headTitle": "Match end",
@@ -3008,46 +3129,43 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Arcwar_win_01.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_win_02.mp3"
-        ],
-        "mp3Text": "One Ancient is destroyed. One remains."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Arcwar_win_01.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Arcwar_win_02.mp3"
+    ],
+    "mp3Text": "One Ancient is destroyed. One remains."
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Arcwar_lose_01.mp3"
-        ],
-        "mp3Text": "This is not the end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Arcwar_lose_02.mp3"
-        ],
-        "mp3Text": "All is part of the plan."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_lose_03.mp3"
-        ],
-        "mp3Text": "Defeated."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/Arcwar_lose_01.mp3"
+    ],
+    "mp3Text": "This is not the end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Arcwar_lose_02.mp3"
+    ],
+    "mp3Text": "All is part of the plan."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Arcwar_lose_03.mp3"
+    ],
+    "mp3Text": "Defeated."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -3058,41 +3176,32 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Arcwar_itemdrop_common_01.mp3"
-        ],
-        "mp3Text": "What is this?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Arcwar_itemdrop_common_01.mp3"
+    ],
+    "mp3Text": "What is this?"
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Arcwar_itemdrop_moderate_01.mp3"
-        ],
-        "mp3Text": "This is an unexpected find."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/Arcwar_itemdrop_moderate_01.mp3"
+    ],
+    "mp3Text": "This is an unexpected find."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Arcwar_itemdrop_rare_01.mp3"
-        ],
-        "mp3Text": "The Self shall treasure this."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Arcwar_itemdrop_rare_01.mp3"
+    ],
+    "mp3Text": "The Self shall treasure this."
   }
 ]

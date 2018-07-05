@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Tony_Todd",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/21/Dragon_Knight_minimap_icon.png/20px-Dragon_Knight_minimap_icon.png?version=5a89174a091e1351a11a5be935291815",
     "heroName": "Dragon Knight",
-    "href": "https://dota2.gamepedia.com/Dragon_Knight/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/dragon_knight_full.png",
     "primaryAttribute": "Strength",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/dragonknight.png",
@@ -17,80 +16,88 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3"
-        ],
-        "mp3Text": "Dragon Knight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_spawn_02.mp3"
-        ],
-        "mp3Text": "The dragon comes for war."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_spawn_03.mp3"
-        ],
-        "mp3Text": "I unsheathe the Wyrmblade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_spawn_04.mp3"
-        ],
-        "mp3Text": "A Knight in dragon's armor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_drag_battlebegins_01.mp3"
-        ],
-        "mp3Text": "On your guard."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/DK_drag_move_04.mp3"
-        ],
-        "mp3Text": "Compelled to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_09.mp3"
-        ],
-        "mp3Text": "The dragon wakes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_move_10.mp3"
-        ],
-        "mp3Text": "Who calls the dragon knight?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_move_11.mp3"
-        ],
-        "mp3Text": "Dragon to the fray."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/DK_drag_attack_02.mp3"
-        ],
-        "mp3Text": "By the honor of the ancients."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/DK_drag_attack_06.mp3"
-        ],
-        "mp3Text": "Our shields shall clash."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_level_05.mp3"
-        ],
-        "mp3Text": "In strength is victory."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3"
+    ],
+    "mp3Text": "Dragon Knight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_spawn_02.mp3"
+    ],
+    "mp3Text": "The dragon comes for war."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_spawn_03.mp3"
+    ],
+    "mp3Text": "I unsheathe the Wyrmblade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_spawn_04.mp3"
+    ],
+    "mp3Text": "A Knight in dragon's armor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_drag_battlebegins_01.mp3"
+    ],
+    "mp3Text": "On your guard."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/DK_drag_move_04.mp3"
+    ],
+    "mp3Text": "Compelled to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_09.mp3"
+    ],
+    "mp3Text": "The dragon wakes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_move_10.mp3"
+    ],
+    "mp3Text": "Who calls the dragon knight?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_move_11.mp3"
+    ],
+    "mp3Text": "Dragon to the fray."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/DK_drag_attack_02.mp3"
+    ],
+    "mp3Text": "By the honor of the ancients."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/DK_drag_attack_06.mp3"
+    ],
+    "mp3Text": "Our shields shall clash."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_level_05.mp3"
+    ],
+    "mp3Text": "In strength is victory."
   },
   {
     "headTitle": "Drafting",
@@ -101,580 +108,603 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3"
-        ],
-        "mp3Text": "Dragon Knight."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3"
+    ],
+    "mp3Text": "Dragon Knight."
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_drag_anger_06.mp3"
-        ],
-        "mp3Text": "Ohweh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_drag_anger_06.mp3"
+    ],
+    "mp3Text": "Ohweh."
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_spawn_01.mp3"
-        ],
-        "mp3Text": "Dragon Knight."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_spawn_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_dragon_spawn_02.mp3"
-        ],
-        "mp3Text": "The dragon comes for war."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_spawn_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/DK_dragon_spawn_03.mp3"
-        ],
-        "mp3Text": "I unsheathe the Wyrmblade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_spawn_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_dragon_spawn_04.mp3"
-        ],
-        "mp3Text": "A Knight in dragon's armor."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/DK_drag_spawn_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_spawn_01.mp3"
+    ],
+    "mp3Text": "Dragon Knight."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_spawn_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_dragon_spawn_02.mp3"
+    ],
+    "mp3Text": "The dragon comes for war."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_spawn_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/DK_dragon_spawn_03.mp3"
+    ],
+    "mp3Text": "I unsheathe the Wyrmblade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_spawn_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_dragon_spawn_04.mp3"
+    ],
+    "mp3Text": "A Knight in dragon's armor."
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/DK_drag_inthebag_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_dragon_inthebag_02.mp3"
-        ],
-        "mp3Text": "This my friends, is in the bag."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/DK_drag_inthebag_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_dragon_inthebag_02.mp3"
+    ],
+    "mp3Text": "This my friends, is in the bag."
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_drag_battlebegins_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/DK_dragon_battlebegins_01.mp3"
-        ],
-        "mp3Text": "On your guard."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/DK_drag_battlebegins_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/DK_dragon_battlebegins_02.mp3"
-        ],
-        "mp3Text": "The tournament commences."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_drag_battlebegins_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/DK_dragon_battlebegins_01.mp3"
+    ],
+    "mp3Text": "On your guard."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/DK_drag_battlebegins_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/DK_dragon_battlebegins_02.mp3"
+    ],
+    "mp3Text": "The tournament commences."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_drag_move_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/DK_dragon_move_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_move_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/DK_dragon_move_02.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/DK_drag_move_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_dragon_move_03.mp3"
-        ],
-        "mp3Text": "Forward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/DK_drag_move_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_move_04.mp3"
-        ],
-        "mp3Text": "Compelled to battle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_drag_move_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/DK_dragon_move_05.mp3"
-        ],
-        "mp3Text": "Of course."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/DK_drag_move_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_move_06.mp3"
-        ],
-        "mp3Text": "I need no steed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_dragon_move_07.mp3"
-        ],
-        "mp3Text": "Onward."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_drag_move_08.mp3"
-        ],
-        "mp3Text": "By my blade."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/DK_dragon_move_09.mp3"
-        ],
-        "mp3Text": "The dragon wakes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_move_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/DK_dragon_move_10.mp3"
-        ],
-        "mp3Text": "Who calls the dragon knight?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_move_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/DK_dragon_move_11.mp3"
-        ],
-        "mp3Text": "Dragon to the fray."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_move_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/DK_dragon_move_12.mp3"
-        ],
-        "mp3Text": "Swiftly."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/DK_dragon_ability_eldrag_02.mp3"
-        ],
-        "mp3Text": "Fly-by-night."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_drag_move_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/DK_dragon_move_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_move_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/36/DK_dragon_move_02.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/DK_drag_move_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_dragon_move_03.mp3"
+    ],
+    "mp3Text": "Forward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/43/DK_drag_move_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_move_04.mp3"
+    ],
+    "mp3Text": "Compelled to battle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_drag_move_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/DK_dragon_move_05.mp3"
+    ],
+    "mp3Text": "Of course."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/DK_drag_move_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_move_06.mp3"
+    ],
+    "mp3Text": "I need no steed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_dragon_move_07.mp3"
+    ],
+    "mp3Text": "Onward."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_drag_move_08.mp3"
+    ],
+    "mp3Text": "By my blade."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/DK_drag_move_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/DK_dragon_move_09.mp3"
+    ],
+    "mp3Text": "The dragon wakes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_move_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/DK_dragon_move_10.mp3"
+    ],
+    "mp3Text": "Who calls the dragon knight?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_move_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/DK_dragon_move_11.mp3"
+    ],
+    "mp3Text": "Dragon to the fray."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_move_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/DK_dragon_move_12.mp3"
+    ],
+    "mp3Text": "Swiftly."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/DK_dragon_ability_eldrag_02.mp3"
+    ],
+    "mp3Text": "Fly-by-night."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_drag_attack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_dragon_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/DK_drag_attack_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_dragon_attack_02.mp3"
-        ],
-        "mp3Text": "By the honor of the ancients."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/DK_drag_attack_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/DK_dragon_attack_03.mp3"
-        ],
-        "mp3Text": "I'll notch your skull."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/DK_drag_attack_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/DK_dragon_attack_04.mp3"
-        ],
-        "mp3Text": "Dragon charred."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_attack_05.mp3"
-        ],
-        "mp3Text": "We cross swords."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/DK_drag_attack_06.mp3"
-        ],
-        "mp3Text": "Our shields shall clash."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_attack_07.mp3"
-        ],
-        "mp3Text": "Wyrmblade cuts deep!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/DK_drag_attack_08.mp3"
-        ],
-        "mp3Text": "By the shield of Slyrak!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_attack_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/DK_dragon_attack_09.mp3"
-        ],
-        "mp3Text": "Dragonnade!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/DK_drag_attack_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/DK_dragon_attack_10.mp3"
-        ],
-        "mp3Text": "This will only hurt a lot."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/DK_dragon_ability_eldrag_01.mp3"
-        ],
-        "mp3Text": "Into a rage, I fly."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_drag_attack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_dragon_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/DK_drag_attack_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_dragon_attack_02.mp3"
+    ],
+    "mp3Text": "By the honor of the ancients."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/DK_drag_attack_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/DK_dragon_attack_03.mp3"
+    ],
+    "mp3Text": "I'll notch your skull."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/DK_drag_attack_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/DK_dragon_attack_04.mp3"
+    ],
+    "mp3Text": "Dragon charred."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_attack_05.mp3"
+    ],
+    "mp3Text": "We cross swords."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/DK_drag_attack_06.mp3"
+    ],
+    "mp3Text": "Our shields shall clash."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_attack_07.mp3"
+    ],
+    "mp3Text": "Wyrmblade cuts deep!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/DK_drag_attack_08.mp3"
+    ],
+    "mp3Text": "By the shield of Slyrak!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_attack_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/DK_dragon_attack_09.mp3"
+    ],
+    "mp3Text": "Dragonnade!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/DK_drag_attack_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/DK_dragon_attack_10.mp3"
+    ],
+    "mp3Text": "This will only hurt a lot."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c1/DK_dragon_ability_eldrag_01.mp3"
+    ],
+    "mp3Text": "Into a rage, I fly."
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/DK_drag_cast_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_dragon_cast_01.mp3"
-        ],
-        "mp3Text": "Enjoy your last moments."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/DK_drag_cast_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/DK_dragon_cast_02.mp3"
-        ],
-        "mp3Text": "Can't escape the dragon."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_drag_cast_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_dragon_cast_03.mp3"
-        ],
-        "mp3Text": "Soon, you end."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6a/DK_drag_cast_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_dragon_cast_01.mp3"
+    ],
+    "mp3Text": "Enjoy your last moments."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/DK_drag_cast_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/DK_dragon_cast_02.mp3"
+    ],
+    "mp3Text": "Can't escape the dragon."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_drag_cast_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_dragon_cast_03.mp3"
+    ],
+    "mp3Text": "Soon, you end."
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/DK_drag_level_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_dragon_level_01.mp3"
-        ],
-        "mp3Text": "I soar higher."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/DK_drag_level_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_dragon_level_02.mp3"
-        ],
-        "mp3Text": "Higher honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/DK_drag_level_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/DK_dragon_level_03.mp3"
-        ],
-        "mp3Text": "My armor grows stronger."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_level_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_dragon_level_04.mp3"
-        ],
-        "mp3Text": "Powers abounding."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_level_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/DK_dragon_level_05.mp3"
-        ],
-        "mp3Text": "In strength is victory."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_drag_level_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/DK_dragon_level_06.mp3"
-        ],
-        "mp3Text": "He heh heh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_drag_level_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/DK_dragon_level_07.mp3"
-        ],
-        "mp3Text": "Heheheheheehhheh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/75/DK_drag_level_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_dragon_level_01.mp3"
+    ],
+    "mp3Text": "I soar higher."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/DK_drag_level_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_dragon_level_02.mp3"
+    ],
+    "mp3Text": "Higher honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/DK_drag_level_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/DK_dragon_level_03.mp3"
+    ],
+    "mp3Text": "My armor grows stronger."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_level_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_dragon_level_04.mp3"
+    ],
+    "mp3Text": "Powers abounding."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_drag_level_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/DK_dragon_level_05.mp3"
+    ],
+    "mp3Text": "In strength is victory."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_drag_level_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/DK_dragon_level_06.mp3"
+    ],
+    "mp3Text": "He heh heh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_drag_level_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/DK_dragon_level_07.mp3"
+    ],
+    "mp3Text": "Heheheheheehhheh."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_kill_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/DK_dragon_kill_01.mp3"
-        ],
-        "mp3Text": "Live by the sword, die by the dragon."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_drag_kill_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_dragon_kill_02.mp3"
-        ],
-        "mp3Text": "You, I smite."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_drag_kill_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_dragon_kill_03.mp3"
-        ],
-        "mp3Text": "You've been dragooned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_drag_kill_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/DK_dragon_kill_04.mp3"
-        ],
-        "mp3Text": "Welcome to the dead of night."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/DK_drag_kill_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/DK_dragon_kill_05.mp3"
-        ],
-        "mp3Text": "Let my face be the last thing you see."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/DK_drag_kill_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_dragon_kill_06.mp3"
-        ],
-        "mp3Text": "You fought with honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_drag_kill_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/DK_dragon_kill_07.mp3"
-        ],
-        "mp3Text": "I'll char your bones."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_drag_kill_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_dragon_kill_08.mp3"
-        ],
-        "mp3Text": "May the eldwyrms carry you to rest."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_kill_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/DK_dragon_kill_09.mp3"
-        ],
-        "mp3Text": "An honorable demise."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/DK_drag_kill_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_kill_10.mp3"
-        ],
-        "mp3Text": "I've killed dragons less deserving of death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/DK_drag_kill_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_dragon_kill_11.mp3"
-        ],
-        "mp3Text": "You fought and died with honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/DK_drag_kill_12.mp3"
-        ],
-        "mp3Text": "I sheathe Wyrmblade in the scabbard of your bowels."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/DK_drag_kill_13.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/DK_dragon_kill_13.mp3"
-        ],
-        "mp3Text": "Heh heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_drag_laugh_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_laugh_01.mp3"
-        ],
-        "mp3Text": "Heh huh heh heh huh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/DK_drag_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_laugh_02.mp3"
-        ],
-        "mp3Text": "Heuh huh huh huh heh heh huh heh hah heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/DK_drag_laugh_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/DK_dragon_laugh_09.mp3"
-        ],
-        "mp3Text": "Heehehah hehhehhah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_drag_laugh_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/DK_dragon_laugh_10.mp3"
-        ],
-        "mp3Text": "Heh uhuh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/DK_dragon_ability_eldrag_03.mp3"
-        ],
-        "mp3Text": "Dragon nature unleashed."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_kill_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/DK_dragon_kill_01.mp3"
+    ],
+    "mp3Text": "Live by the sword, die by the dragon."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_drag_kill_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_dragon_kill_02.mp3"
+    ],
+    "mp3Text": "You, I smite."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_drag_kill_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_dragon_kill_03.mp3"
+    ],
+    "mp3Text": "You've been dragooned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_drag_kill_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/DK_dragon_kill_04.mp3"
+    ],
+    "mp3Text": "Welcome to the dead of night."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b9/DK_drag_kill_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/DK_dragon_kill_05.mp3"
+    ],
+    "mp3Text": "Let my face be the last thing you see."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/DK_drag_kill_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_dragon_kill_06.mp3"
+    ],
+    "mp3Text": "You fought with honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_drag_kill_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/DK_dragon_kill_07.mp3"
+    ],
+    "mp3Text": "I'll char your bones."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_drag_kill_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_dragon_kill_08.mp3"
+    ],
+    "mp3Text": "May the eldwyrms carry you to rest."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_kill_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/DK_dragon_kill_09.mp3"
+    ],
+    "mp3Text": "An honorable demise."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/DK_drag_kill_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_kill_10.mp3"
+    ],
+    "mp3Text": "I've killed dragons less deserving of death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fc/DK_drag_kill_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/DK_dragon_kill_11.mp3"
+    ],
+    "mp3Text": "You fought and died with honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/DK_drag_kill_12.mp3"
+    ],
+    "mp3Text": "I sheathe Wyrmblade in the scabbard of your bowels."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ce/DK_drag_kill_13.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/DK_dragon_kill_13.mp3"
+    ],
+    "mp3Text": "Heh heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_drag_laugh_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_laugh_01.mp3"
+    ],
+    "mp3Text": "Heh huh heh heh huh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/DK_drag_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_laugh_02.mp3"
+    ],
+    "mp3Text": "Heuh huh huh huh heh heh huh heh hah heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/DK_drag_laugh_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/DK_dragon_laugh_09.mp3"
+    ],
+    "mp3Text": "Heehehah hehhehhah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_drag_laugh_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/DK_dragon_laugh_10.mp3"
+    ],
+    "mp3Text": "Heh uhuh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/DK_dragon_ability_eldrag_03.mp3"
+    ],
+    "mp3Text": "Dragon nature unleashed."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/DK_drag_jakiro_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_dragon_jakiro_01.mp3"
+    ],
+    "mp3Text": "Even as a part time dragon, I have bested you Jakiro.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/DK_drag_jakiro_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_dragon_jakiro_01.mp3"
-        ],
-        "mp3Text": "Even as a part time dragon, I have bested you Jakiro.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/DK_drag_lina_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/DK_dragon_lina_03.mp3"
+    ],
+    "mp3Text": "Lina, what know you of dragons?",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/DK_drag_lina_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4a/DK_dragon_lina_03.mp3"
-        ],
-        "mp3Text": "Lina, what know you of dragons?",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/DK_drag_lina_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/DK_dragon_lina_02.mp3"
+    ],
+    "mp3Text": "That's what you get, Lina, for enslaving dragons.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/DK_drag_lina_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/DK_dragon_lina_02.mp3"
-        ],
-        "mp3Text": "That's what you get, Lina, for enslaving dragons.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
-            "name": "Lina"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/44/Lina_minimap_icon.png/16px-Lina_minimap_icon.png?version=16ce6ff9772fbac2fb0133d8220a4092",
+        "name": "Lina"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_drag_sven_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/DK_dragon_sven_01.mp3"
+    ],
+    "mp3Text": "Sven, you have much to learn about fighting dragons.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_drag_sven_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/DK_dragon_sven_01.mp3"
-        ],
-        "mp3Text": "Sven, you have much to learn about fighting dragons.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/DK_drag_sven_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/DK_dragon_sven_02.mp3"
+    ],
+    "mp3Text": "Good night, Sven. I mean bad knight.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/DK_drag_sven_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/DK_dragon_sven_02.mp3"
-        ],
-        "mp3Text": "Good night, Sven. I mean bad knight.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/DK_drag_sven_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_dragon_sven_03.mp3"
+    ],
+    "mp3Text": "I'm the better Knight, Sven.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/DK_drag_sven_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/DK_dragon_sven_03.mp3"
-        ],
-        "mp3Text": "I'm the better Knight, Sven.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
-            "name": "Sven"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/1c/Sven_minimap_icon.png/16px-Sven_minimap_icon.png?version=faf2cc0873b72f461b31db12ed457954",
+        "name": "Sven"
       }
     ]
   },
@@ -683,432 +713,446 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_firstblood_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/DK_dragon_firstblood_01.mp3"
-        ],
-        "mp3Text": "First blood, heh heh heh he heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/DK_drag_firstblood_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_dragon_firstblood_02.mp3"
-        ],
-        "mp3Text": "The dragon draws first blood."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_firstblood_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/DK_dragon_firstblood_01.mp3"
+    ],
+    "mp3Text": "First blood, heh heh heh he heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/DK_drag_firstblood_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_dragon_firstblood_02.mp3"
+    ],
+    "mp3Text": "The dragon draws first blood."
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_lasthit_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/DK_dragon_lasthit_01.mp3"
-        ],
-        "mp3Text": "I'll melt this down for armor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_lasthit_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/DK_dragon_lasthit_02.mp3"
-        ],
-        "mp3Text": "Put you out of misery."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_drag_lasthit_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/DK_dragon_lasthit_03.mp3"
-        ],
-        "mp3Text": "More gold for my hoard."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_lasthit_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_dragon_lasthit_04.mp3"
-        ],
-        "mp3Text": "Ah, dragon's gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_lasthit_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/DK_dragon_lasthit_05.mp3"
-        ],
-        "mp3Text": "A worthy tribute."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/DK_drag_lasthit_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_dragon_lasthit_06.mp3"
-        ],
-        "mp3Text": "You'll need no gold where you go."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/DK_drag_lasthit_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_dragon_lasthit_07.mp3"
-        ],
-        "mp3Text": "Steel wins battles, gold wins wars."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_drag_lasthit_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_dragon_lasthit_08.mp3"
-        ],
-        "mp3Text": "Mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/DK_drag_lasthit_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/DK_dragon_lasthit_09.mp3"
-        ],
-        "mp3Text": "I'll take that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/DK_drag_lasthit_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/DK_dragon_lasthit_10.mp3"
-        ],
-        "mp3Text": "Heh heh heheh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_lasthit_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/DK_dragon_lasthit_01.mp3"
+    ],
+    "mp3Text": "I'll melt this down for armor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_lasthit_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/DK_dragon_lasthit_02.mp3"
+    ],
+    "mp3Text": "Put you out of misery."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_drag_lasthit_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/DK_dragon_lasthit_03.mp3"
+    ],
+    "mp3Text": "More gold for my hoard."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/DK_drag_lasthit_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_dragon_lasthit_04.mp3"
+    ],
+    "mp3Text": "Ah, dragon's gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8b/DK_drag_lasthit_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/DK_dragon_lasthit_05.mp3"
+    ],
+    "mp3Text": "A worthy tribute."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/DK_drag_lasthit_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_dragon_lasthit_06.mp3"
+    ],
+    "mp3Text": "You'll need no gold where you go."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/DK_drag_lasthit_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_dragon_lasthit_07.mp3"
+    ],
+    "mp3Text": "Steel wins battles, gold wins wars."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_drag_lasthit_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_dragon_lasthit_08.mp3"
+    ],
+    "mp3Text": "Mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/DK_drag_lasthit_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/DK_dragon_lasthit_09.mp3"
+    ],
+    "mp3Text": "I'll take that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/DK_drag_lasthit_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e6/DK_dragon_lasthit_10.mp3"
+    ],
+    "mp3Text": "Heh heh heheh."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/DK_drag_deny_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_dragon_deny_01.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/DK_drag_deny_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_dragon_deny_02.mp3"
-        ],
-        "mp3Text": "Denied."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_deny_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/DK_dragon_deny_03.mp3"
-        ],
-        "mp3Text": "I can't let you have that."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/DK_drag_deny_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/DK_dragon_deny_04.mp3"
-        ],
-        "mp3Text": "Uh-uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/DK_drag_deny_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/DK_dragon_deny_05.mp3"
-        ],
-        "mp3Text": "Nay."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_deny_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/DK_dragon_deny_06.mp3"
-        ],
-        "mp3Text": "Not on my watch."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/DK_drag_deny_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/DK_dragon_deny_07.mp3"
-        ],
-        "mp3Text": "No."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_drag_deny_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/DK_dragon_deny_08.mp3"
-        ],
-        "mp3Text": "No money for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/DK_drag_deny_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/DK_dragon_deny_09.mp3"
-        ],
-        "mp3Text": "You wanted that? He he heh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/DK_drag_deny_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_dragon_deny_01.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/DK_drag_deny_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_dragon_deny_02.mp3"
+    ],
+    "mp3Text": "Denied."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_deny_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/DK_dragon_deny_03.mp3"
+    ],
+    "mp3Text": "I can't let you have that."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/DK_drag_deny_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/DK_dragon_deny_04.mp3"
+    ],
+    "mp3Text": "Uh-uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/DK_drag_deny_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/DK_dragon_deny_05.mp3"
+    ],
+    "mp3Text": "Nay."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_deny_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/15/DK_dragon_deny_06.mp3"
+    ],
+    "mp3Text": "Not on my watch."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/DK_drag_deny_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2e/DK_dragon_deny_07.mp3"
+    ],
+    "mp3Text": "No."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_drag_deny_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/14/DK_dragon_deny_08.mp3"
+    ],
+    "mp3Text": "No money for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/82/DK_drag_deny_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/DK_dragon_deny_09.mp3"
+    ],
+    "mp3Text": "You wanted that? He he heh."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/DK_dragon_purch_01.mp3"
-        ],
-        "mp3Text": "Just what I've been waiting for."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_drag_purch_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/DK_dragon_purch_02.mp3"
-        ],
-        "mp3Text": "Worth its weight in gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/DK_drag_purch_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_dragon_purch_03.mp3"
-        ],
-        "mp3Text": "Worth all the gold in my lair."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/DK_dragon_purch_01.mp3"
+    ],
+    "mp3Text": "Just what I've been waiting for."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2b/DK_drag_purch_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/DK_dragon_purch_02.mp3"
+    ],
+    "mp3Text": "Worth its weight in gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/DK_drag_purch_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a5/DK_dragon_purch_03.mp3"
+    ],
+    "mp3Text": "Worth all the gold in my lair."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/DK_drag_blink_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_dragon_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/DK_drag_blink_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_dragon_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/DK_drag_blink_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_dragon_blink_02.mp3"
-        ],
-        "mp3Text": "Ah, a blink dagger.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_scepter_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/DK_dragon_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_drag_scepter_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/DK_dragon_scepter_02.mp3"
-        ],
-        "mp3Text": "Scepter.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_satanic_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/DK_dragon_satanic_01.mp3"
-        ],
-        "mp3Text": "Satanic.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
-            "name": "Satanic (5500)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_drag_assaultcuirass_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_dragon_assaultcuirass_01.mp3"
-        ],
-        "mp3Text": "Assault Cuirass!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
-            "name": "Assault Cuirass (5250)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/DK_drag_blackkingbar_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_dragon_blackkingbar_01.mp3"
-        ],
-        "mp3Text": "Black King Bar.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
-            "name": "Black King Bar (3975)"
-          }
-        ]
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/DK_drag_immort_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/DK_dragon_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/18/DK_drag_blink_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_dragon_blink_02.mp3"
+    ],
+    "mp3Text": "Ah, a blink dagger.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_drag_immort_02.mp3"
-        ],
-        "mp3Text": "Dragons live forever."
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
       }
     ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_scepter_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/DK_dragon_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, scepter.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_drag_scepter_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/DK_dragon_scepter_02.mp3"
+    ],
+    "mp3Text": "Scepter.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/80/DK_drag_satanic_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/DK_dragon_satanic_01.mp3"
+    ],
+    "mp3Text": "Satanic.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/dd/Satanic_icon.png/20px-Satanic_icon.png?version=2171ea36ae76583727835ec55a07e161",
+        "name": "Satanic (5500)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_drag_assaultcuirass_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_dragon_assaultcuirass_01.mp3"
+    ],
+    "mp3Text": "Assault Cuirass!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Assault_Cuirass_icon.png/20px-Assault_Cuirass_icon.png?version=06ca3d5061f4dcff2d14667b4a6c37a3",
+        "name": "Assault Cuirass (5250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/DK_drag_blackkingbar_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_dragon_blackkingbar_01.mp3"
+    ],
+    "mp3Text": "Black King Bar.",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/72/Black_King_Bar_icon.png/20px-Black_King_Bar_icon.png?version=485610a16cec545f009291405295e403",
+        "name": "Black King Bar (3975)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/DK_drag_immort_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/DK_dragon_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
+      {
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_drag_immort_02.mp3"
+    ],
+    "mp3Text": "Dragons live forever."
   },
   {
     "headTitle": "Dying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/DK_drag_death_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/DK_dragon_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/DK_drag_death_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/DK_dragon_death_02.mp3"
-        ],
-        "mp3Text": "Valorous death."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/DK_drag_death_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/DK_dragon_death_03.mp3"
-        ],
-        "mp3Text": "Night falls."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_drag_death_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_death_04.mp3"
-        ],
-        "mp3Text": "I die with honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_drag_death_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/DK_dragon_death_05.mp3"
-        ],
-        "mp3Text": "My fire…goes out."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/DK_drag_death_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/DK_dragon_death_06.mp3"
-        ],
-        "mp3Text": "The dragon is slain."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_drag_death_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_dragon_death_07.mp3"
-        ],
-        "mp3Text": "Lay scales…on my eyes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_death_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_dragon_death_08.mp3"
-        ],
-        "mp3Text": "I join the Eldwurms."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/DK_drag_death_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/DK_dragon_death_09.mp3"
-        ],
-        "mp3Text": "The scales fall away."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/DK_drag_death_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_death_10.mp3"
-        ],
-        "mp3Text": "Bury me on my shield."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/DK_drag_death_11.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_death_11.mp3"
-        ],
-        "mp3Text": "Slyrak…fails me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_death_12.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_dragon_death_12.mp3"
-        ],
-        "mp3Text": "Death has swift wings."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/DK_drag_death_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/DK_dragon_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/DK_drag_death_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/DK_dragon_death_02.mp3"
+    ],
+    "mp3Text": "Valorous death."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fb/DK_drag_death_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/DK_dragon_death_03.mp3"
+    ],
+    "mp3Text": "Night falls."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_drag_death_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_death_04.mp3"
+    ],
+    "mp3Text": "I die with honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_drag_death_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ae/DK_dragon_death_05.mp3"
+    ],
+    "mp3Text": "My fire…goes out."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/DK_drag_death_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/DK_dragon_death_06.mp3"
+    ],
+    "mp3Text": "The dragon is slain."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_drag_death_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_dragon_death_07.mp3"
+    ],
+    "mp3Text": "Lay scales…on my eyes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_death_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/DK_dragon_death_08.mp3"
+    ],
+    "mp3Text": "I join the Eldwurms."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/DK_drag_death_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/DK_dragon_death_09.mp3"
+    ],
+    "mp3Text": "The scales fall away."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d7/DK_drag_death_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_death_10.mp3"
+    ],
+    "mp3Text": "Bury me on my shield."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/DK_drag_death_11.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_death_11.mp3"
+    ],
+    "mp3Text": "Slyrak…fails me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_death_12.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_dragon_death_12.mp3"
+    ],
+    "mp3Text": "Death has swift wings."
   },
   {
     "text": "Dying to a specific hero",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_drag_jakiro_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_jakiro_02.mp3"
+    ],
+    "mp3Text": "Jakiro!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_drag_jakiro_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_jakiro_02.mp3"
-        ],
-        "mp3Text": "Jakiro!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
-            "name": "Jakiro"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Jakiro_minimap_icon.png/16px-Jakiro_minimap_icon.png?version=ed63da8633c49e00c86fa4ba8a4a06e7",
+        "name": "Jakiro"
       }
     ]
   },
@@ -1117,112 +1161,114 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/DK_drag_respawn_01.mp3"
-        ],
-        "mp3Text": "Ah, a chance to redeem my honor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/DK_drag_respawn_02.mp3"
-        ],
-        "mp3Text": "My valor shall be proven this day."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_drag_respawn_03.mp3"
-        ],
-        "mp3Text": "The shield of scale protects me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_drag_respawn_04.mp3"
-        ],
-        "mp3Text": "The dragon rises from the ashes it has sown."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_drag_respawn_05.mp3"
-        ],
-        "mp3Text": "I draw Wyrmblade once more from its scabbard."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/DK_drag_respawn_06.mp3"
-        ],
-        "mp3Text": "Another transformation."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/DK_drag_respawn_07.mp3"
-        ],
-        "mp3Text": "I'll not sheathe Wyrmblade 'til it's been blooded."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/DK_drag_respawn_08.mp3"
-        ],
-        "mp3Text": "The sleeping dragon wakes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_drag_respawn_09.mp3"
-        ],
-        "mp3Text": "Valor calls to valor."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_respawn_10.mp3"
-        ],
-        "mp3Text": "Armored and dangerous."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/DK_drag_respawn_01.mp3"
+    ],
+    "mp3Text": "Ah, a chance to redeem my honor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/DK_drag_respawn_02.mp3"
+    ],
+    "mp3Text": "My valor shall be proven this day."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_drag_respawn_03.mp3"
+    ],
+    "mp3Text": "The shield of scale protects me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/DK_drag_respawn_04.mp3"
+    ],
+    "mp3Text": "The dragon rises from the ashes it has sown."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_drag_respawn_05.mp3"
+    ],
+    "mp3Text": "I draw Wyrmblade once more from its scabbard."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/DK_drag_respawn_06.mp3"
+    ],
+    "mp3Text": "Another transformation."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/DK_drag_respawn_07.mp3"
+    ],
+    "mp3Text": "I'll not sheathe Wyrmblade 'til it's been blooded."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/DK_drag_respawn_08.mp3"
+    ],
+    "mp3Text": "The sleeping dragon wakes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_drag_respawn_09.mp3"
+    ],
+    "mp3Text": "Valor calls to valor."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_respawn_10.mp3"
+    ],
+    "mp3Text": "Armored and dangerous."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/DK_drag_aegis_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/DK_dragon_aegis_01.mp3"
-        ],
-        "mp3Text": "T'hah hah, hah hah hah, you're not done with me yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/DK_drag_aegis_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c2/DK_dragon_aegis_01.mp3"
+    ],
+    "mp3Text": "T'hah hah, hah hah hah, you're not done with me yet!"
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_drag_bottle_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/DK_dragon_bottle_01.mp3"
-        ],
-        "mp3Text": "Saved for later."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/DK_drag_bottle_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/DK_dragon_bottle_02.mp3"
-        ],
-        "mp3Text": "Into the bottle."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/DK_drag_bottle_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_dragon_bottle_03.mp3"
-        ],
-        "mp3Text": "I'll bottle this for now."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_drag_bottle_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/DK_dragon_bottle_01.mp3"
+    ],
+    "mp3Text": "Saved for later."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/DK_drag_bottle_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/DK_dragon_bottle_02.mp3"
+    ],
+    "mp3Text": "Into the bottle."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f4/DK_drag_bottle_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a1/DK_dragon_bottle_03.mp3"
+    ],
+    "mp3Text": "I'll bottle this for now."
   },
   {
     "headTitle": "Activating runes",
@@ -1234,14 +1280,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_purch_01.mp3"
-        ],
-        "mp3Text": "Just what I've been waiting for."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_purch_01.mp3"
+    ],
+    "mp3Text": "Just what I've been waiting for."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c9/Bounty_Rune_minimap_icon.png/16px-Bounty_Rune_minimap_icon.png?version=e9045dc19a512c0fb0fad3a90a8d2e9a",
@@ -1249,15 +1292,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/DK_drag_lasthit_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/DK_dragon_lasthit_09.mp3"
-        ],
-        "mp3Text": "I'll take that."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/DK_drag_lasthit_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/DK_dragon_lasthit_09.mp3"
+    ],
+    "mp3Text": "I'll take that."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1265,15 +1305,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/DK_drag_doubdam_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/DK_dragon_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/50/DK_drag_doubdam_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/DK_dragon_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1281,25 +1318,19 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/DK_drag_haste_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/DK_dragon_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/DK_drag_haste_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/DK_dragon_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/DK_drag_haste_02.mp3"
-        ],
-        "mp3Text": "Fast as a diving dragon."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e2/DK_drag_haste_02.mp3"
+    ],
+    "mp3Text": "Fast as a diving dragon."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1307,25 +1338,19 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/DK_drag_illus_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_dragon_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/DK_drag_illus_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_dragon_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/DK_drag_illus_02.mp3"
-        ],
-        "mp3Text": "Thrice the knight."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/DK_drag_illus_02.mp3"
+    ],
+    "mp3Text": "Thrice the knight."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1333,15 +1358,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_drag_invis_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_dragon_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_drag_invis_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_dragon_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1349,15 +1371,12 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/DK_drag_regen_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_dragon_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/DK_drag_regen_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_dragon_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1368,87 +1387,84 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_notyet_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/DK_dragon_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/DK_drag_notyet_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/DK_dragon_notyet_02.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_notyet_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/DK_dragon_notyet_03.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_notyet_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/DK_dragon_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a2/DK_drag_notyet_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/DK_dragon_notyet_02.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/DK_drag_notyet_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/DK_dragon_notyet_03.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_drag_notyet_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/DK_dragon_notyet_04.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/DK_drag_notyet_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/DK_dragon_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_notyet_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_notyet_06.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_drag_notyet_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/DK_dragon_notyet_04.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/DK_drag_notyet_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/72/DK_dragon_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/DK_drag_notyet_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_notyet_06.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/DK_drag_notyet_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/DK_dragon_notyet_07.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/DK_drag_notyet_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/DK_dragon_notyet_08.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_drag_notyet_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/DK_dragon_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/DK_drag_notyet_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/DK_dragon_notyet_07.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/DK_drag_notyet_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/DK_dragon_notyet_08.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e8/DK_drag_notyet_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/46/DK_dragon_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -1459,148 +1475,144 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_drag_nomana_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/DK_drag_nomana_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/DK_dragon_nomana_02.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/DK_drag_nomana_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/DK_dragon_nomana_03.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/DK_drag_nomana_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/DK_drag_nomana_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/54/DK_dragon_nomana_02.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/DK_drag_nomana_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1d/DK_dragon_nomana_03.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_nomana_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/DK_dragon_nomana_04.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/DK_drag_nomana_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/DK_dragon_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_nomana_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/DK_dragon_nomana_06.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/ca/DK_drag_nomana_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/DK_dragon_nomana_04.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4b/DK_drag_nomana_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/DK_dragon_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/79/DK_drag_nomana_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/DK_dragon_nomana_06.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_drag_nomana_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/DK_dragon_nomana_07.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/DK_drag_nomana_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/DK_dragon_nomana_08.mp3"
-        ],
-        "mp3Text": "No mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_drag_nomana_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_drag_nomana_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/DK_dragon_nomana_07.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/DK_drag_nomana_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/DK_dragon_nomana_08.mp3"
+    ],
+    "mp3Text": "No mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/DK_drag_nomana_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_drag_pain_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/DK_dragon_pain_01.mp3"
-        ],
-        "mp3Text": "Ugh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_drag_pain_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_dragon_pain_02.mp3"
-        ],
-        "mp3Text": "ehg."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_pain_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_pain_03.mp3"
-        ],
-        "mp3Text": "Egh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/DK_drag_pain_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_dragon_pain_04.mp3"
-        ],
-        "mp3Text": "Eheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/DK_drag_pain_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_dragon_pain_07.mp3"
-        ],
-        "mp3Text": "Agheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/DK_drag_pain_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_dragon_pain_08.mp3"
-        ],
-        "mp3Text": "Agh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/DK_drag_pain_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/DK_dragon_pain_01.mp3"
+    ],
+    "mp3Text": "Ugh."
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/DK_drag_underattack_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/DK_dragon_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/DK_drag_pain_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/DK_dragon_pain_02.mp3"
+    ],
+    "mp3Text": "ehg."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/DK_drag_pain_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/DK_dragon_pain_03.mp3"
+    ],
+    "mp3Text": "Egh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/DK_drag_pain_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/DK_dragon_pain_04.mp3"
+    ],
+    "mp3Text": "Eheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/DK_drag_pain_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/58/DK_dragon_pain_07.mp3"
+    ],
+    "mp3Text": "Agheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/DK_drag_pain_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/DK_dragon_pain_08.mp3"
+    ],
+    "mp3Text": "Agh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/91/DK_drag_underattack_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/DK_dragon_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1611,29 +1623,28 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_drag_rare_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_dragon_rare_01.mp3"
-        ],
-        "mp3Text": "Never make a deal with a dragon, unless you're prepared to keep your end of it."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/DK_drag_rare_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/DK_dragon_rare_02.mp3"
-        ],
-        "mp3Text": "The dragon Slyrak sleeps within this armor, and the knight within the Dragon waits. Beware you do not wake them both."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/DK_drag_rare_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/DK_dragon_rare_03.mp3"
-        ],
-        "mp3Text": "The wisdom of the Eldwurms, fused with the valor of the ageless knight: this is the source of my nobility."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/DK_drag_rare_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cc/DK_dragon_rare_01.mp3"
+    ],
+    "mp3Text": "Never make a deal with a dragon, unless you're prepared to keep your end of it."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/DK_drag_rare_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/da/DK_dragon_rare_02.mp3"
+    ],
+    "mp3Text": "The dragon Slyrak sleeps within this armor, and the knight within the Dragon waits. Beware you do not wake them both."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/04/DK_drag_rare_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/db/DK_dragon_rare_03.mp3"
+    ],
+    "mp3Text": "The wisdom of the Eldwurms, fused with the valor of the ageless knight: this is the source of my nobility."
   },
   {
     "headTitle": "Chat responses",
@@ -1644,107 +1655,112 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_thanks_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/DK_dragon_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/DK_drag_thanks_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/DK_dragon_thanks_02.mp3"
-        ],
-        "mp3Text": "With thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_thanks_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/DK_dragon_thanks_03.mp3"
-        ],
-        "mp3Text": "My gratitude."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/DK_drag_thanks_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5f/DK_dragon_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/DK_drag_thanks_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f2/DK_dragon_thanks_02.mp3"
+    ],
+    "mp3Text": "With thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/DK_drag_thanks_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/DK_dragon_thanks_03.mp3"
+    ],
+    "mp3Text": "My gratitude."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_drag_laugh_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_laugh_01.mp3"
-        ],
-        "mp3Text": "Heh huh heh heh huh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/DK_drag_laugh_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_laugh_02.mp3"
-        ],
-        "mp3Text": "Heuh huh huh huh heh heh huh heh hah heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/DK_drag_laugh_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_laugh_03.mp3"
-        ],
-        "mp3Text": "Heuh huh huh huh heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_laugh_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_laugh_04.mp3"
-        ],
-        "mp3Text": "Heh huh heh heh huh heh hah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/DK_drag_laugh_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/DK_dragon_laugh_05.mp3"
-        ],
-        "mp3Text": "Hah heh heh hah heh he."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/DK_drag_laugh_06.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/DK_dragon_laugh_06.mp3"
-        ],
-        "mp3Text": "Meh heh huh heh heh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/DK_drag_laugh_07.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_dragon_laugh_07.mp3"
-        ],
-        "mp3Text": "Tehh, heh he huh heh heh huh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/DK_drag_laugh_08.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/DK_dragon_laugh_08.mp3"
-        ],
-        "mp3Text": "Tehheh hahha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/DK_drag_laugh_09.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/DK_dragon_laugh_09.mp3"
-        ],
-        "mp3Text": "Heehehah hehhehhah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_drag_laugh_10.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/DK_dragon_laugh_10.mp3"
-        ],
-        "mp3Text": "Heh uhuh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_drag_laugh_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/DK_dragon_laugh_01.mp3"
+    ],
+    "mp3Text": "Heh huh heh heh huh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/DK_drag_laugh_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/DK_dragon_laugh_02.mp3"
+    ],
+    "mp3Text": "Heuh huh huh huh heh heh huh heh hah heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/DK_drag_laugh_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_laugh_03.mp3"
+    ],
+    "mp3Text": "Heuh huh huh huh heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_laugh_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_laugh_04.mp3"
+    ],
+    "mp3Text": "Heh huh heh heh huh heh hah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/DK_drag_laugh_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/DK_dragon_laugh_05.mp3"
+    ],
+    "mp3Text": "Hah heh heh hah heh he."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/DK_drag_laugh_06.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/DK_dragon_laugh_06.mp3"
+    ],
+    "mp3Text": "Meh heh huh heh heh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/DK_drag_laugh_07.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/DK_dragon_laugh_07.mp3"
+    ],
+    "mp3Text": "Tehh, heh he huh heh heh huh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/52/DK_drag_laugh_08.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/DK_dragon_laugh_08.mp3"
+    ],
+    "mp3Text": "Tehheh hahha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/DK_drag_laugh_09.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/DK_dragon_laugh_09.mp3"
+    ],
+    "mp3Text": "Heehehah hehhehhah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/DK_drag_laugh_10.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/DK_dragon_laugh_10.mp3"
+    ],
+    "mp3Text": "Heh uhuh."
   },
   {
     "headTitle": "Match end",
@@ -1755,58 +1771,56 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_win_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_dragon_win_01.mp3"
-        ],
-        "mp3Text": "Yes!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/DK_drag_win_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_dragon_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/DK_drag_win_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_dragon_win_03.mp3"
-        ],
-        "mp3Text": "The dragon will not be denied!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/DK_drag_win_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/85/DK_dragon_win_01.mp3"
+    ],
+    "mp3Text": "Yes!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/DK_drag_win_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/DK_dragon_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/87/DK_drag_win_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/DK_dragon_win_03.mp3"
+    ],
+    "mp3Text": "The dragon will not be denied!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_drag_lose_01.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/DK_dragon_lose_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_lose_02.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_lose_02.mp3"
-        ],
-        "mp3Text": "Defffeated."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/DK_drag_lose_03.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/DK_dragon_lose_03.mp3"
-        ],
-        "mp3Text": "Snuffed out."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f8/DK_drag_lose_01.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/DK_dragon_lose_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/DK_drag_lose_02.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d1/DK_dragon_lose_02.mp3"
+    ],
+    "mp3Text": "Defffeated."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/33/DK_drag_lose_03.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a3/DK_dragon_lose_03.mp3"
+    ],
+    "mp3Text": "Snuffed out."
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -1817,50 +1831,42 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/DK_drag_happy_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_happy_05.mp3"
-        ],
-        "mp3Text": "Heh heheheh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_laugh_03.mp3"
-        ],
-        "mp3Text": "Heuh huh huh huh heh heh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/DK_drag_happy_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/DK_dragon_happy_05.mp3"
+    ],
+    "mp3Text": "Heh heheheh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/DK_dragon_laugh_03.mp3"
+    ],
+    "mp3Text": "Heuh huh huh huh heh heh."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/DK_drag_laugh_05.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/DK_dragon_laugh_05.mp3"
-        ],
-        "mp3Text": "Hah heh heh hah heh he."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/DK_drag_laugh_05.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/DK_dragon_laugh_05.mp3"
+    ],
+    "mp3Text": "Hah heh heh hah heh he."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_laugh_04.mp3",
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_laugh_04.mp3"
-        ],
-        "mp3Text": "Heh huh heh heh huh heh hah."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/DK_drag_laugh_04.mp3",
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/DK_dragon_laugh_04.mp3"
+    ],
+    "mp3Text": "Heh huh heh heh huh heh hah."
   }
 ]

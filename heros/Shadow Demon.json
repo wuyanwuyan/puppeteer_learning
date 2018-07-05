@@ -5,7 +5,6 @@
     "actorUrl": "http://en.wikipedia.org/wiki/Nolan_North",
     "heroAvater": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/35/Shadow_Demon_minimap_icon.png/20px-Shadow_Demon_minimap_icon.png?version=5bd483a8d2c19a6503ad0c27e8c9a2aa",
     "heroName": "Shadow Demon",
-    "href": "https://dota2.gamepedia.com/Shadow_Demon/Responses",
     "avaterMain": "http://www.dota2.com.cn/images/heroes/shadow_demon_full.png",
     "primaryAttribute": "Intelligence",
     "longAvatar": "https://coding.net/u/dovahkiin/p/tempData/git/raw/master/avatar/shadowdemon.png",
@@ -17,74 +16,81 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
-        ],
-        "mp3Text": "Shadow Demon!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_spawn_02.mp3"
-        ],
-        "mp3Text": "Your old master has returned!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_spawn_03.mp3"
-        ],
-        "mp3Text": "Heed me, and it will go better for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Shadow_demon_spawn_05.mp3"
-        ],
-        "mp3Text": "This time it is the demon who will do the summoning!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_battlebegins_01.mp3"
-        ],
-        "mp3Text": "I will scatter all who gather here today."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_attack_02.mp3"
-        ],
-        "mp3Text": "Dominion is mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_attack_03.mp3"
-        ],
-        "mp3Text": "Fall before me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_attack_04.mp3"
-        ],
-        "mp3Text": "By my shadow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_attack_07.mp3"
-        ],
-        "mp3Text": "Come into my dominion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Shadow_demon_level_up_02.mp3"
-        ],
-        "mp3Text": "How my shadow darkens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_level_up_03.mp3"
-        ],
-        "mp3Text": "Fearsome energies invoked!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
+    ],
+    "mp3Text": "Shadow Demon!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_spawn_02.mp3"
+    ],
+    "mp3Text": "Your old master has returned!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_spawn_03.mp3"
+    ],
+    "mp3Text": "Heed me, and it will go better for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Shadow_demon_spawn_05.mp3"
+    ],
+    "mp3Text": "This time it is the demon who will do the summoning!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_battlebegins_01.mp3"
+    ],
+    "mp3Text": "I will scatter all who gather here today."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_attack_02.mp3"
+    ],
+    "mp3Text": "Dominion is mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_attack_03.mp3"
+    ],
+    "mp3Text": "Fall before me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_attack_04.mp3"
+    ],
+    "mp3Text": "By my shadow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_attack_07.mp3"
+    ],
+    "mp3Text": "Come into my dominion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Shadow_demon_level_up_02.mp3"
+    ],
+    "mp3Text": "How my shadow darkens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_level_up_03.mp3"
+    ],
+    "mp3Text": "Fearsome energies invoked!"
   },
   {
     "headTitle": "Drafting",
@@ -95,322 +101,333 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
-        ],
-        "mp3Text": "Shadow Demon!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
+    ],
+    "mp3Text": "Shadow Demon!"
   },
   {
     "text": "Banned",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Shadow_demon_anger_03.mp3"
-        ],
-        "mp3Text": "Da!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/93/Shadow_demon_anger_03.mp3"
+    ],
+    "mp3Text": "Da!"
   },
   {
     "headTitle": "Entering battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
-        ],
-        "mp3Text": "Shadow Demon!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_spawn_02.mp3"
-        ],
-        "mp3Text": "Your old master has returned!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_spawn_03.mp3"
-        ],
-        "mp3Text": "Heed me, and it will go better for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Shadow_demon_spawn_05.mp3"
-        ],
-        "mp3Text": "This time it is the demon who will do the summoning!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/aa/Shadow_demon_spawn_01.mp3"
+    ],
+    "mp3Text": "Shadow Demon!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_spawn_02.mp3"
+    ],
+    "mp3Text": "Your old master has returned!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_spawn_03.mp3"
+    ],
+    "mp3Text": "Heed me, and it will go better for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Shadow_demon_spawn_05.mp3"
+    ],
+    "mp3Text": "This time it is the demon who will do the summoning!"
   },
   {
     "headTitle": "Taunting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_inthebag_02.mp3"
-        ],
-        "mp3Text": "No demon lord has ever been more assured that this one, is in the bag!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_inthebag_02.mp3"
+    ],
+    "mp3Text": "No demon lord has ever been more assured that this one, is in the bag!"
   },
   {
     "headTitle": "Beginning battle",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_battlebegins_01.mp3"
-        ],
-        "mp3Text": "I will scatter all who gather here today."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_battlebegins_01.mp3"
+    ],
+    "mp3Text": "I will scatter all who gather here today."
   },
   {
     "headTitle": "Moving",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Shadow_demon_move_01.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Shadow_demon_move_02.mp3"
-        ],
-        "mp3Text": "So I gather."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Shadow_demon_move_03.mp3"
-        ],
-        "mp3Text": "It is all one to me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Shadow_demon_move_04.mp3"
-        ],
-        "mp3Text": "Follow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Shadow_demon_move_05.mp3"
-        ],
-        "mp3Text": "I am summoned."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Shadow_demon_move_06.mp3"
-        ],
-        "mp3Text": "Who is the minion here?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Shadow_demon_move_07.mp3"
-        ],
-        "mp3Text": "I go where I will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_move_08.mp3"
-        ],
-        "mp3Text": "By my beck."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_move_09.mp3"
-        ],
-        "mp3Text": "Hear and heed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Shadow_demon_move_10.mp3"
-        ],
-        "mp3Text": "Obey? Me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_move_11.mp3"
-        ],
-        "mp3Text": "At whose command?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Shadow_demon_move_17.mp3"
-        ],
-        "mp3Text": "Hmmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_move_18.mp3"
-        ],
-        "mp3Text": "Haaaah."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Shadow_demon_move_19.mp3"
-        ],
-        "mp3Text": "Hrrmmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_move_20.mp3"
-        ],
-        "mp3Text": "Hrm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Shadow_demon_move_21.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Shadow_demon_move_22.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_move_23.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_move_24.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Shadow_demon_move_25.mp3"
-        ],
-        "mp3Text": "Yes."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Shadow_demon_move_28.mp3"
-        ],
-        "mp3Text": "That suits me well."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Shadow_demon_move_01.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Shadow_demon_move_02.mp3"
+    ],
+    "mp3Text": "So I gather."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Shadow_demon_move_03.mp3"
+    ],
+    "mp3Text": "It is all one to me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d9/Shadow_demon_move_04.mp3"
+    ],
+    "mp3Text": "Follow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Shadow_demon_move_05.mp3"
+    ],
+    "mp3Text": "I am summoned."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2a/Shadow_demon_move_06.mp3"
+    ],
+    "mp3Text": "Who is the minion here?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Shadow_demon_move_07.mp3"
+    ],
+    "mp3Text": "I go where I will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_move_08.mp3"
+    ],
+    "mp3Text": "By my beck."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_move_09.mp3"
+    ],
+    "mp3Text": "Hear and heed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Shadow_demon_move_10.mp3"
+    ],
+    "mp3Text": "Obey? Me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_move_11.mp3"
+    ],
+    "mp3Text": "At whose command?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c7/Shadow_demon_move_17.mp3"
+    ],
+    "mp3Text": "Hmmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_move_18.mp3"
+    ],
+    "mp3Text": "Haaaah."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ad/Shadow_demon_move_19.mp3"
+    ],
+    "mp3Text": "Hrrmmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_move_20.mp3"
+    ],
+    "mp3Text": "Hrm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Shadow_demon_move_21.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f5/Shadow_demon_move_22.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_move_23.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_move_24.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Shadow_demon_move_25.mp3"
+    ],
+    "mp3Text": "Yes."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/37/Shadow_demon_move_28.mp3"
+    ],
+    "mp3Text": "That suits me well."
   },
   {
     "headTitle": "Attacking",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Shadow_demon_move_26.mp3"
-        ],
-        "mp3Text": "Rarhrhrh"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Shadow_demon_move_27.mp3"
-        ],
-        "mp3Text": "Hrmm."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Shadow_demon_attack_01.mp3"
-        ],
-        "mp3Text": "Attack!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_attack_02.mp3"
-        ],
-        "mp3Text": "Dominion is mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_attack_03.mp3"
-        ],
-        "mp3Text": "Fall before me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_attack_04.mp3"
-        ],
-        "mp3Text": "By my shadow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Shadow_demon_attack_05.mp3"
-        ],
-        "mp3Text": "A summoning!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Shadow_demon_attack_06.mp3"
-        ],
-        "mp3Text": "My shadow seeks!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_attack_07.mp3"
-        ],
-        "mp3Text": "Come into my dominion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Shadow_demon_attack_08.mp3"
-        ],
-        "mp3Text": "Thus do I dominate!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Shadow_demon_attack_14.mp3"
-        ],
-        "mp3Text": "By the demon's will!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Shadow_demon_move_26.mp3"
+    ],
+    "mp3Text": "Rarhrhrh"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6c/Shadow_demon_move_27.mp3"
+    ],
+    "mp3Text": "Hrmm."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Shadow_demon_attack_01.mp3"
+    ],
+    "mp3Text": "Attack!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_attack_02.mp3"
+    ],
+    "mp3Text": "Dominion is mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_attack_03.mp3"
+    ],
+    "mp3Text": "Fall before me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_attack_04.mp3"
+    ],
+    "mp3Text": "By my shadow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Shadow_demon_attack_05.mp3"
+    ],
+    "mp3Text": "A summoning!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6f/Shadow_demon_attack_06.mp3"
+    ],
+    "mp3Text": "My shadow seeks!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_attack_07.mp3"
+    ],
+    "mp3Text": "Come into my dominion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Shadow_demon_attack_08.mp3"
+    ],
+    "mp3Text": "Thus do I dominate!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0e/Shadow_demon_attack_14.mp3"
+    ],
+    "mp3Text": "By the demon's will!"
   },
   {
     "headTitle": "Ordering a spell cast",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Shadow_demon_cast_01.mp3"
-        ],
-        "mp3Text": "It's all to my advantage."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Shadow_demon_cast_02.mp3"
-        ],
-        "mp3Text": "No shadow will shelter you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_cast_03.mp3"
-        ],
-        "mp3Text": "Come into my shadow!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/94/Shadow_demon_cast_01.mp3"
+    ],
+    "mp3Text": "It's all to my advantage."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/07/Shadow_demon_cast_02.mp3"
+    ],
+    "mp3Text": "No shadow will shelter you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_cast_03.mp3"
+    ],
+    "mp3Text": "Come into my shadow!"
   },
   {
     "headTitle": "Abilities",
@@ -426,154 +443,153 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_ability_disruption_01.mp3"
-        ],
-        "mp3Text": "You'll be back!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Shadow_demon_ability_disruption_02.mp3"
-        ],
-        "mp3Text": "Leave me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_ability_disruption_03.mp3"
-        ],
-        "mp3Text": "Off with you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_ability_disruption_04.mp3"
-        ],
-        "mp3Text": "Disruption!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/eb/Shadow_demon_ability_disruption_01.mp3"
+    ],
+    "mp3Text": "You'll be back!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cd/Shadow_demon_ability_disruption_02.mp3"
+    ],
+    "mp3Text": "Leave me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_ability_disruption_03.mp3"
+    ],
+    "mp3Text": "Off with you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_ability_disruption_04.mp3"
+    ],
+    "mp3Text": "Disruption!"
   },
   {
     "text": "On cast, target is ally",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Shadow_demon_ability_disruption_09.mp3"
-        ],
-        "mp3Text": "To a better place."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_ability_disruption_10.mp3"
-        ],
-        "mp3Text": "A demon's blessing!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Shadow_demon_ability_disruption_11.mp3"
-        ],
-        "mp3Text": "I look after my own."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Shadow_demon_ability_disruption_12.mp3"
-        ],
-        "mp3Text": "Come back soon."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/ba/Shadow_demon_ability_disruption_09.mp3"
+    ],
+    "mp3Text": "To a better place."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_ability_disruption_10.mp3"
+    ],
+    "mp3Text": "A demon's blessing!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a4/Shadow_demon_ability_disruption_11.mp3"
+    ],
+    "mp3Text": "I look after my own."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Shadow_demon_ability_disruption_12.mp3"
+    ],
+    "mp3Text": "Come back soon."
   },
   {
     "text": "On cast, target is self",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_ability_disruption_15.mp3"
-        ],
-        "mp3Text": "I'll be right back!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_ability_disruption_16.mp3"
-        ],
-        "mp3Text": "I must away!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_ability_disruption_17.mp3"
-        ],
-        "mp3Text": "Hold that thought."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_ability_disruption_18.mp3"
-        ],
-        "mp3Text": "Shadows take me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Shadow_demon_ability_disruption_19.mp3"
-        ],
-        "mp3Text": "Don't wait up."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_ability_disruption_15.mp3"
+    ],
+    "mp3Text": "I'll be right back!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_ability_disruption_16.mp3"
+    ],
+    "mp3Text": "I must away!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_ability_disruption_17.mp3"
+    ],
+    "mp3Text": "Hold that thought."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_ability_disruption_18.mp3"
+    ],
+    "mp3Text": "Shadows take me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/48/Shadow_demon_ability_disruption_19.mp3"
+    ],
+    "mp3Text": "Don't wait up."
   },
   {
     "text": "Upon expiring, target was enemy",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_ability_disruption_05.mp3"
-        ],
-        "mp3Text": "You brought me new minions."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Shadow_demon_ability_disruption_06.mp3"
-        ],
-        "mp3Text": "New followers!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Shadow_demon_ability_disruption_07.mp3"
-        ],
-        "mp3Text": "My, how you've grown."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Shadow_demon_ability_disruption_08.mp3"
-        ],
-        "mp3Text": "Evangelizing for my cause?"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_ability_disruption_05.mp3"
+    ],
+    "mp3Text": "You brought me new minions."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Shadow_demon_ability_disruption_06.mp3"
+    ],
+    "mp3Text": "New followers!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2c/Shadow_demon_ability_disruption_07.mp3"
+    ],
+    "mp3Text": "My, how you've grown."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/83/Shadow_demon_ability_disruption_08.mp3"
+    ],
+    "mp3Text": "Evangelizing for my cause?"
   },
   {
     "text": "Upon expiring, target was ally",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Shadow_demon_ability_disruption_13.mp3"
-        ],
-        "mp3Text": "Back, and more of you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_ability_disruption_14.mp3"
-        ],
-        "mp3Text": "You're a fine acolyte!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1b/Shadow_demon_ability_disruption_13.mp3"
+    ],
+    "mp3Text": "Back, and more of you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_ability_disruption_14.mp3"
+    ],
+    "mp3Text": "You're a fine acolyte!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/e8/Soul_Catcher_icon.png/16px-Soul_Catcher_icon.png?version=fc8c73303d9d5bbf0bcc9d0e5ea9e762",
@@ -585,58 +601,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Shadow_demon_ability_soul_catcher_01.mp3"
-        ],
-        "mp3Text": "Just your bad luck."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Shadow_demon_ability_soul_catcher_02.mp3"
-        ],
-        "mp3Text": "Caught your soul."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_ability_soul_catcher_03.mp3"
-        ],
-        "mp3Text": "Your soul ensnared."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7a/Shadow_demon_ability_soul_catcher_01.mp3"
+    ],
+    "mp3Text": "Just your bad luck."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bd/Shadow_demon_ability_soul_catcher_02.mp3"
+    ],
+    "mp3Text": "Caught your soul."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_ability_soul_catcher_03.mp3"
+    ],
+    "mp3Text": "Your soul ensnared."
   },
   {
     "text": "Catching nothing, or creeps",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Shadow_demon_ability_soul_catcher_04.mp3"
-        ],
-        "mp3Text": "Bah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Shadow_demon_ability_soul_catcher_05.mp3"
-        ],
-        "mp3Text": "Bah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Shadow_demon_ability_soul_catcher_06.mp3"
-        ],
-        "mp3Text": "Slipped my trap!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Shadow_demon_ability_soul_catcher_07.mp3"
-        ],
-        "mp3Text": "Bad catch!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Shadow_demon_ability_soul_catcher_04.mp3"
+    ],
+    "mp3Text": "Bah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/20/Shadow_demon_ability_soul_catcher_05.mp3"
+    ],
+    "mp3Text": "Bah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Shadow_demon_ability_soul_catcher_06.mp3"
+    ],
+    "mp3Text": "Slipped my trap!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/27/Shadow_demon_ability_soul_catcher_07.mp3"
+    ],
+    "mp3Text": "Bad catch!"
   },
   {
     "voices": []
@@ -646,26 +661,25 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Shadow_demon_ability_shadow_poison_05.mp3"
-        ],
-        "mp3Text": "That was sick!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_ability_shadow_poison_06.mp3"
-        ],
-        "mp3Text": "My shadow does that to people."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Shadow_demon_ability_shadow_poison_08.mp3"
-        ],
-        "mp3Text": "In the end, you're all mine."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/89/Shadow_demon_ability_shadow_poison_05.mp3"
+    ],
+    "mp3Text": "That was sick!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d6/Shadow_demon_ability_shadow_poison_06.mp3"
+    ],
+    "mp3Text": "My shadow does that to people."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fd/Shadow_demon_ability_shadow_poison_08.mp3"
+    ],
+    "mp3Text": "In the end, you're all mine."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4a/Demonic_Purge_icon.png/16px-Demonic_Purge_icon.png?version=c6d57bba3b7363c79b7cc6f74688da0b",
@@ -677,396 +691,428 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Shadow_demon_ability_demonic_purge_01.mp3"
-        ],
-        "mp3Text": "Good has no hold on you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Shadow_demon_ability_demonic_purge_02.mp3"
-        ],
-        "mp3Text": "The demon's curse!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Shadow_demon_ability_demonic_purge_03.mp3"
-        ],
-        "mp3Text": "Your friends can't help you now."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_ability_demonic_purge_04.mp3"
-        ],
-        "mp3Text": "That's me you feel."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_ability_demonic_purge_05.mp3"
-        ],
-        "mp3Text": "You wear my shadow now!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Shadow_demon_ability_demonic_purge_08.mp3"
-        ],
-        "mp3Text": "Purged!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Shadow_demon_ability_demonic_purge_09.mp3"
-        ],
-        "mp3Text": "Stripped!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1a/Shadow_demon_ability_demonic_purge_01.mp3"
+    ],
+    "mp3Text": "Good has no hold on you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Shadow_demon_ability_demonic_purge_02.mp3"
+    ],
+    "mp3Text": "The demon's curse!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/71/Shadow_demon_ability_demonic_purge_03.mp3"
+    ],
+    "mp3Text": "Your friends can't help you now."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_demon_ability_demonic_purge_04.mp3"
+    ],
+    "mp3Text": "That's me you feel."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Shadow_demon_ability_demonic_purge_05.mp3"
+    ],
+    "mp3Text": "You wear my shadow now!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Shadow_demon_ability_demonic_purge_08.mp3"
+    ],
+    "mp3Text": "Purged!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ac/Shadow_demon_ability_demonic_purge_09.mp3"
+    ],
+    "mp3Text": "Stripped!"
   },
   {
     "headTitle": "Leveling up",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Shadow_demon_ability_shadow_poison_07.mp3"
-        ],
-        "mp3Text": "Finally."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Shadow_demon_level_up_01.mp3"
-        ],
-        "mp3Text": "In shades refined."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Shadow_demon_level_up_02.mp3"
-        ],
-        "mp3Text": "How my shadow darkens."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_level_up_03.mp3"
-        ],
-        "mp3Text": "Fearsome energies invoked!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Shadow_demon_level_up_04.mp3"
-        ],
-        "mp3Text": "It all comes together in the end."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Shadow_demon_level_up_05.mp3"
-        ],
-        "mp3Text": "Doubt not a demon's will."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Shadow_demon_level_up_06.mp3"
-        ],
-        "mp3Text": "My cult grows in number!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_level_up_07.mp3"
-        ],
-        "mp3Text": "The Second Domination draws near."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_level_up_08.mp3"
-        ],
-        "mp3Text": "Muwahha ha ha ha ha ha ha ha ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/11/Shadow_demon_ability_shadow_poison_07.mp3"
+    ],
+    "mp3Text": "Finally."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Shadow_demon_level_up_01.mp3"
+    ],
+    "mp3Text": "In shades refined."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5c/Shadow_demon_level_up_02.mp3"
+    ],
+    "mp3Text": "How my shadow darkens."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_level_up_03.mp3"
+    ],
+    "mp3Text": "Fearsome energies invoked!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Shadow_demon_level_up_04.mp3"
+    ],
+    "mp3Text": "It all comes together in the end."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6d/Shadow_demon_level_up_05.mp3"
+    ],
+    "mp3Text": "Doubt not a demon's will."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Shadow_demon_level_up_06.mp3"
+    ],
+    "mp3Text": "My cult grows in number!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_level_up_07.mp3"
+    ],
+    "mp3Text": "The Second Domination draws near."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_level_up_08.mp3"
+    ],
+    "mp3Text": "Muwahha ha ha ha ha ha ha ha ha ha ha ha ha ha."
   },
   {
     "headTitle": "Killing an enemy",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Shadow_demon_ability_shadow_poison_03.mp3"
-        ],
-        "mp3Text": "The shadow grows."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Shadow_demon_kill_01.mp3"
-        ],
-        "mp3Text": "Your soul will make a fine minion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_kill_02.mp3"
-        ],
-        "mp3Text": "My cult grows by one."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Shadow_demon_kill_03.mp3"
-        ],
-        "mp3Text": "Slain you say? I hardly noticed."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Shadow_demon_kill_04.mp3"
-        ],
-        "mp3Text": "Go on, bewail your fate."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Shadow_demon_kill_05.mp3"
-        ],
-        "mp3Text": "Cry for all the good it does you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_kill_06.mp3"
-        ],
-        "mp3Text": "My shadow sweeps over you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Shadow_demon_kill_07.mp3"
-        ],
-        "mp3Text": "Did you not see the demon in your gaze?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_kill_08.mp3"
-        ],
-        "mp3Text": "Look to the shadows for a taste of your fate."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Shadow_demon_kill_09.mp3"
-        ],
-        "mp3Text": "The weeping is yours, the laughter is all mine. Ha ha ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Shadow_demon_kill_10.mp3"
-        ],
-        "mp3Text": "You conspired against me."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Shadow_demon_kill_14.mp3"
-        ],
-        "mp3Text": "Cry some more."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Shadow_demon_denied_17.mp3"
-        ],
-        "mp3Text": "Wu-ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Shadow_demon_denied_18.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_laugh_01.mp3"
-        ],
-        "mp3Text": "Uh ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_laugh_02.mp3"
-        ],
-        "mp3Text": "Hm ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Shadow_demon_laugh_04.mp3"
-        ],
-        "mp3Text": "Buw ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Shadow_demon_laugh_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Shadow_demon_ability_shadow_poison_03.mp3"
+    ],
+    "mp3Text": "The shadow grows."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Shadow_demon_kill_01.mp3"
+    ],
+    "mp3Text": "Your soul will make a fine minion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_kill_02.mp3"
+    ],
+    "mp3Text": "My cult grows by one."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c8/Shadow_demon_kill_03.mp3"
+    ],
+    "mp3Text": "Slain you say? I hardly noticed."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/30/Shadow_demon_kill_04.mp3"
+    ],
+    "mp3Text": "Go on, bewail your fate."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ef/Shadow_demon_kill_05.mp3"
+    ],
+    "mp3Text": "Cry for all the good it does you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_kill_06.mp3"
+    ],
+    "mp3Text": "My shadow sweeps over you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/24/Shadow_demon_kill_07.mp3"
+    ],
+    "mp3Text": "Did you not see the demon in your gaze?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_kill_08.mp3"
+    ],
+    "mp3Text": "Look to the shadows for a taste of your fate."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Shadow_demon_kill_09.mp3"
+    ],
+    "mp3Text": "The weeping is yours, the laughter is all mine. Ha ha ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f3/Shadow_demon_kill_10.mp3"
+    ],
+    "mp3Text": "You conspired against me."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Shadow_demon_kill_14.mp3"
+    ],
+    "mp3Text": "Cry some more."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3c/Shadow_demon_denied_17.mp3"
+    ],
+    "mp3Text": "Wu-ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8e/Shadow_demon_denied_18.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_laugh_01.mp3"
+    ],
+    "mp3Text": "Uh ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_laugh_02.mp3"
+    ],
+    "mp3Text": "Hm ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Shadow_demon_laugh_04.mp3"
+    ],
+    "mp3Text": "Buw ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Shadow_demon_laugh_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha."
   },
   {
     "text": "Killing a specific enemy",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Shadow_demon_rival_01.mp3"
+    ],
+    "mp3Text": "My shadow rises while your shadow falls.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e3/Shadow_demon_rival_01.mp3"
-        ],
-        "mp3Text": "My shadow rises while your shadow falls.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
-            "name": "Shadow Fiend"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/00/Shadow_Fiend_minimap_icon.png/16px-Shadow_Fiend_minimap_icon.png?version=e3c4fb837251d9899eea347c762640b8",
+        "name": "Shadow Fiend"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Shadow_demon_rival_02.mp3"
+    ],
+    "mp3Text": "Whatever hell you came from will have to take you back.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Shadow_demon_rival_02.mp3"
-        ],
-        "mp3Text": "Whatever hell you came from will have to take you back.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
-            "name": "Doom"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/9/96/Doom_minimap_icon.png/16px-Doom_minimap_icon.png?version=06ab97874aaadad2e0bf043f68a51739",
+        "name": "Doom"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_rival_03.mp3"
+    ],
+    "mp3Text": "Deal with it, Anti-Mage.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9e/Shadow_demon_rival_03.mp3"
-        ],
-        "mp3Text": "Deal with it, Anti-Mage.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Shadow_demon_rival_04.mp3"
+    ],
+    "mp3Text": "My will, not thine.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Shadow_demon_rival_04.mp3"
-        ],
-        "mp3Text": "My will, not thine.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Shadow_demon_rival_05.mp3"
+    ],
+    "mp3Text": "You'll not dispel my magic!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Shadow_demon_rival_05.mp3"
-        ],
-        "mp3Text": "You'll not dispel my magic!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Shadow_demon_rival_06.mp3"
+    ],
+    "mp3Text": "Over-ruled!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e1/Shadow_demon_rival_06.mp3"
-        ],
-        "mp3Text": "Over-ruled!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
-            "name": "Anti-Mage"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Anti-Mage_minimap_icon.png/16px-Anti-Mage_minimap_icon.png?version=6a95fc4094b1b45174984d350e4a1756",
+        "name": "Anti-Mage"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Shadow_demon_rival_07.mp3"
+    ],
+    "mp3Text": "The nightmares you harvest are like sweet dreams to me.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Shadow_demon_rival_07.mp3"
-        ],
-        "mp3Text": "The nightmares you harvest are like sweet dreams to me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
-            "name": "Bane"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/0d/Bane_minimap_icon.png/16px-Bane_minimap_icon.png?version=8d14f4bbbd0ccb9f95e9dd9abf7479e3",
+        "name": "Bane"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Shadow_demon_rival_08.mp3"
+    ],
+    "mp3Text": "You might be a power in the underscape, but here, you're a damp spark.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Shadow_demon_rival_08.mp3"
-        ],
-        "mp3Text": "You might be a power in the underscape, but here, you're a damp spark.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
-            "name": "Razor"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/2b/Razor_minimap_icon.png/16px-Razor_minimap_icon.png?version=cb98f9f81a4185eb996b96ca22a77263",
+        "name": "Razor"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Shadow_demon_rival_09.mp3"
+    ],
+    "mp3Text": "The demon that made Clinkz botched the job if you ask me.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Shadow_demon_rival_09.mp3"
-        ],
-        "mp3Text": "The demon that made Clinkz botched the job if you ask me.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
-            "name": "Clinkz"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/16/Clinkz_minimap_icon.png/16px-Clinkz_minimap_icon.png?version=4bee48e58ab08e042b0424b06fbe1cc4",
+        "name": "Clinkz"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Shadow_demon_rival_10.mp3"
+    ],
+    "mp3Text": "I'll never come to your call.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ed/Shadow_demon_rival_10.mp3"
-        ],
-        "mp3Text": "I'll never come to your call.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
-            "name": "Invoker"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7d/Invoker_minimap_icon.png/16px-Invoker_minimap_icon.png?version=d6f315eb6c1de6e5f53d100332a63e15",
+        "name": "Invoker"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Shadow_demon_rival_11.mp3"
+    ],
+    "mp3Text": "Warlock, you should have written your memoir, not your grimoire.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/77/Shadow_demon_rival_11.mp3"
-        ],
-        "mp3Text": "Warlock, you should have written your memoir, not your grimoire.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
-            "name": "Warlock"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/d/d3/Warlock_minimap_icon.png/16px-Warlock_minimap_icon.png?version=3c7b0391b7ffde7146c8523e9585c548",
+        "name": "Warlock"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Shadow_demon_rival_12.mp3"
+    ],
+    "mp3Text": "Omniknight, you were wholly a nuisance.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Shadow_demon_rival_12.mp3"
-        ],
-        "mp3Text": "Omniknight, you were wholly a nuisance.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
-            "name": "Omniknight"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/05/Omniknight_minimap_icon.png/16px-Omniknight_minimap_icon.png?version=a2aa88225bc72af4ac0df9bf2091f3b1",
+        "name": "Omniknight"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Shadow_demon_rival_13.mp3"
+    ],
+    "mp3Text": "There lies Chen. Never were followers more misguided.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a8/Shadow_demon_rival_13.mp3"
-        ],
-        "mp3Text": "There lies Chen. Never were followers more misguided.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
-            "name": "Chen"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/fc/Chen_minimap_icon.png/16px-Chen_minimap_icon.png?version=46ae2d3188100e6f8dec888f21b30608",
+        "name": "Chen"
       }
     ]
   },
@@ -1075,362 +1121,386 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_first_01.mp3"
-        ],
-        "mp3Text": "First blood. Ah ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Shadow_demon_first_02.mp3"
-        ],
-        "mp3Text": "With this blood I seal my promise of Dominion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_first_01.mp3"
+    ],
+    "mp3Text": "First blood. Ah ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Shadow_demon_first_02.mp3"
+    ],
+    "mp3Text": "With this blood I seal my promise of Dominion!"
   },
   {
     "headTitle": "Last hitting",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Shadow_demon_lasthit_01.mp3"
-        ],
-        "mp3Text": "A follower."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Shadow_demon_lasthit_02.mp3"
-        ],
-        "mp3Text": "A new minion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Shadow_demon_lasthit_03.mp3"
-        ],
-        "mp3Text": "All for the Second Dominion."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Shadow_demon_lasthit_04.mp3"
-        ],
-        "mp3Text": "Dominion is mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Shadow_demon_lasthit_05.mp3"
-        ],
-        "mp3Text": "Swept up in the shadows."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Shadow_demon_lasthit_06.mp3"
-        ],
-        "mp3Text": "Demon gold."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Shadow_demon_lasthit_07.mp3"
-        ],
-        "mp3Text": "Bow down."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Shadow_demon_lasthit_08.mp3"
-        ],
-        "mp3Text": "It's more than your worth."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Shadow_demon_lasthit_09.mp3"
-        ],
-        "mp3Text": "Bow to me!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Shadow_demon_lasthit_10.mp3"
-        ],
-        "mp3Text": "Bow Down."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Shadow_demon_lasthit_01.mp3"
+    ],
+    "mp3Text": "A follower."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Shadow_demon_lasthit_02.mp3"
+    ],
+    "mp3Text": "A new minion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Shadow_demon_lasthit_03.mp3"
+    ],
+    "mp3Text": "All for the Second Dominion."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4d/Shadow_demon_lasthit_04.mp3"
+    ],
+    "mp3Text": "Dominion is mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Shadow_demon_lasthit_05.mp3"
+    ],
+    "mp3Text": "Swept up in the shadows."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Shadow_demon_lasthit_06.mp3"
+    ],
+    "mp3Text": "Demon gold."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Shadow_demon_lasthit_07.mp3"
+    ],
+    "mp3Text": "Bow down."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/ff/Shadow_demon_lasthit_08.mp3"
+    ],
+    "mp3Text": "It's more than your worth."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/88/Shadow_demon_lasthit_09.mp3"
+    ],
+    "mp3Text": "Bow to me!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Shadow_demon_lasthit_10.mp3"
+    ],
+    "mp3Text": "Bow Down."
   },
   {
     "headTitle": "Denying",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Shadow_demon_denied_01.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Shadow_demon_denied_02.mp3"
-        ],
-        "mp3Text": "Denied!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Shadow_demon_denied_03.mp3"
-        ],
-        "mp3Text": "Not so."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Shadow_demon_denied_04.mp3"
-        ],
-        "mp3Text": "Not so!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Shadow_demon_denied_05.mp3"
-        ],
-        "mp3Text": "Deee-monic!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_denied_06.mp3"
-        ],
-        "mp3Text": "Deee-monic!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Shadow_demon_denied_07.mp3"
-        ],
-        "mp3Text": "Begone!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Shadow_demon_denied_08.mp3"
-        ],
-        "mp3Text": "Begone!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Shadow_demon_denied_09.mp3"
-        ],
-        "mp3Text": "Not for you."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Shadow_demon_denied_10.mp3"
-        ],
-        "mp3Text": "Not for you!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Shadow_demon_denied_11.mp3"
-        ],
-        "mp3Text": "All is mine."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Shadow_demon_denied_12.mp3"
-        ],
-        "mp3Text": "All is mine!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Shadow_demon_denied_13.mp3"
-        ],
-        "mp3Text": "For me?"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_denied_14.mp3"
-        ],
-        "mp3Text": "For me?!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Shadow_demon_denied_15.mp3"
-        ],
-        "mp3Text": "Taken!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Shadow_demon_denied_16.mp3"
-        ],
-        "mp3Text": "Taken!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_denied_19.mp3"
-        ],
-        "mp3Text": "Uh-uh."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Shadow_demon_denied_20.mp3"
-        ],
-        "mp3Text": "Nah-ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Shadow_demon_denied_21.mp3"
-        ],
-        "mp3Text": "Un-uh."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2d/Shadow_demon_denied_01.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b0/Shadow_demon_denied_02.mp3"
+    ],
+    "mp3Text": "Denied!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Shadow_demon_denied_03.mp3"
+    ],
+    "mp3Text": "Not so."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Shadow_demon_denied_04.mp3"
+    ],
+    "mp3Text": "Not so!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/38/Shadow_demon_denied_05.mp3"
+    ],
+    "mp3Text": "Deee-monic!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_denied_06.mp3"
+    ],
+    "mp3Text": "Deee-monic!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Shadow_demon_denied_07.mp3"
+    ],
+    "mp3Text": "Begone!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Shadow_demon_denied_08.mp3"
+    ],
+    "mp3Text": "Begone!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f0/Shadow_demon_denied_09.mp3"
+    ],
+    "mp3Text": "Not for you."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Shadow_demon_denied_10.mp3"
+    ],
+    "mp3Text": "Not for you!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dd/Shadow_demon_denied_11.mp3"
+    ],
+    "mp3Text": "All is mine."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Shadow_demon_denied_12.mp3"
+    ],
+    "mp3Text": "All is mine!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Shadow_demon_denied_13.mp3"
+    ],
+    "mp3Text": "For me?"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_denied_14.mp3"
+    ],
+    "mp3Text": "For me?!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Shadow_demon_denied_15.mp3"
+    ],
+    "mp3Text": "Taken!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a6/Shadow_demon_denied_16.mp3"
+    ],
+    "mp3Text": "Taken!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_denied_19.mp3"
+    ],
+    "mp3Text": "Uh-uh."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Shadow_demon_denied_20.mp3"
+    ],
+    "mp3Text": "Nah-ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c6/Shadow_demon_denied_21.mp3"
+    ],
+    "mp3Text": "Un-uh."
   },
   {
     "headTitle": "Acquiring an item",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Shadow_demon_purch_01.mp3"
-        ],
-        "mp3Text": "This will further the Second Domination."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Shadow_demon_purch_02.mp3"
-        ],
-        "mp3Text": "Well-suited to a demon's power."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_purch_03.mp3"
-        ],
-        "mp3Text": "Oh, shadows, I shall use this in your name."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Shadow_demon_purch_01.mp3"
+    ],
+    "mp3Text": "This will further the Second Domination."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3a/Shadow_demon_purch_02.mp3"
+    ],
+    "mp3Text": "Well-suited to a demon's power."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_purch_03.mp3"
+    ],
+    "mp3Text": "Oh, shadows, I shall use this in your name."
   },
   {
     "text": "Acquiring a specific item",
     "type": "subTitle"
   },
   {
-    "voices": [
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_blink_01.mp3"
+    ],
+    "mp3Text": "Blink dagger!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b1/Shadow_demon_blink_01.mp3"
-        ],
-        "mp3Text": "Blink dagger!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Shadow_demon_blink_03.mp3"
+    ],
+    "mp3Text": "Ah, this dagger brings back memories.",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Shadow_demon_blink_03.mp3"
-        ],
-        "mp3Text": "Ah, this dagger brings back memories.",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
-            "name": "Blink Dagger (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/4/4c/Blink_Dagger_icon.png/20px-Blink_Dagger_icon.png?version=ce8726852c7be9e04de60894546c3eb8",
+        "name": "Blink Dagger (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Shadow_demon_scepter_01.mp3"
+    ],
+    "mp3Text": "Ah, Scepter!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8d/Shadow_demon_scepter_01.mp3"
-        ],
-        "mp3Text": "Ah, Scepter!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_scepter_02.mp3"
+    ],
+    "mp3Text": "Scepter mine!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d2/Shadow_demon_scepter_02.mp3"
-        ],
-        "mp3Text": "Scepter mine!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
-            "name": "Aghanim's Scepter (4200)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/07/Aghanim%27s_Scepter_icon.png/20px-Aghanim%27s_Scepter_icon.png?version=1056df403356d64befeae3a47cbb12ed",
+        "name": "Aghanim's Scepter (4200)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Shadow_demon_items_01.mp3"
+    ],
+    "mp3Text": "Scythe of Vyse!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/12/Shadow_demon_items_01.mp3"
-        ],
-        "mp3Text": "Scythe of Vyse!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
-            "name": "Scythe of Vyse (5700)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/54/Scythe_of_Vyse_icon.png/20px-Scythe_of_Vyse_icon.png?version=2e2a19650a4f473c6121d4cc3504c06b",
+        "name": "Scythe of Vyse (5700)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Shadow_demon_items_02.mp3"
+    ],
+    "mp3Text": "Force Staff!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/26/Shadow_demon_items_02.mp3"
-        ],
-        "mp3Text": "Force Staff!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
-            "name": "Force Staff (2250)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/a/a2/Force_Staff_icon.png/20px-Force_Staff_icon.png?version=206a843247137b3fc5a088b6c01ac880",
+        "name": "Force Staff (2250)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Shadow_demon_items_03.mp3"
+    ],
+    "mp3Text": "Shiva's Guard!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Shadow_demon_items_03.mp3"
-        ],
-        "mp3Text": "Shiva's Guard!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
-            "name": "Shiva's Guard (4750)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/b/b6/Shiva%27s_Guard_icon.png/20px-Shiva%27s_Guard_icon.png?version=159354b3bbde927b23964cce8a08b322",
+        "name": "Shiva's Guard (4750)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Shadow_demon_items_04.mp3"
+    ],
+    "mp3Text": "Necronomicon!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fe/Shadow_demon_items_04.mp3"
-        ],
-        "mp3Text": "Necronomicon!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
-            "name": "Necronomicon (2400)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/3/30/Necronomicon_1_icon.png/20px-Necronomicon_1_icon.png?version=6988afabdb3aa944a73b6558a6719603",
+        "name": "Necronomicon (2400)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Shadow_demon_items_05.mp3"
+    ],
+    "mp3Text": "Bloodstone!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/dc/Shadow_demon_items_05.mp3"
-        ],
-        "mp3Text": "Bloodstone!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
-            "name": "Bloodstone (4900)"
-          }
-        ]
-      },
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/5/5a/Bloodstone_icon.png/20px-Bloodstone_icon.png?version=2798cd76587ada4a6935177858bf4a41",
+        "name": "Bloodstone (4900)"
+      }
+    ]
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Shadow_demon_immort_01.mp3"
+    ],
+    "mp3Text": "Immortality!",
+    "imgs": [
       {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e5/Shadow_demon_immort_01.mp3"
-        ],
-        "mp3Text": "Immortality!",
-        "imgs": [
-          {
-            "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
-            "name": "Aegis of the Immortal"
-          }
-        ]
+        "img": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/20/Aegis_of_the_Immortal_icon.png/20px-Aegis_of_the_Immortal_icon.png?version=d8a77a4fb2ee05916589a1fdfc85ff72",
+        "name": "Aegis of the Immortal"
       }
     ]
   },
@@ -1439,194 +1509,205 @@
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Shadow_demon_death_01.mp3"
-        ],
-        "mp3Text": "No!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_death_02.mp3"
-        ],
-        "mp3Text": "Follow me not!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_death_03.mp3"
-        ],
-        "mp3Text": "Torn apart again…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_death_04.mp3"
-        ],
-        "mp3Text": "My cult is leaderless!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Shadow_demon_death_05.mp3"
-        ],
-        "mp3Text": "Darkness within darkness…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Shadow_demon_death_06.mp3"
-        ],
-        "mp3Text": "Curse that light!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_death_07.mp3"
-        ],
-        "mp3Text": "I've lost my dominion!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Shadow_demon_death_08.mp3"
-        ],
-        "mp3Text": "Undaunted, I die…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Shadow_demon_death_09.mp3"
-        ],
-        "mp3Text": "Curse your bright cabal!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Shadow_demon_death_10.mp3"
-        ],
-        "mp3Text": "Beset on all sides!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Shadow_demon_death_11.mp3"
-        ],
-        "mp3Text": "The field is rife with enemies."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Shadow_demon_death_12.mp3"
-        ],
-        "mp3Text": "That's it: You're out of the cult."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/32/Shadow_demon_death_01.mp3"
+    ],
+    "mp3Text": "No!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_death_02.mp3"
+    ],
+    "mp3Text": "Follow me not!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_death_03.mp3"
+    ],
+    "mp3Text": "Torn apart again…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/fa/Shadow_demon_death_04.mp3"
+    ],
+    "mp3Text": "My cult is leaderless!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/47/Shadow_demon_death_05.mp3"
+    ],
+    "mp3Text": "Darkness within darkness…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Shadow_demon_death_06.mp3"
+    ],
+    "mp3Text": "Curse that light!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e7/Shadow_demon_death_07.mp3"
+    ],
+    "mp3Text": "I've lost my dominion!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/95/Shadow_demon_death_08.mp3"
+    ],
+    "mp3Text": "Undaunted, I die…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/59/Shadow_demon_death_09.mp3"
+    ],
+    "mp3Text": "Curse your bright cabal!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/40/Shadow_demon_death_10.mp3"
+    ],
+    "mp3Text": "Beset on all sides!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Shadow_demon_death_11.mp3"
+    ],
+    "mp3Text": "The field is rife with enemies."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e0/Shadow_demon_death_12.mp3"
+    ],
+    "mp3Text": "That's it: You're out of the cult."
   },
   {
     "headTitle": "Respawning",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Shadow_demon_respawn_01.mp3"
-        ],
-        "mp3Text": "Give me a moment to regroup."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_respawn_02.mp3"
-        ],
-        "mp3Text": "Let me pull myself together."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_respawn_03.mp3"
-        ],
-        "mp3Text": "Take care what you summon."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Shadow_demon_respawn_04.mp3"
-        ],
-        "mp3Text": "Summon forth, fifth and sixth."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Shadow_demon_respawn_05.mp3"
-        ],
-        "mp3Text": "Served with a summons."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Shadow_demon_respawn_06.mp3"
-        ],
-        "mp3Text": "My shadow, in tatters, reknits."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Shadow_demon_respawn_07.mp3"
-        ],
-        "mp3Text": "I need more shadows here, to beat back this scouring light!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_respawn_08.mp3"
-        ],
-        "mp3Text": "Who toys with demons will find himself toyed with."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Shadow_demon_respawn_09.mp3"
-        ],
-        "mp3Text": "I sense uncertain mastery of these most sinister arts…"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Shadow_demon_respawn_10.mp3"
-        ],
-        "mp3Text": "I'll bite this hand that feeds me, and take it for my own!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Shadow_demon_respawn_11.mp3"
-        ],
-        "mp3Text": "I heard the cabal call my name."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Shadow_demon_respawn_01.mp3"
+    ],
+    "mp3Text": "Give me a moment to regroup."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/02/Shadow_demon_respawn_02.mp3"
+    ],
+    "mp3Text": "Let me pull myself together."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Shadow_demon_respawn_03.mp3"
+    ],
+    "mp3Text": "Take care what you summon."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Shadow_demon_respawn_04.mp3"
+    ],
+    "mp3Text": "Summon forth, fifth and sixth."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/86/Shadow_demon_respawn_05.mp3"
+    ],
+    "mp3Text": "Served with a summons."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a0/Shadow_demon_respawn_06.mp3"
+    ],
+    "mp3Text": "My shadow, in tatters, reknits."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/23/Shadow_demon_respawn_07.mp3"
+    ],
+    "mp3Text": "I need more shadows here, to beat back this scouring light!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_respawn_08.mp3"
+    ],
+    "mp3Text": "Who toys with demons will find himself toyed with."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b8/Shadow_demon_respawn_09.mp3"
+    ],
+    "mp3Text": "I sense uncertain mastery of these most sinister arts…"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9c/Shadow_demon_respawn_10.mp3"
+    ],
+    "mp3Text": "I'll bite this hand that feeds me, and take it for my own!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/73/Shadow_demon_respawn_11.mp3"
+    ],
+    "mp3Text": "I heard the cabal call my name."
   },
   {
     "text": "Reincarnating",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Shadow_demon_fastrez_01.mp3"
-        ],
-        "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Shadow_demon_fastrez_01.mp3"
+    ],
+    "mp3Text": "Ah ha ha ha ha ha ha ha ha ha ha ha ha ha."
   },
   {
     "headTitle": "Bottling Runes",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Shadow_demon_bottle_01.mp3"
-        ],
-        "mp3Text": "I can wait a bit longer."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Shadow_demon_bottle_02.mp3"
-        ],
-        "mp3Text": "Patience is my middle name."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_bottle_03.mp3"
-        ],
-        "mp3Text": "The shadows gather."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6b/Shadow_demon_bottle_01.mp3"
+    ],
+    "mp3Text": "I can wait a bit longer."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/41/Shadow_demon_bottle_02.mp3"
+    ],
+    "mp3Text": "Patience is my middle name."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_bottle_03.mp3"
+    ],
+    "mp3Text": "The shadows gather."
   },
   {
     "headTitle": "Activating runes",
@@ -1638,27 +1719,21 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Shadow_demon_ability_shadow_poison_01.mp3"
-        ],
-        "mp3Text": "Just you wait."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/45/Shadow_demon_ability_shadow_poison_01.mp3"
+    ],
+    "mp3Text": "Just you wait."
   },
   {
     "voices": []
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Shadow_demon_lasthit_06.mp3"
-        ],
-        "mp3Text": "Demon gold."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/62/Shadow_demon_lasthit_06.mp3"
+    ],
+    "mp3Text": "Demon gold."
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Double_Damage_Rune_minimap_icon.png/16px-Double_Damage_Rune_minimap_icon.png?version=0812a173ad5eb93bf7bf91a07a4ba903",
@@ -1666,14 +1741,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Shadow_demon_doubdam_01.mp3"
-        ],
-        "mp3Text": "Double damage!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/65/Shadow_demon_doubdam_01.mp3"
+    ],
+    "mp3Text": "Double damage!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/7e/Haste_Rune_minimap_icon.png/16px-Haste_Rune_minimap_icon.png?version=2e1784dab99a3c8d178ebd0aeb867f23",
@@ -1681,14 +1753,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Shadow_demon_haste_01.mp3"
-        ],
-        "mp3Text": "Haste!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9d/Shadow_demon_haste_01.mp3"
+    ],
+    "mp3Text": "Haste!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/1/10/Illusion_Rune_minimap_icon.png/16px-Illusion_Rune_minimap_icon.png?version=43c82cc02d3b4d0316ef268153a65ed5",
@@ -1696,14 +1765,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Shadow_demon_illus_01.mp3"
-        ],
-        "mp3Text": "Illusion!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Shadow_demon_illus_01.mp3"
+    ],
+    "mp3Text": "Illusion!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/0/09/Invisibility_Rune_minimap_icon.png/16px-Invisibility_Rune_minimap_icon.png?version=4d5cd179b09fab37a749449924197d52",
@@ -1711,14 +1777,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Shadow_demon_invis_01.mp3"
-        ],
-        "mp3Text": "Invisibility!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Shadow_demon_invis_01.mp3"
+    ],
+    "mp3Text": "Invisibility!"
   },
   {
     "imgUrl": "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/7/77/Regeneration_Rune_minimap_icon.png/16px-Regeneration_Rune_minimap_icon.png?version=31dd69fac564f0f9be4421d7bf8c60f4",
@@ -1726,14 +1789,11 @@
     "type": "rune"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Shadow_demon_regen_01.mp3"
-        ],
-        "mp3Text": "Regeneration!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/78/Shadow_demon_regen_01.mp3"
+    ],
+    "mp3Text": "Regeneration!"
   },
   {
     "headTitle": "Ability on cooldown",
@@ -1744,78 +1804,75 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Shadow_demon_notyet_01.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Shadow_demon_notyet_04.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Shadow_demon_notyet_07.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/a9/Shadow_demon_notyet_01.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Shadow_demon_notyet_04.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0b/Shadow_demon_notyet_07.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Shadow_demon_notyet_02.mp3"
-        ],
-        "mp3Text": "Not yet."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_notyet_05.mp3"
-        ],
-        "mp3Text": "I'm not ready."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Shadow_demon_notyet_08.mp3"
-        ],
-        "mp3Text": "It's not time yet."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Shadow_demon_notyet_02.mp3"
+    ],
+    "mp3Text": "Not yet."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/31/Shadow_demon_notyet_05.mp3"
+    ],
+    "mp3Text": "I'm not ready."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Shadow_demon_notyet_08.mp3"
+    ],
+    "mp3Text": "It's not time yet."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Shadow_demon_notyet_03.mp3"
-        ],
-        "mp3Text": "Not yet!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_notyet_06.mp3"
-        ],
-        "mp3Text": "I'm! Not! Ready!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_notyet_09.mp3"
-        ],
-        "mp3Text": "It's not! Time yet!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Shadow_demon_notyet_03.mp3"
+    ],
+    "mp3Text": "Not yet!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/be/Shadow_demon_notyet_06.mp3"
+    ],
+    "mp3Text": "I'm! Not! Ready!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3d/Shadow_demon_notyet_09.mp3"
+    ],
+    "mp3Text": "It's not! Time yet!"
   },
   {
     "headTitle": "Not enough mana",
@@ -1826,138 +1883,135 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_nomana_01.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Shadow_demon_nomana_04.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Shadow_demon_nomana_07.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_nomana_01.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0c/Shadow_demon_nomana_04.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/99/Shadow_demon_nomana_07.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Second attempt within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Shadow_demon_nomana_02.mp3"
-        ],
-        "mp3Text": "Out of mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Shadow_demon_nomana_05.mp3"
-        ],
-        "mp3Text": "No mana."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Shadow_demon_nomana_08.mp3"
-        ],
-        "mp3Text": "Not enough mana."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4c/Shadow_demon_nomana_02.mp3"
+    ],
+    "mp3Text": "Out of mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/56/Shadow_demon_nomana_05.mp3"
+    ],
+    "mp3Text": "No mana."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3b/Shadow_demon_nomana_08.mp3"
+    ],
+    "mp3Text": "Not enough mana."
   },
   {
     "text": "Third and more attempts within 10 seconds",
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Shadow_demon_nomana_03.mp3"
-        ],
-        "mp3Text": "Out of mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Shadow_demon_nomana_06.mp3"
-        ],
-        "mp3Text": "No! Mana!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Shadow_demon_nomana_09.mp3"
-        ],
-        "mp3Text": "Not enough mana!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/69/Shadow_demon_nomana_03.mp3"
+    ],
+    "mp3Text": "Out of mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Shadow_demon_nomana_06.mp3"
+    ],
+    "mp3Text": "No! Mana!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0a/Shadow_demon_nomana_09.mp3"
+    ],
+    "mp3Text": "Not enough mana!"
   },
   {
     "headTitle": "Taking damage",
     "type": "title"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Shadow_demon_pain_01.mp3"
-        ],
-        "mp3Text": "Bah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_pain_02.mp3"
-        ],
-        "mp3Text": "Blah!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Shadow_demon_pain_03.mp3"
-        ],
-        "mp3Text": "Erhh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Shadow_demon_pain_04.mp3"
-        ],
-        "mp3Text": "Rar!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_pain_05.mp3"
-        ],
-        "mp3Text": "Nahh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_pain_06.mp3"
-        ],
-        "mp3Text": "Ahh!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Shadow_demon_pain_07.mp3"
-        ],
-        "mp3Text": "Unh!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/01/Shadow_demon_pain_01.mp3"
+    ],
+    "mp3Text": "Bah!"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Shadow_demon_underattack_01.mp3"
-        ],
-        "mp3Text": "I'm under attack!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/68/Shadow_demon_pain_02.mp3"
+    ],
+    "mp3Text": "Blah!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/cf/Shadow_demon_pain_03.mp3"
+    ],
+    "mp3Text": "Erhh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d4/Shadow_demon_pain_04.mp3"
+    ],
+    "mp3Text": "Rar!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_pain_05.mp3"
+    ],
+    "mp3Text": "Nahh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_pain_06.mp3"
+    ],
+    "mp3Text": "Ahh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/de/Shadow_demon_pain_07.mp3"
+    ],
+    "mp3Text": "Unh!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c4/Shadow_demon_underattack_01.mp3"
+    ],
+    "mp3Text": "I'm under attack!"
   },
   {
     "headTitle": "Selecting",
@@ -1968,26 +2022,25 @@
     "type": "small"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_level_up_07.mp3"
-        ],
-        "mp3Text": "The Second Domination draws near."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_respawn_08.mp3"
-        ],
-        "mp3Text": "Who toys with demons will find himself toyed with."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_bottle_03.mp3"
-        ],
-        "mp3Text": "The shadows gather."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Shadow_demon_level_up_07.mp3"
+    ],
+    "mp3Text": "The Second Domination draws near."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b4/Shadow_demon_respawn_08.mp3"
+    ],
+    "mp3Text": "Who toys with demons will find himself toyed with."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Shadow_demon_bottle_03.mp3"
+    ],
+    "mp3Text": "The shadows gather."
   },
   {
     "headTitle": "Chat responses",
@@ -1998,102 +2051,103 @@
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Shadow_demon_missing_bottom_01.mp3"
-        ],
-        "mp3Text": "Bottom is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Shadow_demon_missing_middle_01.mp3"
-        ],
-        "mp3Text": "Middle is missing."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Shadow_demon_missing_top_01.mp3"
-        ],
-        "mp3Text": "Top is missing."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3f/Shadow_demon_missing_bottom_01.mp3"
+    ],
+    "mp3Text": "Bottom is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e4/Shadow_demon_missing_middle_01.mp3"
+    ],
+    "mp3Text": "Middle is missing."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Shadow_demon_missing_top_01.mp3"
+    ],
+    "mp3Text": "Top is missing."
   },
   {
     "text": "Thanking",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Shadow_demon_thanks_01.mp3"
-        ],
-        "mp3Text": "Thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Shadow_demon_thanks_02.mp3"
-        ],
-        "mp3Text": "A demon's gratitude."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_thanks_03.mp3"
-        ],
-        "mp3Text": "Hrmrmr… thanks."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Shadow_demon_thanks_04.mp3"
-        ],
-        "mp3Text": "Barrhh… thanks."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/81/Shadow_demon_thanks_01.mp3"
+    ],
+    "mp3Text": "Thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Shadow_demon_thanks_02.mp3"
+    ],
+    "mp3Text": "A demon's gratitude."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bc/Shadow_demon_thanks_03.mp3"
+    ],
+    "mp3Text": "Hrmrmr… thanks."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ea/Shadow_demon_thanks_04.mp3"
+    ],
+    "mp3Text": "Barrhh… thanks."
   },
   {
     "text": "Laughing",
     "type": "subTitle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_laugh_01.mp3"
-        ],
-        "mp3Text": "Uh ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_laugh_02.mp3"
-        ],
-        "mp3Text": "Hm ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_laugh_03.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Shadow_demon_laugh_04.mp3"
-        ],
-        "mp3Text": "Buw ha ha ha ha ha ha ha ha ha."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_laugh_05.mp3"
-        ],
-        "mp3Text": "Ah! Ha ha ha ha ha ha ah ha ha ha!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Shadow_demon_laugh_06.mp3"
-        ],
-        "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/bf/Shadow_demon_laugh_01.mp3"
+    ],
+    "mp3Text": "Uh ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9a/Shadow_demon_laugh_02.mp3"
+    ],
+    "mp3Text": "Hm ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/34/Shadow_demon_laugh_03.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d8/Shadow_demon_laugh_04.mp3"
+    ],
+    "mp3Text": "Buw ha ha ha ha ha ha ha ha ha."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_laugh_05.mp3"
+    ],
+    "mp3Text": "Ah! Ha ha ha ha ha ha ah ha ha ha!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f7/Shadow_demon_laugh_06.mp3"
+    ],
+    "mp3Text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha."
   },
   {
     "headTitle": "Match end",
@@ -2104,58 +2158,57 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Shadow_demon_win_01.mp3"
-        ],
-        "mp3Text": "Yeeessss!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_win_02.mp3"
-        ],
-        "mp3Text": "Victory!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Shadow_demon_win_03.mp3"
-        ],
-        "mp3Text": "All creation swept into my shadow!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_laugh_05.mp3"
-        ],
-        "mp3Text": "Ah! Ha ha ha ha ha ha ah ha ha ha!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/70/Shadow_demon_win_01.mp3"
+    ],
+    "mp3Text": "Yeeessss!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Shadow_demon_win_02.mp3"
+    ],
+    "mp3Text": "Victory!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/53/Shadow_demon_win_03.mp3"
+    ],
+    "mp3Text": "All creation swept into my shadow!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/60/Shadow_demon_laugh_05.mp3"
+    ],
+    "mp3Text": "Ah! Ha ha ha ha ha ha ah ha ha ha!"
   },
   {
     "text": "Lost",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Shadow_demon_lose_01.mp3"
-        ],
-        "mp3Text": "Nooooo!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_lose_02.mp3"
-        ],
-        "mp3Text": "Defeated!"
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Shadow_demon_lose_03.mp3"
-        ],
-        "mp3Text": "A blinding light dispels my shadow!"
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/66/Shadow_demon_lose_01.mp3"
+    ],
+    "mp3Text": "Nooooo!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/67/Shadow_demon_lose_02.mp3"
+    ],
+    "mp3Text": "Defeated!"
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d0/Shadow_demon_lose_03.mp3"
+    ],
+    "mp3Text": "A blinding light dispels my shadow!"
   },
   {
     "headTitle": "Cosmetic item drop",
@@ -2166,47 +2219,39 @@
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Shadow_demon_happy_01.mp3"
-        ],
-        "mp3Text": "Aaahhhhh…."
-      },
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Shadow_demon_happy_02.mp3"
-        ],
-        "mp3Text": "Aaahhhhh…."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Shadow_demon_happy_01.mp3"
+    ],
+    "mp3Text": "Aaahhhhh…."
+  },
+  {
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/6e/Shadow_demon_happy_02.mp3"
+    ],
+    "mp3Text": "Aaahhhhh…."
   },
   {
     "text": "Uncommon",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Shadow_demon_happy_03.mp3"
-        ],
-        "mp3Text": "Hrm hm hm hm hm."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Shadow_demon_happy_03.mp3"
+    ],
+    "mp3Text": "Hrm hm hm hm hm."
   },
   {
     "text": "Rare and higher",
     "type": "middle"
   },
   {
-    "voices": [
-      {
-        "mp3Url": [
-          "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_happy_04.mp3"
-        ],
-        "mp3Text": "Yeeahhhh…."
-      }
-    ]
+    "type": "voice",
+    "mp3Url": [
+      "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/3e/Shadow_demon_happy_04.mp3"
+    ],
+    "mp3Text": "Yeeahhhh…."
   }
 ]

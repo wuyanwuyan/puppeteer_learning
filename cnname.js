@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+// 爬取英雄的中文名字
 
 (async () => {
     const browser = await puppeteer.launch(
