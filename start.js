@@ -5,8 +5,14 @@ const {crawHeroVoice} = require('./content');
 const baseInfo = require('./save/index.json');
 (async () => {
     for (var one of baseInfo) {
-        if (!fs.existsSync(`./heros/${one.heroName}.json`))
-            await crawHeroVoice(one.href, one.heroName, one);
+        if (!fs.existsSync(`./heros/${one.heroName}.json`)){
+            if(one.href){
+                await crawHeroVoice(one.href, one.heroName, one);
+            }else{
+                fs.writeFileSync(`./heros/${one.heroName}.json`, JSON.stringify([one], null, 2), 'utf-8');
+            }
+        }
+
     }
 
     // https://dota2.gamepedia.com/Call_of_the_Bladeform_Legacy

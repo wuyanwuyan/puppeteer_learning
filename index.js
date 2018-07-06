@@ -42,14 +42,12 @@ console.log('---- login name');
 
                     let span = li.children[0];
                     let small = li.children[1];
-                    let heroAvater = li.querySelector('img').src;
                     let heroName = span.children[1].textContent;
                     let href = small.querySelector('a').href;
                     result.push({
                         actorImg,
                         actor,
                         actorUrl,
-                        heroAvater,
                         heroName: heroName.trim(),
                         href
                     })

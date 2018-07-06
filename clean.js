@@ -53,19 +53,29 @@ let files = [];
 // })
 
 // --------------------------------------
-const old = require('./save/index.json');
+// const old = require('./save/index.json');
+//
+// let index = 0;
+// old.forEach(v => {
+//     index++;
+//     let one = require(`./heros/${v.heroName}.json`);
+//     if(one[0].heroName)
+//          one.shift();
+//     delete v.href;
+//     one.unshift(v);
+//     fs.writeFileSync(`./heros/${v.heroName}.json`, JSON.stringify(one, null, 2), 'utf-8');
+// })
+//
+//
+// console.log('index ', index);
 
-let index = 0;
-old.forEach(v => {
-    index++;
-    let one = require(`./heros/${v.heroName}.json`);
-    if(one[0].heroName)
-         one.shift();
-    delete v.href;
-    one.unshift(v);
-    fs.writeFileSync(`./heros/${v.heroName}.json`, JSON.stringify(one, null, 2), 'utf-8');
-})
+// ---------------------------------------------
 
-
-console.log('index ', index);
-
+// const index = require('./save/index.json');
+// index.forEach(v=>{
+//     delete v.heroAvater;
+// })
+// index.sort(function (a,b) {
+//     return b.heroName.toLowerCase() > a.heroName.toLowerCase() ? -1 : 1;
+// })
+// fs.writeFileSync(`./save/index_sort.json`, JSON.stringify(index, null, 2), 'utf-8');
