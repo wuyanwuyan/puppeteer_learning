@@ -37,7 +37,7 @@ function downloadUrl(url, heroName) {
     // console.log('download ', url);
     let fileName = url.substr(url.lastIndexOf('/') + 1);
 
-    return;
+    // return;
 
 
     let dir = `allmp3/${heroName}`;
@@ -56,29 +56,29 @@ function downloadUrl(url, heroName) {
     });
 }
 
-
-var cos = new COS({
-    AppId: 'test-1250000000',
-    SecretId: 'AKIDzqTr0tlF4rQq2yC8QSEl36tQhmhOf56s',
-    SecretKey: 'gAPPBm9IDtKVR7XhcFdnjPrLdiZBYgbJ',
-});
-
-
-function uploadFile(Key, FilePath) {
-    return new Promise((resolve, reject) => {
-        cos.sliceUploadFile({
-            Bucket: 'dota-1256174840',
-            Region: 'ap-shanghai',
-            Key,
-            FilePath
-            // Key: '/aban/fool.png',
-            // FilePath: './allmp3/fool.png'
-        }, function (err, data) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(data);
-            }
-        });
-    })
-}
+//
+// var cos = new COS({
+//     AppId: 'test-1250000000',
+//     SecretId: 'AKIDzqTr0tlF4rQq2yC8QSEl36tQhmhOf56s',
+//     SecretKey: 'gAPPBm9IDtKVR7XhcFdnjPrLdiZBYgbJ',
+// });
+//
+//
+// function uploadFile(Key, FilePath) {
+//     return new Promise((resolve, reject) => {
+//         cos.sliceUploadFile({
+//             Bucket: 'dota-1256174840',
+//             Region: 'ap-shanghai',
+//             Key,
+//             FilePath
+//             // Key: '/aban/fool.png',
+//             // FilePath: './allmp3/fool.png'
+//         }, function (err, data) {
+//             if (err) {
+//                 reject(err);
+//             } else {
+//                 resolve(data);
+//             }
+//         });
+//     })
+// }
