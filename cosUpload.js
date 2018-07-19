@@ -26,14 +26,16 @@ fs.readdirSync('./heros').forEach(file => {
 
                 for (var j = 0; j < mp3UrlArr.length; j++) {
                     let oneMp3 = mp3UrlArr[j];
-                    let fileName = oneMp3.substr(oneMp3.lastIndexOf('/') + 1);
-                    let distFile = `allmp3/${heroName}/${fileName}`;
-                    if (fs.existsSync(distFile)) {
-                        let ret = await uploadFile(`/${heroName}/${fileName}`,distFile);
-                        mp3UrlArr[j] = `https://${ret.Location}`;
-                        change = true;
-                    } else {
-                        console.warn('not exit ', oneMp3);
+                    if (oneMp3.indexOf('dota-1256174840.cos.ap-shanghai') === -1) {
+                        let fileName = oneMp3.substr(oneMp3.lastIndexOf('/') + 1);
+                        let distFile = `allmp3/${heroName}/${fileName}`;
+                        if (fs.existsSync(distFile)) {
+                            let ret = await uploadFile(`/${heroName}/${fileName}`, distFile);
+                            mp3UrlArr[j] = `https://${ret.Location}`;
+                            change = true;
+                        } else {
+                            console.warn('not exit ', oneMp3);
+                        }
                     }
                 }
 
@@ -45,8 +47,6 @@ fs.readdirSync('./heros').forEach(file => {
     }
 
 })()
-
-
 
 
 function uploadFile(Key, FilePath) {

@@ -7,6 +7,8 @@ fs.readdirSync('./heros').forEach(file => {
     files.push(file);
 });
 
+files = ["Nature's Prophet"];
+
 (async function () {
 
     for (var file of files) {
@@ -25,7 +27,9 @@ async function downloadOneHero(hero) {
             let mp3UrlArr = one.mp3Url;
 
             for (var oneMp3 of mp3UrlArr) {
-                await downloadUrl(oneMp3, heroName);
+                if(oneMp3.indexOf('dota-1256174840.cos.ap-shanghai') === -1){
+                    await downloadUrl(oneMp3, heroName);
+                }
             }
 
         }
