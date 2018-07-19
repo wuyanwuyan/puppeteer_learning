@@ -171,6 +171,17 @@ config-chain@^1.1.11:
     ini "^1.3.4"
     proto-list "~1.2.1"
 
+configstore@^3.1.2:
+  version "3.1.2"
+  resolved "http://registry.npm.taobao.org/configstore/download/configstore-3.1.2.tgz#c6f25defaeef26df12dd33414b001fe81a543f8f"
+  dependencies:
+    dot-prop "^4.1.0"
+    graceful-fs "^4.1.2"
+    make-dir "^1.0.0"
+    unique-string "^1.0.0"
+    write-file-atomic "^2.0.0"
+    xdg-basedir "^3.0.0"
+
 content-disposition@^0.5.2:
   version "0.5.2"
   resolved "http://registry.npm.taobao.org/content-disposition/download/content-disposition-0.5.2.tgz#0cf68bb9ddf5f2be7961c3a85178cb85dba78cb4"
@@ -178,6 +189,18 @@ content-disposition@^0.5.2:
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
   resolved "http://registry.npm.taobao.org/core-util-is/download/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
+
+cos-nodejs-sdk-v5@^2.4.6:
+  version "2.4.6"
+  resolved "http://registry.npm.taobao.org/cos-nodejs-sdk-v5/download/cos-nodejs-sdk-v5-2.4.6.tgz#fc2e1825fcf177d681c7633bbba26f86c3185f51"
+  dependencies:
+    configstore "^3.1.2"
+    request "^2.81.0"
+    xml2js "^0.4.19"
+
+crypto-random-string@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.npm.taobao.org/crypto-random-string/download/crypto-random-string-1.0.0.tgz#a230f64f568310e1498009940790ec99545bca7e"
 
 dashdash@^1.12.0:
   version "1.14.1"
@@ -258,6 +281,12 @@ decompress@^4.2.0:
 delayed-stream@~1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/delayed-stream/download/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
+
+dot-prop@^4.1.0:
+  version "4.2.0"
+  resolved "http://registry.npm.taobao.org/dot-prop/download/dot-prop-4.2.0.tgz#1f19e0c2e1aa0e32797c49799f2837ac6af69c57"
+  dependencies:
+    is-obj "^1.0.0"
 
 download@^7.0.0:
   version "7.0.0"
@@ -466,7 +495,7 @@ got@^8.3.1:
     url-parse-lax "^3.0.0"
     url-to-options "^1.0.1"
 
-graceful-fs@^4.1.10:
+graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.2:
   version "4.1.11"
   resolved "http://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
 
@@ -518,6 +547,10 @@ ieee754@^1.1.4:
   version "1.1.12"
   resolved "http://registry.npm.taobao.org/ieee754/download/ieee754-1.1.12.tgz#50bf24e5b9c8bb98af4964c941cdb0918da7b60b"
 
+imurmurhash@^0.1.4:
+  version "0.1.4"
+  resolved "http://registry.npm.taobao.org/imurmurhash/download/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
+
 inflight@^1.0.4:
   version "1.0.6"
   resolved "http://registry.npm.taobao.org/inflight/download/inflight-1.0.6.tgz#49bd6331d7d02d0c09bc910a1075ba8165b56df9"
@@ -543,6 +576,10 @@ into-stream@^3.1.0:
 is-natural-number@^4.0.1:
   version "4.0.1"
   resolved "http://registry.npm.taobao.org/is-natural-number/download/is-natural-number-4.0.1.tgz#ab9d76e1db4ced51e35de0c72ebecf09f734cde8"
+
+is-obj@^1.0.0:
+  version "1.0.1"
+  resolved "http://registry.npm.taobao.org/is-obj/download/is-obj-1.0.1.tgz#3e4729ac1f5fde025cd7d83a896dab9f4f67db0f"
 
 is-object@^1.0.1:
   version "1.0.1"
@@ -828,7 +865,7 @@ readable-stream@^2.0.0, readable-stream@^2.2.2, readable-stream@^2.3.0, readable
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-request@^2.69.0:
+request@^2.69.0, request@^2.81.0:
   version "2.87.0"
   resolved "http://registry.npm.taobao.org/request/download/request-2.87.0.tgz#32f00235cd08d482b4d0d68db93a829c0ed5756e"
   dependencies:
@@ -873,11 +910,19 @@ safer-buffer@^2.0.2:
   version "2.1.2"
   resolved "http://registry.npm.taobao.org/safer-buffer/download/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
 
+sax@>=0.6.0:
+  version "1.2.4"
+  resolved "http://registry.npm.taobao.org/sax/download/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
+
 seek-bzip@^1.0.5:
   version "1.0.5"
   resolved "http://registry.npm.taobao.org/seek-bzip/download/seek-bzip-1.0.5.tgz#cfe917cb3d274bcffac792758af53173eb1fabdc"
   dependencies:
     commander "~2.8.1"
+
+signal-exit@^3.0.2:
+  version "3.0.2"
+  resolved "http://registry.npm.taobao.org/signal-exit/download/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
 sort-keys-length@^1.0.0:
   version "1.0.1"
@@ -991,6 +1036,12 @@ unbzip2-stream@^1.0.9:
     buffer "^3.0.1"
     through "^2.3.6"
 
+unique-string@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.npm.taobao.org/unique-string/download/unique-string-1.0.0.tgz#9e1057cca851abb93398f8b33ae187b99caec11a"
+  dependencies:
+    crypto-random-string "^1.0.0"
+
 url-exists@^1.0.3:
   version "1.0.3"
   resolved "http://registry.npm.taobao.org/url-exists/download/url-exists-1.0.3.tgz#05b2875baf04950e27ef51e9846f1eff04716893"
@@ -1027,11 +1078,34 @@ wrappy@1:
   version "1.0.2"
   resolved "http://registry.npm.taobao.org/wrappy/download/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
+write-file-atomic@^2.0.0:
+  version "2.3.0"
+  resolved "http://registry.npm.taobao.org/write-file-atomic/download/write-file-atomic-2.3.0.tgz#1ff61575c2e2a4e8e510d6fa4e243cce183999ab"
+  dependencies:
+    graceful-fs "^4.1.11"
+    imurmurhash "^0.1.4"
+    signal-exit "^3.0.2"
+
 ws@^5.1.1:
   version "5.2.0"
   resolved "http://registry.npm.taobao.org/ws/download/ws-5.2.0.tgz#9fd95e3ac7c76f6ae8bcc868a0e3f11f1290c33e"
   dependencies:
     async-limiter "~1.0.0"
+
+xdg-basedir@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.npm.taobao.org/xdg-basedir/download/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
+
+xml2js@^0.4.19:
+  version "0.4.19"
+  resolved "http://registry.npm.taobao.org/xml2js/download/xml2js-0.4.19.tgz#686c20f213209e94abf0d1bcf1efaa291c7827a7"
+  dependencies:
+    sax ">=0.6.0"
+    xmlbuilder "~9.0.1"
+
+xmlbuilder@~9.0.1:
+  version "9.0.7"
+  resolved "http://registry.npm.taobao.org/xmlbuilder/download/xmlbuilder-9.0.7.tgz#132ee63d2ec5565c557e20f4c22df9aca686b10d"
 
 xtend@^4.0.0:
   version "4.0.1"
