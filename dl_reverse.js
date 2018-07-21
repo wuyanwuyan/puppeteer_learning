@@ -9,17 +9,13 @@ fs.readdirSync('./heros').forEach(file => {
     files.push(file);
 });
 
-files = files.reverse();
-
 (async function () {
-
     for (var file of files) {
         const hero = require(`./heros/${file}`);
         await downloadOneHero(hero,file.replace('.json',''));
     }
 
 })()
-
 
 async function downloadOneHero(hero,heroDir) {
     for (let i = 0; i < hero.length; i++) {
