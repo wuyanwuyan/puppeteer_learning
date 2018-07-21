@@ -9,6 +9,8 @@ fs.readdirSync('./heros').forEach(file => {
     files.push(file);
 });
 
+files = files.reverse();
+
 (async function () {
 
     for (var file of files) {

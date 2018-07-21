@@ -18,7 +18,7 @@ fs.readdirSync('./heros').forEach(file => {
     for (var file of files) {
         let change = false;
         const hero = require(`./heros/${file}`);
-        let heroName = hero[0].heroName;
+        let heroDir = file.replace('.json', '');
         for (let i = 0; i < hero.length; i++) {
             let one = hero[i];
             if (one.type == 'voice') {
@@ -28,11 +28,16 @@ fs.readdirSync('./heros').forEach(file => {
                     let oneMp3 = mp3UrlArr[j];
                     if (oneMp3.indexOf('dota-1256174840.cos.ap-shanghai') === -1) {
                         let fileName = oneMp3.substr(oneMp3.lastIndexOf('/') + 1);
-                        let distFile = `allmp3/${heroName}/${fileName}`;
+                        let distFile = `allmp3/${heroDir}/${fileName}`;
                         if (fs.existsSync(distFile)) {
-                            let ret = await uploadFile(`/${heroName}/${fileName}`, distFile);
-                            mp3UrlArr[j] = `https://${ret.Location}`;
-                            change = true;
+                            try {
+                                let ret = await uploadFile(`/${heroDir}/${fileName}`, distFile);
+                                mp3UrlArr[j] = `https://${ret.Location}`;
+                                change = true;
+                            } catch (error) {
+                                change && fs.writeFileSync(`./heros/${heroDir}.json`, JSON.stringify(hero, null, 2), 'utf-8');
+                                console.warn(error);
+                            }
                         } else {
                             console.warn('not exit ', oneMp3);
                         }
@@ -40,10 +45,8 @@ fs.readdirSync('./heros').forEach(file => {
                 }
 
             }
-
-            change && fs.writeFileSync(`./cosHeros/${heroName}.json`, JSON.stringify(hero, null, 2), 'utf-8');
-
         }
+        change && fs.writeFileSync(`./heros/${heroDir}.json`, JSON.stringify(hero, null, 2), 'utf-8');
     }
 
 })()
@@ -60,8 +63,10 @@ function uploadFile(Key, FilePath) {
             // FilePath: './allmp3/fool.png'
         }, function (err, data) {
             if (err) {
+                console.log(err);
                 reject(err);
             } else {
+                console.log('upload success: ', data.Location);
                 resolve(data);
             }
         });
