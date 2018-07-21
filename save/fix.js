@@ -1,5 +1,5 @@
 const fix = {
-    Lifestealer: 'https://cdn.max-c.com/app/dota2/life_stealer@3x.png',
+    Lifestealer: 'https://dota-image-1256174840.cos.ap-shanghai.myqcloud.com/lifestealer.jpg',
     Magnus: "https://cdn.max-c.com/app/dota2/magnataur@3x.png",
     "Nature's Prophet": "https://cdn.max-c.com/app/dota2/furion@3x.png",
     "Zeus": "https://cdn.max-c.com/app/dota2/zuus@3x.png",
