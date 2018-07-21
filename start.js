@@ -20,14 +20,14 @@ const baseInfo = require('./save/index.json');
     //特殊处理
     let jsonName = 'juggarcana';
     one = baseInfo.find(v => v.heroName == 'Juggernaut');
-    one.bannerImg = 'https://s1.ax2x.com/2018/07/05/omxKY.jpg';
+    one.bannerImg = 'https://dota-image-1256174840.cos.ap-shanghai.myqcloud.com/omxKY.jpg';
     if (!fs.existsSync(`./heros/${jsonName}.json`))
         await crawHeroVoice('https://dota2.gamepedia.com/Call_of_the_Bladeform_Legacy', jsonName, one);
 
 
     jsonName = 'spectremercurial';
     one = baseInfo.find(v => v.heroName == 'Spectre');
-    one.bannerImg = 'https://s1.ax2x.com/2018/07/05/ozTWn.jpg';
+    one.bannerImg = 'https://dota-image-1256174840.cos.ap-shanghai.myqcloud.com/ozTWn.jpg';
     if (!fs.existsSync(`./heros/${jsonName}.json`))
         await crawHeroVoice('https://dota2.gamepedia.com/Mercurial%27s_Call', jsonName, one);
 
