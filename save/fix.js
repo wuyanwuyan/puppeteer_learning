@@ -6,7 +6,7 @@ const fix = {
     "Treant Protector": "https://cdn.max-c.com/app/dota2/treant@3x.png",
     "Anti-Mage": "https://cdn.max-c.com/app/dota2/antimage@3x.png",
     "Necrophos": "https://cdn.max-c.com/app/dota2/necrolyte@3x.png",
-    "Underlord": "https://cdn.max-c.com/app/dota2/abyssal_underlord@3x.png",
+    "Underlord": "https://dota-image.nos-eastchina1.126.net/underlord.jpg",
     "Centaur Warrunner": "https://cdn.max-c.com/app/dota2/centaur@3x.png"
 }
 
