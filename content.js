@@ -66,6 +66,11 @@ async function crawHeroVoice(url, heroName, heroData) {
                             type: 'rune'
                         })
                     } else if (pNodeName === 'i') {
+
+                        if(pchild.querySelectorAll('img').length > 1){
+                            console.warn(' more than one image ');
+                        }
+
                         sectionArr.push({
                             text: pchild.textContent.trim(),
                             type: 'middle'
@@ -99,9 +104,9 @@ async function crawHeroVoice(url, heroName, heroData) {
                     Array.from(li.querySelectorAll('a.sm2_button')).forEach(el => el.parentNode.removeChild(el));
                     Array.from(li.querySelectorAll('.tooltip')).forEach(el => el.parentNode.removeChild(el));
                     let mp3Text = li.textContent.trim();
-                    if (!mp3Text) return;
+                    // if (!mp3Text) return;
 
-                    one.mp3Text = mp3Text;
+                    one.mp3Text = mp3Text || '~~~';
 
                     let imgs = Array.from(li.querySelectorAll('img'));
 

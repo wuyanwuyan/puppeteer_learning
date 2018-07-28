@@ -18,15 +18,15 @@ fs.readdirSync('./heros').forEach(file => {
 
 })()
 
-
 async function downloadOneHero(hero,heroDir) {
     for (let i = 0; i < hero.length; i++) {
         let one = hero[i];
+        all = {};
         if (one.type == 'voice') {
             let mp3UrlArr = one.mp3Url;
 
             for (var oneMp3 of mp3UrlArr) {
-                if(oneMp3.indexOf('dota-1256174840.cos.ap-shanghai') === -1){
+                if(oneMp3.indexOf('coding.net') === -1){
                     await downloadUrl(oneMp3, heroDir);
                 }
             }
