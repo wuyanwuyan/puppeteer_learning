@@ -61,6 +61,7 @@ function downloadUrl(url) {
     }
 
     let distFile = `allmini/${fileName}`;
+    let new_distFile = `allmini_new/${fileName}`;
     if (fs.existsSync(distFile)) {
         return Promise.resolve();
     }
@@ -69,6 +70,7 @@ function downloadUrl(url) {
     console.log('download ', url);
     return download(url).then(data => {
         fs.writeFileSync(distFile, data);
+        fs.writeFileSync(new_distFile, data);
         console.log('download success: ', url);
     });
 }
