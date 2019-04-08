@@ -26,7 +26,7 @@ async function downloadOneHero(hero, heroDir) {
             let imgs = one.imgs;
             if (imgs && imgs.length !== 0) {
                 for (var imgObj of imgs) {
-                    if (imgObj.img.indexOf('cloudfront.net') !== -1) {
+                    if (imgObj.img.indexOf('cloudfront.net') !== -1 || imgObj.img.indexOf('gamepedia') !== -1) {
                         try {
                             let finalUrl = await downloadUrl(imgObj.img);
                             imgObj.img = finalUrl;
@@ -38,7 +38,7 @@ async function downloadOneHero(hero, heroDir) {
             }
 
         } else if (one.type == 'rune' || one.type == 'skill') {
-            if (one.imgUrl.indexOf('cloudfront.net') !== -1) {
+            if (one.imgUrl.indexOf('cloudfront.net') !== -1 || one.imgUrl.indexOf('gamepedia') !== -1) {
                 let finalUrl = await downloadUrl(one.imgUrl);
                 one.imgUrl = finalUrl;
             }

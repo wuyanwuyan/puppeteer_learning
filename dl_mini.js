@@ -39,7 +39,7 @@ async function downloadOneHero(hero, heroDir) {
             }
 
         } else if (one.type == 'rune' || one.type == 'skill') {
-            if (one.imgUrl.indexOf('cloudfront.net') !== -1) {
+            if (one.imgUrl.indexOf('cloudfront.net') !== -1 || one.imgUrl.indexOf('gamepedia') !== -1) {
                 await downloadUrl(one.imgUrl);
             }
         }
