@@ -8,7 +8,7 @@ console.log('---- login name');
         {
             headless: false,
             // executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-            executablePath: 'D:\\Program Files (x86)\\chrome-win32\\chrome.exe'
+            // executablePath: 'D:\\Program Files (x86)\\chrome-win32\\chrome.exe'
         }
     );
     const page = await browser.newPage();

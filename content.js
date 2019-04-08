@@ -11,7 +11,7 @@ async function crawHeroVoice(url, heroName, heroData) {
         {
             // headless: false,
             // executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-            executablePath: 'D:\\Program Files (x86)\\chrome-win32\\chrome.exe'
+            // executablePath: 'D:\\Program Files (x86)\\chrome-win32\\chrome.exe'
         }
     );
     const page = await browser.newPage();
@@ -29,10 +29,14 @@ async function crawHeroVoice(url, heroName, heroData) {
         const nodeNameArr = ['h2', 'p', 'ul'];
 
         let content = document.querySelector('#mw-content-text');
+        if(content.children.length == 1) {
+            content = content.querySelector('.mw-parser-output');
+        }
 
         let sectionArr = [];
 
         Array.from(content.children).forEach((child, index) => {
+
             let nodeName = child.nodeName.toLowerCase();
             if (nodeNameArr.indexOf(nodeName) === -1) {
                 return;
