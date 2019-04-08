@@ -26,7 +26,7 @@ async function downloadOneHero(hero, heroDir) {
             let imgs = one.imgs;
             if (imgs && imgs.length !== 0) {
                 for (var imgObj of imgs) {
-                    if (imgObj.img.indexOf('cloudfront.net') !== -1) {
+                    if (imgObj.img.indexOf('cloudfront.net') !== -1 || imgObj.img.indexOf('gamepedia') !== -1) {
                         try {
                             await downloadUrl(imgObj.img);
                         } catch (e) {
