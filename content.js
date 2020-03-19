@@ -9,9 +9,9 @@ async function crawHeroVoice(url, heroName, heroData) {
 
     const browser = await puppeteer.launch(
         {
-            // headless: false,
+            headless: false,
             // executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-            // executablePath: 'D:\\Program Files (x86)\\chrome-win32\\chrome.exe'
+            executablePath: 'D:\\Program Files (x86)\\chrome-win\\chrome.exe'
         }
     );
     const page = await browser.newPage();
@@ -97,15 +97,18 @@ async function crawHeroVoice(url, heroName, heroData) {
                 let voices = [];
                 let lis = child.querySelectorAll('li');
                 Array.from(lis).forEach(li => {
-                    if (!li.querySelector('a.sm2_button')) return;
+                    if (!li.querySelector('audio.ext-audiobutton')) return;
                     if (li.innerHTML.indexOf('Unused response') !== -1 || li.innerHTML.indexOf('response rule error') !== -1) return;
                     let one = {
                         type: 'voice',
-                        mp3Url: Array.from(li.querySelectorAll('a.sm2_button')).map(ele => ele.href),
+                        mp3Url: Array.from(li.querySelectorAll('audio.ext-audiobutton')).map(ele => {
+                            return ele.firstChild.src
+                        }),
                         // mp3Text: li.lastChild.textContent.trim()
                     };
 
-                    Array.from(li.querySelectorAll('a.sm2_button')).forEach(el => el.parentNode.removeChild(el));
+                    Array.from(li.querySelectorAll('audio.ext-audiobutton')).forEach(el => el.parentNode.removeChild(el));
+                    Array.from(li.querySelectorAll('a.ext-audiobutton')).forEach(el => el.parentNode.removeChild(el));
                     Array.from(li.querySelectorAll('.tooltip')).forEach(el => el.parentNode.removeChild(el));
                     let mp3Text = li.textContent.trim();
                     // if (!mp3Text) return;

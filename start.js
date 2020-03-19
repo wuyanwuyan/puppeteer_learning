@@ -31,4 +31,10 @@ const baseInfo = require('./save/index.json');
     if (!fs.existsSync(`./heros/${jsonName}.json`))
         await crawHeroVoice('https://dota2.gamepedia.com/Mercurial%27s_Call', jsonName, one);
 
+    jsonName = 'Acolyte of the Lost Arts';
+    one = baseInfo.find(v => v.heroName == 'Invoker');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/invoker_mini.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/Acolyte_of_the_Lost_Arts/Responses', jsonName, one);
+
 })();
