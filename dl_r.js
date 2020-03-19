@@ -6,7 +6,7 @@ var all = {};
 
 let files = [];
 fs.readdirSync('./heros').forEach(file => {
-    files.push(file);
+    files.unshift(file);
 });
 
 (async function () {
