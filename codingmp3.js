@@ -21,7 +21,10 @@ fs.readdirSync('./heros').forEach(file => {
                     let fileName = oneMp3.substr(oneMp3.lastIndexOf('/') + 1);
                     let distFile = `allmp3/${heroDir}/${fileName}`;
                     if (fs.existsSync(distFile)) {
-                        mp3UrlArr[j] = `https://coding.net/u/dovahkiin/p/tempData/git/raw/master/allmp3/${encodeURIComponent(heroDir)}/${fileName}`;
+
+                        // https://dovahkiin.coding.net/p/tempData/d/tempData/git/raw/master/allmp3/Arc%20Warden/Arcwar_ally_02.mp3
+
+                        mp3UrlArr[j] = `https://dovahkiin.coding.net/p/tempData/d/tempData/git/raw/master/allmp3/${encodeURIComponent(heroDir)}/${fileName}`;
                         change = true;
                     } else {
                         console.warn('not exit ', oneMp3);
