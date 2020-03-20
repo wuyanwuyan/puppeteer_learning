@@ -48,32 +48,20 @@ async function downloadOneHero(hero, heroDir) {
 }
 
 
-let count = 0;
 async function downloadUrl(url) {
 
     let finalUrl = url;
     let removeQuery = url.substr(0, url.lastIndexOf('?'));
     let fileName = removeQuery.substr(removeQuery.lastIndexOf('/') + 1);
 
+    // 小图片存放到腾讯云
+    let cosUrl = `https://dota-mini-1256174840.cos.ap-shanghai.myqcloud.com/${encodeURIComponent(fileName)}`;
+    let texists = await isUrlOk(cosUrl);
 
-    let ucloudUrl = `http://dota.cn-sh2.ufileos.com/${fileName}`;
-    let exists = await isUrlOk(ucloudUrl);
-
-    if (exists) {
-        finalUrl = ucloudUrl;
+    if (texists) {
+        finalUrl = cosUrl;
     } else {
-        count++;
-        // console.log('not exist: ', count, '   ', url);
-
-        let cosUrl = `https://dota-mini-1256174840.cos.ap-shanghai.myqcloud.com/${encodeURIComponent(fileName)}`;
-        let texists = await isUrlOk(cosUrl);
-
-        if (texists) {
-            finalUrl = cosUrl;
-        }else {
-            console.log('------------- 不可能：',url);
-        }
-
+        console.log('------------- 不可能：', url, '  fileName: ', fileName);
     }
 
     return finalUrl;
