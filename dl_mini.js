@@ -1,6 +1,8 @@
 const fs = require('fs');
 const download = require('download');
 
+const {checkImgIsOutSide} =require('./utils')
+
 var all = {};
 
 let files = [];
@@ -26,7 +28,7 @@ async function downloadOneHero(hero, heroDir) {
             let imgs = one.imgs;
             if (imgs && imgs.length !== 0) {
                 for (var imgObj of imgs) {
-                    if (imgObj.img.indexOf('cloudfront.net') !== -1 || imgObj.img.indexOf('gamepedia') !== -1) {
+                    if (checkImgIsOutSide(imgObj.img)) {
                         try {
                             await downloadUrl(imgObj.img);
                         } catch (e) {
@@ -39,7 +41,7 @@ async function downloadOneHero(hero, heroDir) {
             }
 
         } else if (one.type == 'rune' || one.type == 'skill') {
-            if (one.imgUrl.indexOf('cloudfront.net') !== -1 || one.imgUrl.indexOf('gamepedia') !== -1) {
+            if (checkImgIsOutSide(one.imgUrl)) {
                 await downloadUrl(one.imgUrl);
             }
         }
@@ -49,8 +51,13 @@ async function downloadOneHero(hero, heroDir) {
 
 function downloadUrl(url) {
 
-    let removeQuery = url.substr(0, url.lastIndexOf('?'));
+    let removeQuery = url.replace(/\.png.*$/, '.png').replace(/\.jpg.*$/, '.jpg')
+
+    // console.log('removeQuery ', removeQuery)
+
     let fileName = removeQuery.substr(removeQuery.lastIndexOf('/') + 1);
+
+
 
     // return;
 
