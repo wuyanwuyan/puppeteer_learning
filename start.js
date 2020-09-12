@@ -37,4 +37,34 @@ const baseInfo = require('./save/index.json');
     if (!fs.existsSync(`./heros/${jsonName}.json`))
         await crawHeroVoice('https://dota2.gamepedia.com/Acolyte_of_the_Lost_Arts/Responses', jsonName, one);
 
+    jsonName = "The Disciple's Path";
+    one = baseInfo.find(v => v.heroName == 'Anti-Mage');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/am_female.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/Anti-Mage/Responses', jsonName, one);
+
+    jsonName = "The Eminence of Ristul";
+    one = baseInfo.find(v => v.heroName == 'Queen of Pain');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/qop_arcana.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/The_Eminence_of_Ristul_Bundle/Responses', jsonName, one);
+
+    jsonName = "The One True King";
+    one = baseInfo.find(v => v.heroName == 'Wraith King');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/klw_arcana.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/The_One_True_King_Bundle/Responses', jsonName, one);
+
+    jsonName = "Compass of the Rising Gale";
+    one = baseInfo.find(v => v.heroName == 'Windranger');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/wind_arcana.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/Compass_of_the_Rising_Gale_Bundle/Responses', jsonName, one);
+
+    jsonName = "The Toy Butcher";
+    one = baseInfo.find(v => v.heroName == 'Pudge');
+    one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/tufu_arcana.jpg';
+    if (!fs.existsSync(`./heros/${jsonName}.json`))
+        await crawHeroVoice('https://dota2.gamepedia.com/The_Toy_Butcher/Responses', jsonName, one);
+
 })();

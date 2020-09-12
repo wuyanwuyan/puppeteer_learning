@@ -38,6 +38,7 @@ async function downloadOneHero(hero,heroDir) {
 
 function downloadUrl(url, heroDir) {
     // console.log('download ', url);
+    url = url.replace(/\.mp3.*$/, '.mp3')
     let fileName = url.substr(url.lastIndexOf('/') + 1);
 
     // return;
