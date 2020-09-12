@@ -102,7 +102,7 @@ async function crawHeroVoice(url, heroName, heroData) {
                     let one = {
                         type: 'voice',
                         mp3Url: Array.from(li.querySelectorAll('audio.ext-audiobutton')).map(ele => {
-                            return ele.firstChild.src
+                            return ele.firstChild.src.replace(/\.mp3.*$/, '.mp3')
                         }),
                         // mp3Text: li.lastChild.textContent.trim()
                     };
