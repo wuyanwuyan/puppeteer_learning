@@ -41,7 +41,7 @@ const baseInfo = require('./save/index.json');
     one = baseInfo.find(v => v.heroName == 'Anti-Mage');
     one.bannerImg = 'https://dota-image.nos-eastchina1.126.net/am_female.jpg';
     if (!fs.existsSync(`./heros/${jsonName}.json`))
-        await crawHeroVoice('https://dota2.gamepedia.com/Anti-Mage/Responses', jsonName, one);
+        await crawHeroVoice('https://dota2.gamepedia.com/The_Disciple%27s_Path/Responses', jsonName, one);
 
     jsonName = "The Eminence of Ristul";
     one = baseInfo.find(v => v.heroName == 'Queen of Pain');
